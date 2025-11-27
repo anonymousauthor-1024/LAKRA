@@ -1,0 +1,150 @@
+Entity: /m/05swd
+Entity Name: Propaganda film
+K-hop: 2
+Subgraph Nodes: 27
+Subgraph Triples: 55
+
+==================================================
+Nodes in Subgraph:
+==================================================
+/m/012j8z	Walter Pidgeon
+/m/019fnv	Douglas Shearer
+/m/01g6gs	Black-and-white
+/m/029j_	DVD
+/m/02h40lc	English Language
+/m/02rf51g	Herbert Stothart
+/m/05swd	Propaganda film
+/m/072twv	Cedric Gibbons
+/m/07s9rl0	Drama
+/m/07ssc	United Kingdom
+/m/07xr3w	Joseph Ruttenberg
+/m/081pw	World War II
+/m/082gq	War film
+/m/09c7w0	United States of America
+/m/0cq8nx	Mrs. Miniver
+/m/0f4x7	Academy Award for Best Actor
+/m/0g1rw	Metro-Goldwyn-Mayer
+/m/0gq9h	Academy Award for Best Picture
+/m/0gqwc	Academy Award for Best Actress
+/m/0gqy2	Academy Award for Best Actor in a Supporting Role
+/m/0gqyl	Academy Award for Best Actress in a Supporting Role
+/m/0gr0m	Academy Award for Best Cinematography
+/m/0gr42	Academy Award for Best Visual Effects
+/m/0gr4k	Academy Award for Best Writing Adapted Screenplay
+/m/0gs9p	Academy Award for Best Director
+/m/0gv40	William Wyler
+/m/0k611	Academy Award for Best Film Editing
+
+==================================================
+Triples in Subgraph:
+==================================================
+/m/081pw	/military/military_conflict/combatants./military/military_combatant_group/combatants	/m/07ssc
+  World War II -> [/military/military_conflict/combatants./military/military_combatant_group/combatants] -> United Kingdom
+/m/0cq8nx	/award/award_winning_work/awards_won./award/award_honor/award	/m/0gs9p
+  Mrs. Miniver -> [/award/award_winning_work/awards_won./award/award_honor/award] -> Academy Award for Best Director
+/m/0gs9p	/award/award_category/nominees./award/award_nomination/nominated_for	/m/0cq8nx
+  Academy Award for Best Director -> [/award/award_category/nominees./award/award_nomination/nominated_for] -> Mrs. Miniver
+/m/0cq8nx	/award/award_winning_work/awards_won./award/award_honor/award_winner	/m/07xr3w
+  Mrs. Miniver -> [/award/award_winning_work/awards_won./award/award_honor/award_winner] -> Joseph Ruttenberg
+/m/0gr42	/award/award_category/nominees./award/award_nomination/nominated_for	/m/0cq8nx
+  Academy Award for Best Visual Effects -> [/award/award_category/nominees./award/award_nomination/nominated_for] -> Mrs. Miniver
+/m/0cq8nx	/film/film/film_art_direction_by	/m/072twv
+  Mrs. Miniver -> [/film/film/film_art_direction_by] -> Cedric Gibbons
+/m/082gq	/dataworld/gardening_hint/split_to	/m/082gq
+  War film -> [/dataworld/gardening_hint/split_to] -> War film
+/m/0cq8nx	/film/film/country	/m/07ssc
+  Mrs. Miniver -> [/film/film/country] -> United Kingdom
+/m/0k611	/award/award_category/nominees./award/award_nomination/nominated_for	/m/0cq8nx
+  Academy Award for Best Film Editing -> [/award/award_category/nominees./award/award_nomination/nominated_for] -> Mrs. Miniver
+/m/0cq8nx	/film/film/language	/m/02h40lc
+  Mrs. Miniver -> [/film/film/language] -> English Language
+/m/0g1rw	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0gr42
+  Metro-Goldwyn-Mayer -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Academy Award for Best Visual Effects
+/m/0gr42	/award/award_category/winners./award/award_honor/award_winner	/m/0g1rw
+  Academy Award for Best Visual Effects -> [/award/award_category/winners./award/award_honor/award_winner] -> Metro-Goldwyn-Mayer
+/m/09c7w0	/dataworld/gardening_hint/split_to	/m/09c7w0
+  United States of America -> [/dataworld/gardening_hint/split_to] -> United States of America
+/m/081pw	/military/military_conflict/combatants./military/military_combatant_group/combatants	/m/09c7w0
+  World War II -> [/military/military_conflict/combatants./military/military_combatant_group/combatants] -> United States of America
+/m/019fnv	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/m/0cq8nx
+  Douglas Shearer -> [/award/award_nominee/award_nominations./award/award_nomination/nominated_for] -> Mrs. Miniver
+/m/0cq8nx	/award/award_winning_work/awards_won./award/award_honor/award	/m/0gq9h
+  Mrs. Miniver -> [/award/award_winning_work/awards_won./award/award_honor/award] -> Academy Award for Best Picture
+/m/07ssc	/location/country/official_language	/m/02h40lc
+  United Kingdom -> [/location/country/official_language] -> English Language
+/m/0gqwc	/award/award_category/nominees./award/award_nomination/nominated_for	/m/0cq8nx
+  Academy Award for Best Actress -> [/award/award_category/nominees./award/award_nomination/nominated_for] -> Mrs. Miniver
+/m/0cq8nx	/award/award_winning_work/awards_won./award/award_honor/award_winner	/m/0g1rw
+  Mrs. Miniver -> [/award/award_winning_work/awards_won./award/award_honor/award_winner] -> Metro-Goldwyn-Mayer
+/m/0gs9p	/award/award_category/winners./award/award_honor/award_winner	/m/0gv40
+  Academy Award for Best Director -> [/award/award_category/winners./award/award_honor/award_winner] -> William Wyler
+/m/07ssc	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/09c7w0
+  United Kingdom -> [/military/military_combatant/military_conflicts./military/military_combatant_group/combatants] -> United States of America
+/m/02h40lc	/language/human_language/countries_spoken_in	/m/07ssc
+  English Language -> [/language/human_language/countries_spoken_in] -> United Kingdom
+/m/0gr42	/award/award_category/winners./award/award_honor/award_winner	/m/019fnv
+  Academy Award for Best Visual Effects -> [/award/award_category/winners./award/award_honor/award_winner] -> Douglas Shearer
+/m/0gv40	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0gs9p
+  William Wyler -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Academy Award for Best Director
+/m/0g1rw	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/m/0cq8nx
+  Metro-Goldwyn-Mayer -> [/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film] -> Mrs. Miniver
+/m/0cq8nx	/film/film/genre	/m/07s9rl0
+  Mrs. Miniver -> [/film/film/genre] -> Drama
+/m/0cq8nx	/award/award_winning_work/awards_won./award/award_honor/award	/m/0gqyl
+  Mrs. Miniver -> [/award/award_winning_work/awards_won./award/award_honor/award] -> Academy Award for Best Actress in a Supporting Role
+/m/0g1rw	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0gq9h
+  Metro-Goldwyn-Mayer -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Academy Award for Best Picture
+/m/0gqy2	/award/award_category/nominees./award/award_nomination/nominated_for	/m/0cq8nx
+  Academy Award for Best Actor in a Supporting Role -> [/award/award_category/nominees./award/award_nomination/nominated_for] -> Mrs. Miniver
+/m/0cq8nx	/film/film/country	/m/09c7w0
+  Mrs. Miniver -> [/film/film/country] -> United States of America
+/m/0gv40	/film/director/film	/m/0cq8nx
+  William Wyler -> [/film/director/film] -> Mrs. Miniver
+/m/07ssc	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	/m/09c7w0
+  United Kingdom -> [/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to] -> United States of America
+/m/0gr0m	/award/award_category/nominees./award/award_nomination/nominated_for	/m/0cq8nx
+  Academy Award for Best Cinematography -> [/award/award_category/nominees./award/award_nomination/nominated_for] -> Mrs. Miniver
+/m/012j8z	/people/person/nationality	/m/09c7w0
+  Walter Pidgeon -> [/people/person/nationality] -> United States of America
+/m/012j8z	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0f4x7
+  Walter Pidgeon -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Academy Award for Best Actor
+/m/019fnv	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0gr42
+  Douglas Shearer -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Academy Award for Best Visual Effects
+/m/0cq8nx	/film/film/genre	/m/082gq
+  Mrs. Miniver -> [/film/film/genre] -> War film
+/m/012j8z	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/m/0cq8nx
+  Walter Pidgeon -> [/award/award_nominee/award_nominations./award/award_nomination/nominated_for] -> Mrs. Miniver
+/m/081pw	/film/film_subject/films	/m/0cq8nx
+  World War II -> [/film/film_subject/films] -> Mrs. Miniver
+/m/0gq9h	/award/award_category/winners./award/award_honor/award_winner	/m/0g1rw
+  Academy Award for Best Picture -> [/award/award_category/winners./award/award_honor/award_winner] -> Metro-Goldwyn-Mayer
+/m/0cq8nx	/film/film/cinematography	/m/07xr3w
+  Mrs. Miniver -> [/film/film/cinematography] -> Joseph Ruttenberg
+/m/0cq8nx	/film/film/music	/m/02rf51g
+  Mrs. Miniver -> [/film/film/music] -> Herbert Stothart
+/m/0gq9h	/award/award_category/nominees./award/award_nomination/nominated_for	/m/0cq8nx
+  Academy Award for Best Picture -> [/award/award_category/nominees./award/award_nomination/nominated_for] -> Mrs. Miniver
+/m/07xr3w	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/m/0cq8nx
+  Joseph Ruttenberg -> [/award/award_nominee/award_nominations./award/award_nomination/nominated_for] -> Mrs. Miniver
+/m/0cq8nx	/film/film/genre	/m/05swd
+  Mrs. Miniver -> [/film/film/genre] -> Propaganda film
+/m/0gv40	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/m/0cq8nx
+  William Wyler -> [/award/award_nominee/award_nominations./award/award_nomination/nominated_for] -> Mrs. Miniver
+/m/0f4x7	/award/award_category/nominees./award/award_nomination/nominated_for	/m/0cq8nx
+  Academy Award for Best Actor -> [/award/award_category/nominees./award/award_nomination/nominated_for] -> Mrs. Miniver
+/m/0cq8nx	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium	/m/029j_
+  Mrs. Miniver -> [/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium] -> DVD
+/m/09c7w0	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	/m/07ssc
+  United States of America -> [/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to] -> United Kingdom
+/m/0cq8nx	/award/award_winning_work/awards_won./award/award_honor/award	/m/0gr4k
+  Mrs. Miniver -> [/award/award_winning_work/awards_won./award/award_honor/award] -> Academy Award for Best Writing Adapted Screenplay
+/m/0gv40	/people/person/nationality	/m/09c7w0
+  William Wyler -> [/people/person/nationality] -> United States of America
+/m/02rf51g	/people/person/nationality	/m/09c7w0
+  Herbert Stothart -> [/people/person/nationality] -> United States of America
+/m/0g1rw	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/m/0cq8nx
+  Metro-Goldwyn-Mayer -> [/award/award_nominee/award_nominations./award/award_nomination/nominated_for] -> Mrs. Miniver
+/m/0cq8nx	/film/film/genre	/m/01g6gs
+  Mrs. Miniver -> [/film/film/genre] -> Black-and-white
+/m/07xr3w	/people/person/nationality	/m/09c7w0
+  Joseph Ruttenberg -> [/people/person/nationality] -> United States of America

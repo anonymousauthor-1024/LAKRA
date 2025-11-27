@@ -1,0 +1,1796 @@
+Entity: /m/05rwpb
+Entity Name: Indie
+K-hop: 2
+Subgraph Nodes: 223
+Subgraph Triples: 780
+
+==================================================
+Nodes in Subgraph:
+==================================================
+/m/011yhm	Fargo
+/m/011yph	The Full Monty
+/m/011ypx	Good Will Hunting
+/m/011ysn	The Thin Red Line
+/m/012jfb	Bowling for Columbine
+/m/012yc	Alternative hip hop
+/m/013b2h	44th Annual Grammy Awards
+/m/014bpd	Heavy Metal
+/m/016clz	Alternative rock
+/m/016ks5	Mona Lisa
+/m/016kv6	Salvador
+/m/016mhd	Billy Elliot-GB
+/m/016z43	The Fisher King
+/m/016z5x	Chaplin
+/m/0170xl	Gods and Monsters
+/m/0170yd	Affliction
+/m/0170z3	American History X
+/m/0175zz	Dream pop
+/m/017z49	Memento
+/m/0181dw	RCA Records
+/m/018vs	Bass guitar
+/m/0190yn	Dancehall
+/m/0193f	Big beat
+/m/01bgqh	Grammy Award for Record of the Year
+/m/01br2w	The Passion of the Christ
+/m/01c427	Grammy Award for Best New Artist
+/m/01c4_6	Grammy Award for Best Alternative Music Album
+/m/01c72t	Composer
+/m/01dc0c	Seven
+/m/01g_bs	Acid house
+/m/01gg59	A. R. Rahman
+/m/01h18v	About Schmidt
+/m/01kqq7	Wild at Heart
+/m/01l2b3	Bend It Like Beckham
+/m/01m13b	Dancer in the Dark
+/m/01n30p	Ghost World
+/m/01qncf	Drugstore Cowboy
+/m/01rnly	The Cotton Club
+/m/01trtc	Interscope Records
+/m/01txts	Astralwerks
+/m/01v_pj6	Fatboy Slim
+/m/01vdm0	Electronic keyboard
+/m/01vfqh	Barton Fink
+/m/01vj9c	Bass
+/m/01vt5c_	M.I.A.
+/m/01w8g3	Calendar Girls
+/m/01wy6	Clarinet
+/m/01x214	Independent record label
+/m/01xqw	Cello
+/m/01y_px	Jeff Goldblum
+/m/01zc2w	English Studies
+/m/0209xj	Lost in Translation
+/m/0214m4	Bromley
+/m/0219x_	Indie film
+/m/02237m	Central Saint Martins College of Art and Design
+/m/0234j5	Jackie Brown
+/m/023g6w	Dogville
+/m/025sc50	Contemporary R&B
+/m/026njb5	Red Road
+/m/026t6	Drum
+/m/0280061	This Is England
+/m/0286vp	I Shot Andy Warhol
+/m/029h7y	Electro
+/m/02_06s	You Can Count on Me
+/m/02b6n9	Boogie Nights
+/m/02c6d	Dressed to Kill
+/m/02d49z	Thirteen
+/m/02dsz	Disc jockey-GB
+/m/02f5qb	MTV Video Music Award for Video of the Year
+/m/02f716	MTV Video Music Award for Best Direction
+/m/02f71y	MTV Video Music Award for Best Choreography
+/m/02f72_	MTV Video Music Award for Best Art Direction
+/m/02f72n	MTV Video Music Award for Best Visual Effects
+/m/02f73b	MTV Video Music Award for Best Editing
+/m/02f73p	MTV Video Music Award for Best Cinematography
+/m/02f777	MTV Video Music Award for Best Electronic Dance Music Video
+/m/02fwfb	The Adventures of Priscilla, Queen of the Desert
+/m/02g3gj	Grammy Award for Best Dance Recording
+/m/02g8mp	Grammy Award for Best Engineered Album, Non-Classical
+/m/02gdjb	Grammy Award for Best Pop Instrumental Performance
+/m/02hfk5	The Barbarian Invasions
+/m/02hnl	Drums
+/m/02jkkv	Out of Sight
+/m/02jx1	England
+/m/02q8ms8	The Brothers Bloom
+/m/02r858_	The Sweet Hereafter
+/m/02rqwhl	The Savages
+/m/02rv_dz	Juno
+/m/02s4l6	Velvet Goldmine
+/m/02stbw	Best in Show
+/m/02tjl3	Shattered Glass
+/m/02v1m7	Grammy Award for Best Music Video
+/m/02v570	Fahrenheit 9/11
+/m/02v5_g	Scream 2
+/m/02w4v	Folk music
+/m/02x0fs9	Lars and the Real Girl
+/m/02zsn	Female
+/m/0342h	Guitar
+/m/0344gc	Monster's Ball
+/m/037q31	When We Were Kings
+/m/03cvwkr	Tough Guys Don't Dance
+/m/03h_yy	The Singing Detective
+/m/03hmt9b	Slumdog Millionaire
+/m/03j6c	Hinduism
+/m/03m4mj	Husbands and Wives
+/m/03m8y5	Celebrity
+/m/03q8xj	The Motorcycle Diaries
+/m/03qnc6q	The Tree of Life
+/m/03rlps	Folktronica
+/m/03rz2b	Monsoon Wedding
+/m/03sxd2	Summer of Sam
+/m/040_lv	I Heart Huckabees
+/m/0413cff	Motherland
+/m/041n43	XL Recordings
+/m/041td_	Topsy Turvy
+/m/042v_gx	Acoustic guitar
+/m/043t8t	The Life Aquatic with Steve Zissou
+/m/04b_jc	The Station Agent
+/m/04dsnp	Sicko
+/m/04ghz4m	Bad Lieutenant: Port of Call New Orleans
+/m/04gp58p	Rachel Getting Married
+/m/04grkmd	Taking Woodstock
+/m/04j_h4	Grime
+/m/04jpk2	Tommy
+/m/04jpl	London
+/m/04q01mn	Gran Torino
+/m/04smdd	Crimes and Misdemeanors
+/m/04t9c0	Mighty Aphrodite
+/m/04x4nv	Tucker: The Man and His Dream
+/m/04z_3pm	Mary and Max
+/m/04ztj	Marriage
+/m/04zyhx	The Rules of Attraction
+/m/05148p4	Keyboard
+/m/053tj7	Inside Deep Throat
+/m/056jm_	Grammy Award for Best Dance/Electronica Album
+/m/0571m	Mulholland Drive
+/m/05_61y	Hearts and Minds
+/m/05c46y6	Precious: Based on the Novel Push by Sapphire
+/m/05ch98	The Jacket
+/m/05ft32	The Believer
+/m/05pd94v	52nd Annual Grammy Awards-US
+/m/05q7874	The Runaways
+/m/05q_dw	The Squid and the Whale
+/m/05r5c	Piano
+/m/05rwpb	Indie
+/m/05sy_5	Crash
+/m/05zppz	Male
+/m/064q5v	Why We Fight
+/m/064t9	Pop music
+/m/06823p	Talk to Her
+/m/06929s	Enron: The Smartest Guys in the Room-GB
+/m/06by7	Rock music
+/m/06g77c	Inland Empire
+/m/06kl78	Crash
+/m/06m_5	Sri Lanka
+/m/06p03s	Imogen Heap
+/m/06pk8	Spike Jonze
+/m/06t6dz	Hustle & Flow
+/m/075qbd2	Independent
+/m/07bwr	The Big Lebowski
+/m/07d2d	Trip hop
+/m/07ghq	The Terminator
+/m/07l4zhn	Get Low
+/m/07lnk	Trance music
+/m/07nnp_	Color of Night
+/m/07s3m4g	Paranormal Activity
+/m/07ssc	United Kingdom
+/m/0827d	World music
+/m/08cyft	Electronic dance music
+/m/08g_jw	The Namesake
+/m/08gg47	The World's Fastest Indian
+/m/08mbj5d	Official Website
+/m/08nvyr	Babel
+/m/093l8p	Transamerica
+/m/0963mq	She Hate Me
+/m/09d3b7	A Star Is Born
+/m/09jwl	Musician-GB
+/m/09ps01	The Virgin Suicides
+/m/09v42sf	Kaboom
+/m/09z2b7	The Wings of the Dove
+/m/0b76t12	Please Give
+/m/0bhsnb	Sri Lankan Tamils
+/m/0bnzd	In the Bedroom
+/m/0bpbhm	Cookie's Fortune
+/m/0bs8ndx	Super
+/m/0cw3yd	Away from Her
+/m/0d8w2n	Shortbus
+/m/0ddfwj1	Submarine
+/m/0djb3vw	Restless
+/m/0djlxb	I'm Not There
+/m/0dzz6g	American Splendor
+/m/0f4vx	Leaving Las Vegas
+/m/0fd3y	Ambient music
+/m/0fnpj	Keyboard player-GB
+/m/0fq9zdv	British Independent Film Award for Best British Independent Film
+/m/0fvr1	Donnie Darko
+/m/0g5q34q	Heartbeats
+/m/0gd92	Chasing Amy
+/m/0ggq0m	Classical music
+/m/0ggx5q	Dance music
+/m/0glt670	Hip hop music
+/m/0gqz2	Academy Award for Best Original Song
+/m/0h7t36	Synecdoche, New York
+/m/0jyx6	Manhattan
+/m/0k345	Avant-garde
+/m/0k54q	The Transformers: The Movie
+/m/0kvgxk	The Ice Storm
+/m/0l14md	Percussion
+/m/0l14qv	Synthesizer
+/m/0lgw7	Photographer
+/m/0m0jc	Electronica
+/m/0m3gy	Halloween
+/m/0m9p3	A Bridge Too Far
+/m/0n1h	Artist-GB
+/m/0nbcg	Songwriter-GB
+/m/0p9lw	Dogma
+/m/0p_sc	Midnight Express
+/m/0qf2t	Trainspotting
+/m/0sxmx	Platoon
+/m/0sxns	Hannah and Her Sisters
+/m/0symg	Dead Man
+/m/0xsk8	Bootsy Collins
+/m/0y3_8	Synthpop
+
+==================================================
+Triples in Subgraph:
+==================================================
+/m/0342h	/music/performance_role/regular_performances./music/group_membership/role	/m/0l14qv
+  Guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Synthesizer
+/m/03m4mj	/award/award_winning_work/awards_won./award/award_honor/honored_for	/m/01vfqh
+  Husbands and Wives -> [/award/award_winning_work/awards_won./award/award_honor/honored_for] -> Barton Fink
+/m/01v_pj6	/people/person/nationality	/m/07ssc
+  Fatboy Slim -> [/people/person/nationality] -> United Kingdom
+/m/07ssc	/location/location/contains	/m/04jpl
+  United Kingdom -> [/location/location/contains] -> London
+/m/026t6	/music/performance_role/track_performances./music/track_contribution/role	/m/05r5c
+  Drum -> [/music/performance_role/track_performances./music/track_contribution/role] -> Piano
+/m/016z5x	/film/film/genre	/m/0219x_
+  Chaplin -> [/film/film/genre] -> Indie film
+/m/02stbw	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Best in Show -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/03rz2b	/film/film/genre	/m/0219x_
+  Monsoon Wedding -> [/film/film/genre] -> Indie film
+/m/029h7y	/music/genre/parent_genre	/m/0glt670
+  Electro -> [/music/genre/parent_genre] -> Hip hop music
+/m/04grkmd	/film/film/genre	/m/0219x_
+  Taking Woodstock -> [/film/film/genre] -> Indie film
+/m/07lnk	/music/genre/parent_genre	/m/08cyft
+  Trance music -> [/music/genre/parent_genre] -> Electronic dance music
+/m/01gg59	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0gqz2
+  A. R. Rahman -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Academy Award for Best Original Song
+/m/02v1m7	/award/award_category/winners./award/award_honor/ceremony	/m/05pd94v
+  Grammy Award for Best Music Video -> [/award/award_category/winners./award/award_honor/ceremony] -> 52nd Annual Grammy Awards-US
+/m/01vj9c	/music/performance_role/regular_performances./music/group_membership/role	/m/0342h
+  Bass -> [/music/performance_role/regular_performances./music/group_membership/role] -> Guitar
+/m/0413cff	/film/film/genre	/m/0219x_
+  Motherland -> [/film/film/genre] -> Indie film
+/m/0219x_	/media_common/netflix_genre/titles	/m/0dzz6g
+  Indie film -> [/media_common/netflix_genre/titles] -> American Splendor
+/m/04jpl	/base/biblioness/bibs_location/country	/m/07ssc
+  London -> [/base/biblioness/bibs_location/country] -> United Kingdom
+/m/01vdm0	/music/performance_role/track_performances./music/track_contribution/role	/m/042v_gx
+  Electronic keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Acoustic guitar
+/m/0l14qv	/music/performance_role/regular_performances./music/group_membership/role	/m/01wy6
+  Synthesizer -> [/music/performance_role/regular_performances./music/group_membership/role] -> Clarinet
+/m/0g5q34q	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Heartbeats -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/07ssc	/media_common/netflix_genre/titles	/m/011yph
+  United Kingdom -> [/media_common/netflix_genre/titles] -> The Full Monty
+/m/01vdm0	/music/performance_role/track_performances./music/track_contribution/role	/m/026t6
+  Electronic keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Drum
+/m/02hnl	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/018vs
+  Drums -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Bass guitar
+/m/05r5c	/music/performance_role/track_performances./music/track_contribution/role	/m/01vdm0
+  Piano -> [/music/performance_role/track_performances./music/track_contribution/role] -> Electronic keyboard
+/m/0l14qv	/music/performance_role/regular_performances./music/group_membership/role	/m/01vj9c
+  Synthesizer -> [/music/performance_role/regular_performances./music/group_membership/role] -> Bass
+/m/026t6	/music/performance_role/regular_performances./music/group_membership/role	/m/042v_gx
+  Drum -> [/music/performance_role/regular_performances./music/group_membership/role] -> Acoustic guitar
+/m/02hnl	/music/performance_role/regular_performances./music/group_membership/role	/m/05148p4
+  Drums -> [/music/performance_role/regular_performances./music/group_membership/role] -> Keyboard
+/m/06g77c	/film/film/genre	/m/0219x_
+  Inland Empire -> [/film/film/genre] -> Indie film
+/m/018vs	/music/performance_role/track_performances./music/track_contribution/role	/m/01xqw
+  Bass guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Cello
+/m/04ztj	/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	/m/02jx1
+  Marriage -> [/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony] -> England
+/m/025sc50	/music/genre/artists	/m/01vt5c_
+  Contemporary R&B -> [/music/genre/artists] -> M.I.A.
+/m/05r5c	/music/performance_role/regular_performances./music/group_membership/role	/m/0342h
+  Piano -> [/music/performance_role/regular_performances./music/group_membership/role] -> Guitar
+/m/016mhd	/film/film/country	/m/02jx1
+  Billy Elliot-GB -> [/film/film/country] -> England
+/m/01v_pj6	/award/award_nominee/award_nominations./award/award_nomination/award	/m/02g3gj
+  Fatboy Slim -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Best Dance Recording
+/m/05148p4	/music/performance_role/regular_performances./music/group_membership/role	/m/01vj9c
+  Keyboard -> [/music/performance_role/regular_performances./music/group_membership/role] -> Bass
+/m/01zc2w	/education/field_of_study/students_majoring./education/education/student	/m/01v_pj6
+  English Studies -> [/education/field_of_study/students_majoring./education/education/student] -> Fatboy Slim
+/m/04x4nv	/film/film/genre	/m/0219x_
+  Tucker: The Man and His Dream -> [/film/film/genre] -> Indie film
+/m/0m9p3	/film/film/country	/m/07ssc
+  A Bridge Too Far -> [/film/film/country] -> United Kingdom
+/m/0280061	/award/award_winning_work/awards_won./award/award_honor/award	/m/0fq9zdv
+  This Is England -> [/award/award_winning_work/awards_won./award/award_honor/award] -> British Independent Film Award for Best British Independent Film
+/m/0219x_	/dataworld/gardening_hint/split_to	/m/05rwpb
+  Indie film -> [/dataworld/gardening_hint/split_to] -> Indie
+/m/01wy6	/music/performance_role/regular_performances./music/group_membership/role	/m/01xqw
+  Clarinet -> [/music/performance_role/regular_performances./music/group_membership/role] -> Cello
+/m/0l14md	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/05148p4
+  Percussion -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Keyboard
+/m/0342h	/music/instrument/instrumentalists	/m/01gg59
+  Guitar -> [/music/instrument/instrumentalists] -> A. R. Rahman
+/m/02hnl	/music/performance_role/track_performances./music/track_contribution/role	/m/05r5c
+  Drums -> [/music/performance_role/track_performances./music/track_contribution/role] -> Piano
+/m/05148p4	/music/performance_role/regular_performances./music/group_membership/role	/m/05r5c
+  Keyboard -> [/music/performance_role/regular_performances./music/group_membership/role] -> Piano
+/m/07ssc	/location/location/contains	/m/0214m4
+  United Kingdom -> [/location/location/contains] -> Bromley
+/m/02v1m7	/award/award_category/winners./award/award_honor/award_winner	/m/06pk8
+  Grammy Award for Best Music Video -> [/award/award_category/winners./award/award_honor/award_winner] -> Spike Jonze
+/m/05r5c	/music/performance_role/track_performances./music/track_contribution/role	/m/042v_gx
+  Piano -> [/music/performance_role/track_performances./music/track_contribution/role] -> Acoustic guitar
+/m/06g77c	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Inland Empire -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/05r5c	/music/performance_role/regular_performances./music/group_membership/role	/m/01xqw
+  Piano -> [/music/performance_role/regular_performances./music/group_membership/role] -> Cello
+/m/02stbw	/film/film/genre	/m/0219x_
+  Best in Show -> [/film/film/genre] -> Indie film
+/m/02tjl3	/film/film/genre	/m/0219x_
+  Shattered Glass -> [/film/film/genre] -> Indie film
+/m/02237m	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Central Saint Martins College of Art and Design -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/01vt5c_	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01bgqh
+  M.I.A. -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Record of the Year
+/m/064q5v	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Why We Fight -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/07ghq	/film/film/release_date_s./film/film_regional_release_date/film_release_region	/m/07ssc
+  The Terminator -> [/film/film/release_date_s./film/film_regional_release_date/film_release_region] -> United Kingdom
+/m/08g_jw	/film/film/genre	/m/0219x_
+  The Namesake -> [/film/film/genre] -> Indie film
+/m/01trtc	/music/record_label/artist	/m/01vt5c_
+  Interscope Records -> [/music/record_label/artist] -> M.I.A.
+/m/0963mq	/film/film/genre	/m/0219x_
+  She Hate Me -> [/film/film/genre] -> Indie film
+/m/018vs	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/026t6
+  Bass guitar -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Drum
+/m/026t6	/music/performance_role/regular_performances./music/group_membership/role	/m/0342h
+  Drum -> [/music/performance_role/regular_performances./music/group_membership/role] -> Guitar
+/m/03q8xj	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  The Motorcycle Diaries -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/018vs	/music/performance_role/track_performances./music/track_contribution/role	/m/0342h
+  Bass guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Guitar
+/m/0342h	/music/performance_role/regular_performances./music/group_membership/role	/m/01wy6
+  Guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Clarinet
+/m/02hnl	/music/performance_role/track_performances./music/track_contribution/role	/m/01vj9c
+  Drums -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bass
+/m/026t6	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/018vs
+  Drum -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Bass guitar
+/m/0342h	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/0l14md
+  Guitar -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Percussion
+/m/03qnc6q	/film/film/genre	/m/0219x_
+  The Tree of Life -> [/film/film/genre] -> Indie film
+/m/05148p4	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/026t6
+  Keyboard -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Drum
+/m/01gg59	/people/person/profession	/m/0nbcg
+  A. R. Rahman -> [/people/person/profession] -> Songwriter-GB
+/m/01y_px	/film/actor/film./film/performance/film	/m/043t8t
+  Jeff Goldblum -> [/film/actor/film./film/performance/film] -> The Life Aquatic with Steve Zissou
+/m/01v_pj6	/award/award_nominee/award_nominations./award/award_nomination/award	/m/02f5qb
+  Fatboy Slim -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> MTV Video Music Award for Video of the Year
+/m/05r5c	/music/performance_role/track_performances./music/track_contribution/role	/m/01vj9c
+  Piano -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bass
+/m/02f716	/award/award_category/winners./award/award_honor/award_winner	/m/01v_pj6
+  MTV Video Music Award for Best Direction -> [/award/award_category/winners./award/award_honor/award_winner] -> Fatboy Slim
+/m/05r5c	/music/performance_role/regular_performances./music/group_membership/role	/m/02hnl
+  Piano -> [/music/performance_role/regular_performances./music/group_membership/role] -> Drums
+/m/0djb3vw	/film/film/genre	/m/0219x_
+  Restless -> [/film/film/genre] -> Indie film
+/m/02rqwhl	/film/film/genre	/m/0219x_
+  The Savages -> [/film/film/genre] -> Indie film
+/m/018vs	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/02hnl
+  Bass guitar -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Drums
+/m/01l2b3	/film/film/country	/m/07ssc
+  Bend It Like Beckham -> [/film/film/country] -> United Kingdom
+/m/0342h	/music/instrument/instrumentalists	/m/06p03s
+  Guitar -> [/music/instrument/instrumentalists] -> Imogen Heap
+/m/07ssc	/media_common/netflix_genre/titles	/m/04jpk2
+  United Kingdom -> [/media_common/netflix_genre/titles] -> Tommy
+/m/06g77c	/film/film/genre	/m/0k345
+  Inland Empire -> [/film/film/genre] -> Avant-garde
+/m/042v_gx	/music/performance_role/regular_performances./music/group_membership/role	/m/05r5c
+  Acoustic guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Piano
+/m/01y_px	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/m/043t8t
+  Jeff Goldblum -> [/award/award_nominee/award_nominations./award/award_nomination/nominated_for] -> The Life Aquatic with Steve Zissou
+/m/042v_gx	/music/performance_role/track_performances./music/track_contribution/role	/m/01vj9c
+  Acoustic guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bass
+/m/0209xj	/film/film/genre	/m/0219x_
+  Lost in Translation -> [/film/film/genre] -> Indie film
+/m/05rwpb	/dataworld/gardening_hint/split_to	/m/01x214
+  Indie -> [/dataworld/gardening_hint/split_to] -> Independent record label
+/m/01wy6	/music/performance_role/track_performances./music/track_contribution/role	/m/026t6
+  Clarinet -> [/music/performance_role/track_performances./music/track_contribution/role] -> Drum
+/m/01vdm0	/music/performance_role/regular_performances./music/group_membership/role	/m/0342h
+  Electronic keyboard -> [/music/performance_role/regular_performances./music/group_membership/role] -> Guitar
+/m/04ztj	/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	/m/04jpl
+  Marriage -> [/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony] -> London
+/m/02hnl	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/026t6
+  Drums -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Drum
+/m/0193f	/music/genre/parent_genre	/m/0m0jc
+  Big beat -> [/music/genre/parent_genre] -> Electronica
+/m/04ztj	/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	/m/07ssc
+  Marriage -> [/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony] -> United Kingdom
+/m/0342h	/music/performance_role/track_performances./music/track_contribution/role	/m/0l14qv
+  Guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Synthesizer
+/m/02f716	/award/award_category/winners./award/award_honor/award_winner	/m/01vt5c_
+  MTV Video Music Award for Best Direction -> [/award/award_category/winners./award/award_honor/award_winner] -> M.I.A.
+/m/0fnpj	/dataworld/gardening_hint/split_to	/m/05148p4
+  Keyboard player-GB -> [/dataworld/gardening_hint/split_to] -> Keyboard
+/m/0y3_8	/music/genre/parent_genre	/m/06by7
+  Synthpop -> [/music/genre/parent_genre] -> Rock music
+/m/05c46y6	/film/film/distributors./film/film_film_distributor_relationship/region	/m/07ssc
+  Precious: Based on the Novel Push by Sapphire -> [/film/film/distributors./film/film_film_distributor_relationship/region] -> United Kingdom
+/m/05148p4	/music/performance_role/regular_performances./music/group_membership/role	/m/02hnl
+  Keyboard -> [/music/performance_role/regular_performances./music/group_membership/role] -> Drums
+/m/01xqw	/music/performance_role/track_performances./music/track_contribution/role	/m/01vdm0
+  Cello -> [/music/performance_role/track_performances./music/track_contribution/role] -> Electronic keyboard
+/m/03hmt9b	/award/award_winning_work/awards_won./award/award_honor/award_winner	/m/01gg59
+  Slumdog Millionaire -> [/award/award_winning_work/awards_won./award/award_honor/award_winner] -> A. R. Rahman
+/m/016kv6	/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	/m/0sxmx
+  Salvador -> [/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for] -> Platoon
+/m/02hnl	/music/performance_role/track_performances./music/track_contribution/role	/m/026t6
+  Drums -> [/music/performance_role/track_performances./music/track_contribution/role] -> Drum
+/m/07ssc	/media_common/netflix_genre/titles	/m/06kl78
+  United Kingdom -> [/media_common/netflix_genre/titles] -> Crash
+/m/01kqq7	/film/film/genre	/m/0219x_
+  Wild at Heart -> [/film/film/genre] -> Indie film
+/m/01bgqh	/award/award_category/winners./award/award_honor/ceremony	/m/05pd94v
+  Grammy Award for Record of the Year -> [/award/award_category/winners./award/award_honor/ceremony] -> 52nd Annual Grammy Awards-US
+/m/05148p4	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/02hnl
+  Keyboard -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Drums
+/m/02jx1	/location/location/contains	/m/02237m
+  England -> [/location/location/contains] -> Central Saint Martins College of Art and Design
+/m/0342h	/music/performance_role/track_performances./music/track_contribution/role	/m/01wy6
+  Guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Clarinet
+/m/01vfqh	/film/film/country	/m/07ssc
+  Barton Fink -> [/film/film/country] -> United Kingdom
+/m/01v_pj6	/award/award_nominee/award_nominations./award/award_nomination/award	/m/02f73b
+  Fatboy Slim -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> MTV Video Music Award for Best Editing
+/m/01wy6	/music/performance_role/regular_performances./music/group_membership/role	/m/05148p4
+  Clarinet -> [/music/performance_role/regular_performances./music/group_membership/role] -> Keyboard
+/m/01gg59	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/m/03hmt9b
+  A. R. Rahman -> [/award/award_nominee/award_nominations./award/award_nomination/nominated_for] -> Slumdog Millionaire
+/m/01txts	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Astralwerks -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/01vj9c	/music/performance_role/track_performances./music/track_contribution/role	/m/042v_gx
+  Bass -> [/music/performance_role/track_performances./music/track_contribution/role] -> Acoustic guitar
+/m/06p03s	/music/artist/track_contributions./music/track_contribution/role	/m/01vdm0
+  Imogen Heap -> [/music/artist/track_contributions./music/track_contribution/role] -> Electronic keyboard
+/m/09v42sf	/film/film/genre	/m/0219x_
+  Kaboom -> [/film/film/genre] -> Indie film
+/m/06kl78	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Crash -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/02hnl	/music/performance_role/regular_performances./music/group_membership/role	/m/0342h
+  Drums -> [/music/performance_role/regular_performances./music/group_membership/role] -> Guitar
+/m/01vdm0	/music/performance_role/regular_performances./music/group_membership/role	/m/0l14md
+  Electronic keyboard -> [/music/performance_role/regular_performances./music/group_membership/role] -> Percussion
+/m/01qncf	/film/film/genre	/m/0219x_
+  Drugstore Cowboy -> [/film/film/genre] -> Indie film
+/m/018vs	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/0l14md
+  Bass guitar -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Percussion
+/m/0193f	/music/genre/artists	/m/01v_pj6
+  Big beat -> [/music/genre/artists] -> Fatboy Slim
+/m/01v_pj6	/award/award_nominee/award_nominations./award/award_nomination/award	/m/02f72n
+  Fatboy Slim -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> MTV Video Music Award for Best Visual Effects
+/m/08cyft	/music/genre/artists	/m/06p03s
+  Electronic dance music -> [/music/genre/artists] -> Imogen Heap
+/m/042v_gx	/music/performance_role/track_performances./music/track_contribution/role	/m/018vs
+  Acoustic guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bass guitar
+/m/0m0jc	/music/genre/artists	/m/01vt5c_
+  Electronica -> [/music/genre/artists] -> M.I.A.
+/m/0jyx6	/film/film/genre	/m/0219x_
+  Manhattan -> [/film/film/genre] -> Indie film
+/m/02v1m7	/award/award_category/winners./award/award_honor/award_winner	/m/0xsk8
+  Grammy Award for Best Music Video -> [/award/award_category/winners./award/award_honor/award_winner] -> Bootsy Collins
+/m/02jkkv	/film/film/genre	/m/0219x_
+  Out of Sight -> [/film/film/genre] -> Indie film
+/m/018vs	/music/performance_role/regular_performances./music/group_membership/role	/m/01wy6
+  Bass guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Clarinet
+/m/016clz	/music/genre/parent_genre	/m/06by7
+  Alternative rock -> [/music/genre/parent_genre] -> Rock music
+/m/042v_gx	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/0l14md
+  Acoustic guitar -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Percussion
+/m/0342h	/music/performance_role/regular_performances./music/group_membership/role	/m/026t6
+  Guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Drum
+/m/0xsk8	/award/award_nominee/award_nominations./award/award_nomination/award	/m/02v1m7
+  Bootsy Collins -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Best Music Video
+/m/0g5q34q	/film/film/release_date_s./film/film_regional_release_date/film_release_region	/m/07ssc
+  Heartbeats -> [/film/film/release_date_s./film/film_regional_release_date/film_release_region] -> United Kingdom
+/m/01vdm0	/music/performance_role/track_performances./music/track_contribution/role	/m/018vs
+  Electronic keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bass guitar
+/m/017z49	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Memento -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/06p03s	/award/award_nominee/award_nominations./award/award_nomination/award	/m/02g8mp
+  Imogen Heap -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Best Engineered Album, Non-Classical
+/m/018vs	/music/performance_role/regular_performances./music/group_membership/role	/m/02hnl
+  Bass guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Drums
+/m/09ps01	/film/film/genre	/m/0219x_
+  The Virgin Suicides -> [/film/film/genre] -> Indie film
+/m/01l2b3	/film/film/distributors./film/film_film_distributor_relationship/region	/m/07ssc
+  Bend It Like Beckham -> [/film/film/distributors./film/film_film_distributor_relationship/region] -> United Kingdom
+/m/0k345	/music/genre/artists	/m/01vt5c_
+  Avant-garde -> [/music/genre/artists] -> M.I.A.
+/m/06t6dz	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Hustle & Flow -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/042v_gx	/music/performance_role/regular_performances./music/group_membership/role	/m/01vdm0
+  Acoustic guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Electronic keyboard
+/m/0286vp	/film/film/genre	/m/0219x_
+  I Shot Andy Warhol -> [/film/film/genre] -> Indie film
+/m/01v_pj6	/award/award_nominee/award_nominations./award/award_nomination/award	/m/02v1m7
+  Fatboy Slim -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Best Music Video
+/m/01h18v	/film/film/genre	/m/0219x_
+  About Schmidt -> [/film/film/genre] -> Indie film
+/m/02f73p	/award/award_category/winners./award/award_honor/award_winner	/m/01v_pj6
+  MTV Video Music Award for Best Cinematography -> [/award/award_category/winners./award/award_honor/award_winner] -> Fatboy Slim
+/m/0ggq0m	/music/genre/artists	/m/06p03s
+  Classical music -> [/music/genre/artists] -> Imogen Heap
+/m/026t6	/music/performance_role/track_performances./music/track_contribution/role	/m/0342h
+  Drum -> [/music/performance_role/track_performances./music/track_contribution/role] -> Guitar
+/m/0342h	/music/performance_role/track_performances./music/track_contribution/role	/m/042v_gx
+  Guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Acoustic guitar
+/m/01vt5c_	/people/person/nationality	/m/02jx1
+  M.I.A. -> [/people/person/nationality] -> England
+/m/06p03s	/people/person/profession	/m/0n1h
+  Imogen Heap -> [/people/person/profession] -> Artist-GB
+/m/06p03s	/people/person/profession	/m/0nbcg
+  Imogen Heap -> [/people/person/profession] -> Songwriter-GB
+/m/018vs	/music/instrument/family	/m/0342h
+  Bass guitar -> [/music/instrument/family] -> Guitar
+/m/02hnl	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/0l14qv
+  Drums -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Synthesizer
+/m/0xsk8	/people/person/profession	/m/09jwl
+  Bootsy Collins -> [/people/person/profession] -> Musician-GB
+/m/02237m	/education/educational_institution/students_graduates./education/education/student	/m/01vt5c_
+  Central Saint Martins College of Art and Design -> [/education/educational_institution/students_graduates./education/education/student] -> M.I.A.
+/m/0219x_	/media_common/netflix_genre/titles	/m/0bpbhm
+  Indie film -> [/media_common/netflix_genre/titles] -> Cookie's Fortune
+/m/0f4vx	/film/film/genre	/m/0219x_
+  Leaving Las Vegas -> [/film/film/genre] -> Indie film
+/m/01v_pj6	/people/person/profession	/m/09jwl
+  Fatboy Slim -> [/people/person/profession] -> Musician-GB
+/m/02hnl	/music/performance_role/regular_performances./music/group_membership/role	/m/042v_gx
+  Drums -> [/music/performance_role/regular_performances./music/group_membership/role] -> Acoustic guitar
+/m/02fwfb	/film/film/genre	/m/0219x_
+  The Adventures of Priscilla, Queen of the Desert -> [/film/film/genre] -> Indie film
+/m/0l14md	/music/performance_role/regular_performances./music/group_membership/role	/m/042v_gx
+  Percussion -> [/music/performance_role/regular_performances./music/group_membership/role] -> Acoustic guitar
+/m/02s4l6	/film/film/featured_film_locations	/m/04jpl
+  Velvet Goldmine -> [/film/film/featured_film_locations] -> London
+/m/05r5c	/music/performance_role/track_performances./music/track_contribution/role	/m/02hnl
+  Piano -> [/music/performance_role/track_performances./music/track_contribution/role] -> Drums
+/m/05148p4	/music/performance_role/track_performances./music/track_contribution/role	/m/01xqw
+  Keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Cello
+/m/012jfb	/film/film/genre	/m/0219x_
+  Bowling for Columbine -> [/film/film/genre] -> Indie film
+/m/018vs	/music/performance_role/track_performances./music/track_contribution/role	/m/0l14md
+  Bass guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Percussion
+/m/0cw3yd	/film/film/genre	/m/0219x_
+  Away from Her -> [/film/film/genre] -> Indie film
+/m/04jpk2	/film/film/country	/m/07ssc
+  Tommy -> [/film/film/country] -> United Kingdom
+/m/07s3m4g	/film/film/genre	/m/0219x_
+  Paranormal Activity -> [/film/film/genre] -> Indie film
+/m/0xsk8	/people/person/spouse_s./people/marriage/type_of_union	/m/04ztj
+  Bootsy Collins -> [/people/person/spouse_s./people/marriage/type_of_union] -> Marriage
+/m/011yph	/film/film/country	/m/07ssc
+  The Full Monty -> [/film/film/country] -> United Kingdom
+/m/01v_pj6	/music/group_member/membership./music/group_membership/role	/m/0342h
+  Fatboy Slim -> [/music/group_member/membership./music/group_membership/role] -> Guitar
+/m/05r5c	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/0342h
+  Piano -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Guitar
+/m/0280061	/film/film/genre	/m/0219x_
+  This Is England -> [/film/film/genre] -> Indie film
+/m/05q_dw	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  The Squid and the Whale -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/042v_gx	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/0342h
+  Acoustic guitar -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Guitar
+/m/05r5c	/music/performance_role/track_performances./music/track_contribution/role	/m/0342h
+  Piano -> [/music/performance_role/track_performances./music/track_contribution/role] -> Guitar
+/m/01vj9c	/music/performance_role/track_performances./music/track_contribution/role	/m/0l14md
+  Bass -> [/music/performance_role/track_performances./music/track_contribution/role] -> Percussion
+/m/06kl78	/film/film/genre	/m/0219x_
+  Crash -> [/film/film/genre] -> Indie film
+/m/05r5c	/music/performance_role/regular_performances./music/group_membership/role	/m/0l14md
+  Piano -> [/music/performance_role/regular_performances./music/group_membership/role] -> Percussion
+/m/012yc	/music/genre/artists	/m/01vt5c_
+  Alternative hip hop -> [/music/genre/artists] -> M.I.A.
+/m/0l14qv	/music/performance_role/track_performances./music/track_contribution/role	/m/0l14md
+  Synthesizer -> [/music/performance_role/track_performances./music/track_contribution/role] -> Percussion
+/m/02gdjb	/award/award_category/winners./award/award_honor/ceremony	/m/05pd94v
+  Grammy Award for Best Pop Instrumental Performance -> [/award/award_category/winners./award/award_honor/ceremony] -> 52nd Annual Grammy Awards-US
+/m/0571m	/film/film/genre	/m/0219x_
+  Mulholland Drive -> [/film/film/genre] -> Indie film
+/m/0l14qv	/music/performance_role/track_performances./music/track_contribution/role	/m/01vdm0
+  Synthesizer -> [/music/performance_role/track_performances./music/track_contribution/role] -> Electronic keyboard
+/m/026t6	/music/performance_role/regular_performances./music/group_membership/role	/m/05148p4
+  Drum -> [/music/performance_role/regular_performances./music/group_membership/role] -> Keyboard
+/m/01v_pj6	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/m/06pk8
+  Fatboy Slim -> [/award/award_nominee/award_nominations./award/award_nomination/award_nominee] -> Spike Jonze
+/m/0djb3vw	/film/film/release_date_s./film/film_regional_release_date/film_release_region	/m/07ssc
+  Restless -> [/film/film/release_date_s./film/film_regional_release_date/film_release_region] -> United Kingdom
+/m/0ggx5q	/music/genre/artists	/m/01v_pj6
+  Dance music -> [/music/genre/artists] -> Fatboy Slim
+/m/0l14qv	/music/performance_role/track_performances./music/track_contribution/role	/m/042v_gx
+  Synthesizer -> [/music/performance_role/track_performances./music/track_contribution/role] -> Acoustic guitar
+/m/01xqw	/music/instrument/instrumentalists	/m/06p03s
+  Cello -> [/music/instrument/instrumentalists] -> Imogen Heap
+/m/0342h	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/042v_gx
+  Guitar -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Acoustic guitar
+/m/02hnl	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/05148p4
+  Drums -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Keyboard
+/m/026t6	/music/performance_role/track_performances./music/track_contribution/role	/m/042v_gx
+  Drum -> [/music/performance_role/track_performances./music/track_contribution/role] -> Acoustic guitar
+/m/03h_yy	/film/film/genre	/m/0219x_
+  The Singing Detective -> [/film/film/genre] -> Indie film
+/m/0234j5	/film/film/genre	/m/0219x_
+  Jackie Brown -> [/film/film/genre] -> Indie film
+/m/05148p4	/music/performance_role/regular_performances./music/group_membership/role	/m/01wy6
+  Keyboard -> [/music/performance_role/regular_performances./music/group_membership/role] -> Clarinet
+/m/0l14md	/music/performance_role/track_performances./music/track_contribution/role	/m/0342h
+  Percussion -> [/music/performance_role/track_performances./music/track_contribution/role] -> Guitar
+/m/026t6	/music/performance_role/regular_performances./music/group_membership/role	/m/0l14qv
+  Drum -> [/music/performance_role/regular_performances./music/group_membership/role] -> Synthesizer
+/m/01v_pj6	/people/person/nationality	/m/02jx1
+  Fatboy Slim -> [/people/person/nationality] -> England
+/m/0xsk8	/people/person/gender	/m/05zppz
+  Bootsy Collins -> [/people/person/gender] -> Male
+/m/05r5c	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/0l14md
+  Piano -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Percussion
+/m/07ssc	/media_common/netflix_genre/titles	/m/041td_
+  United Kingdom -> [/media_common/netflix_genre/titles] -> Topsy Turvy
+/m/016mhd	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Billy Elliot-GB -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/0342h	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/018vs
+  Guitar -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Bass guitar
+/m/0l14qv	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/026t6
+  Synthesizer -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Drum
+/m/016ks5	/film/film/genre	/m/0219x_
+  Mona Lisa -> [/film/film/genre] -> Indie film
+/m/0ddfwj1	/film/film/release_date_s./film/film_regional_release_date/film_release_region	/m/07ssc
+  Submarine -> [/film/film/release_date_s./film/film_regional_release_date/film_release_region] -> United Kingdom
+/m/05sy_5	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Crash -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/09z2b7	/film/film/genre	/m/0219x_
+  The Wings of the Dove -> [/film/film/genre] -> Indie film
+/m/01c4_6	/award/award_category/winners./award/award_honor/ceremony	/m/013b2h
+  Grammy Award for Best Alternative Music Album -> [/award/award_category/winners./award/award_honor/ceremony] -> 44th Annual Grammy Awards
+/m/04dsnp	/film/film/featured_film_locations	/m/04jpl
+  Sicko -> [/film/film/featured_film_locations] -> London
+/m/0l14md	/music/performance_role/regular_performances./music/group_membership/role	/m/026t6
+  Percussion -> [/music/performance_role/regular_performances./music/group_membership/role] -> Drum
+/m/016clz	/music/genre/artists	/m/01v_pj6
+  Alternative rock -> [/music/genre/artists] -> Fatboy Slim
+/m/0l14md	/music/performance_role/regular_performances./music/group_membership/role	/m/0342h
+  Percussion -> [/music/performance_role/regular_performances./music/group_membership/role] -> Guitar
+/m/05148p4	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/0l14md
+  Keyboard -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Percussion
+/m/0170xl	/film/film/genre	/m/0219x_
+  Gods and Monsters -> [/film/film/genre] -> Indie film
+/m/07ssc	/media_common/netflix_genre/titles	/m/01w8g3
+  United Kingdom -> [/media_common/netflix_genre/titles] -> Calendar Girls
+/m/05ft32	/film/film/release_date_s./film/film_regional_release_date/film_release_region	/m/07ssc
+  The Believer -> [/film/film/release_date_s./film/film_regional_release_date/film_release_region] -> United Kingdom
+/m/05pd94v	/award/award_ceremony/awards_presented./award/award_honor/award_winner	/m/01gg59
+  52nd Annual Grammy Awards-US -> [/award/award_ceremony/awards_presented./award/award_honor/award_winner] -> A. R. Rahman
+/m/09z2b7	/film/film/featured_film_locations	/m/04jpl
+  The Wings of the Dove -> [/film/film/featured_film_locations] -> London
+/m/02b6n9	/film/film/genre	/m/0219x_
+  Boogie Nights -> [/film/film/genre] -> Indie film
+/m/04jpk2	/film/film/genre	/m/0219x_
+  Tommy -> [/film/film/genre] -> Indie film
+/m/01vj9c	/music/performance_role/track_performances./music/track_contribution/role	/m/05r5c
+  Bass -> [/music/performance_role/track_performances./music/track_contribution/role] -> Piano
+/m/040_lv	/film/film/genre	/m/0219x_
+  I Heart Huckabees -> [/film/film/genre] -> Indie film
+/m/04gp58p	/film/film/genre	/m/0219x_
+  Rachel Getting Married -> [/film/film/genre] -> Indie film
+/m/0l14md	/music/performance_role/regular_performances./music/group_membership/role	/m/02hnl
+  Percussion -> [/music/performance_role/regular_performances./music/group_membership/role] -> Drums
+/m/06p03s	/music/group_member/membership./music/group_membership/role	/m/05148p4
+  Imogen Heap -> [/music/group_member/membership./music/group_membership/role] -> Keyboard
+/m/01xqw	/music/performance_role/track_performances./music/track_contribution/role	/m/01wy6
+  Cello -> [/music/performance_role/track_performances./music/track_contribution/role] -> Clarinet
+/m/01gg59	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/m/01vt5c_
+  A. R. Rahman -> [/award/award_nominee/award_nominations./award/award_nomination/award_nominee] -> M.I.A.
+/m/03m4mj	/film/film/genre	/m/0219x_
+  Husbands and Wives -> [/film/film/genre] -> Indie film
+/m/0k54q	/film/film/genre	/m/0219x_
+  The Transformers: The Movie -> [/film/film/genre] -> Indie film
+/m/06p03s	/music/artist/track_contributions./music/track_contribution/role	/m/05r5c
+  Imogen Heap -> [/music/artist/track_contributions./music/track_contribution/role] -> Piano
+/m/05148p4	/music/performance_role/track_performances./music/track_contribution/role	/m/018vs
+  Keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bass guitar
+/m/0xsk8	/music/artist/track_contributions./music/track_contribution/role	/m/026t6
+  Bootsy Collins -> [/music/artist/track_contributions./music/track_contribution/role] -> Drum
+/m/01y_px	/base/popstra/celebrity/dated./base/popstra/dated/participant	/m/06p03s
+  Jeff Goldblum -> [/base/popstra/celebrity/dated./base/popstra/dated/participant] -> Imogen Heap
+/m/0l14md	/music/performance_role/regular_performances./music/group_membership/role	/m/0l14qv
+  Percussion -> [/music/performance_role/regular_performances./music/group_membership/role] -> Synthesizer
+/m/0l14md	/music/instrument/instrumentalists	/m/01gg59
+  Percussion -> [/music/instrument/instrumentalists] -> A. R. Rahman
+/m/0342h	/music/performance_role/regular_performances./music/group_membership/role	/m/05r5c
+  Guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Piano
+/m/03cvwkr	/film/film/genre	/m/0219x_
+  Tough Guys Don't Dance -> [/film/film/genre] -> Indie film
+/m/0g5q34q	/film/film/genre	/m/0219x_
+  Heartbeats -> [/film/film/genre] -> Indie film
+/m/0f4vx	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Leaving Las Vegas -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/0xsk8	/music/group_member/membership./music/group_membership/role	/m/02hnl
+  Bootsy Collins -> [/music/group_member/membership./music/group_membership/role] -> Drums
+/m/018vs	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/042v_gx
+  Bass guitar -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Acoustic guitar
+/m/02tjl3	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Shattered Glass -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/06pk8	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/m/0xsk8
+  Spike Jonze -> [/award/award_nominee/award_nominations./award/award_nomination/award_nominee] -> Bootsy Collins
+/m/0342h	/music/performance_role/regular_performances./music/group_membership/role	/m/01vj9c
+  Guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Bass
+/m/02rv_dz	/film/film/genre	/m/0219x_
+  Juno -> [/film/film/genre] -> Indie film
+/m/0l14md	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/05r5c
+  Percussion -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Piano
+/m/026t6	/music/performance_role/track_performances./music/track_contribution/role	/m/02hnl
+  Drum -> [/music/performance_role/track_performances./music/track_contribution/role] -> Drums
+/m/01vj9c	/music/performance_role/regular_performances./music/group_membership/role	/m/01xqw
+  Bass -> [/music/performance_role/regular_performances./music/group_membership/role] -> Cello
+/m/023g6w	/film/film/country	/m/07ssc
+  Dogville -> [/film/film/country] -> United Kingdom
+/m/064t9	/music/genre/artists	/m/06p03s
+  Pop music -> [/music/genre/artists] -> Imogen Heap
+/m/03hmt9b	/film/film/country	/m/07ssc
+  Slumdog Millionaire -> [/film/film/country] -> United Kingdom
+/m/01vfqh	/award/award_winning_work/awards_won./award/award_honor/honored_for	/m/03m4mj
+  Barton Fink -> [/award/award_winning_work/awards_won./award/award_honor/honored_for] -> Husbands and Wives
+/m/07ssc	/media_common/netflix_genre/titles	/m/0qf2t
+  United Kingdom -> [/media_common/netflix_genre/titles] -> Trainspotting
+/m/013b2h	/award/award_ceremony/awards_presented./award/award_honor/award_winner	/m/06pk8
+  44th Annual Grammy Awards -> [/award/award_ceremony/awards_presented./award/award_honor/award_winner] -> Spike Jonze
+/m/01gg59	/music/artist/track_contributions./music/track_contribution/role	/m/0l14qv
+  A. R. Rahman -> [/music/artist/track_contributions./music/track_contribution/role] -> Synthesizer
+/m/02g8mp	/award/award_category/winners./award/award_honor/award_winner	/m/06p03s
+  Grammy Award for Best Engineered Album, Non-Classical -> [/award/award_category/winners./award/award_honor/award_winner] -> Imogen Heap
+/m/011yhm	/film/film/country	/m/07ssc
+  Fargo -> [/film/film/country] -> United Kingdom
+/m/0y3_8	/music/genre/parent_genre	/m/064t9
+  Synthpop -> [/music/genre/parent_genre] -> Pop music
+/m/0170z3	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  American History X -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/01wy6	/music/performance_role/track_performances./music/track_contribution/role	/m/0l14qv
+  Clarinet -> [/music/performance_role/track_performances./music/track_contribution/role] -> Synthesizer
+/m/01xqw	/music/performance_role/track_performances./music/track_contribution/role	/m/042v_gx
+  Cello -> [/music/performance_role/track_performances./music/track_contribution/role] -> Acoustic guitar
+/m/05r5c	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/05148p4
+  Piano -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Keyboard
+/m/04dsnp	/film/film/genre	/m/0219x_
+  Sicko -> [/film/film/genre] -> Indie film
+/m/07ssc	/location/statistical_region/religions./location/religion_percentage/religion	/m/03j6c
+  United Kingdom -> [/location/statistical_region/religions./location/religion_percentage/religion] -> Hinduism
+/m/05r5c	/music/performance_role/regular_performances./music/group_membership/role	/m/01wy6
+  Piano -> [/music/performance_role/regular_performances./music/group_membership/role] -> Clarinet
+/m/05148p4	/music/performance_role/track_performances./music/track_contribution/role	/m/01vj9c
+  Keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bass
+/m/056jm_	/award/award_category/winners./award/award_honor/ceremony	/m/05pd94v
+  Grammy Award for Best Dance/Electronica Album -> [/award/award_category/winners./award/award_honor/ceremony] -> 52nd Annual Grammy Awards-US
+/m/01v_pj6	/people/person/place_of_birth	/m/0214m4
+  Fatboy Slim -> [/people/person/place_of_birth] -> Bromley
+/m/02hnl	/music/performance_role/regular_performances./music/group_membership/role	/m/0l14qv
+  Drums -> [/music/performance_role/regular_performances./music/group_membership/role] -> Synthesizer
+/m/016kv6	/film/film/genre	/m/0219x_
+  Salvador -> [/film/film/genre] -> Indie film
+/m/01vt5c_	/people/person/religion	/m/03j6c
+  M.I.A. -> [/people/person/religion] -> Hinduism
+/m/018vs	/music/instrument/instrumentalists	/m/01v_pj6
+  Bass guitar -> [/music/instrument/instrumentalists] -> Fatboy Slim
+/m/0342h	/music/performance_role/track_performances./music/track_contribution/role	/m/018vs
+  Guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bass guitar
+/m/02hnl	/music/performance_role/regular_performances./music/group_membership/role	/m/01wy6
+  Drums -> [/music/performance_role/regular_performances./music/group_membership/role] -> Clarinet
+/m/064q5v	/film/film/genre	/m/0219x_
+  Why We Fight -> [/film/film/genre] -> Indie film
+/m/0342h	/music/performance_role/track_performances./music/track_contribution/role	/m/05148p4
+  Guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Keyboard
+/m/0219x_	/media_common/netflix_genre/titles	/m/01n30p
+  Indie film -> [/media_common/netflix_genre/titles] -> Ghost World
+/m/02hnl	/music/performance_role/track_performances./music/track_contribution/role	/m/01vdm0
+  Drums -> [/music/performance_role/track_performances./music/track_contribution/role] -> Electronic keyboard
+/m/0lgw7	/people/profession/specialization_of	/m/0n1h
+  Photographer -> [/people/profession/specialization_of] -> Artist-GB
+/m/01vj9c	/music/performance_role/regular_performances./music/group_membership/role	/m/05148p4
+  Bass -> [/music/performance_role/regular_performances./music/group_membership/role] -> Keyboard
+/m/0b76t12	/film/film/genre	/m/0219x_
+  Please Give -> [/film/film/genre] -> Indie film
+/m/0y3_8	/music/genre/parent_genre	/m/0y3_8
+  Synthpop -> [/music/genre/parent_genre] -> Synthpop
+/m/026t6	/music/performance_role/regular_performances./music/group_membership/role	/m/05r5c
+  Drum -> [/music/performance_role/regular_performances./music/group_membership/role] -> Piano
+/m/016z5x	/film/film/featured_film_locations	/m/04jpl
+  Chaplin -> [/film/film/featured_film_locations] -> London
+/m/0l14qv	/music/instrument/family	/m/05148p4
+  Synthesizer -> [/music/instrument/family] -> Keyboard
+/m/01vdm0	/music/performance_role/regular_performances./music/group_membership/role	/m/018vs
+  Electronic keyboard -> [/music/performance_role/regular_performances./music/group_membership/role] -> Bass guitar
+/m/042v_gx	/music/performance_role/regular_performances./music/group_membership/role	/m/05148p4
+  Acoustic guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Keyboard
+/m/01vt5c_	/people/person/gender	/m/02zsn
+  M.I.A. -> [/people/person/gender] -> Female
+/m/0190yn	/music/genre/artists	/m/01vt5c_
+  Dancehall -> [/music/genre/artists] -> M.I.A.
+/m/041td_	/film/film/country	/m/07ssc
+  Topsy Turvy -> [/film/film/country] -> United Kingdom
+/m/01xqw	/music/performance_role/regular_performances./music/group_membership/role	/m/042v_gx
+  Cello -> [/music/performance_role/regular_performances./music/group_membership/role] -> Acoustic guitar
+/m/0b76t12	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Please Give -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/02hnl	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/0342h
+  Drums -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Guitar
+/m/01vdm0	/music/instrument/instrumentalists	/m/01gg59
+  Electronic keyboard -> [/music/instrument/instrumentalists] -> A. R. Rahman
+/m/0qf2t	/film/film/genre	/m/0219x_
+  Trainspotting -> [/film/film/genre] -> Indie film
+/m/0181dw	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  RCA Records -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/01wy6	/music/performance_role/regular_performances./music/group_membership/role	/m/0342h
+  Clarinet -> [/music/performance_role/regular_performances./music/group_membership/role] -> Guitar
+/m/01vdm0	/music/performance_role/track_performances./music/track_contribution/role	/m/0l14md
+  Electronic keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Percussion
+/m/0l14qv	/music/performance_role/regular_performances./music/group_membership/role	/m/0l14md
+  Synthesizer -> [/music/performance_role/regular_performances./music/group_membership/role] -> Percussion
+/m/07lnk	/music/genre/parent_genre	/m/0fd3y
+  Trance music -> [/music/genre/parent_genre] -> Ambient music
+/m/0h7t36	/film/film/genre	/m/0219x_
+  Synecdoche, New York -> [/film/film/genre] -> Indie film
+/m/0ggx5q	/music/genre/artists	/m/01vt5c_
+  Dance music -> [/music/genre/artists] -> M.I.A.
+/m/0342h	/music/performance_role/track_performances./music/track_contribution/role	/m/05r5c
+  Guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Piano
+/m/042v_gx	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/02hnl
+  Acoustic guitar -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Drums
+/m/01v_pj6	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01c4_6
+  Fatboy Slim -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Best Alternative Music Album
+/m/01v_pj6	/people/person/profession	/m/0fnpj
+  Fatboy Slim -> [/people/person/profession] -> Keyboard player-GB
+/m/0219x_	/media_common/netflix_genre/titles	/m/0286vp
+  Indie film -> [/media_common/netflix_genre/titles] -> I Shot Andy Warhol
+/m/0l14md	/music/performance_role/track_performances./music/track_contribution/role	/m/042v_gx
+  Percussion -> [/music/performance_role/track_performances./music/track_contribution/role] -> Acoustic guitar
+/m/05r5c	/music/performance_role/track_performances./music/track_contribution/role	/m/0l14md
+  Piano -> [/music/performance_role/track_performances./music/track_contribution/role] -> Percussion
+/m/026t6	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/0l14qv
+  Drum -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Synthesizer
+/m/01vdm0	/music/performance_role/track_performances./music/track_contribution/role	/m/0l14qv
+  Electronic keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Synthesizer
+/m/01v_pj6	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Fatboy Slim -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/012jfb	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Bowling for Columbine -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/0342h	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/05r5c
+  Guitar -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Piano
+/m/0l14qv	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/05r5c
+  Synthesizer -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Piano
+/m/02c6d	/film/film/genre	/m/0219x_
+  Dressed to Kill -> [/film/film/genre] -> Indie film
+/m/01v_pj6	/award/award_nominee/award_nominations./award/award_nomination/award	/m/02f71y
+  Fatboy Slim -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> MTV Video Music Award for Best Choreography
+/m/05148p4	/music/performance_role/track_performances./music/track_contribution/role	/m/042v_gx
+  Keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Acoustic guitar
+/m/06by7	/music/genre/parent_genre	/m/02w4v
+  Rock music -> [/music/genre/parent_genre] -> Folk music
+/m/026t6	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/02hnl
+  Drum -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Drums
+/m/06929s	/film/film/genre	/m/0219x_
+  Enron: The Smartest Guys in the Room-GB -> [/film/film/genre] -> Indie film
+/m/0l14md	/music/performance_role/track_performances./music/track_contribution/role	/m/01vj9c
+  Percussion -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bass
+/m/0gd92	/film/film/genre	/m/0219x_
+  Chasing Amy -> [/film/film/genre] -> Indie film
+/m/01vdm0	/music/performance_role/regular_performances./music/group_membership/role	/m/05r5c
+  Electronic keyboard -> [/music/performance_role/regular_performances./music/group_membership/role] -> Piano
+/m/0m3gy	/film/film/release_date_s./film/film_regional_release_date/film_release_region	/m/07ssc
+  Halloween -> [/film/film/release_date_s./film/film_regional_release_date/film_release_region] -> United Kingdom
+/m/042v_gx	/music/performance_role/regular_performances./music/group_membership/role	/m/018vs
+  Acoustic guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Bass guitar
+/m/018vs	/music/performance_role/regular_performances./music/group_membership/role	/m/01vj9c
+  Bass guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Bass
+/m/01gg59	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  A. R. Rahman -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/02g8mp	/award/award_category/winners./award/award_honor/ceremony	/m/05pd94v
+  Grammy Award for Best Engineered Album, Non-Classical -> [/award/award_category/winners./award/award_honor/ceremony] -> 52nd Annual Grammy Awards-US
+/m/0bpbhm	/film/film/genre	/m/0219x_
+  Cookie's Fortune -> [/film/film/genre] -> Indie film
+/m/016clz	/music/genre/artists	/m/01vt5c_
+  Alternative rock -> [/music/genre/artists] -> M.I.A.
+/m/05_61y	/film/film/genre	/m/0219x_
+  Hearts and Minds -> [/film/film/genre] -> Indie film
+/m/0219x_	/media_common/netflix_genre/titles	/m/04zyhx
+  Indie film -> [/media_common/netflix_genre/titles] -> The Rules of Attraction
+/m/09v42sf	/film/film/release_date_s./film/film_regional_release_date/film_release_region	/m/07ssc
+  Kaboom -> [/film/film/release_date_s./film/film_regional_release_date/film_release_region] -> United Kingdom
+/m/06823p	/film/film/genre	/m/0219x_
+  Talk to Her -> [/film/film/genre] -> Indie film
+/m/05r5c	/music/performance_role/regular_performances./music/group_membership/role	/m/026t6
+  Piano -> [/music/performance_role/regular_performances./music/group_membership/role] -> Drum
+/m/0m0jc	/music/genre/artists	/m/06p03s
+  Electronica -> [/music/genre/artists] -> Imogen Heap
+/m/01v_pj6	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/m/0xsk8
+  Fatboy Slim -> [/award/award_nominee/award_nominations./award/award_nomination/award_nominee] -> Bootsy Collins
+/m/018vs	/music/performance_role/track_performances./music/track_contribution/role	/m/05148p4
+  Bass guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Keyboard
+/m/0219x_	/media_common/netflix_genre/titles	/m/041td_
+  Indie film -> [/media_common/netflix_genre/titles] -> Topsy Turvy
+/m/0sxmx	/film/film/genre	/m/0219x_
+  Platoon -> [/film/film/genre] -> Indie film
+/m/05148p4	/dataworld/gardening_hint/split_to	/m/05148p4
+  Keyboard -> [/dataworld/gardening_hint/split_to] -> Keyboard
+/m/0170z3	/film/film/distributors./film/film_film_distributor_relationship/region	/m/07ssc
+  American History X -> [/film/film/distributors./film/film_film_distributor_relationship/region] -> United Kingdom
+/m/037q31	/film/film/genre	/m/0219x_
+  When We Were Kings -> [/film/film/genre] -> Indie film
+/m/0l14md	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/0l14qv
+  Percussion -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Synthesizer
+/m/01vj9c	/music/performance_role/regular_performances./music/group_membership/role	/m/0l14md
+  Bass -> [/music/performance_role/regular_performances./music/group_membership/role] -> Percussion
+/m/0cw3yd	/film/film/country	/m/07ssc
+  Away from Her -> [/film/film/country] -> United Kingdom
+/m/01vdm0	/music/instrument/family	/m/05148p4
+  Electronic keyboard -> [/music/instrument/family] -> Keyboard
+/m/02jx1	/location/administrative_division/first_level_division_of	/m/07ssc
+  England -> [/location/administrative_division/first_level_division_of] -> United Kingdom
+/m/05ft32	/film/film/genre	/m/0219x_
+  The Believer -> [/film/film/genre] -> Indie film
+/m/0342h	/music/instrument/instrumentalists	/m/01v_pj6
+  Guitar -> [/music/instrument/instrumentalists] -> Fatboy Slim
+/m/0181dw	/music/record_label/artist	/m/06p03s
+  RCA Records -> [/music/record_label/artist] -> Imogen Heap
+/m/01vj9c	/music/performance_role/track_performances./music/track_contribution/role	/m/01xqw
+  Bass -> [/music/performance_role/track_performances./music/track_contribution/role] -> Cello
+/m/02f73b	/award/award_category/winners./award/award_honor/award_winner	/m/01v_pj6
+  MTV Video Music Award for Best Editing -> [/award/award_category/winners./award/award_honor/award_winner] -> Fatboy Slim
+/m/0l14qv	/music/performance_role/regular_performances./music/group_membership/role	/m/05148p4
+  Synthesizer -> [/music/performance_role/regular_performances./music/group_membership/role] -> Keyboard
+/m/042v_gx	/music/performance_role/track_performances./music/track_contribution/role	/m/026t6
+  Acoustic guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Drum
+/m/0m0jc	/music/genre/parent_genre	/m/06by7
+  Electronica -> [/music/genre/parent_genre] -> Rock music
+/m/053tj7	/film/film/genre	/m/0219x_
+  Inside Deep Throat -> [/film/film/genre] -> Indie film
+/m/053tj7	/film/film/release_date_s./film/film_regional_release_date/film_release_region	/m/07ssc
+  Inside Deep Throat -> [/film/film/release_date_s./film/film_regional_release_date/film_release_region] -> United Kingdom
+/m/0l14md	/music/performance_role/regular_performances./music/group_membership/role	/m/05r5c
+  Percussion -> [/music/performance_role/regular_performances./music/group_membership/role] -> Piano
+/m/0827d	/music/genre/artists	/m/01vt5c_
+  World music -> [/music/genre/artists] -> M.I.A.
+/m/01vj9c	/music/performance_role/track_performances./music/track_contribution/role	/m/026t6
+  Bass -> [/music/performance_role/track_performances./music/track_contribution/role] -> Drum
+/m/05148p4	/music/performance_role/track_performances./music/track_contribution/role	/m/0l14md
+  Keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Percussion
+/m/0p9lw	/film/film/prequel	/m/0gd92
+  Dogma -> [/film/film/prequel] -> Chasing Amy
+/m/06p03s	/award/award_nominee/award_nominations./award/award_nomination/award	/m/02gdjb
+  Imogen Heap -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Best Pop Instrumental Performance
+/m/01n30p	/film/film/genre	/m/0219x_
+  Ghost World -> [/film/film/genre] -> Indie film
+/m/01v_pj6	/award/award_nominee/award_nominations./award/award_nomination/award	/m/02f777
+  Fatboy Slim -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> MTV Video Music Award for Best Electronic Dance Music Video
+/m/026t6	/music/performance_role/regular_performances./music/group_membership/role	/m/0l14md
+  Drum -> [/music/performance_role/regular_performances./music/group_membership/role] -> Percussion
+/m/07ghq	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  The Terminator -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/03m8y5	/film/film/genre	/m/0219x_
+  Celebrity -> [/film/film/genre] -> Indie film
+/m/05r5c	/music/instrument/instrumentalists	/m/06p03s
+  Piano -> [/music/instrument/instrumentalists] -> Imogen Heap
+/m/0413cff	/film/film/featured_film_locations	/m/04jpl
+  Motherland -> [/film/film/featured_film_locations] -> London
+/m/018vs	/music/performance_role/regular_performances./music/group_membership/role	/m/0l14md
+  Bass guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Percussion
+/m/0m0jc	/music/genre/artists	/m/01v_pj6
+  Electronica -> [/music/genre/artists] -> Fatboy Slim
+/m/0fq9zdv	/award/award_category/nominees./award/award_nomination/nominated_for	/m/01l2b3
+  British Independent Film Award for Best British Independent Film -> [/award/award_category/nominees./award/award_nomination/nominated_for] -> Bend It Like Beckham
+/m/04b_jc	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  The Station Agent -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/01vj9c	/music/performance_role/regular_performances./music/group_membership/role	/m/0l14qv
+  Bass -> [/music/performance_role/regular_performances./music/group_membership/role] -> Synthesizer
+/m/0l14md	/music/performance_role/regular_performances./music/group_membership/role	/m/01vdm0
+  Percussion -> [/music/performance_role/regular_performances./music/group_membership/role] -> Electronic keyboard
+/m/01vj9c	/music/performance_role/track_performances./music/track_contribution/role	/m/018vs
+  Bass -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bass guitar
+/m/0h7t36	/award/award_winning_work/awards_won./award/award_honor/award_winner	/m/06pk8
+  Synecdoche, New York -> [/award/award_winning_work/awards_won./award/award_honor/award_winner] -> Spike Jonze
+/m/03sxd2	/film/film/genre	/m/0219x_
+  Summer of Sam -> [/film/film/genre] -> Indie film
+/m/01wy6	/music/performance_role/track_performances./music/track_contribution/role	/m/01vdm0
+  Clarinet -> [/music/performance_role/track_performances./music/track_contribution/role] -> Electronic keyboard
+/m/01gg59	/people/person/profession	/m/09jwl
+  A. R. Rahman -> [/people/person/profession] -> Musician-GB
+/m/01vdm0	/music/performance_role/track_performances./music/track_contribution/role	/m/01vj9c
+  Electronic keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bass
+/m/04q01mn	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Gran Torino -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/02s4l6	/film/film/genre	/m/0219x_
+  Velvet Goldmine -> [/film/film/genre] -> Indie film
+/m/011yph	/film/film/genre	/m/0219x_
+  The Full Monty -> [/film/film/genre] -> Indie film
+/m/01vt5c_	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0gqz2
+  M.I.A. -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Academy Award for Best Original Song
+/m/042v_gx	/music/performance_role/regular_performances./music/group_membership/role	/m/0l14qv
+  Acoustic guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Synthesizer
+/m/01g_bs	/music/genre/artists	/m/01v_pj6
+  Acid house -> [/music/genre/artists] -> Fatboy Slim
+/m/01br2w	/film/film/genre	/m/0219x_
+  The Passion of the Christ -> [/film/film/genre] -> Indie film
+/m/026t6	/music/performance_role/track_performances./music/track_contribution/role	/m/01vdm0
+  Drum -> [/music/performance_role/track_performances./music/track_contribution/role] -> Electronic keyboard
+/m/0bs8ndx	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Super -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/01vj9c	/music/performance_role/track_performances./music/track_contribution/role	/m/0l14qv
+  Bass -> [/music/performance_role/track_performances./music/track_contribution/role] -> Synthesizer
+/m/026t6	/music/performance_role/track_performances./music/track_contribution/role	/m/0l14qv
+  Drum -> [/music/performance_role/track_performances./music/track_contribution/role] -> Synthesizer
+/m/07ssc	/media_common/netflix_genre/titles	/m/0m9p3
+  United Kingdom -> [/media_common/netflix_genre/titles] -> A Bridge Too Far
+/m/0bs8ndx	/film/film/genre	/m/0219x_
+  Super -> [/film/film/genre] -> Indie film
+/m/0xsk8	/music/group_member/membership./music/group_membership/role	/m/018vs
+  Bootsy Collins -> [/music/group_member/membership./music/group_membership/role] -> Bass guitar
+/m/05148p4	/music/instrument/instrumentalists	/m/01v_pj6
+  Keyboard -> [/music/instrument/instrumentalists] -> Fatboy Slim
+/m/07s3m4g	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Paranormal Activity -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/06p03s	/people/person/gender	/m/02zsn
+  Imogen Heap -> [/people/person/gender] -> Female
+/m/06kl78	/film/film/country	/m/07ssc
+  Crash -> [/film/film/country] -> United Kingdom
+/m/02hnl	/music/performance_role/track_performances./music/track_contribution/role	/m/0l14qv
+  Drums -> [/music/performance_role/track_performances./music/track_contribution/role] -> Synthesizer
+/m/018vs	/music/performance_role/track_performances./music/track_contribution/role	/m/02hnl
+  Bass guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Drums
+/m/03q8xj	/film/film/genre	/m/0219x_
+  The Motorcycle Diaries -> [/film/film/genre] -> Indie film
+/m/01v_pj6	/music/artist/track_contributions./music/track_contribution/role	/m/01vj9c
+  Fatboy Slim -> [/music/artist/track_contributions./music/track_contribution/role] -> Bass
+/m/07ssc	/media_common/netflix_genre/titles	/m/026njb5
+  United Kingdom -> [/media_common/netflix_genre/titles] -> Red Road
+/m/07d2d	/music/genre/artists	/m/06p03s
+  Trip hop -> [/music/genre/artists] -> Imogen Heap
+/m/0fq9zdv	/award/award_category/nominees./award/award_nomination/nominated_for	/m/026njb5
+  British Independent Film Award for Best British Independent Film -> [/award/award_category/nominees./award/award_nomination/nominated_for] -> Red Road
+/m/01v_pj6	/people/person/gender	/m/05zppz
+  Fatboy Slim -> [/people/person/gender] -> Male
+/m/011ysn	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  The Thin Red Line -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/01xqw	/music/performance_role/track_performances./music/track_contribution/role	/m/026t6
+  Cello -> [/music/performance_role/track_performances./music/track_contribution/role] -> Drum
+/m/06p03s	/music/artist/track_contributions./music/track_contribution/role	/m/026t6
+  Imogen Heap -> [/music/artist/track_contributions./music/track_contribution/role] -> Drum
+/m/0ddfwj1	/film/film/country	/m/07ssc
+  Submarine -> [/film/film/country] -> United Kingdom
+/m/07ssc	/media_common/netflix_genre/titles	/m/0ddfwj1
+  United Kingdom -> [/media_common/netflix_genre/titles] -> Submarine
+/m/01vfqh	/film/film/genre	/m/0219x_
+  Barton Fink -> [/film/film/genre] -> Indie film
+/m/040_lv	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  I Heart Huckabees -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/026njb5	/film/film/release_date_s./film/film_regional_release_date/film_release_region	/m/07ssc
+  Red Road -> [/film/film/release_date_s./film/film_regional_release_date/film_release_region] -> United Kingdom
+/m/04b_jc	/film/film/genre	/m/0219x_
+  The Station Agent -> [/film/film/genre] -> Indie film
+/m/01wy6	/music/performance_role/track_performances./music/track_contribution/role	/m/05r5c
+  Clarinet -> [/music/performance_role/track_performances./music/track_contribution/role] -> Piano
+/m/0xsk8	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/m/06pk8
+  Bootsy Collins -> [/award/award_nominee/award_nominations./award/award_nomination/award_nominee] -> Spike Jonze
+/m/018vs	/music/performance_role/regular_performances./music/group_membership/role	/m/01xqw
+  Bass guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Cello
+/m/0xsk8	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Bootsy Collins -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/0gd92	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Chasing Amy -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/06by7	/music/genre/artists	/m/06p03s
+  Rock music -> [/music/genre/artists] -> Imogen Heap
+/m/0xsk8	/music/artist/track_contributions./music/track_contribution/role	/m/018vs
+  Bootsy Collins -> [/music/artist/track_contributions./music/track_contribution/role] -> Bass guitar
+/m/06pk8	/people/person/gender	/m/05zppz
+  Spike Jonze -> [/people/person/gender] -> Male
+/m/064t9	/music/genre/parent_genre	/m/0827d
+  Pop music -> [/music/genre/parent_genre] -> World music
+/m/02hnl	/music/performance_role/track_performances./music/track_contribution/role	/m/0l14md
+  Drums -> [/music/performance_role/track_performances./music/track_contribution/role] -> Percussion
+/m/0342h	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/0l14qv
+  Guitar -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Synthesizer
+/m/04ghz4m	/film/film/genre	/m/0219x_
+  Bad Lieutenant: Port of Call New Orleans -> [/film/film/genre] -> Indie film
+/m/0342h	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/01vj9c
+  Guitar -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Bass
+/m/03hmt9b	/award/award_winning_work/awards_won./award/award_honor/award	/m/0fq9zdv
+  Slumdog Millionaire -> [/award/award_winning_work/awards_won./award/award_honor/award] -> British Independent Film Award for Best British Independent Film
+/m/018vs	/music/instrument/instrumentalists	/m/0xsk8
+  Bass guitar -> [/music/instrument/instrumentalists] -> Bootsy Collins
+/m/01vj9c	/music/performance_role/regular_performances./music/group_membership/role	/m/042v_gx
+  Bass -> [/music/performance_role/regular_performances./music/group_membership/role] -> Acoustic guitar
+/m/02hnl	/music/performance_role/regular_performances./music/group_membership/role	/m/018vs
+  Drums -> [/music/performance_role/regular_performances./music/group_membership/role] -> Bass guitar
+/m/0d8w2n	/film/film/distributors./film/film_film_distributor_relationship/region	/m/07ssc
+  Shortbus -> [/film/film/distributors./film/film_film_distributor_relationship/region] -> United Kingdom
+/m/01vt5c_	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  M.I.A. -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/0d8w2n	/film/film/genre	/m/0219x_
+  Shortbus -> [/film/film/genre] -> Indie film
+/m/0sxns	/film/film/genre	/m/0219x_
+  Hannah and Her Sisters -> [/film/film/genre] -> Indie film
+/m/01wy6	/music/performance_role/regular_performances./music/group_membership/role	/m/02hnl
+  Clarinet -> [/music/performance_role/regular_performances./music/group_membership/role] -> Drums
+/m/0kvgxk	/film/film/genre	/m/0219x_
+  The Ice Storm -> [/film/film/genre] -> Indie film
+/m/053tj7	/film/film/distributors./film/film_film_distributor_relationship/region	/m/07ssc
+  Inside Deep Throat -> [/film/film/distributors./film/film_film_distributor_relationship/region] -> United Kingdom
+/m/0280061	/film/film/country	/m/07ssc
+  This Is England -> [/film/film/country] -> United Kingdom
+/m/05148p4	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/018vs
+  Keyboard -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Bass guitar
+/m/0l14qv	/music/performance_role/track_performances./music/track_contribution/role	/m/0342h
+  Synthesizer -> [/music/performance_role/track_performances./music/track_contribution/role] -> Guitar
+/m/04t9c0	/film/film/genre	/m/0219x_
+  Mighty Aphrodite -> [/film/film/genre] -> Indie film
+/m/05148p4	/music/performance_role/regular_performances./music/group_membership/role	/m/018vs
+  Keyboard -> [/music/performance_role/regular_performances./music/group_membership/role] -> Bass guitar
+/m/01vdm0	/music/performance_role/track_performances./music/track_contribution/role	/m/0342h
+  Electronic keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Guitar
+/m/03hmt9b	/film/film/genre	/m/0219x_
+  Slumdog Millionaire -> [/film/film/genre] -> Indie film
+/m/07lnk	/music/genre/artists	/m/01v_pj6
+  Trance music -> [/music/genre/artists] -> Fatboy Slim
+/m/01dc0c	/film/film/genre	/m/0219x_
+  Seven -> [/film/film/genre] -> Indie film
+/m/016mhd	/film/film/genre	/m/0219x_
+  Billy Elliot-GB -> [/film/film/genre] -> Indie film
+/m/04smdd	/film/film/genre	/m/0219x_
+  Crimes and Misdemeanors -> [/film/film/genre] -> Indie film
+/m/0342h	/music/performance_role/regular_performances./music/group_membership/role	/m/02hnl
+  Guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Drums
+/m/042v_gx	/music/performance_role/track_performances./music/track_contribution/role	/m/0l14qv
+  Acoustic guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Synthesizer
+/m/01xqw	/music/performance_role/track_performances./music/track_contribution/role	/m/05r5c
+  Cello -> [/music/performance_role/track_performances./music/track_contribution/role] -> Piano
+/m/05148p4	/music/performance_role/track_performances./music/track_contribution/role	/m/02hnl
+  Keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Drums
+/m/02f72_	/award/award_category/winners./award/award_honor/award_winner	/m/01v_pj6
+  MTV Video Music Award for Best Art Direction -> [/award/award_category/winners./award/award_honor/award_winner] -> Fatboy Slim
+/m/05r5c	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/026t6
+  Piano -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Drum
+/m/01xqw	/music/performance_role/track_performances./music/track_contribution/role	/m/01vj9c
+  Cello -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bass
+/m/01v_pj6	/award/award_nominee/award_nominations./award/award_nomination/award	/m/02f72_
+  Fatboy Slim -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> MTV Video Music Award for Best Art Direction
+/m/0fnpj	/people/profession/specialization_of	/m/09jwl
+  Keyboard player-GB -> [/people/profession/specialization_of] -> Musician-GB
+/m/02w4v	/music/genre/artists	/m/01vt5c_
+  Folk music -> [/music/genre/artists] -> M.I.A.
+/m/05rwpb	/music/genre/artists	/m/06p03s
+  Indie -> [/music/genre/artists] -> Imogen Heap
+/m/01v_pj6	/award/award_winner/awards_won./award/award_honor/award_winner	/m/0xsk8
+  Fatboy Slim -> [/award/award_winner/awards_won./award/award_honor/award_winner] -> Bootsy Collins
+/m/01xqw	/music/performance_role/regular_performances./music/group_membership/role	/m/02hnl
+  Cello -> [/music/performance_role/regular_performances./music/group_membership/role] -> Drums
+/m/02hnl	/music/instrument/instrumentalists	/m/06p03s
+  Drums -> [/music/instrument/instrumentalists] -> Imogen Heap
+/m/01gg59	/people/person/gender	/m/05zppz
+  A. R. Rahman -> [/people/person/gender] -> Male
+/m/01c427	/award/award_category/winners./award/award_honor/ceremony	/m/05pd94v
+  Grammy Award for Best New Artist -> [/award/award_category/winners./award/award_honor/ceremony] -> 52nd Annual Grammy Awards-US
+/m/03qnc6q	/film/film/release_date_s./film/film_regional_release_date/film_release_region	/m/07ssc
+  The Tree of Life -> [/film/film/release_date_s./film/film_regional_release_date/film_release_region] -> United Kingdom
+/m/01l2b3	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Bend It Like Beckham -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/041n43	/music/record_label/artist	/m/01vt5c_
+  XL Recordings -> [/music/record_label/artist] -> M.I.A.
+/m/01vt5c_	/people/person/profession	/m/0lgw7
+  M.I.A. -> [/people/person/profession] -> Photographer
+/m/05rwpb	/music/genre/artists	/m/01vt5c_
+  Indie -> [/music/genre/artists] -> M.I.A.
+/m/07d2d	/music/genre/artists	/m/01v_pj6
+  Trip hop -> [/music/genre/artists] -> Fatboy Slim
+/m/0l14qv	/music/performance_role/regular_performances./music/group_membership/role	/m/02hnl
+  Synthesizer -> [/music/performance_role/regular_performances./music/group_membership/role] -> Drums
+/m/013b2h	/award/award_ceremony/awards_presented./award/award_honor/award_winner	/m/01v_pj6
+  44th Annual Grammy Awards -> [/award/award_ceremony/awards_presented./award/award_honor/award_winner] -> Fatboy Slim
+/m/05r5c	/music/performance_role/track_performances./music/track_contribution/role	/m/05148p4
+  Piano -> [/music/performance_role/track_performances./music/track_contribution/role] -> Keyboard
+/m/0170z3	/film/film/genre	/m/0219x_
+  American History X -> [/film/film/genre] -> Indie film
+/m/01y_px	/people/person/spouse_s./people/marriage/type_of_union	/m/04ztj
+  Jeff Goldblum -> [/people/person/spouse_s./people/marriage/type_of_union] -> Marriage
+/m/0fvr1	/film/film/genre	/m/0219x_
+  Donnie Darko -> [/film/film/genre] -> Indie film
+/m/01wy6	/music/instrument/instrumentalists	/m/06p03s
+  Clarinet -> [/music/instrument/instrumentalists] -> Imogen Heap
+/m/01xqw	/music/performance_role/regular_performances./music/group_membership/role	/m/01vj9c
+  Cello -> [/music/performance_role/regular_performances./music/group_membership/role] -> Bass
+/m/06t6dz	/film/film/genre	/m/0219x_
+  Hustle & Flow -> [/film/film/genre] -> Indie film
+/m/01vdm0	/music/performance_role/track_performances./music/track_contribution/role	/m/01xqw
+  Electronic keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Cello
+/m/0bhsnb	/people/ethnicity/people	/m/01vt5c_
+  Sri Lankan Tamils -> [/people/ethnicity/people] -> M.I.A.
+/m/05148p4	/music/performance_role/track_performances./music/track_contribution/role	/m/026t6
+  Keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Drum
+/m/01xqw	/music/performance_role/regular_performances./music/group_membership/role	/m/0342h
+  Cello -> [/music/performance_role/regular_performances./music/group_membership/role] -> Guitar
+/m/05148p4	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/05r5c
+  Keyboard -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Piano
+/m/0219x_	/media_common/netflix_genre/titles	/m/05q_dw
+  Indie film -> [/media_common/netflix_genre/titles] -> The Squid and the Whale
+/m/02hnl	/music/performance_role/regular_performances./music/group_membership/role	/m/0l14md
+  Drums -> [/music/performance_role/regular_performances./music/group_membership/role] -> Percussion
+/m/02jx1	/dataworld/gardening_hint/split_to	/m/07ssc
+  England -> [/dataworld/gardening_hint/split_to] -> United Kingdom
+/m/05r5c	/music/instrument/family	/m/05148p4
+  Piano -> [/music/instrument/family] -> Keyboard
+/m/0l14qv	/music/performance_role/regular_performances./music/group_membership/role	/m/042v_gx
+  Synthesizer -> [/music/performance_role/regular_performances./music/group_membership/role] -> Acoustic guitar
+/m/01rnly	/film/film/genre	/m/0219x_
+  The Cotton Club -> [/film/film/genre] -> Indie film
+/m/02q8ms8	/film/film/genre	/m/0219x_
+  The Brothers Bloom -> [/film/film/genre] -> Indie film
+/m/026t6	/music/performance_role/track_performances./music/track_contribution/role	/m/01vj9c
+  Drum -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bass
+/m/04q01mn	/film/film/genre	/m/0219x_
+  Gran Torino -> [/film/film/genre] -> Indie film
+/m/09v42sf	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Kaboom -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/042v_gx	/music/performance_role/regular_performances./music/group_membership/role	/m/026t6
+  Acoustic guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Drum
+/m/0f4vx	/film/film/country	/m/07ssc
+  Leaving Las Vegas -> [/film/film/country] -> United Kingdom
+/m/01v_pj6	/music/group_member/membership./music/group_membership/role	/m/018vs
+  Fatboy Slim -> [/music/group_member/membership./music/group_membership/role] -> Bass guitar
+/m/06p03s	/music/artist/track_contributions./music/track_contribution/role	/m/05148p4
+  Imogen Heap -> [/music/artist/track_contributions./music/track_contribution/role] -> Keyboard
+/m/06p03s	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01c427
+  Imogen Heap -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Best New Artist
+/m/02hnl	/music/performance_role/track_performances./music/track_contribution/role	/m/0342h
+  Drums -> [/music/performance_role/track_performances./music/track_contribution/role] -> Guitar
+/m/0gqz2	/award/award_category/winners./award/award_honor/award_winner	/m/01gg59
+  Academy Award for Best Original Song -> [/award/award_category/winners./award/award_honor/award_winner] -> A. R. Rahman
+/m/02hnl	/music/instrument/family	/m/0l14md
+  Drums -> [/music/instrument/family] -> Percussion
+/m/026t6	/music/performance_role/track_performances./music/track_contribution/role	/m/01wy6
+  Drum -> [/music/performance_role/track_performances./music/track_contribution/role] -> Clarinet
+/m/093l8p	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Transamerica -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/029h7y	/music/genre/artists	/m/01vt5c_
+  Electro -> [/music/genre/artists] -> M.I.A.
+/m/0fq9zdv	/award/award_category/nominees./award/award_nomination/nominated_for	/m/03hmt9b
+  British Independent Film Award for Best British Independent Film -> [/award/award_category/nominees./award/award_nomination/nominated_for] -> Slumdog Millionaire
+/m/05pd94v	/award/award_ceremony/awards_presented./award/award_honor/award_winner	/m/06p03s
+  52nd Annual Grammy Awards-US -> [/award/award_ceremony/awards_presented./award/award_honor/award_winner] -> Imogen Heap
+/m/0fq9zdv	/award/award_category/nominees./award/award_nomination/nominated_for	/m/016mhd
+  British Independent Film Award for Best British Independent Film -> [/award/award_category/nominees./award/award_nomination/nominated_for] -> Billy Elliot-GB
+/m/0342h	/music/performance_role/track_performances./music/track_contribution/role	/m/02hnl
+  Guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Drums
+/m/04j_h4	/music/genre/artists	/m/01vt5c_
+  Grime -> [/music/genre/artists] -> M.I.A.
+/m/02jx1	/base/aareas/schema/administrative_area/administrative_parent	/m/07ssc
+  England -> [/base/aareas/schema/administrative_area/administrative_parent] -> United Kingdom
+/m/0p_sc	/film/film/country	/m/07ssc
+  Midnight Express -> [/film/film/country] -> United Kingdom
+/m/0fq9zdv	/award/award_category/nominees./award/award_nomination/nominated_for	/m/0280061
+  British Independent Film Award for Best British Independent Film -> [/award/award_category/nominees./award/award_nomination/nominated_for] -> This Is England
+/m/0219x_	/media_common/netflix_genre/titles	/m/0qf2t
+  Indie film -> [/media_common/netflix_genre/titles] -> Trainspotting
+/m/01vj9c	/music/performance_role/regular_performances./music/group_membership/role	/m/01vdm0
+  Bass -> [/music/performance_role/regular_performances./music/group_membership/role] -> Electronic keyboard
+/m/018vs	/music/performance_role/regular_performances./music/group_membership/role	/m/026t6
+  Bass guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Drum
+/m/02q8ms8	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  The Brothers Bloom -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/017z49	/film/film/genre	/m/0219x_
+  Memento -> [/film/film/genre] -> Indie film
+/m/06by7	/film/film_subject/films	/m/05q7874
+  Rock music -> [/film/film_subject/films] -> The Runaways
+/m/05r5c	/music/performance_role/regular_performances./music/group_membership/role	/m/01vj9c
+  Piano -> [/music/performance_role/regular_performances./music/group_membership/role] -> Bass
+/m/018vs	/music/performance_role/track_performances./music/track_contribution/role	/m/05r5c
+  Bass guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Piano
+/m/02hnl	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/042v_gx
+  Drums -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Acoustic guitar
+/m/0xsk8	/music/artist/contribution./music/recording_contribution/performance_role	/m/0l14md
+  Bootsy Collins -> [/music/artist/contribution./music/recording_contribution/performance_role] -> Percussion
+/m/053tj7	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Inside Deep Throat -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/042v_gx	/music/performance_role/regular_performances./music/group_membership/role	/m/01xqw
+  Acoustic guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Cello
+/m/05148p4	/music/performance_role/regular_performances./music/group_membership/role	/m/0l14md
+  Keyboard -> [/music/performance_role/regular_performances./music/group_membership/role] -> Percussion
+/m/0bnzd	/film/film/genre	/m/0219x_
+  In the Bedroom -> [/film/film/genre] -> Indie film
+/m/01gg59	/people/person/spouse_s./people/marriage/type_of_union	/m/04ztj
+  A. R. Rahman -> [/people/person/spouse_s./people/marriage/type_of_union] -> Marriage
+/m/01v_pj6	/music/artist/track_contributions./music/track_contribution/role	/m/0l14qv
+  Fatboy Slim -> [/music/artist/track_contributions./music/track_contribution/role] -> Synthesizer
+/m/05c46y6	/film/film/genre	/m/0219x_
+  Precious: Based on the Novel Push by Sapphire -> [/film/film/genre] -> Indie film
+/m/01vj9c	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/0342h
+  Bass -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Guitar
+/m/05r5c	/music/performance_role/regular_performances./music/group_membership/role	/m/018vs
+  Piano -> [/music/performance_role/regular_performances./music/group_membership/role] -> Bass guitar
+/m/01v_pj6	/people/person/profession	/m/02dsz
+  Fatboy Slim -> [/people/person/profession] -> Disc jockey-GB
+/m/06pk8	/people/person/spouse_s./people/marriage/type_of_union	/m/04ztj
+  Spike Jonze -> [/people/person/spouse_s./people/marriage/type_of_union] -> Marriage
+/m/0fq9zdv	/award/award_category/disciplines_or_subjects	/m/0219x_
+  British Independent Film Award for Best British Independent Film -> [/award/award_category/disciplines_or_subjects] -> Indie film
+/m/0l14qv	/music/performance_role/regular_performances./music/group_membership/role	/m/026t6
+  Synthesizer -> [/music/performance_role/regular_performances./music/group_membership/role] -> Drum
+/m/042v_gx	/music/performance_role/regular_performances./music/group_membership/role	/m/0342h
+  Acoustic guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Guitar
+/m/05148p4	/music/performance_role/track_performances./music/track_contribution/role	/m/05r5c
+  Keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Piano
+/m/075qbd2	/dataworld/gardening_hint/split_to	/m/01x214
+  Independent -> [/dataworld/gardening_hint/split_to] -> Independent record label
+/m/01n30p	/film/film/country	/m/07ssc
+  Ghost World -> [/film/film/country] -> United Kingdom
+/m/016clz	/music/genre/artists	/m/06p03s
+  Alternative rock -> [/music/genre/artists] -> Imogen Heap
+/m/064q5v	/film/film/country	/m/07ssc
+  Why We Fight -> [/film/film/country] -> United Kingdom
+/m/01l2b3	/film/film/genre	/m/0219x_
+  Bend It Like Beckham -> [/film/film/genre] -> Indie film
+/m/0symg	/film/film/genre	/m/0219x_
+  Dead Man -> [/film/film/genre] -> Indie film
+/m/01wy6	/music/performance_role/regular_performances./music/group_membership/role	/m/0l14md
+  Clarinet -> [/music/performance_role/regular_performances./music/group_membership/role] -> Percussion
+/m/0827d	/music/genre/artists	/m/01gg59
+  World music -> [/music/genre/artists] -> A. R. Rahman
+/m/0342h	/music/performance_role/track_performances./music/track_contribution/role	/m/0l14md
+  Guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Percussion
+/m/018vs	/music/instrument/family	/m/01vj9c
+  Bass guitar -> [/music/instrument/family] -> Bass
+/m/018vs	/music/performance_role/regular_performances./music/group_membership/role	/m/05148p4
+  Bass guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Keyboard
+/m/01vj9c	/music/performance_role/track_performances./music/track_contribution/role	/m/01wy6
+  Bass -> [/music/performance_role/track_performances./music/track_contribution/role] -> Clarinet
+/m/02hnl	/music/instrument/instrumentalists	/m/01gg59
+  Drums -> [/music/instrument/instrumentalists] -> A. R. Rahman
+/m/02hnl	/music/performance_role/track_performances./music/track_contribution/role	/m/01xqw
+  Drums -> [/music/performance_role/track_performances./music/track_contribution/role] -> Cello
+/m/0m9p3	/film/film/genre	/m/0219x_
+  A Bridge Too Far -> [/film/film/genre] -> Indie film
+/m/042v_gx	/music/performance_role/track_performances./music/track_contribution/role	/m/01xqw
+  Acoustic guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Cello
+/m/03hmt9b	/film/film/music	/m/01gg59
+  Slumdog Millionaire -> [/film/film/music] -> A. R. Rahman
+/m/018vs	/music/performance_role/track_performances./music/track_contribution/role	/m/01vj9c
+  Bass guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bass
+/m/0bs8ndx	/film/film/release_date_s./film/film_regional_release_date/film_release_region	/m/07ssc
+  Super -> [/film/film/release_date_s./film/film_regional_release_date/film_release_region] -> United Kingdom
+/m/01vt5c_	/award/award_nominee/award_nominations./award/award_nomination/award	/m/02f5qb
+  M.I.A. -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> MTV Video Music Award for Video of the Year
+/m/0342h	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/05148p4
+  Guitar -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Keyboard
+/m/01vt5c_	/people/person/profession	/m/01c72t
+  M.I.A. -> [/people/person/profession] -> Composer
+/m/04z_3pm	/film/film/release_date_s./film/film_regional_release_date/film_release_region	/m/07ssc
+  Mary and Max -> [/film/film/release_date_s./film/film_regional_release_date/film_release_region] -> United Kingdom
+/m/08cyft	/music/genre/artists	/m/01gg59
+  Electronic dance music -> [/music/genre/artists] -> A. R. Rahman
+/m/064t9	/music/genre/parent_genre	/m/0ggq0m
+  Pop music -> [/music/genre/parent_genre] -> Classical music
+/m/01w8g3	/film/film/country	/m/07ssc
+  Calendar Girls -> [/film/film/country] -> United Kingdom
+/m/0fd3y	/music/genre/artists	/m/06p03s
+  Ambient music -> [/music/genre/artists] -> Imogen Heap
+/m/01v_pj6	/award/award_nominee/award_nominations./award/award_nomination/award	/m/02f73p
+  Fatboy Slim -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> MTV Video Music Award for Best Cinematography
+/m/0kvgxk	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  The Ice Storm -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/0sxmx	/film/film/country	/m/07ssc
+  Platoon -> [/film/film/country] -> United Kingdom
+/m/07bwr	/film/film/genre	/m/0219x_
+  The Big Lebowski -> [/film/film/genre] -> Indie film
+/m/07l4zhn	/film/film/genre	/m/0219x_
+  Get Low -> [/film/film/genre] -> Indie film
+/m/01v_pj6	/music/artist/track_contributions./music/track_contribution/role	/m/01vdm0
+  Fatboy Slim -> [/music/artist/track_contributions./music/track_contribution/role] -> Electronic keyboard
+/m/01m13b	/film/film/country	/m/07ssc
+  Dancer in the Dark -> [/film/film/country] -> United Kingdom
+/m/05148p4	/music/performance_role/regular_performances./music/group_membership/role	/m/042v_gx
+  Keyboard -> [/music/performance_role/regular_performances./music/group_membership/role] -> Acoustic guitar
+/m/0l14md	/music/performance_role/track_performances./music/track_contribution/role	/m/05148p4
+  Percussion -> [/music/performance_role/track_performances./music/track_contribution/role] -> Keyboard
+/m/0l14md	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/026t6
+  Percussion -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Drum
+/m/014bpd	/film/film/genre	/m/0219x_
+  Heavy Metal -> [/film/film/genre] -> Indie film
+/m/05r5c	/music/performance_role/regular_performances./music/group_membership/role	/m/05148p4
+  Piano -> [/music/performance_role/regular_performances./music/group_membership/role] -> Keyboard
+/m/0l14qv	/music/performance_role/regular_performances./music/group_membership/role	/m/05r5c
+  Synthesizer -> [/music/performance_role/regular_performances./music/group_membership/role] -> Piano
+/m/0342h	/music/performance_role/regular_performances./music/group_membership/role	/m/0l14md
+  Guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Percussion
+/m/0342h	/music/performance_role/track_performances./music/track_contribution/role	/m/01vj9c
+  Guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bass
+/m/03rlps	/music/genre/artists	/m/06p03s
+  Folktronica -> [/music/genre/artists] -> Imogen Heap
+/m/05r5c	/music/performance_role/track_performances./music/track_contribution/role	/m/0l14qv
+  Piano -> [/music/performance_role/track_performances./music/track_contribution/role] -> Synthesizer
+/m/01xqw	/music/performance_role/regular_performances./music/group_membership/role	/m/0l14md
+  Cello -> [/music/performance_role/regular_performances./music/group_membership/role] -> Percussion
+/m/05rwpb	/music/genre/artists	/m/01v_pj6
+  Indie -> [/music/genre/artists] -> Fatboy Slim
+/m/0219x_	/media_common/netflix_genre/titles	/m/0djlxb
+  Indie film -> [/media_common/netflix_genre/titles] -> I'm Not There
+/m/042v_gx	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/018vs
+  Acoustic guitar -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Bass guitar
+/m/093l8p	/film/film/genre	/m/0219x_
+  Transamerica -> [/film/film/genre] -> Indie film
+/m/018vs	/music/performance_role/regular_performances./music/group_membership/role	/m/0l14qv
+  Bass guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Synthesizer
+/m/01vj9c	/music/performance_role/regular_performances./music/group_membership/role	/m/02hnl
+  Bass -> [/music/performance_role/regular_performances./music/group_membership/role] -> Drums
+/m/01vj9c	/music/performance_role/track_performances./music/track_contribution/role	/m/0342h
+  Bass -> [/music/performance_role/track_performances./music/track_contribution/role] -> Guitar
+/m/041td_	/film/film/genre	/m/0219x_
+  Topsy Turvy -> [/film/film/genre] -> Indie film
+/m/0l14qv	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/0l14md
+  Synthesizer -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Percussion
+/m/01v_pj6	/music/group_member/membership./music/group_membership/role	/m/02hnl
+  Fatboy Slim -> [/music/group_member/membership./music/group_membership/role] -> Drums
+/m/042v_gx	/music/performance_role/regular_performances./music/group_membership/role	/m/0l14md
+  Acoustic guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Percussion
+/m/01vj9c	/music/performance_role/regular_performances./music/group_membership/role	/m/018vs
+  Bass -> [/music/performance_role/regular_performances./music/group_membership/role] -> Bass guitar
+/m/0175zz	/music/genre/artists	/m/06p03s
+  Dream pop -> [/music/genre/artists] -> Imogen Heap
+/m/01gg59	/people/person/profession	/m/01c72t
+  A. R. Rahman -> [/people/person/profession] -> Composer
+/m/0l14qv	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/02hnl
+  Synthesizer -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Drums
+/m/08cyft	/music/genre/artists	/m/01vt5c_
+  Electronic dance music -> [/music/genre/artists] -> M.I.A.
+/m/01v_pj6	/award/award_nominee/award_nominations./award/award_nomination/award	/m/056jm_
+  Fatboy Slim -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Best Dance/Electronica Album
+/m/02f73p	/award/award_category/winners./award/award_honor/award_winner	/m/01vt5c_
+  MTV Video Music Award for Best Cinematography -> [/award/award_category/winners./award/award_honor/award_winner] -> M.I.A.
+/m/018vs	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/0l14qv
+  Bass guitar -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Synthesizer
+/m/05sy_5	/film/film/genre	/m/0219x_
+  Crash -> [/film/film/genre] -> Indie film
+/m/0342h	/music/performance_role/track_performances./music/track_contribution/role	/m/01vdm0
+  Guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Electronic keyboard
+/m/01vt5c_	/award/award_nominee/award_nominations./award/award_nomination/award	/m/02v1m7
+  M.I.A. -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Best Music Video
+/m/06p03s	/music/artist/track_contributions./music/track_contribution/role	/m/01wy6
+  Imogen Heap -> [/music/artist/track_contributions./music/track_contribution/role] -> Clarinet
+/m/013b2h	/award/award_ceremony/awards_presented./award/award_honor/award_winner	/m/0xsk8
+  44th Annual Grammy Awards -> [/award/award_ceremony/awards_presented./award/award_honor/award_winner] -> Bootsy Collins
+/m/0ddfwj1	/film/film/genre	/m/0219x_
+  Submarine -> [/film/film/genre] -> Indie film
+/m/0l14md	/music/performance_role/track_performances./music/track_contribution/role	/m/018vs
+  Percussion -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bass guitar
+/m/06p03s	/people/person/profession	/m/09jwl
+  Imogen Heap -> [/people/person/profession] -> Musician-GB
+/m/016kv6	/film/film/country	/m/07ssc
+  Salvador -> [/film/film/country] -> United Kingdom
+/m/02_06s	/film/film/genre	/m/0219x_
+  You Can Count on Me -> [/film/film/genre] -> Indie film
+/m/018vs	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/0342h
+  Bass guitar -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Guitar
+/m/0xsk8	/music/artist/track_contributions./music/track_contribution/role	/m/01vj9c
+  Bootsy Collins -> [/music/artist/track_contributions./music/track_contribution/role] -> Bass
+/m/01wy6	/music/performance_role/track_performances./music/track_contribution/role	/m/0342h
+  Clarinet -> [/music/performance_role/track_performances./music/track_contribution/role] -> Guitar
+/m/02237m	/organization/organization/headquarters./location/mailing_address/citytown	/m/04jpl
+  Central Saint Martins College of Art and Design -> [/organization/organization/headquarters./location/mailing_address/citytown] -> London
+/m/07ssc	/location/location/contains	/m/02jx1
+  United Kingdom -> [/location/location/contains] -> England
+/m/05148p4	/music/performance_role/regular_performances./music/group_membership/role	/m/0l14qv
+  Keyboard -> [/music/performance_role/regular_performances./music/group_membership/role] -> Synthesizer
+/m/018vs	/music/performance_role/track_performances./music/track_contribution/role	/m/042v_gx
+  Bass guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Acoustic guitar
+/m/0dzz6g	/film/film/genre	/m/0219x_
+  American Splendor -> [/film/film/genre] -> Indie film
+/m/02rqwhl	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  The Savages -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/01w8g3	/film/film/genre	/m/0219x_
+  Calendar Girls -> [/film/film/genre] -> Indie film
+/m/04zyhx	/film/film/release_date_s./film/film_regional_release_date/film_release_region	/m/07ssc
+  The Rules of Attraction -> [/film/film/release_date_s./film/film_regional_release_date/film_release_region] -> United Kingdom
+/m/01vt5c_	/award/award_nominee/award_nominations./award/award_nomination/award	/m/02f716
+  M.I.A. -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> MTV Video Music Award for Best Direction
+/m/01v_pj6	/award/award_winner/awards_won./award/award_honor/award_winner	/m/06pk8
+  Fatboy Slim -> [/award/award_winner/awards_won./award/award_honor/award_winner] -> Spike Jonze
+/m/03q8xj	/film/film/country	/m/07ssc
+  The Motorcycle Diaries -> [/film/film/country] -> United Kingdom
+/m/01vj9c	/music/performance_role/track_performances./music/track_contribution/role	/m/02hnl
+  Bass -> [/music/performance_role/track_performances./music/track_contribution/role] -> Drums
+/m/05q7874	/film/film/genre	/m/0219x_
+  The Runaways -> [/film/film/genre] -> Indie film
+/m/017z49	/film/film/release_date_s./film/film_regional_release_date/film_release_region	/m/07ssc
+  Memento -> [/film/film/release_date_s./film/film_regional_release_date/film_release_region] -> United Kingdom
+/m/01wy6	/music/instrument/instrumentalists	/m/01gg59
+  Clarinet -> [/music/instrument/instrumentalists] -> A. R. Rahman
+/m/0glt670	/music/genre/artists	/m/01vt5c_
+  Hip hop music -> [/music/genre/artists] -> M.I.A.
+/m/01c4_6	/award/award_category/winners./award/award_honor/ceremony	/m/05pd94v
+  Grammy Award for Best Alternative Music Album -> [/award/award_category/winners./award/award_honor/ceremony] -> 52nd Annual Grammy Awards-US
+/m/011ysn	/film/film/genre	/m/0219x_
+  The Thin Red Line -> [/film/film/genre] -> Indie film
+/m/042v_gx	/music/performance_role/track_performances./music/track_contribution/role	/m/0l14md
+  Acoustic guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Percussion
+/m/0l14md	/music/performance_role/regular_performances./music/group_membership/role	/m/01xqw
+  Percussion -> [/music/performance_role/regular_performances./music/group_membership/role] -> Cello
+/m/01vt5c_	/music/artist/origin	/m/06m_5
+  M.I.A. -> [/music/artist/origin] -> Sri Lanka
+/m/01xqw	/music/performance_role/track_performances./music/track_contribution/role	/m/02hnl
+  Cello -> [/music/performance_role/track_performances./music/track_contribution/role] -> Drums
+/m/02hnl	/music/instrument/family	/m/026t6
+  Drums -> [/music/instrument/family] -> Drum
+/m/07ssc	/location/country/capital	/m/04jpl
+  United Kingdom -> [/location/country/capital] -> London
+/m/07ssc	/media_common/netflix_genre/titles	/m/09z2b7
+  United Kingdom -> [/media_common/netflix_genre/titles] -> The Wings of the Dove
+/m/05r5c	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/0l14qv
+  Piano -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Synthesizer
+/m/02jx1	/location/administrative_division/country	/m/07ssc
+  England -> [/location/administrative_division/country] -> United Kingdom
+/m/0219x_	/media_common/netflix_genre/titles	/m/023g6w
+  Indie film -> [/media_common/netflix_genre/titles] -> Dogville
+/m/07ghq	/film/film/genre	/m/0219x_
+  The Terminator -> [/film/film/genre] -> Indie film
+/m/0ggq0m	/music/genre/artists	/m/01gg59
+  Classical music -> [/music/genre/artists] -> A. R. Rahman
+/m/012yc	/music/genre/parent_genre	/m/0glt670
+  Alternative hip hop -> [/music/genre/parent_genre] -> Hip hop music
+/m/016z43	/film/film/genre	/m/0219x_
+  The Fisher King -> [/film/film/genre] -> Indie film
+/m/0m3gy	/film/film/genre	/m/0219x_
+  Halloween -> [/film/film/genre] -> Indie film
+/m/0l14md	/music/performance_role/track_performances./music/track_contribution/role	/m/0l14qv
+  Percussion -> [/music/performance_role/track_performances./music/track_contribution/role] -> Synthesizer
+/m/01vdm0	/music/performance_role/track_performances./music/track_contribution/role	/m/02hnl
+  Electronic keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Drums
+/m/09d3b7	/film/film/genre	/m/0219x_
+  A Star Is Born -> [/film/film/genre] -> Indie film
+/m/02hnl	/music/performance_role/regular_performances./music/group_membership/role	/m/01xqw
+  Drums -> [/music/performance_role/regular_performances./music/group_membership/role] -> Cello
+/m/01xqw	/music/performance_role/track_performances./music/track_contribution/role	/m/018vs
+  Cello -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bass guitar
+/m/04z_3pm	/film/film/genre	/m/0219x_
+  Mary and Max -> [/film/film/genre] -> Indie film
+/m/018vs	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/05r5c
+  Bass guitar -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Piano
+/m/02r858_	/film/film/genre	/m/0219x_
+  The Sweet Hereafter -> [/film/film/genre] -> Indie film
+/m/0344gc	/film/film/genre	/m/0219x_
+  Monster's Ball -> [/film/film/genre] -> Indie film
+/m/042v_gx	/music/instrument/family	/m/0342h
+  Acoustic guitar -> [/music/instrument/family] -> Guitar
+/m/018vs	/music/performance_role/regular_performances./music/group_membership/role	/m/05r5c
+  Bass guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Piano
+/m/0219x_	/media_common/netflix_genre/titles	/m/0p9lw
+  Indie film -> [/media_common/netflix_genre/titles] -> Dogma
+/m/06p03s	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Imogen Heap -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/01m13b	/film/film/genre	/m/0219x_
+  Dancer in the Dark -> [/film/film/genre] -> Indie film
+/m/08cyft	/music/genre/artists	/m/01v_pj6
+  Electronic dance music -> [/music/genre/artists] -> Fatboy Slim
+/m/07nnp_	/film/film/genre	/m/0219x_
+  Color of Night -> [/film/film/genre] -> Indie film
+/m/01y_px	/people/person/gender	/m/05zppz
+  Jeff Goldblum -> [/people/person/gender] -> Male
+/m/02v570	/film/film/genre	/m/0219x_
+  Fahrenheit 9/11 -> [/film/film/genre] -> Indie film
+/m/07d2d	/music/genre/parent_genre	/m/0glt670
+  Trip hop -> [/music/genre/parent_genre] -> Hip hop music
+/m/0342h	/music/instrument/instrumentalists	/m/0xsk8
+  Guitar -> [/music/instrument/instrumentalists] -> Bootsy Collins
+/m/06pk8	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/m/01v_pj6
+  Spike Jonze -> [/award/award_nominee/award_nominations./award/award_nomination/award_nominee] -> Fatboy Slim
+/m/08gg47	/film/film/genre	/m/0219x_
+  The World's Fastest Indian -> [/film/film/genre] -> Indie film
+/m/02x0fs9	/film/film/genre	/m/0219x_
+  Lars and the Real Girl -> [/film/film/genre] -> Indie film
+/m/018vs	/music/performance_role/regular_performances./music/group_membership/role	/m/01vdm0
+  Bass guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Electronic keyboard
+/m/026t6	/music/performance_role/track_performances./music/track_contribution/role	/m/05148p4
+  Drum -> [/music/performance_role/track_performances./music/track_contribution/role] -> Keyboard
+/m/018vs	/music/performance_role/track_performances./music/track_contribution/role	/m/0l14qv
+  Bass guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Synthesizer
+/m/02v5_g	/film/film/genre	/m/0219x_
+  Scream 2 -> [/film/film/genre] -> Indie film
+/m/0p_sc	/film/film/genre	/m/0219x_
+  Midnight Express -> [/film/film/genre] -> Indie film
+/m/02v1m7	/award/award_category/winners./award/award_honor/ceremony	/m/013b2h
+  Grammy Award for Best Music Video -> [/award/award_category/winners./award/award_honor/ceremony] -> 44th Annual Grammy Awards
+/m/05r5c	/music/performance_role/track_performances./music/track_contribution/role	/m/026t6
+  Piano -> [/music/performance_role/track_performances./music/track_contribution/role] -> Drum
+/m/02237m	/education/educational_institution/campuses	/m/02237m
+  Central Saint Martins College of Art and Design -> [/education/educational_institution/campuses] -> Central Saint Martins College of Art and Design
+/m/02rv_dz	/film/film/distributors./film/film_film_distributor_relationship/region	/m/07ssc
+  Juno -> [/film/film/distributors./film/film_film_distributor_relationship/region] -> United Kingdom
+/m/0l14qv	/music/performance_role/track_performances./music/track_contribution/role	/m/01vj9c
+  Synthesizer -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bass
+/m/02x0fs9	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Lars and the Real Girl -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/016mhd	/film/film/country	/m/07ssc
+  Billy Elliot-GB -> [/film/film/country] -> United Kingdom
+/m/06p03s	/music/group_member/membership./music/group_membership/role	/m/02hnl
+  Imogen Heap -> [/music/group_member/membership./music/group_membership/role] -> Drums
+/m/0286vp	/film/film/country	/m/07ssc
+  I Shot Andy Warhol -> [/film/film/country] -> United Kingdom
+/m/02v1m7	/award/award_category/winners./award/award_honor/award_winner	/m/01v_pj6
+  Grammy Award for Best Music Video -> [/award/award_category/winners./award/award_honor/award_winner] -> Fatboy Slim
+/m/064t9	/music/genre/parent_genre	/m/06by7
+  Pop music -> [/music/genre/parent_genre] -> Rock music
+/m/06p03s	/music/group_member/membership./music/group_membership/role	/m/042v_gx
+  Imogen Heap -> [/music/group_member/membership./music/group_membership/role] -> Acoustic guitar
+/m/04j_h4	/music/genre/parent_genre	/m/0glt670
+  Grime -> [/music/genre/parent_genre] -> Hip hop music
+/m/064t9	/music/genre/artists	/m/01gg59
+  Pop music -> [/music/genre/artists] -> A. R. Rahman
+/m/0l14md	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/0342h
+  Percussion -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Guitar
+/m/01trtc	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Interscope Records -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/0xsk8	/award/award_winner/awards_won./award/award_honor/award_winner	/m/01v_pj6
+  Bootsy Collins -> [/award/award_winner/awards_won./award/award_honor/award_winner] -> Fatboy Slim
+/m/06pk8	/award/award_nominee/award_nominations./award/award_nomination/award	/m/02v1m7
+  Spike Jonze -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Best Music Video
+/m/01vt5c_	/people/person/places_lived./people/place_lived/location	/m/04jpl
+  M.I.A. -> [/people/person/places_lived./people/place_lived/location] -> London
+/m/01vdm0	/music/performance_role/track_performances./music/track_contribution/role	/m/01wy6
+  Electronic keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Clarinet
+/m/0l14md	/music/performance_role/regular_performances./music/group_membership/role	/m/05148p4
+  Percussion -> [/music/performance_role/regular_performances./music/group_membership/role] -> Keyboard
+/m/0l14md	/music/performance_role/regular_performances./music/group_membership/role	/m/018vs
+  Percussion -> [/music/performance_role/regular_performances./music/group_membership/role] -> Bass guitar
+/m/01txts	/music/record_label/artist	/m/01v_pj6
+  Astralwerks -> [/music/record_label/artist] -> Fatboy Slim
+/m/01vdm0	/music/performance_role/track_performances./music/track_contribution/role	/m/05148p4
+  Electronic keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Keyboard
+/m/043t8t	/film/film/genre	/m/0219x_
+  The Life Aquatic with Steve Zissou -> [/film/film/genre] -> Indie film
+/m/042v_gx	/music/performance_role/regular_performances./music/group_membership/role	/m/01vj9c
+  Acoustic guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Bass
+/m/06pk8	/award/award_winner/awards_won./award/award_honor/award_winner	/m/0xsk8
+  Spike Jonze -> [/award/award_winner/awards_won./award/award_honor/award_winner] -> Bootsy Collins
+/m/041n43	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  XL Recordings -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/01v_pj6	/music/group_member/membership./music/group_membership/role	/m/05148p4
+  Fatboy Slim -> [/music/group_member/membership./music/group_membership/role] -> Keyboard
+/m/0342h	/music/performance_role/regular_performances./music/group_membership/role	/m/018vs
+  Guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Bass guitar
+/m/01n30p	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Ghost World -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/0nbcg	/people/profession/specialization_of	/m/09jwl
+  Songwriter-GB -> [/people/profession/specialization_of] -> Musician-GB
+/m/08nvyr	/film/film/genre	/m/0219x_
+  Babel -> [/film/film/genre] -> Indie film
+/m/05148p4	/music/performance_role/regular_performances./music/group_membership/role	/m/01xqw
+  Keyboard -> [/music/performance_role/regular_performances./music/group_membership/role] -> Cello
+/m/02rv_dz	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Juno -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/026njb5	/film/film/country	/m/07ssc
+  Red Road -> [/film/film/country] -> United Kingdom
+/m/01v_pj6	/people/person/spouse_s./people/marriage/type_of_union	/m/04ztj
+  Fatboy Slim -> [/people/person/spouse_s./people/marriage/type_of_union] -> Marriage
+/m/01l2b3	/film/film/featured_film_locations	/m/04jpl
+  Bend It Like Beckham -> [/film/film/featured_film_locations] -> London
+/m/05r5c	/music/instrument/instrumentalists	/m/01gg59
+  Piano -> [/music/instrument/instrumentalists] -> A. R. Rahman
+/m/0170yd	/film/film/genre	/m/0219x_
+  Affliction -> [/film/film/genre] -> Indie film
+/m/016z5x	/film/film/country	/m/07ssc
+  Chaplin -> [/film/film/country] -> United Kingdom
+/m/02jx1	/time/event/locations	/m/07ssc
+  England -> [/time/event/locations] -> United Kingdom
+/m/01xqw	/music/performance_role/regular_performances./music/group_membership/role	/m/01wy6
+  Cello -> [/music/performance_role/regular_performances./music/group_membership/role] -> Clarinet
+/m/042v_gx	/music/performance_role/track_performances./music/track_contribution/role	/m/0342h
+  Acoustic guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Guitar
+/m/05148p4	/music/performance_role/track_performances./music/track_contribution/role	/m/0l14qv
+  Keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Synthesizer
+/m/01vj9c	/music/performance_role/regular_performances./music/group_membership/role	/m/05r5c
+  Bass -> [/music/performance_role/regular_performances./music/group_membership/role] -> Piano
+/m/07ssc	/media_common/netflix_genre/titles	/m/016ks5
+  United Kingdom -> [/media_common/netflix_genre/titles] -> Mona Lisa
+/m/02d49z	/film/film/genre	/m/0219x_
+  Thirteen -> [/film/film/genre] -> Indie film
+/m/01vj9c	/music/performance_role/track_performances./music/track_contribution/role	/m/05148p4
+  Bass -> [/music/performance_role/track_performances./music/track_contribution/role] -> Keyboard
+/m/07ssc	/media_common/netflix_genre/titles	/m/0280061
+  United Kingdom -> [/media_common/netflix_genre/titles] -> This Is England
+/m/0193f	/music/genre/parent_genre	/m/08cyft
+  Big beat -> [/music/genre/parent_genre] -> Electronic dance music
+/m/01xqw	/music/performance_role/track_performances./music/track_contribution/role	/m/0342h
+  Cello -> [/music/performance_role/track_performances./music/track_contribution/role] -> Guitar
+/m/05r5c	/music/performance_role/regular_performances./music/group_membership/role	/m/0l14qv
+  Piano -> [/music/performance_role/regular_performances./music/group_membership/role] -> Synthesizer
+/m/0l14qv	/music/performance_role/track_performances./music/track_contribution/role	/m/02hnl
+  Synthesizer -> [/music/performance_role/track_performances./music/track_contribution/role] -> Drums
+/m/0l14md	/music/performance_role/track_performances./music/track_contribution/role	/m/02hnl
+  Percussion -> [/music/performance_role/track_performances./music/track_contribution/role] -> Drums
+/m/0342h	/music/performance_role/regular_performances./music/group_membership/role	/m/01xqw
+  Guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Cello
+/m/011ypx	/film/film/genre	/m/0219x_
+  Good Will Hunting -> [/film/film/genre] -> Indie film
+/m/02hfk5	/film/film/genre	/m/0219x_
+  The Barbarian Invasions -> [/film/film/genre] -> Indie film
+/m/026t6	/music/performance_role/track_performances./music/track_contribution/role	/m/0l14md
+  Drum -> [/music/performance_role/track_performances./music/track_contribution/role] -> Percussion
+/m/0342h	/music/performance_role/track_performances./music/track_contribution/role	/m/026t6
+  Guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Drum
+/m/011yhm	/film/film/genre	/m/0219x_
+  Fargo -> [/film/film/genre] -> Indie film
+/m/06p03s	/music/group_member/membership./music/group_membership/role	/m/0l14qv
+  Imogen Heap -> [/music/group_member/membership./music/group_membership/role] -> Synthesizer
+/m/018vs	/music/performance_role/track_performances./music/track_contribution/role	/m/01wy6
+  Bass guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Clarinet
+/m/0xsk8	/people/person/profession	/m/0nbcg
+  Bootsy Collins -> [/people/person/profession] -> Songwriter-GB
+/m/0219x_	/media_common/netflix_genre/titles	/m/0symg
+  Indie film -> [/media_common/netflix_genre/titles] -> Dead Man
+/m/06pk8	/award/award_winner/awards_won./award/award_honor/award_winner	/m/01v_pj6
+  Spike Jonze -> [/award/award_winner/awards_won./award/award_honor/award_winner] -> Fatboy Slim
+/m/01vdm0	/music/performance_role/regular_performances./music/group_membership/role	/m/042v_gx
+  Electronic keyboard -> [/music/performance_role/regular_performances./music/group_membership/role] -> Acoustic guitar
+/m/01xqw	/music/instrument/family	/m/01vj9c
+  Cello -> [/music/instrument/family] -> Bass
+/m/0fq9zdv	/award/award_category/nominees./award/award_nomination/nominated_for	/m/0170xl
+  British Independent Film Award for Best British Independent Film -> [/award/award_category/nominees./award/award_nomination/nominated_for] -> Gods and Monsters
+/m/06p03s	/music/group_member/membership./music/group_membership/role	/m/0l14md
+  Imogen Heap -> [/music/group_member/membership./music/group_membership/role] -> Percussion
+/m/0l14md	/music/performance_role/track_performances./music/track_contribution/role	/m/05r5c
+  Percussion -> [/music/performance_role/track_performances./music/track_contribution/role] -> Piano
+/m/01xqw	/music/performance_role/regular_performances./music/group_membership/role	/m/018vs
+  Cello -> [/music/performance_role/regular_performances./music/group_membership/role] -> Bass guitar
+/m/0l14qv	/music/performance_role/track_performances./music/track_contribution/role	/m/05148p4
+  Synthesizer -> [/music/performance_role/track_performances./music/track_contribution/role] -> Keyboard
+/m/01bgqh	/award/award_category/winners./award/award_honor/ceremony	/m/013b2h
+  Grammy Award for Record of the Year -> [/award/award_category/winners./award/award_honor/ceremony] -> 44th Annual Grammy Awards
+/m/0y3_8	/music/genre/artists	/m/06p03s
+  Synthpop -> [/music/genre/artists] -> Imogen Heap
+/m/018vs	/music/performance_role/track_performances./music/track_contribution/role	/m/01vdm0
+  Bass guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Electronic keyboard
+/m/05rwpb	/dataworld/gardening_hint/split_to	/m/0219x_
+  Indie -> [/dataworld/gardening_hint/split_to] -> Indie film
+/m/0symg	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Dead Man -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/02f71y	/award/award_category/winners./award/award_honor/award_winner	/m/01v_pj6
+  MTV Video Music Award for Best Choreography -> [/award/award_category/winners./award/award_honor/award_winner] -> Fatboy Slim
+/m/05148p4	/music/instrument/instrumentalists	/m/06p03s
+  Keyboard -> [/music/instrument/instrumentalists] -> Imogen Heap
+/m/05148p4	/music/performance_role/track_performances./music/track_contribution/role	/m/01vdm0
+  Keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Electronic keyboard
+/m/026t6	/music/performance_role/track_performances./music/track_contribution/role	/m/01xqw
+  Drum -> [/music/performance_role/track_performances./music/track_contribution/role] -> Cello
+/m/09jwl	/people/profession/specialization_of	/m/0n1h
+  Musician-GB -> [/people/profession/specialization_of] -> Artist-GB
+/m/05ch98	/film/film/genre	/m/0219x_
+  The Jacket -> [/film/film/genre] -> Indie film
+/m/0l14md	/music/performance_role/regular_performances./music/group_membership/role	/m/01wy6
+  Percussion -> [/music/performance_role/regular_performances./music/group_membership/role] -> Clarinet
+/m/01dc0c	/film/film/distributors./film/film_film_distributor_relationship/region	/m/07ssc
+  Seven -> [/film/film/distributors./film/film_film_distributor_relationship/region] -> United Kingdom
+/m/0xsk8	/music/artist/track_contributions./music/track_contribution/role	/m/0342h
+  Bootsy Collins -> [/music/artist/track_contributions./music/track_contribution/role] -> Guitar
+/m/05148p4	/music/performance_role/regular_performances./music/group_membership/role	/m/0342h
+  Keyboard -> [/music/performance_role/regular_performances./music/group_membership/role] -> Guitar
+/m/02237m	/education/educational_institution_campus/educational_institution	/m/02237m
+  Central Saint Martins College of Art and Design -> [/education/educational_institution_campus/educational_institution] -> Central Saint Martins College of Art and Design
+/m/0xsk8	/award/award_winner/awards_won./award/award_honor/award_winner	/m/06pk8
+  Bootsy Collins -> [/award/award_winner/awards_won./award/award_honor/award_winner] -> Spike Jonze
+/m/026njb5	/film/film/genre	/m/0219x_
+  Red Road -> [/film/film/genre] -> Indie film

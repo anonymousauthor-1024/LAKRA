@@ -1,0 +1,1222 @@
+Entity: /m/041738
+Entity Name: Alternative dance
+K-hop: 2
+Subgraph Nodes: 109
+Subgraph Triples: 550
+
+==================================================
+Nodes in Subgraph:
+==================================================
+/m/011j5x	Post-punk
+/m/011k1h	EMI
+/m/01243b	Indie rock
+/m/012yc	Alternative hip hop
+/m/0133k0	Electroclash
+/m/016clz	Alternative rock
+/m/017l96	Capitol Records
+/m/018vs	Bass guitar
+/m/018x0q	Salford, Greater Manchester
+/m/0193f	Big beat
+/m/01_qp_	Dark wave
+/m/01b4p4	New Romanticism
+/m/01bgqh	Grammy Award for Record of the Year
+/m/01c4_6	Grammy Award for Best Alternative Music Album
+/m/01c72t	Composer
+/m/01cl2y	Reprise Records
+/m/01dtcb	Universal Music Group
+/m/01k3qj	Hikaru Utada
+/m/01t04r	Sanctuary Records Group
+/m/01th4s	Mute Records
+/m/01txts	Astralwerks
+/m/01vdm0	Electronic keyboard
+/m/01w5m	Columbia University
+/m/01w806h	Danger Mouse
+/m/0229rs	Rhino Entertainment
+/m/025g__	J-pop
+/m/025sc50	Contemporary R&B
+/m/0264jc6	Freak folk
+/m/02_286	New York City
+/m/02cpp	Depeche Mode
+/m/02cqny	Hi-NRG
+/m/02f6yz	MTV Video Music Award for Best Group Video
+/m/02f705	MTV Video Music Award for Artist to Watch
+/m/02f72_	MTV Video Music Award for Best Art Direction
+/m/02f72n	MTV Video Music Award for Best Visual Effects
+/m/02f777	MTV Video Music Award for Best Electronic Dance Music Video
+/m/02g3gj	Grammy Award for Best Dance Recording
+/m/02gdjb	Grammy Award for Best Pop Instrumental Performance
+/m/02h40lc	English Language
+/m/02hnl	Drums
+/m/02ly_	Essex
+/m/02p3cr5	EMI
+/m/02rjjll	50th Annual Grammy Awards-US
+/m/02snj9	Programming
+/m/02sp_v	Grammy Award for Best Music Film
+/m/02v1m7	Grammy Award for Best Music Video
+/m/02w6s3	Progressive house
+/m/02y21l	Sire Records
+/m/02zsn	Female
+/m/0342h	Guitar
+/m/035wcs	Eurodance
+/m/03_3d	Japan
+/m/03_9r	Japanese Language
+/m/03bx0bm	Lead vocalist-GB
+/m/03ckfl9	Experimental music
+/m/03f4xvm	Mos Def
+/m/03f7jfh	Q-Tip
+/m/03fbc	Gorillaz
+/m/03mb9	House music
+/m/03qbh5	Grammy Award for Best Pop Collaboration with Vocals
+/m/03r00m	Grammy Award for Best Urban/Alternative Performance
+/m/03rhqg	Warner Bros. Records
+/m/03vyh	Instrumental
+/m/041738	Alternative dance
+/m/04fc6c	The Island Def Jam Music Group
+/m/04jpl	London
+/m/04ztj	Marriage
+/m/05148p4	Keyboard
+/m/051hrr	Electronic drum
+/m/052bw	Manchester
+/m/056jm_	Grammy Award for Best Dance/Electronica Album
+/m/059kh	New Wave
+/m/05b0f7	EMI Music Japan
+/m/05c6073	Electronic rock
+/m/05k79	New Order
+/m/05r5c	Piano
+/m/05w3f	Psychedelic rock
+/m/05zkcn5	MTV Movie Award for Best Song from a Movie
+/m/064t9	Pop music
+/m/06j6l	Rhythm and blues
+/m/07d2d	Trip hop
+/m/07gxw	Techno
+/m/07sbk	The Chemical Brothers
+/m/07ssc	United Kingdom
+/m/08cyft	Electronic dance music
+/m/08jyyk	Experimental rock
+/m/08mbj5d	Official Website
+/m/09c7w0	United States of America
+/m/09n4nb	48th Annual Grammy Awards
+/m/0b_6yv	Neo-psychedelia
+/m/0bt7w	Britpop
+/m/0cfdd	Drum machine
+/m/0cn68	Japanese American
+/m/0dm5l	Pet Shop Boys
+/m/0fd3y	Ambient music
+/m/0g2dz	Melodica
+/m/0g768	Atlantic Records
+/m/0ggx5q	Dance music
+/m/0glt670	Hip hop music
+/m/0hh2s	Breakbeat
+/m/0k_kr	Parlophone
+/m/0l14qv	Synthesizer
+/m/0m0jc	Electronica
+/m/0mmp3	Industrial music
+/m/0mzkr	Island Records
+/m/0n85g	Virgin Records
+/m/0nbcg	Songwriter-GB
+/m/0phx4	Damon Albarn
+/m/0y3_8	Synthpop
+
+==================================================
+Triples in Subgraph:
+==================================================
+/m/0342h	/music/performance_role/regular_performances./music/group_membership/role	/m/0l14qv
+  Guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Synthesizer
+/m/07ssc	/location/location/contains	/m/04jpl
+  United Kingdom -> [/location/location/contains] -> London
+/m/03bx0bm	/music/performance_role/regular_performances./music/group_membership/role	/m/018vs
+  Lead vocalist-GB -> [/music/performance_role/regular_performances./music/group_membership/role] -> Bass guitar
+/m/0m0jc	/music/genre/artists	/m/05k79
+  Electronica -> [/music/genre/artists] -> New Order
+/m/05148p4	/music/performance_role/regular_performances./music/group_membership/role	/m/051hrr
+  Keyboard -> [/music/performance_role/regular_performances./music/group_membership/role] -> Electronic drum
+/m/0g2dz	/music/performance_role/regular_performances./music/group_membership/role	/m/05148p4
+  Melodica -> [/music/performance_role/regular_performances./music/group_membership/role] -> Keyboard
+/m/02f72n	/award/award_category/winners./award/award_honor/award_winner	/m/03fbc
+  MTV Video Music Award for Best Visual Effects -> [/award/award_category/winners./award/award_honor/award_winner] -> Gorillaz
+/m/0dm5l	/award/award_nominee/award_nominations./award/award_nomination/award	/m/02f705
+  Pet Shop Boys -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> MTV Video Music Award for Artist to Watch
+/m/07gxw	/music/genre/parent_genre	/m/08cyft
+  Techno -> [/music/genre/parent_genre] -> Electronic dance music
+/m/04jpl	/base/biblioness/bibs_location/country	/m/07ssc
+  London -> [/base/biblioness/bibs_location/country] -> United Kingdom
+/m/08cyft	/music/genre/artists	/m/01w806h
+  Electronic dance music -> [/music/genre/artists] -> Danger Mouse
+/m/041738	/music/genre/artists	/m/03fbc
+  Alternative dance -> [/music/genre/artists] -> Gorillaz
+/m/041738	/music/genre/artists	/m/02cpp
+  Alternative dance -> [/music/genre/artists] -> Depeche Mode
+/m/02hnl	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/018vs
+  Drums -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Bass guitar
+/m/051hrr	/music/performance_role/track_performances./music/track_contribution/role	/m/0cfdd
+  Electronic drum -> [/music/performance_role/track_performances./music/track_contribution/role] -> Drum machine
+/m/02hnl	/music/performance_role/regular_performances./music/group_membership/role	/m/051hrr
+  Drums -> [/music/performance_role/regular_performances./music/group_membership/role] -> Electronic drum
+/m/05r5c	/music/performance_role/track_performances./music/track_contribution/role	/m/01vdm0
+  Piano -> [/music/performance_role/track_performances./music/track_contribution/role] -> Electronic keyboard
+/m/0phx4	/music/group_member/membership./music/group_membership/role	/m/0cfdd
+  Damon Albarn -> [/music/group_member/membership./music/group_membership/role] -> Drum machine
+/m/02hnl	/music/performance_role/regular_performances./music/group_membership/role	/m/05148p4
+  Drums -> [/music/performance_role/regular_performances./music/group_membership/role] -> Keyboard
+/m/041738	/music/genre/artists	/m/05k79
+  Alternative dance -> [/music/genre/artists] -> New Order
+/m/0bt7w	/music/genre/artists	/m/01k3qj
+  Britpop -> [/music/genre/artists] -> Hikaru Utada
+/m/05r5c	/music/performance_role/regular_performances./music/group_membership/role	/m/0342h
+  Piano -> [/music/performance_role/regular_performances./music/group_membership/role] -> Guitar
+/m/025sc50	/music/genre/artists	/m/01w806h
+  Contemporary R&B -> [/music/genre/artists] -> Danger Mouse
+/m/051hrr	/music/performance_role/regular_performances./music/group_membership/role	/m/02hnl
+  Electronic drum -> [/music/performance_role/regular_performances./music/group_membership/role] -> Drums
+/m/056jm_	/award/award_category/winners./award/award_honor/award_winner	/m/07sbk
+  Grammy Award for Best Dance/Electronica Album -> [/award/award_category/winners./award/award_honor/award_winner] -> The Chemical Brothers
+/m/03bx0bm	/music/performance_role/regular_performances./music/group_membership/role	/m/02snj9
+  Lead vocalist-GB -> [/music/performance_role/regular_performances./music/group_membership/role] -> Programming
+/m/07sbk	/award/award_nominee/award_nominations./award/award_nomination/award	/m/02f777
+  The Chemical Brothers -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> MTV Video Music Award for Best Electronic Dance Music Video
+/m/051hrr	/music/performance_role/track_performances./music/track_contribution/role	/m/02hnl
+  Electronic drum -> [/music/performance_role/track_performances./music/track_contribution/role] -> Drums
+/m/052bw	/location/administrative_division/country	/m/07ssc
+  Manchester -> [/location/administrative_division/country] -> United Kingdom
+/m/0mzkr	/organization/organization/headquarters./location/mailing_address/citytown	/m/02_286
+  Island Records -> [/organization/organization/headquarters./location/mailing_address/citytown] -> New York City
+/m/0hh2s	/music/genre/artists	/m/07sbk
+  Breakbeat -> [/music/genre/artists] -> The Chemical Brothers
+/m/0cfdd	/music/performance_role/track_performances./music/track_contribution/role	/m/018vs
+  Drum machine -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bass guitar
+/m/011k1h	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	/m/07ssc
+  EMI -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location] -> United Kingdom
+/m/051hrr	/music/performance_role/regular_performances./music/group_membership/role	/m/018vs
+  Electronic drum -> [/music/performance_role/regular_performances./music/group_membership/role] -> Bass guitar
+/m/025g__	/music/genre/artists	/m/01k3qj
+  J-pop -> [/music/genre/artists] -> Hikaru Utada
+/m/0dm5l	/award/award_nominee/award_nominations./award/award_nomination/award	/m/02g3gj
+  Pet Shop Boys -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Best Dance Recording
+/m/0g2dz	/music/performance_role/regular_performances./music/group_membership/role	/m/018vs
+  Melodica -> [/music/performance_role/regular_performances./music/group_membership/role] -> Bass guitar
+/m/08cyft	/music/genre/artists	/m/0dm5l
+  Electronic dance music -> [/music/genre/artists] -> Pet Shop Boys
+/m/02hnl	/music/performance_role/track_performances./music/track_contribution/role	/m/05r5c
+  Drums -> [/music/performance_role/track_performances./music/track_contribution/role] -> Piano
+/m/0l14qv	/music/performance_role/regular_performances./music/group_membership/role	/m/0g2dz
+  Synthesizer -> [/music/performance_role/regular_performances./music/group_membership/role] -> Melodica
+/m/05148p4	/music/performance_role/regular_performances./music/group_membership/role	/m/05r5c
+  Keyboard -> [/music/performance_role/regular_performances./music/group_membership/role] -> Piano
+/m/0l14qv	/music/instrument/instrumentalists	/m/0phx4
+  Synthesizer -> [/music/instrument/instrumentalists] -> Damon Albarn
+/m/02cqny	/music/genre/artists	/m/05k79
+  Hi-NRG -> [/music/genre/artists] -> New Order
+/m/07sbk	/award/award_nominee/award_nominations./award/award_nomination/award	/m/02g3gj
+  The Chemical Brothers -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Best Dance Recording
+/m/064t9	/music/genre/parent_genre	/m/06j6l
+  Pop music -> [/music/genre/parent_genre] -> Rhythm and blues
+/m/0mmp3	/music/genre/artists	/m/01k3qj
+  Industrial music -> [/music/genre/artists] -> Hikaru Utada
+/m/02_286	/location/administrative_division/country	/m/09c7w0
+  New York City -> [/location/administrative_division/country] -> United States of America
+/m/0342h	/music/performance_role/regular_performances./music/group_membership/group	/m/03fbc
+  Guitar -> [/music/performance_role/regular_performances./music/group_membership/group] -> Gorillaz
+/m/041738	/music/genre/artists	/m/07sbk
+  Alternative dance -> [/music/genre/artists] -> The Chemical Brothers
+/m/02gdjb	/award/award_category/winners./award/award_honor/ceremony	/m/02rjjll
+  Grammy Award for Best Pop Instrumental Performance -> [/award/award_category/winners./award/award_honor/ceremony] -> 50th Annual Grammy Awards-US
+/m/018vs	/music/performance_role/track_performances./music/track_contribution/role	/m/0342h
+  Bass guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Guitar
+/m/03fbc	/award/award_nominee/award_nominations./award/award_nomination/award	/m/02sp_v
+  Gorillaz -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Best Music Film
+/m/0m0jc	/music/genre/artists	/m/02cpp
+  Electronica -> [/music/genre/artists] -> Depeche Mode
+/m/0l14qv	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/03bx0bm
+  Synthesizer -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Lead vocalist-GB
+/m/02snj9	/music/performance_role/regular_performances./music/group_membership/role	/m/0l14qv
+  Programming -> [/music/performance_role/regular_performances./music/group_membership/role] -> Synthesizer
+/m/05r5c	/music/performance_role/regular_performances./music/group_membership/role	/m/02hnl
+  Piano -> [/music/performance_role/regular_performances./music/group_membership/role] -> Drums
+/m/01dtcb	/organization/organization/child./organization/organization_relationship/child	/m/0n85g
+  Universal Music Group -> [/organization/organization/child./organization/organization_relationship/child] -> Virgin Records
+/m/018vs	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/02hnl
+  Bass guitar -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Drums
+/m/0cfdd	/music/performance_role/track_performances./music/track_contribution/role	/m/05148p4
+  Drum machine -> [/music/performance_role/track_performances./music/track_contribution/role] -> Keyboard
+/m/0mmp3	/music/genre/parent_genre	/m/08cyft
+  Industrial music -> [/music/genre/parent_genre] -> Electronic dance music
+/m/0cfdd	/music/performance_role/regular_performances./music/group_membership/role	/m/018vs
+  Drum machine -> [/music/performance_role/regular_performances./music/group_membership/role] -> Bass guitar
+/m/09c7w0	/location/location/contains	/m/02_286
+  United States of America -> [/location/location/contains] -> New York City
+/m/09n4nb	/award/award_ceremony/awards_presented./award/award_honor/award_winner	/m/03f7jfh
+  48th Annual Grammy Awards -> [/award/award_ceremony/awards_presented./award/award_honor/award_winner] -> Q-Tip
+/m/01vdm0	/music/performance_role/regular_performances./music/group_membership/role	/m/0342h
+  Electronic keyboard -> [/music/performance_role/regular_performances./music/group_membership/role] -> Guitar
+/m/04ztj	/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	/m/04jpl
+  Marriage -> [/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony] -> London
+/m/016clz	/music/genre/artists	/m/01k3qj
+  Alternative rock -> [/music/genre/artists] -> Hikaru Utada
+/m/0193f	/music/genre/parent_genre	/m/0m0jc
+  Big beat -> [/music/genre/parent_genre] -> Electronica
+/m/011k1h	/organization/organization/headquarters./location/mailing_address/citytown	/m/04jpl
+  EMI -> [/organization/organization/headquarters./location/mailing_address/citytown] -> London
+/m/0342h	/music/performance_role/regular_performances./music/group_membership/group	/m/02cpp
+  Guitar -> [/music/performance_role/regular_performances./music/group_membership/group] -> Depeche Mode
+/m/04ztj	/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	/m/07ssc
+  Marriage -> [/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony] -> United Kingdom
+/m/0342h	/music/performance_role/track_performances./music/track_contribution/role	/m/0cfdd
+  Guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Drum machine
+/m/0342h	/music/performance_role/track_performances./music/track_contribution/role	/m/0l14qv
+  Guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Synthesizer
+/m/01_qp_	/music/genre/artists	/m/02cpp
+  Dark wave -> [/music/genre/artists] -> Depeche Mode
+/m/0dm5l	/music/artist/origin	/m/04jpl
+  Pet Shop Boys -> [/music/artist/origin] -> London
+/m/03fbc	/award/award_nominee/award_nominations./award/award_nomination/award	/m/03qbh5
+  Gorillaz -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Best Pop Collaboration with Vocals
+/m/05148p4	/music/performance_role/regular_performances./music/group_membership/role	/m/02hnl
+  Keyboard -> [/music/performance_role/regular_performances./music/group_membership/role] -> Drums
+/m/016clz	/music/genre/artists	/m/05k79
+  Alternative rock -> [/music/genre/artists] -> New Order
+/m/0193f	/music/genre/artists	/m/07sbk
+  Big beat -> [/music/genre/artists] -> The Chemical Brothers
+/m/0g2dz	/music/performance_role/regular_performances./music/group_membership/role	/m/03bx0bm
+  Melodica -> [/music/performance_role/regular_performances./music/group_membership/role] -> Lead vocalist-GB
+/m/05148p4	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/02hnl
+  Keyboard -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Drums
+/m/08cyft	/music/genre/artists	/m/07sbk
+  Electronic dance music -> [/music/genre/artists] -> The Chemical Brothers
+/m/01vdm0	/music/performance_role/track_performances./music/track_contribution/role	/m/051hrr
+  Electronic keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Electronic drum
+/m/01txts	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Astralwerks -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/0y3_8	/music/genre/parent_genre	/m/059kh
+  Synthpop -> [/music/genre/parent_genre] -> New Wave
+/m/02hnl	/music/performance_role/regular_performances./music/group_membership/role	/m/0342h
+  Drums -> [/music/performance_role/regular_performances./music/group_membership/role] -> Guitar
+/m/025sc50	/music/genre/artists	/m/01k3qj
+  Contemporary R&B -> [/music/genre/artists] -> Hikaru Utada
+/m/03bx0bm	/dataworld/gardening_hint/split_to	/m/03bx0bm
+  Lead vocalist-GB -> [/dataworld/gardening_hint/split_to] -> Lead vocalist-GB
+/m/05r5c	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/03bx0bm
+  Piano -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Lead vocalist-GB
+/m/03f7jfh	/award/award_nominee/award_nominations./award/award_nomination/award	/m/02g3gj
+  Q-Tip -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Best Dance Recording
+/m/051hrr	/music/performance_role/track_performances./music/track_contribution/role	/m/05r5c
+  Electronic drum -> [/music/performance_role/track_performances./music/track_contribution/role] -> Piano
+/m/04fc6c	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	/m/02h40lc
+  The Island Def Jam Music Group -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language] -> English Language
+/m/03fbc	/music/artist/origin	/m/02ly_
+  Gorillaz -> [/music/artist/origin] -> Essex
+/m/056jm_	/award/award_category/winners./award/award_honor/ceremony	/m/02rjjll
+  Grammy Award for Best Dance/Electronica Album -> [/award/award_category/winners./award/award_honor/ceremony] -> 50th Annual Grammy Awards-US
+/m/01vdm0	/music/performance_role/track_performances./music/track_contribution/role	/m/018vs
+  Electronic keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bass guitar
+/m/018vs	/music/performance_role/regular_performances./music/group_membership/role	/m/02hnl
+  Bass guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Drums
+/m/04fc6c	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  The Island Def Jam Music Group -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/02p3cr5	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  EMI -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/05148p4	/music/performance_role/regular_performances./music/group_membership/group	/m/0dm5l
+  Keyboard -> [/music/performance_role/regular_performances./music/group_membership/group] -> Pet Shop Boys
+/m/03qbh5	/award/award_category/winners./award/award_honor/ceremony	/m/02rjjll
+  Grammy Award for Best Pop Collaboration with Vocals -> [/award/award_category/winners./award/award_honor/ceremony] -> 50th Annual Grammy Awards-US
+/m/0n85g	/music/record_label/artist	/m/0phx4
+  Virgin Records -> [/music/record_label/artist] -> Damon Albarn
+/m/03fbc	/award/award_nominee/award_nominations./award/award_nomination/award	/m/02f72_
+  Gorillaz -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> MTV Video Music Award for Best Art Direction
+/m/02hnl	/music/performance_role/regular_performances./music/group_membership/group	/m/02cpp
+  Drums -> [/music/performance_role/regular_performances./music/group_membership/group] -> Depeche Mode
+/m/09c7w0	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	/m/03_3d
+  United States of America -> [/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to] -> Japan
+/m/07gxw	/music/genre/parent_genre	/m/0y3_8
+  Techno -> [/music/genre/parent_genre] -> Synthpop
+/m/0m0jc	/music/genre/parent_genre	/m/07gxw
+  Electronica -> [/music/genre/parent_genre] -> Techno
+/m/02rjjll	/award/award_ceremony/awards_presented./award/award_honor/award_winner	/m/07sbk
+  50th Annual Grammy Awards-US -> [/award/award_ceremony/awards_presented./award/award_honor/award_winner] -> The Chemical Brothers
+/m/03bx0bm	/music/performance_role/regular_performances./music/group_membership/role	/m/0g2dz
+  Lead vocalist-GB -> [/music/performance_role/regular_performances./music/group_membership/role] -> Melodica
+/m/011k1h	/music/record_label/artist	/m/0dm5l
+  EMI -> [/music/record_label/artist] -> Pet Shop Boys
+/m/0y3_8	/music/genre/artists	/m/0dm5l
+  Synthpop -> [/music/genre/artists] -> Pet Shop Boys
+/m/018vs	/music/instrument/family	/m/0342h
+  Bass guitar -> [/music/instrument/family] -> Guitar
+/m/02hnl	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/0l14qv
+  Drums -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Synthesizer
+/m/07sbk	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/m/03f7jfh
+  The Chemical Brothers -> [/award/award_nominee/award_nominations./award/award_nomination/award_nominee] -> Q-Tip
+/m/03bx0bm	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/0342h
+  Lead vocalist-GB -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Guitar
+/m/0133k0	/music/genre/parent_genre	/m/0y3_8
+  Electroclash -> [/music/genre/parent_genre] -> Synthpop
+/m/07gxw	/music/genre/artists	/m/07sbk
+  Techno -> [/music/genre/artists] -> The Chemical Brothers
+/m/03f4xvm	/music/artist/track_contributions./music/track_contribution/role	/m/05r5c
+  Mos Def -> [/music/artist/track_contributions./music/track_contribution/role] -> Piano
+/m/03bx0bm	/music/performance_role/regular_performances./music/group_membership/role	/m/05r5c
+  Lead vocalist-GB -> [/music/performance_role/regular_performances./music/group_membership/role] -> Piano
+/m/07ssc	/location/location/contains	/m/052bw
+  United Kingdom -> [/location/location/contains] -> Manchester
+/m/0m0jc	/music/genre/artists	/m/01w806h
+  Electronica -> [/music/genre/artists] -> Danger Mouse
+/m/03fbc	/music/artist/origin	/m/04jpl
+  Gorillaz -> [/music/artist/origin] -> London
+/m/01k3qj	/people/person/profession	/m/0nbcg
+  Hikaru Utada -> [/people/person/profession] -> Songwriter-GB
+/m/0hh2s	/music/genre/parent_genre	/m/0glt670
+  Breakbeat -> [/music/genre/parent_genre] -> Hip hop music
+/m/0g2dz	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/02hnl
+  Melodica -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Drums
+/m/02cpp	/award/award_nominee/award_nominations./award/award_nomination/award	/m/02sp_v
+  Depeche Mode -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Best Music Film
+/m/05r5c	/music/performance_role/track_performances./music/track_contribution/role	/m/02hnl
+  Piano -> [/music/performance_role/track_performances./music/track_contribution/role] -> Drums
+/m/09c7w0	/dataworld/gardening_hint/split_to	/m/09c7w0
+  United States of America -> [/dataworld/gardening_hint/split_to] -> United States of America
+/m/0glt670	/music/genre/artists	/m/01k3qj
+  Hip hop music -> [/music/genre/artists] -> Hikaru Utada
+/m/05148p4	/music/performance_role/regular_performances./music/group_membership/role	/m/03bx0bm
+  Keyboard -> [/music/performance_role/regular_performances./music/group_membership/role] -> Lead vocalist-GB
+/m/051hrr	/music/performance_role/regular_performances./music/group_membership/role	/m/0l14qv
+  Electronic drum -> [/music/performance_role/regular_performances./music/group_membership/role] -> Synthesizer
+/m/02v1m7	/award/award_category/winners./award/award_honor/ceremony	/m/02rjjll
+  Grammy Award for Best Music Video -> [/award/award_category/winners./award/award_honor/ceremony] -> 50th Annual Grammy Awards-US
+/m/0phx4	/music/artist/track_contributions./music/track_contribution/role	/m/05r5c
+  Damon Albarn -> [/music/artist/track_contributions./music/track_contribution/role] -> Piano
+/m/05r5c	/music/instrument/instrumentalists	/m/01k3qj
+  Piano -> [/music/instrument/instrumentalists] -> Hikaru Utada
+/m/0342h	/music/performance_role/regular_performances./music/group_membership/role	/m/0g2dz
+  Guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Melodica
+/m/02y21l	/music/record_label/artist	/m/0dm5l
+  Sire Records -> [/music/record_label/artist] -> Pet Shop Boys
+/m/03fbc	/award/award_nominee/award_nominations./award/award_nomination/award	/m/02f72n
+  Gorillaz -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> MTV Video Music Award for Best Visual Effects
+/m/01w806h	/music/artist/track_contributions./music/track_contribution/role	/m/018vs
+  Danger Mouse -> [/music/artist/track_contributions./music/track_contribution/role] -> Bass guitar
+/m/011j5x	/music/genre/artists	/m/05k79
+  Post-punk -> [/music/genre/artists] -> New Order
+/m/018vs	/music/instrument/instrumentalists	/m/0phx4
+  Bass guitar -> [/music/instrument/instrumentalists] -> Damon Albarn
+/m/018vs	/music/performance_role/regular_performances./music/group_membership/role	/m/0g2dz
+  Bass guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Melodica
+/m/0ggx5q	/music/genre/artists	/m/0dm5l
+  Dance music -> [/music/genre/artists] -> Pet Shop Boys
+/m/07ssc	/location/location/contains	/m/018x0q
+  United Kingdom -> [/location/location/contains] -> Salford, Greater Manchester
+/m/05r5c	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/0342h
+  Piano -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Guitar
+/m/0342h	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/0g2dz
+  Guitar -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Melodica
+/m/05r5c	/music/performance_role/track_performances./music/track_contribution/role	/m/0342h
+  Piano -> [/music/performance_role/track_performances./music/track_contribution/role] -> Guitar
+/m/051hrr	/music/performance_role/track_performances./music/track_contribution/role	/m/0l14qv
+  Electronic drum -> [/music/performance_role/track_performances./music/track_contribution/role] -> Synthesizer
+/m/0l14qv	/music/performance_role/track_performances./music/track_contribution/role	/m/0g2dz
+  Synthesizer -> [/music/performance_role/track_performances./music/track_contribution/role] -> Melodica
+/m/02cpp	/award/award_nominee/award_nominations./award/award_nomination/award	/m/02v1m7
+  Depeche Mode -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Best Music Video
+/m/0l14qv	/music/performance_role/track_performances./music/track_contribution/role	/m/01vdm0
+  Synthesizer -> [/music/performance_role/track_performances./music/track_contribution/role] -> Electronic keyboard
+/m/0bt7w	/music/genre/artists	/m/0phx4
+  Britpop -> [/music/genre/artists] -> Damon Albarn
+/m/05148p4	/music/performance_role/regular_performances./music/group_membership/role	/m/0g2dz
+  Keyboard -> [/music/performance_role/regular_performances./music/group_membership/role] -> Melodica
+/m/0cn68	/people/ethnicity/geographic_distribution	/m/09c7w0
+  Japanese American -> [/people/ethnicity/geographic_distribution] -> United States of America
+/m/0y3_8	/music/genre/artists	/m/05k79
+  Synthpop -> [/music/genre/artists] -> New Order
+/m/02hnl	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/05148p4
+  Drums -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Keyboard
+/m/0133k0	/music/genre/parent_genre	/m/041738
+  Electroclash -> [/music/genre/parent_genre] -> Alternative dance
+/m/0342h	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/018vs
+  Guitar -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Bass guitar
+/m/01c4_6	/award/award_category/winners./award/award_honor/ceremony	/m/02rjjll
+  Grammy Award for Best Alternative Music Album -> [/award/award_category/winners./award/award_honor/ceremony] -> 50th Annual Grammy Awards-US
+/m/07ssc	/location/country/official_language	/m/02h40lc
+  United Kingdom -> [/location/country/official_language] -> English Language
+/m/03bx0bm	/music/performance_role/regular_performances./music/group_membership/group	/m/0dm5l
+  Lead vocalist-GB -> [/music/performance_role/regular_performances./music/group_membership/group] -> Pet Shop Boys
+/m/0b_6yv	/music/genre/artists	/m/07sbk
+  Neo-psychedelia -> [/music/genre/artists] -> The Chemical Brothers
+/m/07sbk	/music/artist/origin	/m/052bw
+  The Chemical Brothers -> [/music/artist/origin] -> Manchester
+/m/02p3cr5	/music/record_label/artist	/m/02cpp
+  EMI -> [/music/record_label/artist] -> Depeche Mode
+/m/03bx0bm	/music/performance_role/regular_performances./music/group_membership/group	/m/05k79
+  Lead vocalist-GB -> [/music/performance_role/regular_performances./music/group_membership/group] -> New Order
+/m/05148p4	/music/performance_role/track_performances./music/track_contribution/role	/m/018vs
+  Keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bass guitar
+/m/01243b	/music/genre/parent_genre	/m/016clz
+  Indie rock -> [/music/genre/parent_genre] -> Alternative rock
+/m/0342h	/music/performance_role/regular_performances./music/group_membership/role	/m/02snj9
+  Guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Programming
+/m/0glt670	/music/genre/artists	/m/01w806h
+  Hip hop music -> [/music/genre/artists] -> Danger Mouse
+/m/0342h	/music/performance_role/regular_performances./music/group_membership/role	/m/05r5c
+  Guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Piano
+/m/0bt7w	/music/genre/artists	/m/03fbc
+  Britpop -> [/music/genre/artists] -> Gorillaz
+/m/0n85g	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Virgin Records -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/07ssc	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/09c7w0
+  United Kingdom -> [/military/military_combatant/military_conflicts./military/military_combatant_group/combatants] -> United States of America
+/m/018vs	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/03bx0bm
+  Bass guitar -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Lead vocalist-GB
+/m/01txts	/music/record_label/artist	/m/07sbk
+  Astralwerks -> [/music/record_label/artist] -> The Chemical Brothers
+/m/02hnl	/music/performance_role/track_performances./music/track_contribution/role	/m/0g2dz
+  Drums -> [/music/performance_role/track_performances./music/track_contribution/role] -> Melodica
+/m/01k3qj	/people/person/languages	/m/03_9r
+  Hikaru Utada -> [/people/person/languages] -> Japanese Language
+/m/0fd3y	/music/genre/artists	/m/03fbc
+  Ambient music -> [/music/genre/artists] -> Gorillaz
+/m/01w5m	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Columbia University -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/05b0f7	/music/record_label/artist	/m/01k3qj
+  EMI Music Japan -> [/music/record_label/artist] -> Hikaru Utada
+/m/0y3_8	/music/genre/parent_genre	/m/064t9
+  Synthpop -> [/music/genre/parent_genre] -> Pop music
+/m/02h40lc	/language/human_language/countries_spoken_in	/m/07ssc
+  English Language -> [/language/human_language/countries_spoken_in] -> United Kingdom
+/m/02snj9	/music/performance_role/regular_performances./music/group_membership/role	/m/05148p4
+  Programming -> [/music/performance_role/regular_performances./music/group_membership/role] -> Keyboard
+/m/0phx4	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Damon Albarn -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/051hrr	/music/performance_role/track_performances./music/track_contribution/role	/m/05148p4
+  Electronic drum -> [/music/performance_role/track_performances./music/track_contribution/role] -> Keyboard
+/m/03mb9	/music/genre/parent_genre	/m/08cyft
+  House music -> [/music/genre/parent_genre] -> Electronic dance music
+/m/064t9	/music/genre/artists	/m/0dm5l
+  Pop music -> [/music/genre/artists] -> Pet Shop Boys
+/m/017l96	/music/record_label/artist	/m/01w806h
+  Capitol Records -> [/music/record_label/artist] -> Danger Mouse
+/m/05r5c	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/05148p4
+  Piano -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Keyboard
+/m/0342h	/music/performance_role/regular_performances./music/group_membership/group	/m/05k79
+  Guitar -> [/music/performance_role/regular_performances./music/group_membership/group] -> New Order
+/m/01dtcb	/music/record_label/artist	/m/01k3qj
+  Universal Music Group -> [/music/record_label/artist] -> Hikaru Utada
+/m/02hnl	/music/performance_role/regular_performances./music/group_membership/role	/m/0l14qv
+  Drums -> [/music/performance_role/regular_performances./music/group_membership/role] -> Synthesizer
+/m/0cfdd	/music/performance_role/regular_performances./music/group_membership/role	/m/05148p4
+  Drum machine -> [/music/performance_role/regular_performances./music/group_membership/role] -> Keyboard
+/m/05c6073	/music/genre/artists	/m/02cpp
+  Electronic rock -> [/music/genre/artists] -> Depeche Mode
+/m/0342h	/music/performance_role/track_performances./music/track_contribution/role	/m/018vs
+  Guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bass guitar
+/m/0342h	/music/performance_role/track_performances./music/track_contribution/role	/m/05148p4
+  Guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Keyboard
+/m/05r5c	/music/performance_role/regular_performances./music/group_membership/group	/m/02cpp
+  Piano -> [/music/performance_role/regular_performances./music/group_membership/group] -> Depeche Mode
+/m/0y3_8	/music/genre/artists	/m/01k3qj
+  Synthpop -> [/music/genre/artists] -> Hikaru Utada
+/m/02hnl	/music/performance_role/track_performances./music/track_contribution/role	/m/01vdm0
+  Drums -> [/music/performance_role/track_performances./music/track_contribution/role] -> Electronic keyboard
+/m/0y3_8	/music/genre/parent_genre	/m/0y3_8
+  Synthpop -> [/music/genre/parent_genre] -> Synthpop
+/m/0bt7w	/music/genre/parent_genre	/m/016clz
+  Britpop -> [/music/genre/parent_genre] -> Alternative rock
+/m/01t04r	/music/record_label/artist	/m/0dm5l
+  Sanctuary Records Group -> [/music/record_label/artist] -> Pet Shop Boys
+/m/05r5c	/music/performance_role/track_performances./music/track_contribution/role	/m/0g2dz
+  Piano -> [/music/performance_role/track_performances./music/track_contribution/role] -> Melodica
+/m/011k1h	/music/record_label/artist	/m/03fbc
+  EMI -> [/music/record_label/artist] -> Gorillaz
+/m/03bx0bm	/music/performance_role/regular_performances./music/group_membership/role	/m/0l14qv
+  Lead vocalist-GB -> [/music/performance_role/regular_performances./music/group_membership/role] -> Synthesizer
+/m/08jyyk	/music/genre/artists	/m/03fbc
+  Experimental rock -> [/music/genre/artists] -> Gorillaz
+/m/0phx4	/people/person/profession	/m/01c72t
+  Damon Albarn -> [/people/person/profession] -> Composer
+/m/0l14qv	/music/instrument/family	/m/05148p4
+  Synthesizer -> [/music/instrument/family] -> Keyboard
+/m/03f7jfh	/music/artist/track_contributions./music/track_contribution/role	/m/01vdm0
+  Q-Tip -> [/music/artist/track_contributions./music/track_contribution/role] -> Electronic keyboard
+/m/035wcs	/music/genre/parent_genre	/m/08cyft
+  Eurodance -> [/music/genre/parent_genre] -> Electronic dance music
+/m/01vdm0	/music/performance_role/regular_performances./music/group_membership/role	/m/018vs
+  Electronic keyboard -> [/music/performance_role/regular_performances./music/group_membership/role] -> Bass guitar
+/m/03mb9	/music/genre/artists	/m/0dm5l
+  House music -> [/music/genre/artists] -> Pet Shop Boys
+/m/03rhqg	/music/record_label/artist	/m/05k79
+  Warner Bros. Records -> [/music/record_label/artist] -> New Order
+/m/01243b	/music/genre/artists	/m/01w806h
+  Indie rock -> [/music/genre/artists] -> Danger Mouse
+/m/0133k0	/music/genre/parent_genre	/m/01b4p4
+  Electroclash -> [/music/genre/parent_genre] -> New Romanticism
+/m/0k_kr	/music/record_label/artist	/m/0phx4
+  Parlophone -> [/music/record_label/artist] -> Damon Albarn
+/m/035wcs	/music/genre/artists	/m/0dm5l
+  Eurodance -> [/music/genre/artists] -> Pet Shop Boys
+/m/02cpp	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01c4_6
+  Depeche Mode -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Best Alternative Music Album
+/m/0229rs	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Rhino Entertainment -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/02hnl	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/0342h
+  Drums -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Guitar
+/m/05148p4	/music/performance_role/track_performances./music/track_contribution/role	/m/0cfdd
+  Keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Drum machine
+/m/07gxw	/music/genre/parent_genre	/m/0mmp3
+  Techno -> [/music/genre/parent_genre] -> Industrial music
+/m/0cfdd	/music/performance_role/track_performances./music/track_contribution/role	/m/02hnl
+  Drum machine -> [/music/performance_role/track_performances./music/track_contribution/role] -> Drums
+/m/0342h	/music/performance_role/track_performances./music/track_contribution/role	/m/05r5c
+  Guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Piano
+/m/01k3qj	/music/artist/origin	/m/02_286
+  Hikaru Utada -> [/music/artist/origin] -> New York City
+/m/0phx4	/people/person/profession	/m/0nbcg
+  Damon Albarn -> [/people/person/profession] -> Songwriter-GB
+/m/0k_kr	/music/record_label/artist	/m/0dm5l
+  Parlophone -> [/music/record_label/artist] -> Pet Shop Boys
+/m/0g2dz	/music/performance_role/track_performances./music/track_contribution/role	/m/01vdm0
+  Melodica -> [/music/performance_role/track_performances./music/track_contribution/role] -> Electronic keyboard
+/m/0229rs	/music/record_label/artist	/m/0dm5l
+  Rhino Entertainment -> [/music/record_label/artist] -> Pet Shop Boys
+/m/03ckfl9	/music/genre/artists	/m/01k3qj
+  Experimental music -> [/music/genre/artists] -> Hikaru Utada
+/m/01vdm0	/music/performance_role/track_performances./music/track_contribution/role	/m/0l14qv
+  Electronic keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Synthesizer
+/m/0342h	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/05r5c
+  Guitar -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Piano
+/m/0l14qv	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/05r5c
+  Synthesizer -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Piano
+/m/0g2dz	/music/performance_role/regular_performances./music/group_membership/role	/m/0l14qv
+  Melodica -> [/music/performance_role/regular_performances./music/group_membership/role] -> Synthesizer
+/m/0fd3y	/music/genre/artists	/m/01k3qj
+  Ambient music -> [/music/genre/artists] -> Hikaru Utada
+/m/0phx4	/music/group_member/membership./music/group_membership/role	/m/0g2dz
+  Damon Albarn -> [/music/group_member/membership./music/group_membership/role] -> Melodica
+/m/02y21l	/music/record_label/artist	/m/02cpp
+  Sire Records -> [/music/record_label/artist] -> Depeche Mode
+/m/07sbk	/award/award_winner/awards_won./award/award_honor/award_winner	/m/03f7jfh
+  The Chemical Brothers -> [/award/award_winner/awards_won./award/award_honor/award_winner] -> Q-Tip
+/m/0dm5l	/music/artist/track_contributions./music/track_contribution/role	/m/01vdm0
+  Pet Shop Boys -> [/music/artist/track_contributions./music/track_contribution/role] -> Electronic keyboard
+/m/09n4nb	/award/award_ceremony/awards_presented./award/award_honor/award_winner	/m/07sbk
+  48th Annual Grammy Awards -> [/award/award_ceremony/awards_presented./award/award_honor/award_winner] -> The Chemical Brothers
+/m/01vdm0	/music/performance_role/regular_performances./music/group_membership/role	/m/05r5c
+  Electronic keyboard -> [/music/performance_role/regular_performances./music/group_membership/role] -> Piano
+/m/0cfdd	/music/performance_role/regular_performances./music/group_membership/role	/m/02hnl
+  Drum machine -> [/music/performance_role/regular_performances./music/group_membership/role] -> Drums
+/m/012yc	/music/genre/artists	/m/01w806h
+  Alternative hip hop -> [/music/genre/artists] -> Danger Mouse
+/m/05148p4	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/03bx0bm
+  Keyboard -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Lead vocalist-GB
+/m/05r5c	/music/performance_role/regular_performances./music/group_membership/role	/m/03bx0bm
+  Piano -> [/music/performance_role/regular_performances./music/group_membership/role] -> Lead vocalist-GB
+/m/01dtcb	/organization/organization/headquarters./location/mailing_address/citytown	/m/02_286
+  Universal Music Group -> [/organization/organization/headquarters./location/mailing_address/citytown] -> New York City
+/m/0bt7w	/music/genre/parent_genre	/m/059kh
+  Britpop -> [/music/genre/parent_genre] -> New Wave
+/m/04fc6c	/organization/organization/headquarters./location/mailing_address/citytown	/m/02_286
+  The Island Def Jam Music Group -> [/organization/organization/headquarters./location/mailing_address/citytown] -> New York City
+/m/018vs	/music/performance_role/track_performances./music/track_contribution/role	/m/05148p4
+  Bass guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Keyboard
+/m/05k79	/music/artist/origin	/m/018x0q
+  New Order -> [/music/artist/origin] -> Salford, Greater Manchester
+/m/05148p4	/dataworld/gardening_hint/split_to	/m/05148p4
+  Keyboard -> [/dataworld/gardening_hint/split_to] -> Keyboard
+/m/0342h	/music/performance_role/track_performances./music/track_contribution/role	/m/03bx0bm
+  Guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Lead vocalist-GB
+/m/05c6073	/music/genre/artists	/m/05k79
+  Electronic rock -> [/music/genre/artists] -> New Order
+/m/0glt670	/music/genre/artists	/m/03f7jfh
+  Hip hop music -> [/music/genre/artists] -> Q-Tip
+/m/02snj9	/music/performance_role/regular_performances./music/group_membership/role	/m/051hrr
+  Programming -> [/music/performance_role/regular_performances./music/group_membership/role] -> Electronic drum
+/m/0g768	/music/record_label/artist	/m/0dm5l
+  Atlantic Records -> [/music/record_label/artist] -> Pet Shop Boys
+/m/01vdm0	/music/instrument/family	/m/05148p4
+  Electronic keyboard -> [/music/instrument/family] -> Keyboard
+/m/025sc50	/music/genre/parent_genre	/m/06j6l
+  Contemporary R&B -> [/music/genre/parent_genre] -> Rhythm and blues
+/m/07sbk	/award/award_nominee/award_nominations./award/award_nomination/award	/m/05zkcn5
+  The Chemical Brothers -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> MTV Movie Award for Best Song from a Movie
+/m/05148p4	/music/performance_role/track_performances./music/track_contribution/role	/m/051hrr
+  Keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Electronic drum
+/m/05r5c	/music/performance_role/regular_performances./music/group_membership/role	/m/0g2dz
+  Piano -> [/music/performance_role/regular_performances./music/group_membership/role] -> Melodica
+/m/011k1h	/music/record_label/artist	/m/02cpp
+  EMI -> [/music/record_label/artist] -> Depeche Mode
+/m/0l14qv	/music/performance_role/regular_performances./music/group_membership/role	/m/05148p4
+  Synthesizer -> [/music/performance_role/regular_performances./music/group_membership/role] -> Keyboard
+/m/0g2dz	/music/performance_role/track_performances./music/track_contribution/role	/m/02hnl
+  Melodica -> [/music/performance_role/track_performances./music/track_contribution/role] -> Drums
+/m/05k79	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  New Order -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/0y3_8	/music/genre/parent_genre	/m/05c6073
+  Synthpop -> [/music/genre/parent_genre] -> Electronic rock
+/m/01vdm0	/music/performance_role/track_performances./music/track_contribution/role	/m/0g2dz
+  Electronic keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Melodica
+/m/016clz	/music/genre/artists	/m/03fbc
+  Alternative rock -> [/music/genre/artists] -> Gorillaz
+/m/0g2dz	/music/performance_role/track_performances./music/track_contribution/role	/m/05r5c
+  Melodica -> [/music/performance_role/track_performances./music/track_contribution/role] -> Piano
+/m/02w6s3	/music/genre/artists	/m/07sbk
+  Progressive house -> [/music/genre/artists] -> The Chemical Brothers
+/m/03bx0bm	/music/performance_role/regular_performances./music/group_membership/group	/m/02cpp
+  Lead vocalist-GB -> [/music/performance_role/regular_performances./music/group_membership/group] -> Depeche Mode
+/m/0g2dz	/music/performance_role/track_performances./music/track_contribution/role	/m/0l14qv
+  Melodica -> [/music/performance_role/track_performances./music/track_contribution/role] -> Synthesizer
+/m/0g768	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Atlantic Records -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/0264jc6	/music/genre/artists	/m/0phx4
+  Freak folk -> [/music/genre/artists] -> Damon Albarn
+/m/02ly_	/location/administrative_division/country	/m/07ssc
+  Essex -> [/location/administrative_division/country] -> United Kingdom
+/m/0cn68	/people/ethnicity/languages_spoken	/m/03_9r
+  Japanese American -> [/people/ethnicity/languages_spoken] -> Japanese Language
+/m/018vs	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/0g2dz
+  Bass guitar -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Melodica
+/m/01w806h	/music/group_member/membership./music/group_membership/group	/m/03fbc
+  Danger Mouse -> [/music/group_member/membership./music/group_membership/group] -> Gorillaz
+/m/041738	/music/genre/artists	/m/0dm5l
+  Alternative dance -> [/music/genre/artists] -> Pet Shop Boys
+/m/0264jc6	/music/genre/artists	/m/03fbc
+  Freak folk -> [/music/genre/artists] -> Gorillaz
+/m/01vdm0	/music/performance_role/track_performances./music/track_contribution/role	/m/0cfdd
+  Electronic keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Drum machine
+/m/03fbc	/award/award_nominee/award_nominations./award/award_nomination/award	/m/03r00m
+  Gorillaz -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Best Urban/Alternative Performance
+/m/052bw	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Manchester -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/05c6073	/music/genre/artists	/m/03fbc
+  Electronic rock -> [/music/genre/artists] -> Gorillaz
+/m/01k3qj	/people/person/gender	/m/02zsn
+  Hikaru Utada -> [/people/person/gender] -> Female
+/m/05r5c	/music/performance_role/regular_performances./music/group_membership/role	/m/0cfdd
+  Piano -> [/music/performance_role/regular_performances./music/group_membership/role] -> Drum machine
+/m/02hnl	/music/performance_role/track_performances./music/track_contribution/role	/m/0l14qv
+  Drums -> [/music/performance_role/track_performances./music/track_contribution/role] -> Synthesizer
+/m/01cl2y	/music/record_label/artist	/m/05k79
+  Reprise Records -> [/music/record_label/artist] -> New Order
+/m/03f7jfh	/award/award_winner/awards_won./award/award_honor/award_winner	/m/07sbk
+  Q-Tip -> [/award/award_winner/awards_won./award/award_honor/award_winner] -> The Chemical Brothers
+/m/018vs	/music/performance_role/track_performances./music/track_contribution/role	/m/02hnl
+  Bass guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Drums
+/m/018vs	/music/performance_role/track_performances./music/track_contribution/role	/m/0cfdd
+  Bass guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Drum machine
+/m/08cyft	/music/genre/artists	/m/05k79
+  Electronic dance music -> [/music/genre/artists] -> New Order
+/m/03f4xvm	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/m/03fbc
+  Mos Def -> [/award/award_nominee/award_nominations./award/award_nomination/award_nominee] -> Gorillaz
+/m/0133k0	/music/genre/parent_genre	/m/059kh
+  Electroclash -> [/music/genre/parent_genre] -> New Wave
+/m/0n85g	/music/record_label/artist	/m/07sbk
+  Virgin Records -> [/music/record_label/artist] -> The Chemical Brothers
+/m/01b4p4	/music/genre/parent_genre	/m/0y3_8
+  New Romanticism -> [/music/genre/parent_genre] -> Synthpop
+/m/0193f	/music/genre/parent_genre	/m/0hh2s
+  Big beat -> [/music/genre/parent_genre] -> Breakbeat
+/m/01_qp_	/music/genre/parent_genre	/m/0y3_8
+  Dark wave -> [/music/genre/parent_genre] -> Synthpop
+/m/0y3_8	/music/genre/artists	/m/02cpp
+  Synthpop -> [/music/genre/artists] -> Depeche Mode
+/m/04fc6c	/music/record_label/artist	/m/01k3qj
+  The Island Def Jam Music Group -> [/music/record_label/artist] -> Hikaru Utada
+/m/0342h	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/0l14qv
+  Guitar -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Synthesizer
+/m/011k1h	/music/record_label/artist	/m/01k3qj
+  EMI -> [/music/record_label/artist] -> Hikaru Utada
+/m/01k3qj	/people/person/spouse_s./people/marriage/type_of_union	/m/04ztj
+  Hikaru Utada -> [/people/person/spouse_s./people/marriage/type_of_union] -> Marriage
+/m/01w806h	/music/artist/track_contributions./music/track_contribution/role	/m/0l14qv
+  Danger Mouse -> [/music/artist/track_contributions./music/track_contribution/role] -> Synthesizer
+/m/05148p4	/music/instrument/instrumentalists	/m/0phx4
+  Keyboard -> [/music/instrument/instrumentalists] -> Damon Albarn
+/m/03r00m	/award/award_category/winners./award/award_honor/ceremony	/m/02rjjll
+  Grammy Award for Best Urban/Alternative Performance -> [/award/award_category/winners./award/award_honor/ceremony] -> 50th Annual Grammy Awards-US
+/m/07gxw	/music/genre/artists	/m/05k79
+  Techno -> [/music/genre/artists] -> New Order
+/m/02hnl	/music/performance_role/regular_performances./music/group_membership/role	/m/018vs
+  Drums -> [/music/performance_role/regular_performances./music/group_membership/role] -> Bass guitar
+/m/0g2dz	/music/performance_role/track_performances./music/track_contribution/role	/m/018vs
+  Melodica -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bass guitar
+/m/01w5m	/organization/organization/headquarters./location/mailing_address/citytown	/m/02_286
+  Columbia University -> [/organization/organization/headquarters./location/mailing_address/citytown] -> New York City
+/m/0phx4	/music/group_member/membership./music/group_membership/role	/m/0342h
+  Damon Albarn -> [/music/group_member/membership./music/group_membership/role] -> Guitar
+/m/0342h	/music/instrument/instrumentalists	/m/01k3qj
+  Guitar -> [/music/instrument/instrumentalists] -> Hikaru Utada
+/m/04ztj	/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	/m/03_3d
+  Marriage -> [/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony] -> Japan
+/m/02hnl	/music/performance_role/regular_performances./music/group_membership/role	/m/03bx0bm
+  Drums -> [/music/performance_role/regular_performances./music/group_membership/role] -> Lead vocalist-GB
+/m/0cfdd	/music/performance_role/track_performances./music/track_contribution/role	/m/051hrr
+  Drum machine -> [/music/performance_role/track_performances./music/track_contribution/role] -> Electronic drum
+/m/05148p4	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/018vs
+  Keyboard -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Bass guitar
+/m/016clz	/music/genre/artists	/m/01w806h
+  Alternative rock -> [/music/genre/artists] -> Danger Mouse
+/m/04fc6c	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	/m/09c7w0
+  The Island Def Jam Music Group -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location] -> United States of America
+/m/0l14qv	/music/performance_role/track_performances./music/track_contribution/role	/m/0342h
+  Synthesizer -> [/music/performance_role/track_performances./music/track_contribution/role] -> Guitar
+/m/01w806h	/music/artist/track_contributions./music/track_contribution/role	/m/05r5c
+  Danger Mouse -> [/music/artist/track_contributions./music/track_contribution/role] -> Piano
+/m/05148p4	/music/performance_role/regular_performances./music/group_membership/role	/m/018vs
+  Keyboard -> [/music/performance_role/regular_performances./music/group_membership/role] -> Bass guitar
+/m/05148p4	/music/performance_role/regular_performances./music/group_membership/role	/m/02snj9
+  Keyboard -> [/music/performance_role/regular_performances./music/group_membership/role] -> Programming
+/m/01vdm0	/music/performance_role/track_performances./music/track_contribution/role	/m/0342h
+  Electronic keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Guitar
+/m/0phx4	/people/person/places_lived./people/place_lived/location	/m/04jpl
+  Damon Albarn -> [/people/person/places_lived./people/place_lived/location] -> London
+/m/02sp_v	/award/award_category/winners./award/award_honor/ceremony	/m/09n4nb
+  Grammy Award for Best Music Film -> [/award/award_category/winners./award/award_honor/ceremony] -> 48th Annual Grammy Awards
+/m/011k1h	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	/m/09c7w0
+  EMI -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location] -> United States of America
+/m/0342h	/music/performance_role/regular_performances./music/group_membership/role	/m/02hnl
+  Guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Drums
+/m/0l14qv	/music/performance_role/regular_performances./music/group_membership/role	/m/02snj9
+  Synthesizer -> [/music/performance_role/regular_performances./music/group_membership/role] -> Programming
+/m/011k1h	/organization/organization/child./organization/organization_relationship/child	/m/05b0f7
+  EMI -> [/organization/organization/child./organization/organization_relationship/child] -> EMI Music Japan
+/m/01b4p4	/music/genre/parent_genre	/m/059kh
+  New Romanticism -> [/music/genre/parent_genre] -> New Wave
+/m/05148p4	/music/performance_role/track_performances./music/track_contribution/role	/m/02hnl
+  Keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Drums
+/m/0b_6yv	/music/genre/artists	/m/01w806h
+  Neo-psychedelia -> [/music/genre/artists] -> Danger Mouse
+/m/01243b	/music/genre/artists	/m/03fbc
+  Indie rock -> [/music/genre/artists] -> Gorillaz
+/m/0l14qv	/music/performance_role/track_performances./music/track_contribution/role	/m/051hrr
+  Synthesizer -> [/music/performance_role/track_performances./music/track_contribution/role] -> Electronic drum
+/m/01k3qj	/people/person/languages	/m/02h40lc
+  Hikaru Utada -> [/people/person/languages] -> English Language
+/m/059kh	/music/genre/artists	/m/05k79
+  New Wave -> [/music/genre/artists] -> New Order
+/m/05r5c	/music/instrument/instrumentalists	/m/0phx4
+  Piano -> [/music/instrument/instrumentalists] -> Damon Albarn
+/m/02hnl	/music/performance_role/regular_performances./music/group_membership/group	/m/05k79
+  Drums -> [/music/performance_role/regular_performances./music/group_membership/group] -> New Order
+/m/01th4s	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Mute Records -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/03fbc	/award/award_nominee/award_nominations./award/award_nomination/award	/m/02v1m7
+  Gorillaz -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Best Music Video
+/m/051hrr	/music/performance_role/regular_performances./music/group_membership/role	/m/05148p4
+  Electronic drum -> [/music/performance_role/regular_performances./music/group_membership/role] -> Keyboard
+/m/02g3gj	/award/award_category/winners./award/award_honor/ceremony	/m/02rjjll
+  Grammy Award for Best Dance Recording -> [/award/award_category/winners./award/award_honor/ceremony] -> 50th Annual Grammy Awards-US
+/m/0mzkr	/music/record_label/artist	/m/01k3qj
+  Island Records -> [/music/record_label/artist] -> Hikaru Utada
+/m/03f4xvm	/people/person/spouse_s./people/marriage/type_of_union	/m/04ztj
+  Mos Def -> [/people/person/spouse_s./people/marriage/type_of_union] -> Marriage
+/m/0l14qv	/music/performance_role/regular_performances./music/group_membership/role	/m/02hnl
+  Synthesizer -> [/music/performance_role/regular_performances./music/group_membership/role] -> Drums
+/m/05r5c	/music/performance_role/track_performances./music/track_contribution/role	/m/05148p4
+  Piano -> [/music/performance_role/track_performances./music/track_contribution/role] -> Keyboard
+/m/0cfdd	/music/performance_role/regular_performances./music/group_membership/role	/m/0342h
+  Drum machine -> [/music/performance_role/regular_performances./music/group_membership/role] -> Guitar
+/m/018vs	/music/performance_role/regular_performances./music/group_membership/group	/m/03fbc
+  Bass guitar -> [/music/performance_role/regular_performances./music/group_membership/group] -> Gorillaz
+/m/04fc6c	/organization/organization/child./organization/organization_relationship/child	/m/0mzkr
+  The Island Def Jam Music Group -> [/organization/organization/child./organization/organization_relationship/child] -> Island Records
+/m/02g3gj	/award/award_category/winners./award/award_honor/award_winner	/m/07sbk
+  Grammy Award for Best Dance Recording -> [/award/award_category/winners./award/award_honor/award_winner] -> The Chemical Brothers
+/m/0m0jc	/music/genre/artists	/m/03fbc
+  Electronica -> [/music/genre/artists] -> Gorillaz
+/m/01k3qj	/people/person/places_lived./people/place_lived/location	/m/02_286
+  Hikaru Utada -> [/people/person/places_lived./people/place_lived/location] -> New York City
+/m/07ssc	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	/m/09c7w0
+  United Kingdom -> [/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to] -> United States of America
+/m/0g2dz	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/0l14qv
+  Melodica -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Synthesizer
+/m/03f4xvm	/award/award_nominee/award_nominations./award/award_nomination/award	/m/02v1m7
+  Mos Def -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Best Music Video
+/m/05148p4	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/05r5c
+  Keyboard -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Piano
+/m/03f7jfh	/people/person/spouse_s./people/marriage/type_of_union	/m/04ztj
+  Q-Tip -> [/people/person/spouse_s./people/marriage/type_of_union] -> Marriage
+/m/02snj9	/music/performance_role/regular_performances./music/group_membership/role	/m/0342h
+  Programming -> [/music/performance_role/regular_performances./music/group_membership/role] -> Guitar
+/m/0phx4	/music/group_member/membership./music/group_membership/role	/m/03bx0bm
+  Damon Albarn -> [/music/group_member/membership./music/group_membership/role] -> Lead vocalist-GB
+/m/05r5c	/music/instrument/family	/m/05148p4
+  Piano -> [/music/instrument/family] -> Keyboard
+/m/03bx0bm	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/018vs
+  Lead vocalist-GB -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Bass guitar
+/m/017l96	/music/record_label/artist	/m/02cpp
+  Capitol Records -> [/music/record_label/artist] -> Depeche Mode
+/m/0m0jc	/music/genre/artists	/m/07sbk
+  Electronica -> [/music/genre/artists] -> The Chemical Brothers
+/m/02hnl	/music/performance_role/regular_performances./music/group_membership/role	/m/02snj9
+  Drums -> [/music/performance_role/regular_performances./music/group_membership/role] -> Programming
+/m/0133k0	/music/genre/parent_genre	/m/05c6073
+  Electroclash -> [/music/genre/parent_genre] -> Electronic rock
+/m/02hnl	/music/performance_role/track_performances./music/track_contribution/role	/m/0342h
+  Drums -> [/music/performance_role/track_performances./music/track_contribution/role] -> Guitar
+/m/01k3qj	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Hikaru Utada -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/01w806h	/people/person/nationality	/m/09c7w0
+  Danger Mouse -> [/people/person/nationality] -> United States of America
+/m/03_3d	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	/m/09c7w0
+  Japan -> [/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to] -> United States of America
+/m/07sbk	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01c4_6
+  The Chemical Brothers -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Best Alternative Music Album
+/m/05148p4	/music/performance_role/regular_performances./music/group_membership/group	/m/05k79
+  Keyboard -> [/music/performance_role/regular_performances./music/group_membership/group] -> New Order
+/m/0342h	/music/performance_role/track_performances./music/track_contribution/role	/m/02hnl
+  Guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Drums
+/m/0cn68	/people/ethnicity/people	/m/01k3qj
+  Japanese American -> [/people/ethnicity/people] -> Hikaru Utada
+/m/0fd3y	/music/genre/parent_genre	/m/05w3f
+  Ambient music -> [/music/genre/parent_genre] -> Psychedelic rock
+/m/0g2dz	/music/performance_role/regular_performances./music/group_membership/role	/m/02hnl
+  Melodica -> [/music/performance_role/regular_performances./music/group_membership/role] -> Drums
+/m/018vs	/music/performance_role/track_performances./music/track_contribution/role	/m/05r5c
+  Bass guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Piano
+/m/051hrr	/music/performance_role/regular_performances./music/group_membership/role	/m/02snj9
+  Electronic drum -> [/music/performance_role/regular_performances./music/group_membership/role] -> Programming
+/m/03f7jfh	/people/person/nationality	/m/09c7w0
+  Q-Tip -> [/people/person/nationality] -> United States of America
+/m/01dtcb	/music/record_label/artist	/m/03f7jfh
+  Universal Music Group -> [/music/record_label/artist] -> Q-Tip
+/m/07sbk	/award/award_nominee/award_nominations./award/award_nomination/award	/m/056jm_
+  The Chemical Brothers -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Best Dance/Electronica Album
+/m/01w5m	/education/educational_institution/students_graduates./education/education/major_field_of_study	/m/02h40lc
+  Columbia University -> [/education/educational_institution/students_graduates./education/education/major_field_of_study] -> English Language
+/m/03bx0bm	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/05148p4
+  Lead vocalist-GB -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Keyboard
+/m/0cfdd	/music/performance_role/regular_performances./music/group_membership/role	/m/0l14qv
+  Drum machine -> [/music/performance_role/regular_performances./music/group_membership/role] -> Synthesizer
+/m/01243b	/music/genre/artists	/m/0phx4
+  Indie rock -> [/music/genre/artists] -> Damon Albarn
+/m/0phx4	/music/group_member/membership./music/group_membership/group	/m/03fbc
+  Damon Albarn -> [/music/group_member/membership./music/group_membership/group] -> Gorillaz
+/m/05r5c	/music/performance_role/regular_performances./music/group_membership/role	/m/018vs
+  Piano -> [/music/performance_role/regular_performances./music/group_membership/role] -> Bass guitar
+/m/01th4s	/music/record_label/artist	/m/02cpp
+  Mute Records -> [/music/record_label/artist] -> Depeche Mode
+/m/0l14qv	/music/performance_role/track_performances./music/track_contribution/role	/m/0cfdd
+  Synthesizer -> [/music/performance_role/track_performances./music/track_contribution/role] -> Drum machine
+/m/012yc	/music/genre/artists	/m/03f4xvm
+  Alternative hip hop -> [/music/genre/artists] -> Mos Def
+/m/05148p4	/music/performance_role/track_performances./music/track_contribution/role	/m/05r5c
+  Keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Piano
+/m/03_3d	/location/country/official_language	/m/03_9r
+  Japan -> [/location/country/official_language] -> Japanese Language
+/m/0k_kr	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Parlophone -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/03f4xvm	/people/person/profession	/m/0nbcg
+  Mos Def -> [/people/person/profession] -> Songwriter-GB
+/m/01cl2y	/music/record_label/artist	/m/02cpp
+  Reprise Records -> [/music/record_label/artist] -> Depeche Mode
+/m/0l14qv	/music/performance_role/regular_performances./music/group_membership/group	/m/05k79
+  Synthesizer -> [/music/performance_role/regular_performances./music/group_membership/group] -> New Order
+/m/0l14qv	/music/performance_role/track_performances./music/track_contribution/role	/m/03bx0bm
+  Synthesizer -> [/music/performance_role/track_performances./music/track_contribution/role] -> Lead vocalist-GB
+/m/0l14qv	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/0g2dz
+  Synthesizer -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Melodica
+/m/02sp_v	/award/award_category/winners./award/award_honor/ceremony	/m/02rjjll
+  Grammy Award for Best Music Film -> [/award/award_category/winners./award/award_honor/ceremony] -> 50th Annual Grammy Awards-US
+/m/01w806h	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Danger Mouse -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/018vs	/music/performance_role/regular_performances./music/group_membership/role	/m/05148p4
+  Bass guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Keyboard
+/m/01k3qj	/people/person/profession	/m/01c72t
+  Hikaru Utada -> [/people/person/profession] -> Composer
+/m/0cfdd	/music/performance_role/regular_performances./music/group_membership/group	/m/03fbc
+  Drum machine -> [/music/performance_role/regular_performances./music/group_membership/group] -> Gorillaz
+/m/01k3qj	/people/person/place_of_birth	/m/02_286
+  Hikaru Utada -> [/people/person/place_of_birth] -> New York City
+/m/03bx0bm	/music/performance_role/regular_performances./music/group_membership/role	/m/05148p4
+  Lead vocalist-GB -> [/music/performance_role/regular_performances./music/group_membership/role] -> Keyboard
+/m/01bgqh	/award/award_category/winners./award/award_honor/ceremony	/m/09n4nb
+  Grammy Award for Record of the Year -> [/award/award_category/winners./award/award_honor/ceremony] -> 48th Annual Grammy Awards
+/m/016clz	/music/genre/artists	/m/02cpp
+  Alternative rock -> [/music/genre/artists] -> Depeche Mode
+/m/03bx0bm	/music/performance_role/track_performances./music/track_contribution/role	/m/0342h
+  Lead vocalist-GB -> [/music/performance_role/track_performances./music/track_contribution/role] -> Guitar
+/m/051hrr	/music/performance_role/track_performances./music/track_contribution/role	/m/018vs
+  Electronic drum -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bass guitar
+/m/05r5c	/music/performance_role/track_performances./music/track_contribution/role	/m/0cfdd
+  Piano -> [/music/performance_role/track_performances./music/track_contribution/role] -> Drum machine
+/m/017l96	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Capitol Records -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/0342h	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/05148p4
+  Guitar -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Keyboard
+/m/03fbc	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01bgqh
+  Gorillaz -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Record of the Year
+/m/03bx0bm	/music/performance_role/track_performances./music/track_contribution/role	/m/018vs
+  Lead vocalist-GB -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bass guitar
+/m/02y21l	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Sire Records -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/0y3_8	/music/genre/parent_genre	/m/011j5x
+  Synthpop -> [/music/genre/parent_genre] -> Post-punk
+/m/0g2dz	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/018vs
+  Melodica -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Bass guitar
+/m/03fbc	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Gorillaz -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/01w5m	/education/educational_institution/students_graduates./education/education/student	/m/01k3qj
+  Columbia University -> [/education/educational_institution/students_graduates./education/education/student] -> Hikaru Utada
+/m/02g3gj	/award/award_category/winners./award/award_honor/ceremony	/m/09n4nb
+  Grammy Award for Best Dance Recording -> [/award/award_category/winners./award/award_honor/ceremony] -> 48th Annual Grammy Awards
+/m/0k_kr	/music/record_label/artist	/m/07sbk
+  Parlophone -> [/music/record_label/artist] -> The Chemical Brothers
+/m/03bx0bm	/music/performance_role/track_performances./music/track_contribution/role	/m/05r5c
+  Lead vocalist-GB -> [/music/performance_role/track_performances./music/track_contribution/role] -> Piano
+/m/03mb9	/music/genre/artists	/m/05k79
+  House music -> [/music/genre/artists] -> New Order
+/m/05148p4	/music/performance_role/track_performances./music/track_contribution/role	/m/0g2dz
+  Keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Melodica
+/m/05r5c	/music/performance_role/regular_performances./music/group_membership/role	/m/05148p4
+  Piano -> [/music/performance_role/regular_performances./music/group_membership/role] -> Keyboard
+/m/0l14qv	/music/performance_role/regular_performances./music/group_membership/role	/m/05r5c
+  Synthesizer -> [/music/performance_role/regular_performances./music/group_membership/role] -> Piano
+/m/01dtcb	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	/m/02h40lc
+  Universal Music Group -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language] -> English Language
+/m/018vs	/music/performance_role/track_performances./music/track_contribution/role	/m/0g2dz
+  Bass guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Melodica
+/m/02cpp	/award/award_nominee/award_nominations./award/award_nomination/award	/m/02f6yz
+  Depeche Mode -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> MTV Video Music Award for Best Group Video
+/m/05r5c	/music/performance_role/track_performances./music/track_contribution/role	/m/0l14qv
+  Piano -> [/music/performance_role/track_performances./music/track_contribution/role] -> Synthesizer
+/m/02w6s3	/music/genre/parent_genre	/m/0hh2s
+  Progressive house -> [/music/genre/parent_genre] -> Breakbeat
+/m/0l14qv	/music/performance_role/regular_performances./music/group_membership/role	/m/03bx0bm
+  Synthesizer -> [/music/performance_role/regular_performances./music/group_membership/role] -> Lead vocalist-GB
+/m/03bx0bm	/music/performance_role/regular_performances./music/group_membership/role	/m/0342h
+  Lead vocalist-GB -> [/music/performance_role/regular_performances./music/group_membership/role] -> Guitar
+/m/02h40lc	/language/human_language/countries_spoken_in	/m/03_3d
+  English Language -> [/language/human_language/countries_spoken_in] -> Japan
+/m/0g2dz	/music/performance_role/track_performances./music/track_contribution/role	/m/05148p4
+  Melodica -> [/music/performance_role/track_performances./music/track_contribution/role] -> Keyboard
+/m/018vs	/music/performance_role/regular_performances./music/group_membership/role	/m/0l14qv
+  Bass guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Synthesizer
+/m/0342h	/music/performance_role/track_performances./music/track_contribution/role	/m/0g2dz
+  Guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Melodica
+/m/012yc	/music/genre/artists	/m/03fbc
+  Alternative hip hop -> [/music/genre/artists] -> Gorillaz
+/m/0l14qv	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/02hnl
+  Synthesizer -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Drums
+/m/018vs	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/0l14qv
+  Bass guitar -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Synthesizer
+/m/0342h	/music/performance_role/track_performances./music/track_contribution/role	/m/01vdm0
+  Guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Electronic keyboard
+/m/04ztj	/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	/m/09c7w0
+  Marriage -> [/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony] -> United States of America
+/m/07d2d	/music/genre/artists	/m/07sbk
+  Trip hop -> [/music/genre/artists] -> The Chemical Brothers
+/m/01vdm0	/music/performance_role/regular_performances./music/group_membership/role	/m/03bx0bm
+  Electronic keyboard -> [/music/performance_role/regular_performances./music/group_membership/role] -> Lead vocalist-GB
+/m/01dtcb	/organization/organization/child./organization/organization_relationship/child	/m/0mzkr
+  Universal Music Group -> [/organization/organization/child./organization/organization_relationship/child] -> Island Records
+/m/03fbc	/award/award_nominee/award_nominations./award/award_nomination/award	/m/02gdjb
+  Gorillaz -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Best Pop Instrumental Performance
+/m/0mzkr	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Island Records -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/03f4xvm	/award/award_nominee/award_nominations./award/award_nomination/award	/m/03r00m
+  Mos Def -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Best Urban/Alternative Performance
+/m/01cl2y	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Reprise Records -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/01_qp_	/music/genre/parent_genre	/m/059kh
+  Dark wave -> [/music/genre/parent_genre] -> New Wave
+/m/018vs	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/0342h
+  Bass guitar -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Guitar
+/m/01k3qj	/people/person/nationality	/m/03_3d
+  Hikaru Utada -> [/people/person/nationality] -> Japan
+/m/051hrr	/music/performance_role/regular_performances./music/group_membership/group	/m/05k79
+  Electronic drum -> [/music/performance_role/regular_performances./music/group_membership/group] -> New Order
+/m/0cfdd	/music/performance_role/track_performances./music/track_contribution/role	/m/0l14qv
+  Drum machine -> [/music/performance_role/track_performances./music/track_contribution/role] -> Synthesizer
+/m/0bt7w	/music/genre/parent_genre	/m/01243b
+  Britpop -> [/music/genre/parent_genre] -> Indie rock
+/m/05148p4	/music/performance_role/regular_performances./music/group_membership/role	/m/0l14qv
+  Keyboard -> [/music/performance_role/regular_performances./music/group_membership/role] -> Synthesizer
+/m/018vs	/music/performance_role/regular_performances./music/group_membership/group	/m/05k79
+  Bass guitar -> [/music/performance_role/regular_performances./music/group_membership/group] -> New Order
+/m/02snj9	/music/performance_role/regular_performances./music/group_membership/group	/m/05k79
+  Programming -> [/music/performance_role/regular_performances./music/group_membership/group] -> New Order
+/m/02snj9	/music/performance_role/regular_performances./music/group_membership/role	/m/05r5c
+  Programming -> [/music/performance_role/regular_performances./music/group_membership/role] -> Piano
+/m/0l14qv	/music/performance_role/regular_performances./music/group_membership/role	/m/0cfdd
+  Synthesizer -> [/music/performance_role/regular_performances./music/group_membership/role] -> Drum machine
+/m/0342h	/music/performance_role/track_performances./music/track_contribution/role	/m/051hrr
+  Guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Electronic drum
+/m/02hnl	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/0g2dz
+  Drums -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Melodica
+/m/01t04r	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Sanctuary Records Group -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/05w3f	/music/genre/artists	/m/07sbk
+  Psychedelic rock -> [/music/genre/artists] -> The Chemical Brothers
+/m/02p3cr5	/music/record_label/artist	/m/0dm5l
+  EMI -> [/music/record_label/artist] -> Pet Shop Boys
+/m/0phx4	/music/group_member/membership./music/group_membership/role	/m/018vs
+  Damon Albarn -> [/music/group_member/membership./music/group_membership/role] -> Bass guitar
+/m/011j5x	/music/genre/artists	/m/02cpp
+  Post-punk -> [/music/genre/artists] -> Depeche Mode
+/m/0cfdd	/music/performance_role/track_performances./music/track_contribution/role	/m/05r5c
+  Drum machine -> [/music/performance_role/track_performances./music/track_contribution/role] -> Piano
+/m/03bx0bm	/music/performance_role/regular_performances./music/group_membership/role	/m/02hnl
+  Lead vocalist-GB -> [/music/performance_role/regular_performances./music/group_membership/role] -> Drums
+/m/01dtcb	/organization/organization/child./organization/organization_relationship/child	/m/04fc6c
+  Universal Music Group -> [/organization/organization/child./organization/organization_relationship/child] -> The Island Def Jam Music Group
+/m/0g2dz	/music/performance_role/regular_performances./music/group_membership/group	/m/03fbc
+  Melodica -> [/music/performance_role/regular_performances./music/group_membership/group] -> Gorillaz
+/m/07ssc	/location/country/capital	/m/04jpl
+  United Kingdom -> [/location/country/capital] -> London
+/m/07d2d	/music/genre/artists	/m/03fbc
+  Trip hop -> [/music/genre/artists] -> Gorillaz
+/m/05r5c	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/0l14qv
+  Piano -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Synthesizer
+/m/0l14qv	/music/performance_role/regular_performances./music/group_membership/role	/m/051hrr
+  Synthesizer -> [/music/performance_role/regular_performances./music/group_membership/role] -> Electronic drum
+/m/02cqny	/music/genre/parent_genre	/m/08cyft
+  Hi-NRG -> [/music/genre/parent_genre] -> Electronic dance music
+/m/02g3gj	/award/award_category/winners./award/award_honor/award_winner	/m/03f7jfh
+  Grammy Award for Best Dance Recording -> [/award/award_category/winners./award/award_honor/award_winner] -> Q-Tip
+/m/03vyh	/music/genre/artists	/m/01k3qj
+  Instrumental -> [/music/genre/artists] -> Hikaru Utada
+/m/012yc	/music/genre/parent_genre	/m/0glt670
+  Alternative hip hop -> [/music/genre/parent_genre] -> Hip hop music
+/m/0l14qv	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/02snj9
+  Synthesizer -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Programming
+/m/0g2dz	/music/performance_role/regular_performances./music/group_membership/role	/m/0cfdd
+  Melodica -> [/music/performance_role/regular_performances./music/group_membership/role] -> Drum machine
+/m/03f7jfh	/music/artist/track_contributions./music/track_contribution/role	/m/05148p4
+  Q-Tip -> [/music/artist/track_contributions./music/track_contribution/role] -> Keyboard
+/m/05r5c	/music/performance_role/track_performances./music/track_contribution/role	/m/051hrr
+  Piano -> [/music/performance_role/track_performances./music/track_contribution/role] -> Electronic drum
+/m/051hrr	/music/performance_role/track_performances./music/track_contribution/role	/m/0342h
+  Electronic drum -> [/music/performance_role/track_performances./music/track_contribution/role] -> Guitar
+/m/03qbh5	/award/award_category/winners./award/award_honor/ceremony	/m/09n4nb
+  Grammy Award for Best Pop Collaboration with Vocals -> [/award/award_category/winners./award/award_honor/ceremony] -> 48th Annual Grammy Awards
+/m/01k3qj	/people/person/nationality	/m/09c7w0
+  Hikaru Utada -> [/people/person/nationality] -> United States of America
+/m/0dm5l	/award/award_nominee/award_nominations./award/award_nomination/award	/m/02v1m7
+  Pet Shop Boys -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Best Music Video
+/m/0k_kr	/music/record_label/artist	/m/03fbc
+  Parlophone -> [/music/record_label/artist] -> Gorillaz
+/m/01vdm0	/music/performance_role/track_performances./music/track_contribution/role	/m/02hnl
+  Electronic keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Drums
+/m/051hrr	/music/performance_role/track_performances./music/track_contribution/role	/m/01vdm0
+  Electronic drum -> [/music/performance_role/track_performances./music/track_contribution/role] -> Electronic keyboard
+/m/018vs	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/05r5c
+  Bass guitar -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Piano
+/m/016clz	/music/genre/parent_genre	/m/011j5x
+  Alternative rock -> [/music/genre/parent_genre] -> Post-punk
+/m/011k1h	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	/m/02h40lc
+  EMI -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language] -> English Language
+/m/018vs	/music/performance_role/regular_performances./music/group_membership/role	/m/05r5c
+  Bass guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Piano
+/m/03mb9	/music/genre/parent_genre	/m/0y3_8
+  House music -> [/music/genre/parent_genre] -> Synthpop
+/m/07d2d	/music/genre/parent_genre	/m/0glt670
+  Trip hop -> [/music/genre/parent_genre] -> Hip hop music
+/m/0cfdd	/music/performance_role/track_performances./music/track_contribution/role	/m/01vdm0
+  Drum machine -> [/music/performance_role/track_performances./music/track_contribution/role] -> Electronic keyboard
+/m/018vs	/music/performance_role/regular_performances./music/group_membership/role	/m/01vdm0
+  Bass guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Electronic keyboard
+/m/0dm5l	/music/artist/track_contributions./music/track_contribution/role	/m/05148p4
+  Pet Shop Boys -> [/music/artist/track_contributions./music/track_contribution/role] -> Keyboard
+/m/018vs	/music/performance_role/track_performances./music/track_contribution/role	/m/0l14qv
+  Bass guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Synthesizer
+/m/05r5c	/music/performance_role/track_performances./music/track_contribution/role	/m/03bx0bm
+  Piano -> [/music/performance_role/track_performances./music/track_contribution/role] -> Lead vocalist-GB
+/m/08cyft	/music/genre/artists	/m/03fbc
+  Electronic dance music -> [/music/genre/artists] -> Gorillaz
+/m/01w806h	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01bgqh
+  Danger Mouse -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Record of the Year
+/m/0cfdd	/music/performance_role/regular_performances./music/group_membership/role	/m/05r5c
+  Drum machine -> [/music/performance_role/regular_performances./music/group_membership/role] -> Piano
+/m/018vs	/music/performance_role/regular_performances./music/group_membership/role	/m/0cfdd
+  Bass guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Drum machine
+/m/03mb9	/music/genre/artists	/m/03fbc
+  House music -> [/music/genre/artists] -> Gorillaz
+/m/064t9	/music/genre/artists	/m/03fbc
+  Pop music -> [/music/genre/artists] -> Gorillaz
+/m/03fbc	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/m/03f4xvm
+  Gorillaz -> [/award/award_nominee/award_nominations./award/award_nomination/award_nominee] -> Mos Def
+/m/0ggx5q	/music/genre/artists	/m/01k3qj
+  Dance music -> [/music/genre/artists] -> Hikaru Utada
+/m/0phx4	/music/artist/origin	/m/04jpl
+  Damon Albarn -> [/music/artist/origin] -> London
+/m/0m0jc	/music/genre/artists	/m/0phx4
+  Electronica -> [/music/genre/artists] -> Damon Albarn
+/m/0dm5l	/music/artist/origin	/m/07ssc
+  Pet Shop Boys -> [/music/artist/origin] -> United Kingdom
+/m/01vdm0	/music/performance_role/track_performances./music/track_contribution/role	/m/05148p4
+  Electronic keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Keyboard
+/m/02snj9	/music/performance_role/regular_performances./music/group_membership/role	/m/03bx0bm
+  Programming -> [/music/performance_role/regular_performances./music/group_membership/role] -> Lead vocalist-GB
+/m/011k1h	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  EMI -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/0342h	/music/performance_role/regular_performances./music/group_membership/role	/m/018vs
+  Guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Bass guitar
+/m/09c7w0	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	/m/07ssc
+  United States of America -> [/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to] -> United Kingdom
+/m/018vs	/music/instrument/instrumentalists	/m/03f4xvm
+  Bass guitar -> [/music/instrument/instrumentalists] -> Mos Def
+/m/01c4_6	/award/award_category/winners./award/award_honor/ceremony	/m/09n4nb
+  Grammy Award for Best Alternative Music Album -> [/award/award_category/winners./award/award_honor/ceremony] -> 48th Annual Grammy Awards
+/m/05148p4	/music/performance_role/track_performances./music/track_contribution/role	/m/0l14qv
+  Keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Synthesizer
+/m/0g2dz	/music/performance_role/track_performances./music/track_contribution/role	/m/0342h
+  Melodica -> [/music/performance_role/track_performances./music/track_contribution/role] -> Guitar
+/m/0b_6yv	/music/genre/parent_genre	/m/05w3f
+  Neo-psychedelia -> [/music/genre/parent_genre] -> Psychedelic rock
+/m/018vs	/music/performance_role/regular_performances./music/group_membership/role	/m/051hrr
+  Bass guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Electronic drum
+/m/07d2d	/music/genre/parent_genre	/m/011j5x
+  Trip hop -> [/music/genre/parent_genre] -> Post-punk
+/m/0193f	/music/genre/parent_genre	/m/08cyft
+  Big beat -> [/music/genre/parent_genre] -> Electronic dance music
+/m/0342h	/music/performance_role/regular_performances./music/group_membership/role	/m/03bx0bm
+  Guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Lead vocalist-GB
+/m/0dm5l	/award/award_nominee/award_nominations./award/award_nomination/award	/m/056jm_
+  Pet Shop Boys -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Best Dance/Electronica Album
+/m/05r5c	/music/performance_role/regular_performances./music/group_membership/role	/m/0l14qv
+  Piano -> [/music/performance_role/regular_performances./music/group_membership/role] -> Synthesizer
+/m/059kh	/music/genre/parent_genre	/m/064t9
+  New Wave -> [/music/genre/parent_genre] -> Pop music
+/m/0l14qv	/music/performance_role/track_performances./music/track_contribution/role	/m/02hnl
+  Synthesizer -> [/music/performance_role/track_performances./music/track_contribution/role] -> Drums
+/m/07sbk	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  The Chemical Brothers -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/0phx4	/music/artist/track_contributions./music/track_contribution/role	/m/01vdm0
+  Damon Albarn -> [/music/artist/track_contributions./music/track_contribution/role] -> Electronic keyboard
+/m/06j6l	/music/genre/artists	/m/01k3qj
+  Rhythm and blues -> [/music/genre/artists] -> Hikaru Utada
+/m/041738	/music/genre/artists	/m/01k3qj
+  Alternative dance -> [/music/genre/artists] -> Hikaru Utada
+/m/02snj9	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/0l14qv
+  Programming -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Synthesizer
+/m/02hnl	/music/performance_role/track_performances./music/track_contribution/role	/m/051hrr
+  Drums -> [/music/performance_role/track_performances./music/track_contribution/role] -> Electronic drum
+/m/0m0jc	/music/genre/artists	/m/01k3qj
+  Electronica -> [/music/genre/artists] -> Hikaru Utada
+/m/05k79	/award/award_nominee/award_nominations./award/award_nomination/award	/m/02g3gj
+  New Order -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Best Dance Recording
+/m/059kh	/music/genre/artists	/m/0dm5l
+  New Wave -> [/music/genre/artists] -> Pet Shop Boys
+/m/0y3_8	/music/genre/artists	/m/03fbc
+  Synthpop -> [/music/genre/artists] -> Gorillaz
+/m/0phx4	/music/artist/track_contributions./music/track_contribution/role	/m/05148p4
+  Damon Albarn -> [/music/artist/track_contributions./music/track_contribution/role] -> Keyboard
+/m/0l14qv	/music/performance_role/track_performances./music/track_contribution/role	/m/05148p4
+  Synthesizer -> [/music/performance_role/track_performances./music/track_contribution/role] -> Keyboard
+/m/0g2dz	/music/performance_role/regular_performances./music/group_membership/role	/m/0342h
+  Melodica -> [/music/performance_role/regular_performances./music/group_membership/role] -> Guitar
+/m/05148p4	/music/performance_role/regular_performances./music/group_membership/role	/m/0cfdd
+  Keyboard -> [/music/performance_role/regular_performances./music/group_membership/role] -> Drum machine
+/m/07d2d	/music/genre/artists	/m/0phx4
+  Trip hop -> [/music/genre/artists] -> Damon Albarn
+/m/018vs	/music/performance_role/track_performances./music/track_contribution/role	/m/01vdm0
+  Bass guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Electronic keyboard
+/m/0g2dz	/music/instrument/instrumentalists	/m/0phx4
+  Melodica -> [/music/instrument/instrumentalists] -> Damon Albarn
+/m/0fd3y	/music/genre/artists	/m/01w806h
+  Ambient music -> [/music/genre/artists] -> Danger Mouse
+/m/05148p4	/music/performance_role/track_performances./music/track_contribution/role	/m/01vdm0
+  Keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Electronic keyboard
+/m/0hh2s	/music/genre/parent_genre	/m/07gxw
+  Breakbeat -> [/music/genre/parent_genre] -> Techno
+/m/0g2dz	/music/performance_role/regular_performances./music/group_membership/role	/m/05r5c
+  Melodica -> [/music/performance_role/regular_performances./music/group_membership/role] -> Piano
+/m/03bx0bm	/music/performance_role/track_performances./music/track_contribution/role	/m/0l14qv
+  Lead vocalist-GB -> [/music/performance_role/track_performances./music/track_contribution/role] -> Synthesizer
+/m/05148p4	/music/performance_role/regular_performances./music/group_membership/role	/m/0342h
+  Keyboard -> [/music/performance_role/regular_performances./music/group_membership/role] -> Guitar
+/m/0342h	/music/instrument/instrumentalists	/m/0phx4
+  Guitar -> [/music/instrument/instrumentalists] -> Damon Albarn
