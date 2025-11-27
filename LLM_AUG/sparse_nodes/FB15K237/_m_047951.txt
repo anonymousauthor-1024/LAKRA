@@ -1,0 +1,436 @@
+Entity: /m/047951
+Entity Name: National university
+K-hop: 2
+Subgraph Nodes: 47
+Subgraph Triples: 188
+
+==================================================
+Nodes in Subgraph:
+==================================================
+/m/014mlp	Bachelor of Arts
+/m/016t_3	Master's Degree
+/m/0193x	Biochemistry
+/m/019q50	Kyoto University
+/m/019v9k	Bachelor's degree
+/m/01b1pf	University of the Philippines
+/m/01bdhf	University of the Philippines, Diliman
+/m/01bvw5	Seoul National University
+/m/01csqg	National Taiwan University
+/m/01g5v	Blue
+/m/01lj9	Chemistry
+/m/01pxcf	Australian National University
+/m/01rr_d	Bachelor of Laws
+/m/0277g	Dentistry-GB
+/m/027f2w	Doctor of Medicine
+/m/02_xgp2	Doctorate
+/m/02cq61	Master of Laws
+/m/02h4rq6	Bachelor of Science
+/m/02j62	Economics
+/m/02lp1	Electrical engineering
+/m/02m4yg	Bachelor of Engineering
+/m/036hv	Geology
+/m/03_3d	Japan
+/m/03bwzr4	Master of Science
+/m/047951	National university
+/m/04mkbj	Maroon
+/m/04x_3	Mechanical Engineering
+/m/04zx3q1	PhD
+/m/05jxkf	Public university
+/m/05qjt	Physics
+/m/060c4	President
+/m/06f32	Taiwan
+/m/06qd3	South Korea
+/m/07xl34	Chancellor
+/m/088n7	Japanese yen
+/m/08mbj5d	Official Website
+/m/09d4_	Kyoto
+/m/09g7thr	Times Higher Education World University Rankings
+/m/09nqf	United States Dollar
+/m/0bkj86	Master of Arts
+/m/0chghy	Australia
+/m/0dp90	Canberra
+/m/0ftkx	Taipei
+/m/0hsqf	Seoul
+/m/0kz1h	Australian dollar
+/m/0l5mz	International relations
+/m/0vh3	Australian Capital Territory
+
+==================================================
+Triples in Subgraph:
+==================================================
+/m/019v9k	/education/educational_degree/people_with_this_degree./education/education/institution	/m/01bvw5
+  Bachelor's degree -> [/education/educational_degree/people_with_this_degree./education/education/institution] -> Seoul National University
+/m/0bkj86	/education/educational_degree/people_with_this_degree./education/education/institution	/m/01b1pf
+  Master of Arts -> [/education/educational_degree/people_with_this_degree./education/education/institution] -> University of the Philippines
+/m/01b1pf	/education/educational_institution/school_type	/m/047951
+  University of the Philippines -> [/education/educational_institution/school_type] -> National university
+/m/09d4_	/base/biblioness/bibs_location/country	/m/03_3d
+  Kyoto -> [/base/biblioness/bibs_location/country] -> Japan
+/m/04zx3q1	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/05qjt
+  PhD -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> Physics
+/m/02h4rq6	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/02j62
+  Bachelor of Science -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> Economics
+/m/03bwzr4	/education/educational_degree/people_with_this_degree./education/education/institution	/m/01bvw5
+  Master of Science -> [/education/educational_degree/people_with_this_degree./education/education/institution] -> Seoul National University
+/m/03_3d	/location/location/contains	/m/019q50
+  Japan -> [/location/location/contains] -> Kyoto University
+/m/06qd3	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	/m/09nqf
+  South Korea -> [/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/01bvw5	/education/educational_institution/campuses	/m/01bvw5
+  Seoul National University -> [/education/educational_institution/campuses] -> Seoul National University
+/m/01csqg	/education/educational_institution_campus/educational_institution	/m/01csqg
+  National Taiwan University -> [/education/educational_institution_campus/educational_institution] -> National Taiwan University
+/m/019q50	/organization/organization/headquarters./location/mailing_address/state_province_region	/m/09d4_
+  Kyoto University -> [/organization/organization/headquarters./location/mailing_address/state_province_region] -> Kyoto
+/m/01csqg	/education/educational_institution/students_graduates./education/education/major_field_of_study	/m/04x_3
+  National Taiwan University -> [/education/educational_institution/students_graduates./education/education/major_field_of_study] -> Mechanical Engineering
+/m/014mlp	/education/educational_degree/people_with_this_degree./education/education/institution	/m/01bvw5
+  Bachelor of Arts -> [/education/educational_degree/people_with_this_degree./education/education/institution] -> Seoul National University
+/m/06f32	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/06qd3
+  Taiwan -> [/military/military_combatant/military_conflicts./military/military_combatant_group/combatants] -> South Korea
+/m/02_xgp2	/education/educational_degree/people_with_this_degree./education/education/institution	/m/01bvw5
+  Doctorate -> [/education/educational_degree/people_with_this_degree./education/education/institution] -> Seoul National University
+/m/01csqg	/education/educational_institution/school_type	/m/05jxkf
+  National Taiwan University -> [/education/educational_institution/school_type] -> Public university
+/m/0hsqf	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Seoul -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/0chghy	/location/location/contains	/m/01pxcf
+  Australia -> [/location/location/contains] -> Australian National University
+/m/019q50	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency	/m/088n7
+  Kyoto University -> [/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency] -> Japanese yen
+/m/01csqg	/education/educational_institution/students_graduates./education/education/major_field_of_study	/m/036hv
+  National Taiwan University -> [/education/educational_institution/students_graduates./education/education/major_field_of_study] -> Geology
+/m/01bvw5	/education/educational_institution/students_graduates./education/education/major_field_of_study	/m/0l5mz
+  Seoul National University -> [/education/educational_institution/students_graduates./education/education/major_field_of_study] -> International relations
+/m/0ftkx	/location/location/contains	/m/01csqg
+  Taipei -> [/location/location/contains] -> National Taiwan University
+/m/014mlp	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/0l5mz
+  Bachelor of Arts -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> International relations
+/m/0l5mz	/education/field_of_study/students_majoring./education/education/major_field_of_study	/m/02j62
+  International relations -> [/education/field_of_study/students_majoring./education/education/major_field_of_study] -> Economics
+/m/06qd3	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	/m/09nqf
+  South Korea -> [/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/0chghy	/location/country/capital	/m/0dp90
+  Australia -> [/location/country/capital] -> Canberra
+/m/014mlp	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/036hv
+  Bachelor of Arts -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> Geology
+/m/019q50	/education/educational_institution_campus/educational_institution	/m/019q50
+  Kyoto University -> [/education/educational_institution_campus/educational_institution] -> Kyoto University
+/m/01csqg	/education/educational_institution/students_graduates./education/education/major_field_of_study	/m/02lp1
+  National Taiwan University -> [/education/educational_institution/students_graduates./education/education/major_field_of_study] -> Electrical engineering
+/m/0bkj86	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/0193x
+  Master of Arts -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> Biochemistry
+/m/07xl34	/organization/role/leaders./organization/leadership/organization	/m/01pxcf
+  Chancellor -> [/organization/role/leaders./organization/leadership/organization] -> Australian National University
+/m/03_3d	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency	/m/09nqf
+  Japan -> [/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency] -> United States Dollar
+/m/02h4rq6	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/05qjt
+  Bachelor of Science -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> Physics
+/m/04x_3	/education/field_of_study/students_majoring./education/education/major_field_of_study	/m/02lp1
+  Mechanical Engineering -> [/education/field_of_study/students_majoring./education/education/major_field_of_study] -> Electrical engineering
+/m/01pxcf	/education/educational_institution/students_graduates./education/education/major_field_of_study	/m/0l5mz
+  Australian National University -> [/education/educational_institution/students_graduates./education/education/major_field_of_study] -> International relations
+/m/01bvw5	/education/educational_institution/school_type	/m/047951
+  Seoul National University -> [/education/educational_institution/school_type] -> National university
+/m/07xl34	/organization/role/leaders./organization/leadership/organization	/m/01bdhf
+  Chancellor -> [/organization/role/leaders./organization/leadership/organization] -> University of the Philippines, Diliman
+/m/014mlp	/education/educational_degree/people_with_this_degree./education/education/institution	/m/01csqg
+  Bachelor of Arts -> [/education/educational_degree/people_with_this_degree./education/education/institution] -> National Taiwan University
+/m/01pxcf	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency	/m/0kz1h
+  Australian National University -> [/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency] -> Australian dollar
+/m/0vh3	/base/aareas/schema/administrative_area/capital	/m/0dp90
+  Australian Capital Territory -> [/base/aareas/schema/administrative_area/capital] -> Canberra
+/m/0bkj86	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/04x_3
+  Master of Arts -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> Mechanical Engineering
+/m/01pxcf	/organization/organization/headquarters./location/mailing_address/citytown	/m/0dp90
+  Australian National University -> [/organization/organization/headquarters./location/mailing_address/citytown] -> Canberra
+/m/01bvw5	/organization/organization/headquarters./location/mailing_address/state_province_region	/m/0hsqf
+  Seoul National University -> [/organization/organization/headquarters./location/mailing_address/state_province_region] -> Seoul
+/m/01bdhf	/education/educational_institution/students_graduates./education/education/major_field_of_study	/m/02j62
+  University of the Philippines, Diliman -> [/education/educational_institution/students_graduates./education/education/major_field_of_study] -> Economics
+/m/01b1pf	/organization/organization/child./organization/organization_relationship/child	/m/01bdhf
+  University of the Philippines -> [/organization/organization/child./organization/organization_relationship/child] -> University of the Philippines, Diliman
+/m/0hsqf	/location/administrative_division/country	/m/06qd3
+  Seoul -> [/location/administrative_division/country] -> South Korea
+/m/036hv	/education/field_of_study/students_majoring./education/education/major_field_of_study	/m/01lj9
+  Geology -> [/education/field_of_study/students_majoring./education/education/major_field_of_study] -> Chemistry
+/m/06qd3	/location/location/contains	/m/0hsqf
+  South Korea -> [/location/location/contains] -> Seoul
+/m/01b1pf	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  University of the Philippines -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/01lj9	/education/field_of_study/students_majoring./education/education/major_field_of_study	/m/036hv
+  Chemistry -> [/education/field_of_study/students_majoring./education/education/major_field_of_study] -> Geology
+/m/019v9k	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/0193x
+  Bachelor's degree -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> Biochemistry
+/m/027f2w	/education/educational_degree/people_with_this_degree./education/education/institution	/m/01bvw5
+  Doctor of Medicine -> [/education/educational_degree/people_with_this_degree./education/education/institution] -> Seoul National University
+/m/03bwzr4	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/01lj9
+  Master of Science -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> Chemistry
+/m/0chghy	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	/m/09nqf
+  Australia -> [/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/01csqg	/education/university/international_tuition./measurement_unit/dated_money_value/currency	/m/09nqf
+  National Taiwan University -> [/education/university/international_tuition./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/0dp90	/location/location/contains	/m/01pxcf
+  Canberra -> [/location/location/contains] -> Australian National University
+/m/01bvw5	/education/educational_institution/students_graduates./education/education/major_field_of_study	/m/04x_3
+  Seoul National University -> [/education/educational_institution/students_graduates./education/education/major_field_of_study] -> Mechanical Engineering
+/m/01rr_d	/education/educational_degree/people_with_this_degree./education/education/institution	/m/01b1pf
+  Bachelor of Laws -> [/education/educational_degree/people_with_this_degree./education/education/institution] -> University of the Philippines
+/m/06f32	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	/m/09nqf
+  Taiwan -> [/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/0chghy	/location/location/contains	/m/0dp90
+  Australia -> [/location/location/contains] -> Canberra
+/m/03_3d	/location/location/contains	/m/09d4_
+  Japan -> [/location/location/contains] -> Kyoto
+/m/04zx3q1	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/036hv
+  PhD -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> Geology
+/m/0bkj86	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/05qjt
+  Master of Arts -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> Physics
+/m/04zx3q1	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/02lp1
+  PhD -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> Electrical engineering
+/m/02h4rq6	/education/educational_degree/people_with_this_degree./education/education/institution	/m/01bvw5
+  Bachelor of Science -> [/education/educational_degree/people_with_this_degree./education/education/institution] -> Seoul National University
+/m/02h4rq6	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/04x_3
+  Bachelor of Science -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> Mechanical Engineering
+/m/016t_3	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/01lj9
+  Master's Degree -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> Chemistry
+/m/0ftkx	/base/aareas/schema/administrative_area/administrative_parent	/m/06f32
+  Taipei -> [/base/aareas/schema/administrative_area/administrative_parent] -> Taiwan
+/m/01csqg	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  National Taiwan University -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/019v9k	/education/educational_degree/people_with_this_degree./education/education/institution	/m/019q50
+  Bachelor's degree -> [/education/educational_degree/people_with_this_degree./education/education/institution] -> Kyoto University
+/m/02h4rq6	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/0193x
+  Bachelor of Science -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> Biochemistry
+/m/01csqg	/organization/organization/headquarters./location/mailing_address/state_province_region	/m/0ftkx
+  National Taiwan University -> [/organization/organization/headquarters./location/mailing_address/state_province_region] -> Taipei
+/m/016t_3	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/036hv
+  Master's Degree -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> Geology
+/m/01bvw5	/education/educational_institution/students_graduates./education/education/major_field_of_study	/m/0277g
+  Seoul National University -> [/education/educational_institution/students_graduates./education/education/major_field_of_study] -> Dentistry-GB
+/m/019q50	/education/educational_institution/campuses	/m/019q50
+  Kyoto University -> [/education/educational_institution/campuses] -> Kyoto University
+/m/0hsqf	/base/aareas/schema/administrative_area/administrative_parent	/m/06qd3
+  Seoul -> [/base/aareas/schema/administrative_area/administrative_parent] -> South Korea
+/m/014mlp	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/02j62
+  Bachelor of Arts -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> Economics
+/m/0chghy	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	/m/09nqf
+  Australia -> [/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/014mlp	/education/educational_degree/people_with_this_degree./education/education/institution	/m/01b1pf
+  Bachelor of Arts -> [/education/educational_degree/people_with_this_degree./education/education/institution] -> University of the Philippines
+/m/06qd3	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/0chghy
+  South Korea -> [/military/military_combatant/military_conflicts./military/military_combatant_group/combatants] -> Australia
+/m/03bwzr4	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/02j62
+  Master of Science -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> Economics
+/m/03bwzr4	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/0193x
+  Master of Science -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> Biochemistry
+/m/02h4rq6	/education/educational_degree/people_with_this_degree./education/education/institution	/m/01csqg
+  Bachelor of Science -> [/education/educational_degree/people_with_this_degree./education/education/institution] -> National Taiwan University
+/m/060c4	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/m/06f32
+  President -> [/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office] -> Taiwan
+/m/060c4	/organization/role/leaders./organization/leadership/organization	/m/01csqg
+  President -> [/organization/role/leaders./organization/leadership/organization] -> National Taiwan University
+/m/016t_3	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/02j62
+  Master's Degree -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> Economics
+/m/0vh3	/location/administrative_division/country	/m/0chghy
+  Australian Capital Territory -> [/location/administrative_division/country] -> Australia
+/m/05qjt	/education/field_of_study/students_majoring./education/education/major_field_of_study	/m/01lj9
+  Physics -> [/education/field_of_study/students_majoring./education/education/major_field_of_study] -> Chemistry
+/m/01rr_d	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/02j62
+  Bachelor of Laws -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> Economics
+/m/016t_3	/education/educational_degree/people_with_this_degree./education/education/institution	/m/019q50
+  Master's Degree -> [/education/educational_degree/people_with_this_degree./education/education/institution] -> Kyoto University
+/m/02h4rq6	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/036hv
+  Bachelor of Science -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> Geology
+/m/01lj9	/education/field_of_study/students_majoring./education/education/major_field_of_study	/m/05qjt
+  Chemistry -> [/education/field_of_study/students_majoring./education/education/major_field_of_study] -> Physics
+/m/016t_3	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/02lp1
+  Master's Degree -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> Electrical engineering
+/m/060c4	/organization/role/leaders./organization/leadership/organization	/m/01b1pf
+  President -> [/organization/role/leaders./organization/leadership/organization] -> University of the Philippines
+/m/06qd3	/location/location/contains	/m/01bvw5
+  South Korea -> [/location/location/contains] -> Seoul National University
+/m/016t_3	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/0l5mz
+  Master's Degree -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> International relations
+/m/02_xgp2	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/01lj9
+  Doctorate -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> Chemistry
+/m/04zx3q1	/education/educational_degree/people_with_this_degree./education/education/institution	/m/01pxcf
+  PhD -> [/education/educational_degree/people_with_this_degree./education/education/institution] -> Australian National University
+/m/02_xgp2	/education/educational_degree/people_with_this_degree./education/education/institution	/m/019q50
+  Doctorate -> [/education/educational_degree/people_with_this_degree./education/education/institution] -> Kyoto University
+/m/06f32	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	/m/09nqf
+  Taiwan -> [/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/014mlp	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/01lj9
+  Bachelor of Arts -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> Chemistry
+/m/02_xgp2	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/036hv
+  Doctorate -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> Geology
+/m/0chghy	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/06qd3
+  Australia -> [/military/military_combatant/military_conflicts./military/military_combatant_group/combatants] -> South Korea
+/m/06qd3	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	/m/09nqf
+  South Korea -> [/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/06f32	/location/country/capital	/m/0ftkx
+  Taiwan -> [/location/country/capital] -> Taipei
+/m/019v9k	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/02j62
+  Bachelor's degree -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> Economics
+/m/014mlp	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/02lp1
+  Bachelor of Arts -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> Electrical engineering
+/m/019v9k	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/0l5mz
+  Bachelor's degree -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> International relations
+/m/01pxcf	/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/m/09g7thr
+  Australian National University -> [/award/ranked_item/appears_in_ranked_lists./award/ranking/list] -> Times Higher Education World University Rankings
+/m/02m4yg	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/05qjt
+  Bachelor of Engineering -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> Physics
+/m/01pxcf	/education/educational_institution/students_graduates./education/education/major_field_of_study	/m/01lj9
+  Australian National University -> [/education/educational_institution/students_graduates./education/education/major_field_of_study] -> Chemistry
+/m/01pxcf	/education/educational_institution/students_graduates./education/education/major_field_of_study	/m/02j62
+  Australian National University -> [/education/educational_institution/students_graduates./education/education/major_field_of_study] -> Economics
+/m/0bkj86	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/02j62
+  Master of Arts -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> Economics
+/m/03bwzr4	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/05qjt
+  Master of Science -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> Physics
+/m/0bkj86	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/0l5mz
+  Master of Arts -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> International relations
+/m/088n7	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Japanese yen -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/01bvw5	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Seoul National University -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/0ftkx	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Taipei -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/0hsqf	/location/location/contains	/m/01bvw5
+  Seoul -> [/location/location/contains] -> Seoul National University
+/m/019q50	/education/educational_institution/school_type	/m/047951
+  Kyoto University -> [/education/educational_institution/school_type] -> National university
+/m/01b1pf	/education/educational_institution/colors	/m/04mkbj
+  University of the Philippines -> [/education/educational_institution/colors] -> Maroon
+/m/019v9k	/education/educational_degree/people_with_this_degree./education/education/institution	/m/01csqg
+  Bachelor's degree -> [/education/educational_degree/people_with_this_degree./education/education/institution] -> National Taiwan University
+/m/09nqf	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  United States Dollar -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/060c4	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/m/06qd3
+  President -> [/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office] -> South Korea
+/m/0hsqf	/base/biblioness/bibs_location/country	/m/06qd3
+  Seoul -> [/base/biblioness/bibs_location/country] -> South Korea
+/m/019q50	/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/m/09g7thr
+  Kyoto University -> [/award/ranked_item/appears_in_ranked_lists./award/ranking/list] -> Times Higher Education World University Rankings
+/m/03bwzr4	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/04x_3
+  Master of Science -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> Mechanical Engineering
+/m/02_xgp2	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/05qjt
+  Doctorate -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> Physics
+/m/016t_3	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/04x_3
+  Master's Degree -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> Mechanical Engineering
+/m/03bwzr4	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/0l5mz
+  Master of Science -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> International relations
+/m/04zx3q1	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/02j62
+  PhD -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> Economics
+/m/0chghy	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	/m/09nqf
+  Australia -> [/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/03_3d	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	/m/09nqf
+  Japan -> [/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/016t_3	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/05qjt
+  Master's Degree -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> Physics
+/m/02h4rq6	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/0l5mz
+  Bachelor of Science -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> International relations
+/m/0ftkx	/location/administrative_division/country	/m/06f32
+  Taipei -> [/location/administrative_division/country] -> Taiwan
+/m/014mlp	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/05qjt
+  Bachelor of Arts -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> Physics
+/m/014mlp	/education/educational_degree/people_with_this_degree./education/education/institution	/m/019q50
+  Bachelor of Arts -> [/education/educational_degree/people_with_this_degree./education/education/institution] -> Kyoto University
+/m/02_xgp2	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/02lp1
+  Doctorate -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> Electrical engineering
+/m/02_xgp2	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/02j62
+  Doctorate -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> Economics
+/m/0chghy	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/06f32
+  Australia -> [/military/military_combatant/military_conflicts./military/military_combatant_group/combatants] -> Taiwan
+/m/01bdhf	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  University of the Philippines, Diliman -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/02h4rq6	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/02lp1
+  Bachelor of Science -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> Electrical engineering
+/m/060c4	/organization/role/leaders./organization/leadership/organization	/m/01bvw5
+  President -> [/organization/role/leaders./organization/leadership/organization] -> Seoul National University
+/m/0bkj86	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/036hv
+  Master of Arts -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> Geology
+/m/01csqg	/education/educational_institution/school_type	/m/047951
+  National Taiwan University -> [/education/educational_institution/school_type] -> National university
+/m/01lj9	/education/field_of_study/students_majoring./education/education/major_field_of_study	/m/02j62
+  Chemistry -> [/education/field_of_study/students_majoring./education/education/major_field_of_study] -> Economics
+/m/0bkj86	/education/educational_degree/people_with_this_degree./education/education/institution	/m/01bvw5
+  Master of Arts -> [/education/educational_degree/people_with_this_degree./education/education/institution] -> Seoul National University
+/m/02j62	/education/field_of_study/students_majoring./education/education/major_field_of_study	/m/0l5mz
+  Economics -> [/education/field_of_study/students_majoring./education/education/major_field_of_study] -> International relations
+/m/03_3d	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	/m/09nqf
+  Japan -> [/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/01pxcf	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	/m/0kz1h
+  Australian National University -> [/education/university/domestic_tuition./measurement_unit/dated_money_value/currency] -> Australian dollar
+/m/01pxcf	/education/educational_institution/school_type	/m/05jxkf
+  Australian National University -> [/education/educational_institution/school_type] -> Public university
+/m/02_xgp2	/education/educational_degree/people_with_this_degree./education/education/institution	/m/01bdhf
+  Doctorate -> [/education/educational_degree/people_with_this_degree./education/education/institution] -> University of the Philippines, Diliman
+/m/0vh3	/base/aareas/schema/administrative_area/administrative_parent	/m/0chghy
+  Australian Capital Territory -> [/base/aareas/schema/administrative_area/administrative_parent] -> Australia
+/m/01bvw5	/education/educational_institution/students_graduates./education/education/major_field_of_study	/m/02lp1
+  Seoul National University -> [/education/educational_institution/students_graduates./education/education/major_field_of_study] -> Electrical engineering
+/m/02_xgp2	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/04x_3
+  Doctorate -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> Mechanical Engineering
+/m/03_3d	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	/m/09nqf
+  Japan -> [/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/03bwzr4	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/036hv
+  Master of Science -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> Geology
+/m/01pxcf	/organization/organization/headquarters./location/mailing_address/state_province_region	/m/0vh3
+  Australian National University -> [/organization/organization/headquarters./location/mailing_address/state_province_region] -> Australian Capital Territory
+/m/06f32	/location/location/contains	/m/01csqg
+  Taiwan -> [/location/location/contains] -> National Taiwan University
+/m/019v9k	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/01lj9
+  Bachelor's degree -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> Chemistry
+/m/01pxcf	/education/educational_institution/school_type	/m/047951
+  Australian National University -> [/education/educational_institution/school_type] -> National university
+/m/02_xgp2	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/0193x
+  Doctorate -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> Biochemistry
+/m/02m4yg	/education/educational_degree/people_with_this_degree./education/education/institution	/m/01bvw5
+  Bachelor of Engineering -> [/education/educational_degree/people_with_this_degree./education/education/institution] -> Seoul National University
+/m/01csqg	/education/educational_institution/students_graduates./education/education/major_field_of_study	/m/0193x
+  National Taiwan University -> [/education/educational_institution/students_graduates./education/education/major_field_of_study] -> Biochemistry
+/m/02lp1	/education/field_of_study/students_majoring./education/education/major_field_of_study	/m/04x_3
+  Electrical engineering -> [/education/field_of_study/students_majoring./education/education/major_field_of_study] -> Mechanical Engineering
+/m/01bvw5	/education/educational_institution_campus/educational_institution	/m/01bvw5
+  Seoul National University -> [/education/educational_institution_campus/educational_institution] -> Seoul National University
+/m/02h4rq6	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/01lj9
+  Bachelor of Science -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> Chemistry
+/m/01bdhf	/education/educational_institution/school_type	/m/05jxkf
+  University of the Philippines, Diliman -> [/education/educational_institution/school_type] -> Public university
+/m/019v9k	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/036hv
+  Bachelor's degree -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> Geology
+/m/03bwzr4	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/02lp1
+  Master of Science -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> Electrical engineering
+/m/014mlp	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/0193x
+  Bachelor of Arts -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> Biochemistry
+/m/06f32	/location/location/contains	/m/0ftkx
+  Taiwan -> [/location/location/contains] -> Taipei
+/m/02cq61	/education/educational_degree/people_with_this_degree./education/education/institution	/m/01b1pf
+  Master of Laws -> [/education/educational_degree/people_with_this_degree./education/education/institution] -> University of the Philippines
+/m/01csqg	/education/educational_institution/students_graduates./education/education/major_field_of_study	/m/05qjt
+  National Taiwan University -> [/education/educational_institution/students_graduates./education/education/major_field_of_study] -> Physics
+/m/01bvw5	/education/educational_institution/colors	/m/01g5v
+  Seoul National University -> [/education/educational_institution/colors] -> Blue
+/m/02_xgp2	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/0l5mz
+  Doctorate -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> International relations
+/m/019v9k	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/05qjt
+  Bachelor's degree -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> Physics
+/m/027f2w	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/02j62
+  Doctor of Medicine -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> Economics
+/m/0kz1h	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Australian dollar -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/09d4_	/location/location/contains	/m/019q50
+  Kyoto -> [/location/location/contains] -> Kyoto University
+/m/06f32	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/0chghy
+  Taiwan -> [/military/military_combatant/military_conflicts./military/military_combatant_group/combatants] -> Australia
+/m/0vh3	/location/location/contains	/m/01pxcf
+  Australian Capital Territory -> [/location/location/contains] -> Australian National University
+/m/019q50	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Kyoto University -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/01bdhf	/education/educational_institution/campuses	/m/01bdhf
+  University of the Philippines, Diliman -> [/education/educational_institution/campuses] -> University of the Philippines, Diliman
+/m/01bdhf	/education/educational_institution/colors	/m/04mkbj
+  University of the Philippines, Diliman -> [/education/educational_institution/colors] -> Maroon
+/m/02m4yg	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/m/04x_3
+  Bachelor of Engineering -> [/education/educational_degree/people_with_this_degree./education/education/major_field_of_study] -> Mechanical Engineering

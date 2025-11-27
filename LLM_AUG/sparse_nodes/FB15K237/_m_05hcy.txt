@@ -1,0 +1,606 @@
+Entity: /m/05hcy
+Entity Name: Nassau
+K-hop: 2
+Subgraph Nodes: 73
+Subgraph Triples: 260
+
+==================================================
+Nodes in Subgraph:
+==================================================
+/m/011k1h	EMI
+/m/0134bf	West Yorkshire
+/m/0152cw	Jewel
+/m/0160w	Bahamas
+/m/016z4k	Singer-songwriter-GB
+/m/01713c	Javier Bardem
+/m/018ctl	2010 Winter Olympics
+/m/018vs	Bass guitar
+/m/018wl5	Parliamentary system
+/m/01bgqh	Grammy Award for Record of the Year
+/m/01cgz	Boxing
+/m/01ck6h	Grammy Award for Best Male Rock Vocal Performance
+/m/01cwkq	Amanda Bynes
+/m/01d1st	Nick Cannon
+/m/01fpfn	Unitary state
+/m/01pgzn_	Lindsay Lohan
+/m/01q20	Constitutional monarchy
+/m/01s21dg	John Mayer
+/m/01wbz9	Robert Palmer
+/m/01wy6	Clarinet
+/m/021npd	Scarborough, North Yorkshire
+/m/025ldg	Kelly Clarkson
+/m/02f5qb	MTV Video Music Award for Video of the Year
+/m/02f6xy	MTV Video Music Award for Best Male Video
+/m/02h40lc	English Language
+/m/02hcv8	Eastern Time Zone
+/m/02hnl	Drums
+/m/02j71	Earth
+/m/02jx1	England
+/m/02lpp7	Gold medal
+/m/02p3cr5	EMI
+/m/02qdgx	Blue-eyed soul
+/m/02vk52z	World Bank
+/m/02wb6yq	Demi Lovato
+/m/0342h	Guitar
+/m/03bx0bm	Lead vocalist-GB
+/m/03r0g9	Casino Royale
+/m/03xyp_	Daniel Nestor
+/m/041288	African, Caribbean & Pacific Group of States
+/m/0419kt	Speed 2: Cruise Control
+/m/04n6k	Library of Congress Classification
+/m/04ztj	Marriage
+/m/05148p4	Keyboard
+/m/059g4	North America-US
+/m/059kh	New Wave
+/m/05bt6j	Pop rock
+/m/05hcy	Nassau
+/m/05qtj	Paris
+/m/05zppz	Male
+/m/064t9	Pop music
+/m/06by7	Rock music
+/m/06sks6	2012 Summer Olympics
+/m/06z6r	Swimming
+/m/07t65	United Nations
+/m/09jwl	Musician-GB
+/m/09nqf	United States Dollar
+/m/0bksh	Cameron Diaz
+/m/0bynt	Track and field athletics
+/m/0c1j_	Rosie O'Donnell
+/m/0c4z8	Grammy Award for Song of the Year
+/m/0d1_f	Elizabeth II
+/m/0dz3r	Record producer-GB
+/m/0fj45	Governor-General
+/m/0gk4g	Myocardial infarction
+/m/0hzc9wc	Sovereign state
+/m/0j7v_	Commonwealth of Nations
+/m/0jdk_	2000 Summer Olympics
+/m/0jfx1	Johnny Depp
+/m/0kbvb	2004 Summer Olympics
+/m/0kbws	2008 Summer Olympics
+/m/0kjrx	Uma Thurman
+/m/0mzkr	Island Records
+/m/0xhtw	Hard rock
+
+==================================================
+Triples in Subgraph:
+==================================================
+/m/0160w	/organization/organization_member/member_of./organization/organization_membership/organization	/m/02vk52z
+  Bahamas -> [/organization/organization_member/member_of./organization/organization_membership/organization] -> World Bank
+/m/03bx0bm	/music/performance_role/regular_performances./music/group_membership/role	/m/018vs
+  Lead vocalist-GB -> [/music/performance_role/regular_performances./music/group_membership/role] -> Bass guitar
+/m/01ck6h	/award/award_category/winners./award/award_honor/award_winner	/m/01wbz9
+  Grammy Award for Best Male Rock Vocal Performance -> [/award/award_category/winners./award/award_honor/award_winner] -> Robert Palmer
+/m/01s21dg	/people/person/gender	/m/05zppz
+  John Mayer -> [/people/person/gender] -> Male
+/m/025ldg	/people/person/profession	/m/016z4k
+  Kelly Clarkson -> [/people/person/profession] -> Singer-songwriter-GB
+/m/01cgz	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/m/0jdk_
+  Boxing -> [/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics] -> 2000 Summer Olympics
+/m/03r0g9	/film/film/language	/m/02h40lc
+  Casino Royale -> [/film/film/language] -> English Language
+/m/02hnl	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/018vs
+  Drums -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Bass guitar
+/m/02hnl	/music/performance_role/regular_performances./music/group_membership/role	/m/05148p4
+  Drums -> [/music/performance_role/regular_performances./music/group_membership/role] -> Keyboard
+/m/02jx1	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	/m/04n6k
+  England -> [/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy] -> Library of Congress Classification
+/m/04ztj	/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	/m/02jx1
+  Marriage -> [/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony] -> England
+/m/01713c	/people/person/spouse_s./people/marriage/type_of_union	/m/04ztj
+  Javier Bardem -> [/people/person/spouse_s./people/marriage/type_of_union] -> Marriage
+/m/0160w	/location/country/form_of_government	/m/01fpfn
+  Bahamas -> [/location/country/form_of_government] -> Unitary state
+/m/01s21dg	/people/person/profession	/m/016z4k
+  John Mayer -> [/people/person/profession] -> Singer-songwriter-GB
+/m/01s21dg	/music/artist/track_contributions./music/track_contribution/role	/m/0342h
+  John Mayer -> [/music/artist/track_contributions./music/track_contribution/role] -> Guitar
+/m/02h40lc	/language/human_language/countries_spoken_in	/m/02jx1
+  English Language -> [/language/human_language/countries_spoken_in] -> England
+/m/0jdk_	/user/jg/default_domain/olympic_games/sports	/m/01cgz
+  2000 Summer Olympics -> [/user/jg/default_domain/olympic_games/sports] -> Boxing
+/m/018vs	/music/performance_role/track_performances./music/track_contribution/role	/m/0342h
+  Bass guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Guitar
+/m/0342h	/music/performance_role/regular_performances./music/group_membership/role	/m/01wy6
+  Guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Clarinet
+/m/05hcy	/base/biblioness/bibs_location/country	/m/0160w
+  Nassau -> [/base/biblioness/bibs_location/country] -> Bahamas
+/m/0c1j_	/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency	/m/09nqf
+  Rosie O'Donnell -> [/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/0160w	/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer	/m/01s21dg
+  Bahamas -> [/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer] -> John Mayer
+/m/018vs	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/02hnl
+  Bass guitar -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Drums
+/m/0bynt	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/m/0kbws
+  Track and field athletics -> [/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics] -> 2008 Summer Olympics
+/m/0c1j_	/people/person/spouse_s./people/marriage/type_of_union	/m/04ztj
+  Rosie O'Donnell -> [/people/person/spouse_s./people/marriage/type_of_union] -> Marriage
+/m/06sks6	/olympics/olympic_games/sports	/m/0bynt
+  2012 Summer Olympics -> [/olympics/olympic_games/sports] -> Track and field athletics
+/m/059g4	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	/m/04n6k
+  North America-US -> [/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy] -> Library of Congress Classification
+/m/02f6xy	/award/award_category/winners./award/award_honor/award_winner	/m/01wbz9
+  MTV Video Music Award for Best Male Video -> [/award/award_category/winners./award/award_honor/award_winner] -> Robert Palmer
+/m/025ldg	/people/person/profession	/m/0dz3r
+  Kelly Clarkson -> [/people/person/profession] -> Record producer-GB
+/m/01d1st	/people/person/spouse_s./people/marriage/type_of_union	/m/04ztj
+  Nick Cannon -> [/people/person/spouse_s./people/marriage/type_of_union] -> Marriage
+/m/0160w	/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer	/m/0c1j_
+  Bahamas -> [/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer] -> Rosie O'Donnell
+/m/05148p4	/music/performance_role/regular_performances./music/group_membership/role	/m/02hnl
+  Keyboard -> [/music/performance_role/regular_performances./music/group_membership/role] -> Drums
+/m/0kbvb	/olympics/olympic_games/sports	/m/01cgz
+  2004 Summer Olympics -> [/olympics/olympic_games/sports] -> Boxing
+/m/05148p4	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/02hnl
+  Keyboard -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Drums
+/m/0342h	/music/performance_role/track_performances./music/track_contribution/role	/m/01wy6
+  Guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Clarinet
+/m/01cgz	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/m/06sks6
+  Boxing -> [/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics] -> 2012 Summer Olympics
+/m/01wy6	/music/performance_role/regular_performances./music/group_membership/role	/m/05148p4
+  Clarinet -> [/music/performance_role/regular_performances./music/group_membership/role] -> Keyboard
+/m/0kbws	/olympics/olympic_games/participating_countries	/m/0160w
+  2008 Summer Olympics -> [/olympics/olympic_games/participating_countries] -> Bahamas
+/m/02hnl	/music/performance_role/regular_performances./music/group_membership/role	/m/0342h
+  Drums -> [/music/performance_role/regular_performances./music/group_membership/role] -> Guitar
+/m/0kbvb	/user/jg/default_domain/olympic_games/sports	/m/0bynt
+  2004 Summer Olympics -> [/user/jg/default_domain/olympic_games/sports] -> Track and field athletics
+/m/01cgz	/film/film_subject/films	/m/01cgz
+  Boxing -> [/film/film_subject/films] -> Boxing
+/m/0xhtw	/music/genre/artists	/m/01wbz9
+  Hard rock -> [/music/genre/artists] -> Robert Palmer
+/m/03bx0bm	/dataworld/gardening_hint/split_to	/m/03bx0bm
+  Lead vocalist-GB -> [/dataworld/gardening_hint/split_to] -> Lead vocalist-GB
+/m/02j71	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	/m/09nqf
+  Earth -> [/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/018vs	/music/performance_role/regular_performances./music/group_membership/role	/m/01wy6
+  Bass guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Clarinet
+/m/01713c	/people/person/spouse_s./people/marriage/location_of_ceremony	/m/0160w
+  Javier Bardem -> [/people/person/spouse_s./people/marriage/location_of_ceremony] -> Bahamas
+/m/02wb6yq	/people/person/profession	/m/016z4k
+  Demi Lovato -> [/people/person/profession] -> Singer-songwriter-GB
+/m/018vs	/music/performance_role/regular_performances./music/group_membership/role	/m/02hnl
+  Bass guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Drums
+/m/0bksh	/people/person/profession	/m/09jwl
+  Cameron Diaz -> [/people/person/profession] -> Musician-GB
+/m/0160w	/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer	/m/02wb6yq
+  Bahamas -> [/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer] -> Demi Lovato
+/m/03r0g9	/film/film/featured_film_locations	/m/0160w
+  Casino Royale -> [/film/film/featured_film_locations] -> Bahamas
+/m/018vs	/music/instrument/family	/m/0342h
+  Bass guitar -> [/music/instrument/family] -> Guitar
+/m/0gk4g	/people/cause_of_death/people	/m/01wbz9
+  Myocardial infarction -> [/people/cause_of_death/people] -> Robert Palmer
+/m/01713c	/people/person/languages	/m/02h40lc
+  Javier Bardem -> [/people/person/languages] -> English Language
+/m/0419kt	/film/film/featured_film_locations	/m/0160w
+  Speed 2: Cruise Control -> [/film/film/featured_film_locations] -> Bahamas
+/m/03bx0bm	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/0342h
+  Lead vocalist-GB -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Guitar
+/m/0bynt	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/m/0kbvb
+  Track and field athletics -> [/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics] -> 2004 Summer Olympics
+/m/0160w	/base/aareas/schema/administrative_area/administrative_area_type	/m/0hzc9wc
+  Bahamas -> [/base/aareas/schema/administrative_area/administrative_area_type] -> Sovereign state
+/m/0160w	/organization/organization_member/member_of./organization/organization_membership/organization	/m/0j7v_
+  Bahamas -> [/organization/organization_member/member_of./organization/organization_membership/organization] -> Commonwealth of Nations
+/m/05148p4	/music/performance_role/regular_performances./music/group_membership/role	/m/03bx0bm
+  Keyboard -> [/music/performance_role/regular_performances./music/group_membership/role] -> Lead vocalist-GB
+/m/0kbvb	/olympics/olympic_games/sports	/m/06z6r
+  2004 Summer Olympics -> [/olympics/olympic_games/sports] -> Swimming
+/m/06by7	/music/genre/artists	/m/025ldg
+  Rock music -> [/music/genre/artists] -> Kelly Clarkson
+/m/064t9	/music/genre/artists	/m/01s21dg
+  Pop music -> [/music/genre/artists] -> John Mayer
+/m/02jx1	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	/m/09nqf
+  England -> [/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/01wbz9	/people/person/profession	/m/016z4k
+  Robert Palmer -> [/people/person/profession] -> Singer-songwriter-GB
+/m/01wbz9	/award/award_nominee/award_nominations./award/award_nomination/award	/m/02f5qb
+  Robert Palmer -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> MTV Video Music Award for Video of the Year
+/m/02vk52z	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	/m/02h40lc
+  World Bank -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language] -> English Language
+/m/059g4	/base/locations/continents/countries_within	/m/0160w
+  North America-US -> [/base/locations/continents/countries_within] -> Bahamas
+/m/01wbz9	/people/deceased_person/place_of_death	/m/05qtj
+  Robert Palmer -> [/people/deceased_person/place_of_death] -> Paris
+/m/02hnl	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/05148p4
+  Drums -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Keyboard
+/m/05148p4	/music/performance_role/regular_performances./music/group_membership/role	/m/01wy6
+  Keyboard -> [/music/performance_role/regular_performances./music/group_membership/role] -> Clarinet
+/m/03bx0bm	/music/performance_role/regular_performances./music/group_membership/role	/m/01wy6
+  Lead vocalist-GB -> [/music/performance_role/regular_performances./music/group_membership/role] -> Clarinet
+/m/0342h	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/018vs
+  Guitar -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Bass guitar
+/m/0gk4g	/medicine/disease/risk_factors	/m/05zppz
+  Myocardial infarction -> [/medicine/disease/risk_factors] -> Male
+/m/05148p4	/music/performance_role/track_performances./music/track_contribution/role	/m/018vs
+  Keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bass guitar
+/m/01wbz9	/people/person/profession	/m/0dz3r
+  Robert Palmer -> [/people/person/profession] -> Record producer-GB
+/m/01cgz	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country	/m/0160w
+  Boxing -> [/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country] -> Bahamas
+/m/01cgz	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/m/0kbws
+  Boxing -> [/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics] -> 2008 Summer Olympics
+/m/0bksh	/base/popstra/celebrity/dated./base/popstra/dated/participant	/m/01s21dg
+  Cameron Diaz -> [/base/popstra/celebrity/dated./base/popstra/dated/participant] -> John Mayer
+/m/02h40lc	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	/m/04n6k
+  English Language -> [/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy] -> Library of Congress Classification
+/m/01wbz9	/award/award_nominee/award_nominations./award/award_nomination/award	/m/02f6xy
+  Robert Palmer -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> MTV Video Music Award for Best Male Video
+/m/0152cw	/people/person/spouse_s./people/marriage/location_of_ceremony	/m/0160w
+  Jewel -> [/people/person/spouse_s./people/marriage/location_of_ceremony] -> Bahamas
+/m/01d1st	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/m/01pgzn_
+  Nick Cannon -> [/award/award_nominee/award_nominations./award/award_nomination/award_nominee] -> Lindsay Lohan
+/m/018vs	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/03bx0bm
+  Bass guitar -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Lead vocalist-GB
+/m/06by7	/music/genre/artists	/m/01wbz9
+  Rock music -> [/music/genre/artists] -> Robert Palmer
+/m/0kbws	/olympics/olympic_games/medals_awarded./olympics/olympic_medal_honor/medal	/m/02lpp7
+  2008 Summer Olympics -> [/olympics/olympic_games/medals_awarded./olympics/olympic_medal_honor/medal] -> Gold medal
+/m/0342h	/music/performance_role/track_performances./music/track_contribution/role	/m/018vs
+  Guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bass guitar
+/m/02hnl	/music/performance_role/regular_performances./music/group_membership/role	/m/01wy6
+  Drums -> [/music/performance_role/regular_performances./music/group_membership/role] -> Clarinet
+/m/0342h	/music/performance_role/track_performances./music/track_contribution/role	/m/05148p4
+  Guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Keyboard
+/m/01wbz9	/people/person/places_lived./people/place_lived/location	/m/021npd
+  Robert Palmer -> [/people/person/places_lived./people/place_lived/location] -> Scarborough, North Yorkshire
+/m/02hnl	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/0342h
+  Drums -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Guitar
+/m/01wbz9	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01bgqh
+  Robert Palmer -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Record of the Year
+/m/01wy6	/music/performance_role/regular_performances./music/group_membership/role	/m/0342h
+  Clarinet -> [/music/performance_role/regular_performances./music/group_membership/role] -> Guitar
+/m/03r0g9	/film/film/country	/m/0160w
+  Casino Royale -> [/film/film/country] -> Bahamas
+/m/0152cw	/people/person/spouse_s./people/marriage/type_of_union	/m/04ztj
+  Jewel -> [/people/person/spouse_s./people/marriage/type_of_union] -> Marriage
+/m/0160w	/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer	/m/025ldg
+  Bahamas -> [/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer] -> Kelly Clarkson
+/m/059kh	/music/genre/parent_genre	/m/05bt6j
+  New Wave -> [/music/genre/parent_genre] -> Pop rock
+/m/02h40lc	/language/human_language/countries_spoken_in	/m/0160w
+  English Language -> [/language/human_language/countries_spoken_in] -> Bahamas
+/m/064t9	/music/genre/artists	/m/025ldg
+  Pop music -> [/music/genre/artists] -> Kelly Clarkson
+/m/05148p4	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/03bx0bm
+  Keyboard -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Lead vocalist-GB
+/m/018vs	/music/performance_role/track_performances./music/track_contribution/role	/m/05148p4
+  Bass guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Keyboard
+/m/05148p4	/dataworld/gardening_hint/split_to	/m/05148p4
+  Keyboard -> [/dataworld/gardening_hint/split_to] -> Keyboard
+/m/0342h	/music/performance_role/track_performances./music/track_contribution/role	/m/03bx0bm
+  Guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Lead vocalist-GB
+/m/0kbvb	/user/jg/default_domain/olympic_games/sports	/m/01cgz
+  2004 Summer Olympics -> [/user/jg/default_domain/olympic_games/sports] -> Boxing
+/m/0160w	/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer	/m/01d1st
+  Bahamas -> [/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer] -> Nick Cannon
+/m/011k1h	/music/record_label/artist	/m/01wbz9
+  EMI -> [/music/record_label/artist] -> Robert Palmer
+/m/06sks6	/olympics/olympic_games/sports	/m/01cgz
+  2012 Summer Olympics -> [/olympics/olympic_games/sports] -> Boxing
+/m/02j71	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	/m/09nqf
+  Earth -> [/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/0160w	/location/country/form_of_government	/m/01q20
+  Bahamas -> [/location/country/form_of_government] -> Constitutional monarchy
+/m/01wbz9	/people/person/profession	/m/09jwl
+  Robert Palmer -> [/people/person/profession] -> Musician-GB
+/m/01cgz	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/m/0kbvb
+  Boxing -> [/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics] -> 2004 Summer Olympics
+/m/0kbvb	/olympics/olympic_games/medals_awarded./olympics/olympic_medal_honor/medal	/m/02lpp7
+  2004 Summer Olympics -> [/olympics/olympic_games/medals_awarded./olympics/olympic_medal_honor/medal] -> Gold medal
+/m/04ztj	/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	/m/021npd
+  Marriage -> [/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony] -> Scarborough, North Yorkshire
+/m/0jdk_	/olympics/olympic_games/sports	/m/06z6r
+  2000 Summer Olympics -> [/olympics/olympic_games/sports] -> Swimming
+/m/0jfx1	/people/person/profession	/m/09jwl
+  Johnny Depp -> [/people/person/profession] -> Musician-GB
+/m/02qdgx	/music/genre/artists	/m/01wbz9
+  Blue-eyed soul -> [/music/genre/artists] -> Robert Palmer
+/m/01wbz9	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0c4z8
+  Robert Palmer -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Song of the Year
+/m/05qtj	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	/m/04n6k
+  Paris -> [/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy] -> Library of Congress Classification
+/m/0342h	/music/instrument/instrumentalists	/m/02wb6yq
+  Guitar -> [/music/instrument/instrumentalists] -> Demi Lovato
+/m/0jdk_	/olympics/olympic_games/sports	/m/0bynt
+  2000 Summer Olympics -> [/olympics/olympic_games/sports] -> Track and field athletics
+/m/01cwkq	/people/person/languages	/m/02h40lc
+  Amanda Bynes -> [/people/person/languages] -> English Language
+/m/0160w	/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer	/m/0152cw
+  Bahamas -> [/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer] -> Jewel
+/m/01s21dg	/music/group_member/membership./music/group_membership/role	/m/0342h
+  John Mayer -> [/music/group_member/membership./music/group_membership/role] -> Guitar
+/m/0jfx1	/music/artist/track_contributions./music/track_contribution/role	/m/0342h
+  Johnny Depp -> [/music/artist/track_contributions./music/track_contribution/role] -> Guitar
+/m/06by7	/music/genre/artists	/m/01s21dg
+  Rock music -> [/music/genre/artists] -> John Mayer
+/m/018vs	/music/performance_role/track_performances./music/track_contribution/role	/m/02hnl
+  Bass guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Drums
+/m/02jx1	/location/country/form_of_government	/m/01q20
+  England -> [/location/country/form_of_government] -> Constitutional monarchy
+/m/0160w	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency	/m/09nqf
+  Bahamas -> [/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency] -> United States Dollar
+/m/05qtj	/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer	/m/0bksh
+  Paris -> [/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer] -> Cameron Diaz
+/m/02wb6yq	/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency	/m/09nqf
+  Demi Lovato -> [/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/0160w	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	/m/09nqf
+  Bahamas -> [/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/0160w	/location/country/capital	/m/05hcy
+  Bahamas -> [/location/country/capital] -> Nassau
+/m/02jx1	/location/location/contains	/m/021npd
+  England -> [/location/location/contains] -> Scarborough, North Yorkshire
+/m/064t9	/music/genre/artists	/m/01pgzn_
+  Pop music -> [/music/genre/artists] -> Lindsay Lohan
+/m/01s21dg	/people/person/profession	/m/0dz3r
+  John Mayer -> [/people/person/profession] -> Record producer-GB
+/m/01s21dg	/base/popstra/celebrity/dated./base/popstra/dated/participant	/m/0bksh
+  John Mayer -> [/base/popstra/celebrity/dated./base/popstra/dated/participant] -> Cameron Diaz
+/m/0kbvb	/olympics/olympic_games/sports	/m/0bynt
+  2004 Summer Olympics -> [/olympics/olympic_games/sports] -> Track and field athletics
+/m/02hnl	/music/performance_role/regular_performances./music/group_membership/role	/m/018vs
+  Drums -> [/music/performance_role/regular_performances./music/group_membership/role] -> Bass guitar
+/m/01wy6	/music/performance_role/regular_performances./music/group_membership/role	/m/02hnl
+  Clarinet -> [/music/performance_role/regular_performances./music/group_membership/role] -> Drums
+/m/02hnl	/music/performance_role/regular_performances./music/group_membership/role	/m/03bx0bm
+  Drums -> [/music/performance_role/regular_performances./music/group_membership/role] -> Lead vocalist-GB
+/m/0160w	/location/location/contains	/m/05hcy
+  Bahamas -> [/location/location/contains] -> Nassau
+/m/05148p4	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/018vs
+  Keyboard -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Bass guitar
+/m/01wbz9	/music/group_member/membership./music/group_membership/role	/m/03bx0bm
+  Robert Palmer -> [/music/group_member/membership./music/group_membership/role] -> Lead vocalist-GB
+/m/02qdgx	/music/genre/artists	/m/025ldg
+  Blue-eyed soul -> [/music/genre/artists] -> Kelly Clarkson
+/m/05bt6j	/music/genre/artists	/m/01wbz9
+  Pop rock -> [/music/genre/artists] -> Robert Palmer
+/m/05148p4	/music/performance_role/regular_performances./music/group_membership/role	/m/018vs
+  Keyboard -> [/music/performance_role/regular_performances./music/group_membership/role] -> Bass guitar
+/m/0jdk_	/olympics/olympic_games/sports	/m/01cgz
+  2000 Summer Olympics -> [/olympics/olympic_games/sports] -> Boxing
+/m/03r0g9	/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/m/09nqf
+  Casino Royale -> [/film/film/estimated_budget./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/0342h	/music/performance_role/regular_performances./music/group_membership/role	/m/02hnl
+  Guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Drums
+/m/02qdgx	/music/genre/artists	/m/01s21dg
+  Blue-eyed soul -> [/music/genre/artists] -> John Mayer
+/m/05148p4	/music/performance_role/track_performances./music/track_contribution/role	/m/02hnl
+  Keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Drums
+/m/0160w	/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer	/m/01pgzn_
+  Bahamas -> [/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer] -> Lindsay Lohan
+/m/0bynt	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country	/m/0160w
+  Track and field athletics -> [/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country] -> Bahamas
+/m/0160w	/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	/m/0kbvb
+  Bahamas -> [/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics] -> 2004 Summer Olympics
+/m/0kbws	/olympics/olympic_games/sports	/m/0bynt
+  2008 Summer Olympics -> [/olympics/olympic_games/sports] -> Track and field athletics
+/m/0160w	/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer	/m/0jfx1
+  Bahamas -> [/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer] -> Johnny Depp
+/m/0160w	/organization/organization_member/member_of./organization/organization_membership/organization	/m/041288
+  Bahamas -> [/organization/organization_member/member_of./organization/organization_membership/organization] -> African, Caribbean & Pacific Group of States
+/m/059kh	/music/genre/artists	/m/01wbz9
+  New Wave -> [/music/genre/artists] -> Robert Palmer
+/m/03bx0bm	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/018vs
+  Lead vocalist-GB -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Bass guitar
+/m/0fj45	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/m/0160w
+  Governor-General -> [/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office] -> Bahamas
+/m/06z6r	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country	/m/0160w
+  Swimming -> [/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country] -> Bahamas
+/m/02hnl	/music/performance_role/track_performances./music/track_contribution/role	/m/0342h
+  Drums -> [/music/performance_role/track_performances./music/track_contribution/role] -> Guitar
+/m/059kh	/music/genre/parent_genre	/m/06by7
+  New Wave -> [/music/genre/parent_genre] -> Rock music
+/m/0160w	/location/location/time_zones	/m/02hcv8
+  Bahamas -> [/location/location/time_zones] -> Eastern Time Zone
+/m/0342h	/music/instrument/instrumentalists	/m/01s21dg
+  Guitar -> [/music/instrument/instrumentalists] -> John Mayer
+/m/0342h	/music/performance_role/track_performances./music/track_contribution/role	/m/02hnl
+  Guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Drums
+/m/0342h	/music/instrument/instrumentalists	/m/0jfx1
+  Guitar -> [/music/instrument/instrumentalists] -> Johnny Depp
+/m/05bt6j	/music/genre/artists	/m/01pgzn_
+  Pop rock -> [/music/genre/artists] -> Lindsay Lohan
+/m/0152cw	/people/person/profession	/m/016z4k
+  Jewel -> [/people/person/profession] -> Singer-songwriter-GB
+/m/05148p4	/music/instrument/instrumentalists	/m/01wbz9
+  Keyboard -> [/music/instrument/instrumentalists] -> Robert Palmer
+/m/064t9	/music/genre/artists	/m/01wbz9
+  Pop music -> [/music/genre/artists] -> Robert Palmer
+/m/0bynt	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/m/0jdk_
+  Track and field athletics -> [/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics] -> 2000 Summer Olympics
+/m/03bx0bm	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/05148p4
+  Lead vocalist-GB -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Keyboard
+/m/0d1_f	/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency	/m/09nqf
+  Elizabeth II -> [/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/01pgzn_	/people/person/profession	/m/016z4k
+  Lindsay Lohan -> [/people/person/profession] -> Singer-songwriter-GB
+/m/018vs	/music/performance_role/regular_performances./music/group_membership/role	/m/05148p4
+  Bass guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Keyboard
+/m/03bx0bm	/music/performance_role/regular_performances./music/group_membership/role	/m/05148p4
+  Lead vocalist-GB -> [/music/performance_role/regular_performances./music/group_membership/role] -> Keyboard
+/m/02jx1	/location/location/contains	/m/0134bf
+  England -> [/location/location/contains] -> West Yorkshire
+/m/0mzkr	/music/record_label/artist	/m/01wbz9
+  Island Records -> [/music/record_label/artist] -> Robert Palmer
+/m/04ztj	/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	/m/05qtj
+  Marriage -> [/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony] -> Paris
+/m/03bx0bm	/music/performance_role/track_performances./music/track_contribution/role	/m/0342h
+  Lead vocalist-GB -> [/music/performance_role/track_performances./music/track_contribution/role] -> Guitar
+/m/05bt6j	/music/genre/artists	/m/025ldg
+  Pop rock -> [/music/genre/artists] -> Kelly Clarkson
+/m/0342h	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/05148p4
+  Guitar -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Keyboard
+/m/0160w	/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer	/m/01cwkq
+  Bahamas -> [/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer] -> Amanda Bynes
+/m/02wb6yq	/people/person/languages	/m/02h40lc
+  Demi Lovato -> [/people/person/languages] -> English Language
+/m/0152cw	/award/award_nominee/award_nominations./award/award_nomination/award	/m/02f5qb
+  Jewel -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> MTV Video Music Award for Video of the Year
+/m/03bx0bm	/music/performance_role/track_performances./music/track_contribution/role	/m/018vs
+  Lead vocalist-GB -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bass guitar
+/m/01wbz9	/music/artist/track_contributions./music/track_contribution/role	/m/01wy6
+  Robert Palmer -> [/music/artist/track_contributions./music/track_contribution/role] -> Clarinet
+/m/0xhtw	/music/genre/parent_genre	/m/06by7
+  Hard rock -> [/music/genre/parent_genre] -> Rock music
+/m/01d1st	/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency	/m/09nqf
+  Nick Cannon -> [/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/0d1_f	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	/m/02jx1
+  Elizabeth II -> [/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office] -> England
+/m/03bx0bm	/music/performance_role/regular_performances./music/group_membership/role	/m/0342h
+  Lead vocalist-GB -> [/music/performance_role/regular_performances./music/group_membership/role] -> Guitar
+/m/02j71	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	/m/04n6k
+  Earth -> [/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy] -> Library of Congress Classification
+/m/01s21dg	/people/person/profession	/m/09jwl
+  John Mayer -> [/people/person/profession] -> Musician-GB
+/m/0160w	/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer	/m/0kjrx
+  Bahamas -> [/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer] -> Uma Thurman
+/m/0160w	/base/aareas/schema/administrative_area/administrative_parent	/m/02j71
+  Bahamas -> [/base/aareas/schema/administrative_area/administrative_parent] -> Earth
+/m/0jdk_	/olympics/olympic_games/medals_awarded./olympics/olympic_medal_honor/medal	/m/02lpp7
+  2000 Summer Olympics -> [/olympics/olympic_games/medals_awarded./olympics/olympic_medal_honor/medal] -> Gold medal
+/m/025ldg	/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency	/m/09nqf
+  Kelly Clarkson -> [/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/0bynt	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	/m/04n6k
+  Track and field athletics -> [/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy] -> Library of Congress Classification
+/m/0160w	/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer	/m/0bksh
+  Bahamas -> [/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer] -> Cameron Diaz
+/m/01wbz9	/people/person/nationality	/m/02jx1
+  Robert Palmer -> [/people/person/nationality] -> England
+/m/018vs	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/0342h
+  Bass guitar -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Guitar
+/m/01d1st	/people/person/gender	/m/05zppz
+  Nick Cannon -> [/people/person/gender] -> Male
+/m/0160w	/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	/m/0jdk_
+  Bahamas -> [/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics] -> 2000 Summer Olympics
+/m/01wy6	/music/performance_role/track_performances./music/track_contribution/role	/m/0342h
+  Clarinet -> [/music/performance_role/track_performances./music/track_contribution/role] -> Guitar
+/m/02p3cr5	/music/record_label/artist	/m/01wbz9
+  EMI -> [/music/record_label/artist] -> Robert Palmer
+/m/05bt6j	/music/genre/parent_genre	/m/06by7
+  Pop rock -> [/music/genre/parent_genre] -> Rock music
+/m/04ztj	/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	/m/0160w
+  Marriage -> [/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony] -> Bahamas
+/m/01wbz9	/people/person/places_lived./people/place_lived/location	/m/05hcy
+  Robert Palmer -> [/people/person/places_lived./people/place_lived/location] -> Nassau
+/m/0160w	/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	/m/06sks6
+  Bahamas -> [/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics] -> 2012 Summer Olympics
+/m/03xyp_	/people/person/gender	/m/05zppz
+  Daniel Nestor -> [/people/person/gender] -> Male
+/m/03bx0bm	/music/performance_role/regular_performances./music/group_membership/role	/m/02hnl
+  Lead vocalist-GB -> [/music/performance_role/regular_performances./music/group_membership/role] -> Drums
+/m/0d1_f	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	/m/0160w
+  Elizabeth II -> [/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office] -> Bahamas
+/m/0160w	/organization/organization_member/member_of./organization/organization_membership/organization	/m/07t65
+  Bahamas -> [/organization/organization_member/member_of./organization/organization_membership/organization] -> United Nations
+/m/0bynt	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/m/06sks6
+  Track and field athletics -> [/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics] -> 2012 Summer Olympics
+/m/0342h	/music/instrument/instrumentalists	/m/01wbz9
+  Guitar -> [/music/instrument/instrumentalists] -> Robert Palmer
+/m/018vs	/music/instrument/instrumentalists	/m/01wbz9
+  Bass guitar -> [/music/instrument/instrumentalists] -> Robert Palmer
+/m/011k1h	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	/m/02h40lc
+  EMI -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language] -> English Language
+/m/0419kt	/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/m/09nqf
+  Speed 2: Cruise Control -> [/film/film/estimated_budget./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/0160w	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	/m/04n6k
+  Bahamas -> [/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy] -> Library of Congress Classification
+/m/01wbz9	/people/person/spouse_s./people/marriage/type_of_union	/m/04ztj
+  Robert Palmer -> [/people/person/spouse_s./people/marriage/type_of_union] -> Marriage
+/m/0jfx1	/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency	/m/09nqf
+  Johnny Depp -> [/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/0419kt	/film/film/language	/m/02h40lc
+  Speed 2: Cruise Control -> [/film/film/language] -> English Language
+/m/05qtj	/base/aareas/schema/administrative_area/capital	/m/05qtj
+  Paris -> [/base/aareas/schema/administrative_area/capital] -> Paris
+/m/01wbz9	/people/person/places_lived./people/place_lived/location	/m/0134bf
+  Robert Palmer -> [/people/person/places_lived./people/place_lived/location] -> West Yorkshire
+/m/0kjrx	/people/person/spouse_s./people/marriage/type_of_union	/m/04ztj
+  Uma Thurman -> [/people/person/spouse_s./people/marriage/type_of_union] -> Marriage
+/m/0160w	/location/country/form_of_government	/m/018wl5
+  Bahamas -> [/location/country/form_of_government] -> Parliamentary system
+/m/06sks6	/olympics/olympic_games/medals_awarded./olympics/olympic_medal_honor/medal	/m/02lpp7
+  2012 Summer Olympics -> [/olympics/olympic_games/medals_awarded./olympics/olympic_medal_honor/medal] -> Gold medal
+/m/016z4k	/people/profession/specialization_of	/m/09jwl
+  Singer-songwriter-GB -> [/people/profession/specialization_of] -> Musician-GB
+/m/02j71	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency	/m/09nqf
+  Earth -> [/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency] -> United States Dollar
+/m/0jdk_	/user/jg/default_domain/olympic_games/sports	/m/0bynt
+  2000 Summer Olympics -> [/user/jg/default_domain/olympic_games/sports] -> Track and field athletics
+/m/01d1st	/people/person/profession	/m/0dz3r
+  Nick Cannon -> [/people/person/profession] -> Record producer-GB
+/m/064t9	/music/genre/artists	/m/02wb6yq
+  Pop music -> [/music/genre/artists] -> Demi Lovato
+/m/064t9	/music/genre/parent_genre	/m/06by7
+  Pop music -> [/music/genre/parent_genre] -> Rock music
+/m/0160w	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	/m/09nqf
+  Bahamas -> [/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/0jfx1	/people/person/gender	/m/05zppz
+  Johnny Depp -> [/people/person/gender] -> Male
+/m/03xyp_	/people/person/spouse_s./people/marriage/type_of_union	/m/04ztj
+  Daniel Nestor -> [/people/person/spouse_s./people/marriage/type_of_union] -> Marriage
+/m/0342h	/music/performance_role/regular_performances./music/group_membership/role	/m/018vs
+  Guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Bass guitar
+/m/0160w	/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	/m/0kbws
+  Bahamas -> [/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics] -> 2008 Summer Olympics
+/m/025ldg	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01bgqh
+  Kelly Clarkson -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Record of the Year
+/m/06sks6	/olympics/olympic_games/sports	/m/06z6r
+  2012 Summer Olympics -> [/olympics/olympic_games/sports] -> Swimming
+/m/0c4z8	/award/award_category/winners./award/award_honor/award_winner	/m/01s21dg
+  Grammy Award for Song of the Year -> [/award/award_category/winners./award/award_honor/award_winner] -> John Mayer
+/m/03xyp_	/people/person/places_lived./people/place_lived/location	/m/0160w
+  Daniel Nestor -> [/people/person/places_lived./people/place_lived/location] -> Bahamas
+/m/018ctl	/olympics/olympic_games/participating_countries	/m/0160w
+  2010 Winter Olympics -> [/olympics/olympic_games/participating_countries] -> Bahamas
+/m/04ztj	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	/m/04n6k
+  Marriage -> [/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy] -> Library of Congress Classification
+/m/0342h	/music/performance_role/regular_performances./music/group_membership/role	/m/03bx0bm
+  Guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Lead vocalist-GB
+/m/059kh	/music/genre/parent_genre	/m/064t9
+  New Wave -> [/music/genre/parent_genre] -> Pop music
+/m/0160w	/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/medal	/m/02lpp7
+  Bahamas -> [/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/medal] -> Gold medal
+/m/018vs	/music/performance_role/track_performances./music/track_contribution/role	/m/01wy6
+  Bass guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Clarinet
+/m/0342h	/music/instrument/instrumentalists	/m/0152cw
+  Guitar -> [/music/instrument/instrumentalists] -> Jewel
+/m/02vk52z	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	/m/02j71
+  World Bank -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location] -> Earth
+/m/0d1_f	/people/person/spouse_s./people/marriage/type_of_union	/m/04ztj
+  Elizabeth II -> [/people/person/spouse_s./people/marriage/type_of_union] -> Marriage
+/m/01s21dg	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0c4z8
+  John Mayer -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Song of the Year
+/m/01wbz9	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01ck6h
+  Robert Palmer -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Best Male Rock Vocal Performance
+/m/02wb6yq	/people/person/profession	/m/09jwl
+  Demi Lovato -> [/people/person/profession] -> Musician-GB
+/m/0kjrx	/film/actor/dubbing_performances./film/dubbing_performance/language	/m/02h40lc
+  Uma Thurman -> [/film/actor/dubbing_performances./film/dubbing_performance/language] -> English Language
+/m/01wbz9	/people/person/gender	/m/05zppz
+  Robert Palmer -> [/people/person/gender] -> Male
+/m/05148p4	/music/performance_role/regular_performances./music/group_membership/role	/m/0342h
+  Keyboard -> [/music/performance_role/regular_performances./music/group_membership/role] -> Guitar
+/m/05bt6j	/music/genre/artists	/m/02wb6yq
+  Pop rock -> [/music/genre/artists] -> Demi Lovato
+/m/02hnl	/music/instrument/instrumentalists	/m/01wbz9
+  Drums -> [/music/instrument/instrumentalists] -> Robert Palmer

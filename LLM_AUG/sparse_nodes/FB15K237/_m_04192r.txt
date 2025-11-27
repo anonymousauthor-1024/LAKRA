@@ -1,0 +1,852 @@
+Entity: /m/04192r
+Entity Name: Chief Marketing Officer
+K-hop: 2
+Subgraph Nodes: 71
+Subgraph Triples: 384
+
+==================================================
+Nodes in Subgraph:
+==================================================
+/m/011k1h	EMI
+/m/0142rn	Chief Information Officer-GB
+/m/014dgf	Sales
+/m/015p1m	Investment banking
+/m/019z7b	Consumer electronics
+/m/01dfb6	Citigroup
+/m/01kr6k	Treasurer
+/m/01mf0	Software
+/m/01mfj	Computer hardware
+/m/01n7q	California
+/m/01pd60	Fortune 500
+/m/01ptsx	Fortune 1000
+/m/01rk91	Internship
+/m/01yc02	Chief Operating Officer
+/m/021q0l	Fellow
+/m/02211by	Chief Technology Officer
+/m/029g_vk	Telecommunications
+/m/02_286	New York City
+/m/02_l39	NBCUniversal
+/m/02h40lc	English Language
+/m/02j71	Earth
+/m/02y6fz	General Manager
+/m/02zdwq	Technical Support
+/m/0345h	Germany
+/m/03_3d	Japan
+/m/03bnb	General Electric
+/m/03rjj	Italy
+/m/03s7h	Intel Corporation
+/m/03w5xm	Customer service
+/m/03ytc	Information technology
+/m/04192r	Chief Marketing Officer
+/m/0488g	Kansas
+/m/04f_d	Kansas City
+/m/04k4rt	Fortune Global 500
+/m/04ych	Missouri
+/m/059g4	North America-US
+/m/059rby	New York
+/m/05_wyz	General counsel
+/m/05gnf	NBC
+/m/060c4	President
+/m/06f32	Taiwan
+/m/06mkj	Spain
+/m/06nm1	Spanish Language
+/m/06y3r	Steve Jobs
+/m/077w0b	Sprint Corporation
+/m/07_dn	Verizon Communications
+/m/07b_l	Texas
+/m/07bty	Thomas Edison
+/m/07c1v	Technology
+/m/07ssc	United Kingdom
+/m/07z1m	Virginia
+/m/08mbj5d	Official Website
+/m/08mh3kd	Semiconductor Manufacture
+/m/09c7w0	United States of America
+/m/09d6p2	Chairman
+/m/09lq2c	Chief Administrative Officer
+/m/09nqf	United States Dollar
+/m/0b90_r	Mexico
+/m/0d05w3	China
+/m/0d060g	Canada
+/m/0dq3c	Vice President-GB
+/m/0dq_5	Managing Director-GB
+/m/0f8l9c	France
+/m/0fdpd	Schenectady
+/m/0jzgd	Voice over IP
+/m/0k8z	Apple Inc.
+/m/0krdk	Chief Financial Officer-GB
+/m/0py9b	Dell
+/m/0r679	Cupertino
+/m/0r6cx	Santa Clara
+/m/0rd5k	Fairfield
+
+==================================================
+Triples in Subgraph:
+==================================================
+/m/0k8z	/organization/organization/place_founded	/m/0r679
+  Apple Inc. -> [/organization/organization/place_founded] -> Cupertino
+/m/0dq3c	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/m/09c7w0
+  Vice President-GB -> [/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office] -> United States of America
+/m/03rjj	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/0f8l9c
+  Italy -> [/military/military_combatant/military_conflicts./military/military_combatant_group/combatants] -> France
+/m/0f8l9c	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/m/06mkj
+  France -> [/location/location/adjoin_s./location/adjoining_relationship/adjoins] -> Spain
+/m/09c7w0	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/06f32
+  United States of America -> [/military/military_combatant/military_conflicts./military/military_combatant_group/combatants] -> Taiwan
+/m/01kr6k	/business/job_title/people_with_this_title./business/employment_tenure/company	/m/077w0b
+  Treasurer -> [/business/job_title/people_with_this_title./business/employment_tenure/company] -> Sprint Corporation
+/m/06f32	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/09c7w0
+  Taiwan -> [/military/military_combatant/military_conflicts./military/military_combatant_group/combatants] -> United States of America
+/m/0345h	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/m/0f8l9c
+  Germany -> [/location/location/adjoin_s./location/adjoining_relationship/adjoins] -> France
+/m/0py9b	/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/m/04k4rt
+  Dell -> [/award/ranked_item/appears_in_ranked_lists./award/ranking/list] -> Fortune Global 500
+/m/03rjj	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	/m/09nqf
+  Italy -> [/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/0f8l9c	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/09c7w0
+  France -> [/military/military_combatant/military_conflicts./military/military_combatant_group/combatants] -> United States of America
+/m/059g4	/location/location/partially_contains	/m/09c7w0
+  North America-US -> [/location/location/partially_contains] -> United States of America
+/m/0f8l9c	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/06f32
+  France -> [/military/military_combatant/military_conflicts./military/military_combatant_group/combatants] -> Taiwan
+/m/06y3r	/organization/organization_founder/organizations_founded	/m/0k8z
+  Steve Jobs -> [/organization/organization_founder/organizations_founded] -> Apple Inc.
+/m/0dq_5	/organization/role/leaders./organization/leadership/organization	/m/0k8z
+  Managing Director-GB -> [/organization/role/leaders./organization/leadership/organization] -> Apple Inc.
+/m/06nm1	/language/human_language/countries_spoken_in	/m/0d060g
+  Spanish Language -> [/language/human_language/countries_spoken_in] -> Canada
+/m/011k1h	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	/m/07ssc
+  EMI -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location] -> United Kingdom
+/m/0f8l9c	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	/m/09nqf
+  France -> [/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/01dfb6	/organization/organization/child./organization/organization_relationship/child	/m/011k1h
+  Citigroup -> [/organization/organization/child./organization/organization_relationship/child] -> EMI
+/m/05gnf	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  NBC -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/02_286	/location/administrative_division/country	/m/09c7w0
+  New York City -> [/location/administrative_division/country] -> United States of America
+/m/03bnb	/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/m/01ptsx
+  General Electric -> [/award/ranked_item/appears_in_ranked_lists./award/ranking/list] -> Fortune 1000
+/m/03rjj	/base/aareas/schema/administrative_area/administrative_parent	/m/02j71
+  Italy -> [/base/aareas/schema/administrative_area/administrative_parent] -> Earth
+/m/07_dn	/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/m/01ptsx
+  Verizon Communications -> [/award/ranked_item/appears_in_ranked_lists./award/ranking/list] -> Fortune 1000
+/m/03bnb	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	/m/09nqf
+  General Electric -> [/business/business_operation/operating_income./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/059rby	/location/location/contains	/m/02_286
+  New York -> [/location/location/contains] -> New York City
+/m/0d060g	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/m/09c7w0
+  Canada -> [/location/location/adjoin_s./location/adjoining_relationship/adjoins] -> United States of America
+/m/09c7w0	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency	/m/09nqf
+  United States of America -> [/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency] -> United States Dollar
+/m/0f8l9c	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	/m/09c7w0
+  France -> [/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to] -> United States of America
+/m/0py9b	/business/business_operation/assets./measurement_unit/dated_money_value/currency	/m/09nqf
+  Dell -> [/business/business_operation/assets./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/02y6fz	/business/job_title/people_with_this_title./business/employment_tenure/company	/m/03s7h
+  General Manager -> [/business/job_title/people_with_this_title./business/employment_tenure/company] -> Intel Corporation
+/m/03bnb	/business/business_operation/revenue./measurement_unit/dated_money_value/currency	/m/09nqf
+  General Electric -> [/business/business_operation/revenue./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/077w0b	/organization/organization/headquarters./location/mailing_address/state_province_region	/m/0488g
+  Sprint Corporation -> [/organization/organization/headquarters./location/mailing_address/state_province_region] -> Kansas
+/m/0f8l9c	/base/aareas/schema/administrative_area/administrative_parent	/m/02j71
+  France -> [/base/aareas/schema/administrative_area/administrative_parent] -> Earth
+/m/07_dn	/organization/organization/headquarters./location/mailing_address/state_province_region	/m/059rby
+  Verizon Communications -> [/organization/organization/headquarters./location/mailing_address/state_province_region] -> New York
+/m/09c7w0	/location/location/contains	/m/02_286
+  United States of America -> [/location/location/contains] -> New York City
+/m/01n7q	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	/m/09nqf
+  California -> [/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/0488g	/base/biblioness/bibs_location/country	/m/09c7w0
+  Kansas -> [/base/biblioness/bibs_location/country] -> United States of America
+/m/0k8z	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	/m/02h40lc
+  Apple Inc. -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language] -> English Language
+/m/077w0b	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	/m/09c7w0
+  Sprint Corporation -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location] -> United States of America
+/m/09c7w0	/location/location/contains	/m/0r6cx
+  United States of America -> [/location/location/contains] -> Santa Clara
+/m/03bnb	/organization/organization/place_founded	/m/0fdpd
+  General Electric -> [/organization/organization/place_founded] -> Schenectady
+/m/07_dn	/business/business_operation/industry	/m/029g_vk
+  Verizon Communications -> [/business/business_operation/industry] -> Telecommunications
+/m/01dfb6	/business/business_operation/industry	/m/015p1m
+  Citigroup -> [/business/business_operation/industry] -> Investment banking
+/m/09d6p2	/business/job_title/people_with_this_title./business/employment_tenure/company	/m/07_dn
+  Chairman -> [/business/job_title/people_with_this_title./business/employment_tenure/company] -> Verizon Communications
+/m/0345h	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/0b90_r
+  Germany -> [/military/military_combatant/military_conflicts./military/military_combatant_group/combatants] -> Mexico
+/m/07b_l	/base/biblioness/bibs_location/country	/m/09c7w0
+  Texas -> [/base/biblioness/bibs_location/country] -> United States of America
+/m/02j71	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	/m/09nqf
+  Earth -> [/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/0r679	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/m/0r6cx
+  Cupertino -> [/location/location/adjoin_s./location/adjoining_relationship/adjoins] -> Santa Clara
+/m/0dq_5	/organization/role/leaders./organization/leadership/organization	/m/0py9b
+  Managing Director-GB -> [/organization/role/leaders./organization/leadership/organization] -> Dell
+/m/0py9b	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	/m/09c7w0
+  Dell -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location] -> United States of America
+/m/060c4	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/m/0345h
+  President -> [/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office] -> Germany
+/m/04192r	/business/job_title/people_with_this_title./business/employment_tenure/company	/m/01dfb6
+  Chief Marketing Officer -> [/business/job_title/people_with_this_title./business/employment_tenure/company] -> Citigroup
+/m/060c4	/business/job_title/people_with_this_title./business/employment_tenure/company	/m/03s7h
+  President -> [/business/job_title/people_with_this_title./business/employment_tenure/company] -> Intel Corporation
+/m/09c7w0	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	/m/03_3d
+  United States of America -> [/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to] -> Japan
+/m/03rjj	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	/m/09nqf
+  Italy -> [/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/0k8z	/business/business_operation/industry	/m/01mf0
+  Apple Inc. -> [/business/business_operation/industry] -> Software
+/m/09c7w0	/location/location/contains	/m/04ych
+  United States of America -> [/location/location/contains] -> Missouri
+/m/01n7q	/location/location/contains	/m/0r6cx
+  California -> [/location/location/contains] -> Santa Clara
+/m/059rby	/location/administrative_division/country	/m/09c7w0
+  New York -> [/location/administrative_division/country] -> United States of America
+/m/077w0b	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/contact_category	/m/03w5xm
+  Sprint Corporation -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/contact_category] -> Customer service
+/m/02_l39	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	/m/02h40lc
+  NBCUniversal -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language] -> English Language
+/m/01dfb6	/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/m/01ptsx
+  Citigroup -> [/award/ranked_item/appears_in_ranked_lists./award/ranking/list] -> Fortune 1000
+/m/03_3d	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency	/m/09nqf
+  Japan -> [/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency] -> United States Dollar
+/m/07b_l	/location/administrative_division/country	/m/09c7w0
+  Texas -> [/location/administrative_division/country] -> United States of America
+/m/0dq_5	/organization/role/leaders./organization/leadership/organization	/m/011k1h
+  Managing Director-GB -> [/organization/role/leaders./organization/leadership/organization] -> EMI
+/m/09c7w0	/dataworld/gardening_hint/split_to	/m/09c7w0
+  United States of America -> [/dataworld/gardening_hint/split_to] -> United States of America
+/m/0dq_5	/business/job_title/people_with_this_title./business/employment_tenure/company	/m/0k8z
+  Managing Director-GB -> [/business/job_title/people_with_this_title./business/employment_tenure/company] -> Apple Inc.
+/m/059g4	/base/locations/continents/countries_within	/m/09c7w0
+  North America-US -> [/base/locations/continents/countries_within] -> United States of America
+/m/02211by	/business/job_title/people_with_this_title./business/employment_tenure/company	/m/01dfb6
+  Chief Technology Officer -> [/business/job_title/people_with_this_title./business/employment_tenure/company] -> Citigroup
+/m/09c7w0	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/0345h
+  United States of America -> [/military/military_combatant/military_conflicts./military/military_combatant_group/combatants] -> Germany
+/m/03_3d	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/m/0d05w3
+  Japan -> [/location/location/adjoin_s./location/adjoining_relationship/adjoins] -> China
+/m/07ssc	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	/m/09nqf
+  United Kingdom -> [/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/03s7h	/organization/organization/headquarters./location/mailing_address/citytown	/m/0r6cx
+  Intel Corporation -> [/organization/organization/headquarters./location/mailing_address/citytown] -> Santa Clara
+/m/02_l39	/organization/organization/headquarters./location/mailing_address/state_province_region	/m/059rby
+  NBCUniversal -> [/organization/organization/headquarters./location/mailing_address/state_province_region] -> New York
+/m/01dfb6	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	/m/02j71
+  Citigroup -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location] -> Earth
+/m/0b90_r	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/0f8l9c
+  Mexico -> [/military/military_combatant/military_conflicts./military/military_combatant_group/combatants] -> France
+/m/0488g	/location/administrative_division/first_level_division_of	/m/09c7w0
+  Kansas -> [/location/administrative_division/first_level_division_of] -> United States of America
+/m/0r6cx	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/m/0r679
+  Santa Clara -> [/location/location/adjoin_s./location/adjoining_relationship/adjoins] -> Cupertino
+/m/04ych	/base/biblioness/bibs_location/country	/m/09c7w0
+  Missouri -> [/base/biblioness/bibs_location/country] -> United States of America
+/m/04f_d	/base/biblioness/bibs_location/country	/m/09c7w0
+  Kansas City -> [/base/biblioness/bibs_location/country] -> United States of America
+/m/09c7w0	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	/m/06f32
+  United States of America -> [/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to] -> Taiwan
+/m/0dq3c	/business/job_title/people_with_this_title./business/employment_tenure/company	/m/09c7w0
+  Vice President-GB -> [/business/job_title/people_with_this_title./business/employment_tenure/company] -> United States of America
+/m/077w0b	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	/m/0f8l9c
+  Sprint Corporation -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location] -> France
+/m/07ssc	/location/country/official_language	/m/02h40lc
+  United Kingdom -> [/location/country/official_language] -> English Language
+/m/0krdk	/business/job_title/people_with_this_title./business/employment_tenure/company	/m/01dfb6
+  Chief Financial Officer-GB -> [/business/job_title/people_with_this_title./business/employment_tenure/company] -> Citigroup
+/m/0r679	/base/biblioness/bibs_location/state	/m/01n7q
+  Cupertino -> [/base/biblioness/bibs_location/state] -> California
+/m/0b90_r	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/m/01n7q
+  Mexico -> [/location/location/adjoin_s./location/adjoining_relationship/adjoins] -> California
+/m/077w0b	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	/m/02h40lc
+  Sprint Corporation -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language] -> English Language
+/m/09c7w0	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	/m/0b90_r
+  United States of America -> [/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to] -> Mexico
+/m/04ych	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	/m/09nqf
+  Missouri -> [/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/02_l39	/organization/organization/headquarters./location/mailing_address/citytown	/m/02_286
+  NBCUniversal -> [/organization/organization/headquarters./location/mailing_address/citytown] -> New York City
+/m/0krdk	/business/job_title/people_with_this_title./business/employment_tenure/company	/m/0py9b
+  Chief Financial Officer-GB -> [/business/job_title/people_with_this_title./business/employment_tenure/company] -> Dell
+/m/077w0b	/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/m/04k4rt
+  Sprint Corporation -> [/award/ranked_item/appears_in_ranked_lists./award/ranking/list] -> Fortune Global 500
+/m/01dfb6	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	/m/09c7w0
+  Citigroup -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location] -> United States of America
+/m/05_wyz	/business/job_title/people_with_this_title./business/employment_tenure/company	/m/03s7h
+  General counsel -> [/business/job_title/people_with_this_title./business/employment_tenure/company] -> Intel Corporation
+/m/07ssc	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/09c7w0
+  United Kingdom -> [/military/military_combatant/military_conflicts./military/military_combatant_group/combatants] -> United States of America
+/m/0dq3c	/business/job_title/people_with_this_title./business/employment_tenure/company	/m/03bnb
+  Vice President-GB -> [/business/job_title/people_with_this_title./business/employment_tenure/company] -> General Electric
+/m/02h40lc	/language/human_language/countries_spoken_in	/m/07ssc
+  English Language -> [/language/human_language/countries_spoken_in] -> United Kingdom
+/m/02_l39	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  NBCUniversal -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/0b90_r	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/09c7w0
+  Mexico -> [/military/military_combatant/military_conflicts./military/military_combatant_group/combatants] -> United States of America
+/m/0dq_5	/business/job_title/people_with_this_title./business/employment_tenure/company	/m/05gnf
+  Managing Director-GB -> [/business/job_title/people_with_this_title./business/employment_tenure/company] -> NBC
+/m/0r6cx	/location/hud_county_place/place	/m/0r6cx
+  Santa Clara -> [/location/hud_county_place/place] -> Santa Clara
+/m/077w0b	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	/m/0345h
+  Sprint Corporation -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location] -> Germany
+/m/077w0b	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	/m/07ssc
+  Sprint Corporation -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location] -> United Kingdom
+/m/07b_l	/location/administrative_division/first_level_division_of	/m/09c7w0
+  Texas -> [/location/administrative_division/first_level_division_of] -> United States of America
+/m/06f32	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	/m/09nqf
+  Taiwan -> [/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/0py9b	/organization/organization/headquarters./location/mailing_address/state_province_region	/m/07b_l
+  Dell -> [/organization/organization/headquarters./location/mailing_address/state_province_region] -> Texas
+/m/09c7w0	/location/location/contains	/m/07z1m
+  United States of America -> [/location/location/contains] -> Virginia
+/m/0b90_r	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/06f32
+  Mexico -> [/military/military_combatant/military_conflicts./military/military_combatant_group/combatants] -> Taiwan
+/m/0py9b	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/contact_category	/m/02zdwq
+  Dell -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/contact_category] -> Technical Support
+/m/07ssc	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	/m/09nqf
+  United Kingdom -> [/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/0dq_5	/business/job_title/people_with_this_title./business/employment_tenure/company	/m/01dfb6
+  Managing Director-GB -> [/business/job_title/people_with_this_title./business/employment_tenure/company] -> Citigroup
+/m/01yc02	/business/job_title/people_with_this_title./business/employment_tenure/company	/m/0py9b
+  Chief Operating Officer -> [/business/job_title/people_with_this_title./business/employment_tenure/company] -> Dell
+/m/0d060g	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	/m/09nqf
+  Canada -> [/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/09c7w0	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/m/0d060g
+  United States of America -> [/location/location/adjoin_s./location/adjoining_relationship/adjoins] -> Canada
+/m/02_l39	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/contact_category	/m/03w5xm
+  NBCUniversal -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/contact_category] -> Customer service
+/m/0f8l9c	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/0b90_r
+  France -> [/military/military_combatant/military_conflicts./military/military_combatant_group/combatants] -> Mexico
+/m/09d6p2	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/m/0d05w3
+  Chairman -> [/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office] -> China
+/m/077w0b	/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/m/01ptsx
+  Sprint Corporation -> [/award/ranked_item/appears_in_ranked_lists./award/ranking/list] -> Fortune 1000
+/m/0k8z	/organization/organization/headquarters./location/mailing_address/citytown	/m/0r679
+  Apple Inc. -> [/organization/organization/headquarters./location/mailing_address/citytown] -> Cupertino
+/m/06f32	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/07ssc
+  Taiwan -> [/military/military_combatant/military_conflicts./military/military_combatant_group/combatants] -> United Kingdom
+/m/0fdpd	/location/hud_county_place/place	/m/0fdpd
+  Schenectady -> [/location/hud_county_place/place] -> Schenectady
+/m/0k8z	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/contact_category	/m/014dgf
+  Apple Inc. -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/contact_category] -> Sales
+/m/077w0b	/organization/organization/headquarters./location/mailing_address/citytown	/m/04f_d
+  Sprint Corporation -> [/organization/organization/headquarters./location/mailing_address/citytown] -> Kansas City
+/m/060c4	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/m/06mkj
+  President -> [/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office] -> Spain
+/m/03s7h	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	/m/09nqf
+  Intel Corporation -> [/business/business_operation/operating_income./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/0d060g	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/06f32
+  Canada -> [/military/military_combatant/military_conflicts./military/military_combatant_group/combatants] -> Taiwan
+/m/07ssc	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/m/0f8l9c
+  United Kingdom -> [/location/location/adjoin_s./location/adjoining_relationship/adjoins] -> France
+/m/01dfb6	/organization/organization/place_founded	/m/02_286
+  Citigroup -> [/organization/organization/place_founded] -> New York City
+/m/07_dn	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	/m/09nqf
+  Verizon Communications -> [/business/business_operation/operating_income./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/0f8l9c	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency	/m/09nqf
+  France -> [/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency] -> United States Dollar
+/m/06mkj	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/m/0f8l9c
+  Spain -> [/location/location/adjoin_s./location/adjoining_relationship/adjoins] -> France
+/m/09c7w0	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/0f8l9c
+  United States of America -> [/military/military_combatant/military_conflicts./military/military_combatant_group/combatants] -> France
+/m/0345h	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency	/m/09nqf
+  Germany -> [/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency] -> United States Dollar
+/m/0f8l9c	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/m/0345h
+  France -> [/location/location/adjoin_s./location/adjoining_relationship/adjoins] -> Germany
+/m/07bty	/organization/organization_founder/organizations_founded	/m/03bnb
+  Thomas Edison -> [/organization/organization_founder/organizations_founded] -> General Electric
+/m/060c4	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/m/0d05w3
+  President -> [/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office] -> China
+/m/03s7h	/business/business_operation/assets./measurement_unit/dated_money_value/currency	/m/09nqf
+  Intel Corporation -> [/business/business_operation/assets./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/0d05w3	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	/m/09nqf
+  China -> [/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/09c7w0	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	/m/09nqf
+  United States of America -> [/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/07_dn	/business/business_operation/assets./measurement_unit/dated_money_value/currency	/m/09nqf
+  Verizon Communications -> [/business/business_operation/assets./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/0py9b	/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/m/01ptsx
+  Dell -> [/award/ranked_item/appears_in_ranked_lists./award/ranking/list] -> Fortune 1000
+/m/0d060g	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/07ssc
+  Canada -> [/military/military_combatant/military_conflicts./military/military_combatant_group/combatants] -> United Kingdom
+/m/0142rn	/business/job_title/people_with_this_title./business/employment_tenure/company	/m/077w0b
+  Chief Information Officer-GB -> [/business/job_title/people_with_this_title./business/employment_tenure/company] -> Sprint Corporation
+/m/06nm1	/language/human_language/countries_spoken_in	/m/09c7w0
+  Spanish Language -> [/language/human_language/countries_spoken_in] -> United States of America
+/m/077w0b	/business/business_operation/assets./measurement_unit/dated_money_value/currency	/m/09nqf
+  Sprint Corporation -> [/business/business_operation/assets./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/01n7q	/location/administrative_division/first_level_division_of	/m/09c7w0
+  California -> [/location/administrative_division/first_level_division_of] -> United States of America
+/m/07ssc	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/0f8l9c
+  United Kingdom -> [/military/military_combatant/military_conflicts./military/military_combatant_group/combatants] -> France
+/m/0488g	/base/aareas/schema/administrative_area/administrative_parent	/m/09c7w0
+  Kansas -> [/base/aareas/schema/administrative_area/administrative_parent] -> United States of America
+/m/01yc02	/business/job_title/people_with_this_title./business/employment_tenure/company	/m/03s7h
+  Chief Operating Officer -> [/business/job_title/people_with_this_title./business/employment_tenure/company] -> Intel Corporation
+/m/02j71	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	/m/09nqf
+  Earth -> [/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/07z1m	/location/administrative_division/first_level_division_of	/m/09c7w0
+  Virginia -> [/location/administrative_division/first_level_division_of] -> United States of America
+/m/03bnb	/organization/organization/child./organization/organization_relationship/child	/m/05gnf
+  General Electric -> [/organization/organization/child./organization/organization_relationship/child] -> NBC
+/m/07_dn	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	/m/02h40lc
+  Verizon Communications -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language] -> English Language
+/m/059rby	/base/aareas/schema/administrative_area/administrative_parent	/m/09c7w0
+  New York -> [/base/aareas/schema/administrative_area/administrative_parent] -> United States of America
+/m/09c7w0	/location/location/contains	/m/01n7q
+  United States of America -> [/location/location/contains] -> California
+/m/0f8l9c	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/m/07ssc
+  France -> [/location/location/adjoin_s./location/adjoining_relationship/adjoins] -> United Kingdom
+/m/0b90_r	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	/m/09nqf
+  Mexico -> [/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/0b90_r	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/0d060g
+  Mexico -> [/military/military_combatant/military_conflicts./military/military_combatant_group/combatants] -> Canada
+/m/0f8l9c	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/07ssc
+  France -> [/military/military_combatant/military_conflicts./military/military_combatant_group/combatants] -> United Kingdom
+/m/04192r	/business/job_title/people_with_this_title./business/employment_tenure/company	/m/0py9b
+  Chief Marketing Officer -> [/business/job_title/people_with_this_title./business/employment_tenure/company] -> Dell
+/m/07_dn	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/contact_category	/m/03w5xm
+  Verizon Communications -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/contact_category] -> Customer service
+/m/0rd5k	/location/statistical_region/rent50_2./measurement_unit/dated_money_value/currency	/m/09nqf
+  Fairfield -> [/location/statistical_region/rent50_2./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/060c4	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/m/06f32
+  President -> [/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office] -> Taiwan
+/m/0k8z	/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/m/01ptsx
+  Apple Inc. -> [/award/ranked_item/appears_in_ranked_lists./award/ranking/list] -> Fortune 1000
+/m/077w0b	/business/business_operation/revenue./measurement_unit/dated_money_value/currency	/m/09nqf
+  Sprint Corporation -> [/business/business_operation/revenue./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/0py9b	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Dell -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/06y3r	/people/person/nationality	/m/09c7w0
+  Steve Jobs -> [/people/person/nationality] -> United States of America
+/m/0py9b	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	/m/02j71
+  Dell -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location] -> Earth
+/m/0488g	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/m/04ych
+  Kansas -> [/location/location/adjoin_s./location/adjoining_relationship/adjoins] -> Missouri
+/m/0f8l9c	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/0d060g
+  France -> [/military/military_combatant/military_conflicts./military/military_combatant_group/combatants] -> Canada
+/m/0d060g	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/09c7w0
+  Canada -> [/military/military_combatant/military_conflicts./military/military_combatant_group/combatants] -> United States of America
+/m/0b90_r	/location/country/official_language	/m/06nm1
+  Mexico -> [/location/country/official_language] -> Spanish Language
+/m/077w0b	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	/m/06nm1
+  Sprint Corporation -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language] -> Spanish Language
+/m/03s7h	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	/m/059g4
+  Intel Corporation -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location] -> North America-US
+/m/0f8l9c	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/m/03rjj
+  France -> [/location/location/adjoin_s./location/adjoining_relationship/adjoins] -> Italy
+/m/0dq_5	/organization/role/leaders./organization/leadership/organization	/m/077w0b
+  Managing Director-GB -> [/organization/role/leaders./organization/leadership/organization] -> Sprint Corporation
+/m/01dfb6	/business/business_operation/assets./measurement_unit/dated_money_value/currency	/m/09nqf
+  Citigroup -> [/business/business_operation/assets./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/06mkj	/location/country/official_language	/m/06nm1
+  Spain -> [/location/country/official_language] -> Spanish Language
+/m/060c4	/business/job_title/people_with_this_title./business/employment_tenure/company	/m/0py9b
+  President -> [/business/job_title/people_with_this_title./business/employment_tenure/company] -> Dell
+/m/0dq3c	/business/job_title/people_with_this_title./business/employment_tenure/company	/m/03s7h
+  Vice President-GB -> [/business/job_title/people_with_this_title./business/employment_tenure/company] -> Intel Corporation
+/m/04ych	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Missouri -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/0345h	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/0d060g
+  Germany -> [/military/military_combatant/military_conflicts./military/military_combatant_group/combatants] -> Canada
+/m/07ssc	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/06f32
+  United Kingdom -> [/military/military_combatant/military_conflicts./military/military_combatant_group/combatants] -> Taiwan
+/m/0py9b	/business/business_operation/revenue./measurement_unit/dated_money_value/currency	/m/09nqf
+  Dell -> [/business/business_operation/revenue./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/07z1m	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	/m/09nqf
+  Virginia -> [/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/03bnb	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/contact_category	/m/03w5xm
+  General Electric -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/contact_category] -> Customer service
+/m/06nm1	/language/human_language/countries_spoken_in	/m/0b90_r
+  Spanish Language -> [/language/human_language/countries_spoken_in] -> Mexico
+/m/07ssc	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/0b90_r
+  United Kingdom -> [/military/military_combatant/military_conflicts./military/military_combatant_group/combatants] -> Mexico
+/m/06y3r	/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency	/m/09nqf
+  Steve Jobs -> [/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/03s7h	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	/m/07ssc
+  Intel Corporation -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location] -> United Kingdom
+/m/03s7h	/organization/organization/headquarters./location/mailing_address/state_province_region	/m/01n7q
+  Intel Corporation -> [/organization/organization/headquarters./location/mailing_address/state_province_region] -> California
+/m/077w0b	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	/m/0b90_r
+  Sprint Corporation -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location] -> Mexico
+/m/077w0b	/organization/organization/headquarters./location/mailing_address/state_province_region	/m/04ych
+  Sprint Corporation -> [/organization/organization/headquarters./location/mailing_address/state_province_region] -> Missouri
+/m/060c4	/business/job_title/people_with_this_title./business/employment_tenure/company	/m/09c7w0
+  President -> [/business/job_title/people_with_this_title./business/employment_tenure/company] -> United States of America
+/m/09c7w0	/location/location/contains	/m/059rby
+  United States of America -> [/location/location/contains] -> New York
+/m/0b90_r	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	/m/09nqf
+  Mexico -> [/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/05gnf	/organization/organization/headquarters./location/mailing_address/state_province_region	/m/059rby
+  NBC -> [/organization/organization/headquarters./location/mailing_address/state_province_region] -> New York
+/m/03s7h	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Intel Corporation -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/011k1h	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	/m/09c7w0
+  EMI -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location] -> United States of America
+/m/01yc02	/business/job_title/people_with_this_title./business/employment_tenure/company	/m/0k8z
+  Chief Operating Officer -> [/business/job_title/people_with_this_title./business/employment_tenure/company] -> Apple Inc.
+/m/0b90_r	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/07ssc
+  Mexico -> [/military/military_combatant/military_conflicts./military/military_combatant_group/combatants] -> United Kingdom
+/m/03s7h	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	/m/02h40lc
+  Intel Corporation -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language] -> English Language
+/m/0d05w3	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	/m/09nqf
+  China -> [/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/0k8z	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	/m/0d060g
+  Apple Inc. -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location] -> Canada
+/m/07_dn	/business/business_operation/industry	/m/0jzgd
+  Verizon Communications -> [/business/business_operation/industry] -> Voice over IP
+/m/04f_d	/base/biblioness/bibs_location/state	/m/04ych
+  Kansas City -> [/base/biblioness/bibs_location/state] -> Missouri
+/m/0k8z	/organization/organization/headquarters./location/mailing_address/state_province_region	/m/01n7q
+  Apple Inc. -> [/organization/organization/headquarters./location/mailing_address/state_province_region] -> California
+/m/0k8z	/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/m/01pd60
+  Apple Inc. -> [/award/ranked_item/appears_in_ranked_lists./award/ranking/list] -> Fortune 500
+/m/03bnb	/organization/organization/headquarters./location/mailing_address/citytown	/m/0rd5k
+  General Electric -> [/organization/organization/headquarters./location/mailing_address/citytown] -> Fairfield
+/m/06f32	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	/m/09nqf
+  Taiwan -> [/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/0d060g	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency	/m/09nqf
+  Canada -> [/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency] -> United States Dollar
+/m/0b90_r	/base/aareas/schema/administrative_area/administrative_parent	/m/02j71
+  Mexico -> [/base/aareas/schema/administrative_area/administrative_parent] -> Earth
+/m/060c4	/business/job_title/people_with_this_title./business/employment_tenure/company	/m/07_dn
+  President -> [/business/job_title/people_with_this_title./business/employment_tenure/company] -> Verizon Communications
+/m/09c7w0	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/03rjj
+  United States of America -> [/military/military_combatant/military_conflicts./military/military_combatant_group/combatants] -> Italy
+/m/07_dn	/business/business_operation/revenue./measurement_unit/dated_money_value/currency	/m/09nqf
+  Verizon Communications -> [/business/business_operation/revenue./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/07ssc	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	/m/09c7w0
+  United Kingdom -> [/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to] -> United States of America
+/m/09c7w0	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	/m/0345h
+  United States of America -> [/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to] -> Germany
+/m/01dfb6	/business/business_operation/revenue./measurement_unit/dated_money_value/currency	/m/09nqf
+  Citigroup -> [/business/business_operation/revenue./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/077w0b	/business/business_operation/industry	/m/029g_vk
+  Sprint Corporation -> [/business/business_operation/industry] -> Telecommunications
+/m/07z1m	/base/biblioness/bibs_location/country	/m/09c7w0
+  Virginia -> [/base/biblioness/bibs_location/country] -> United States of America
+/m/021q0l	/business/job_title/people_with_this_title./business/employment_tenure/company	/m/0k8z
+  Fellow -> [/business/job_title/people_with_this_title./business/employment_tenure/company] -> Apple Inc.
+/m/059rby	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	/m/09nqf
+  New York -> [/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/07_dn	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	/m/09c7w0
+  Verizon Communications -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location] -> United States of America
+/m/059rby	/location/location/contains	/m/0fdpd
+  New York -> [/location/location/contains] -> Schenectady
+/m/060c4	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/m/0f8l9c
+  President -> [/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office] -> France
+/m/0b90_r	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency	/m/09nqf
+  Mexico -> [/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency] -> United States Dollar
+/m/0dq3c	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/m/0d05w3
+  Vice President-GB -> [/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office] -> China
+/m/03s7h	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	/m/06f32
+  Intel Corporation -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location] -> Taiwan
+/m/01dfb6	/organization/organization/headquarters./location/mailing_address/state_province_region	/m/059rby
+  Citigroup -> [/organization/organization/headquarters./location/mailing_address/state_province_region] -> New York
+/m/0345h	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/09c7w0
+  Germany -> [/military/military_combatant/military_conflicts./military/military_combatant_group/combatants] -> United States of America
+/m/0488g	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Kansas -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/0k8z	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	/m/0b90_r
+  Apple Inc. -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location] -> Mexico
+/m/09c7w0	/location/location/contains	/m/04f_d
+  United States of America -> [/location/location/contains] -> Kansas City
+/m/09nqf	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  United States Dollar -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/06y3r	/people/person/employment_history./business/employment_tenure/company	/m/0k8z
+  Steve Jobs -> [/people/person/employment_history./business/employment_tenure/company] -> Apple Inc.
+/m/09c7w0	/location/location/contains	/m/0fdpd
+  United States of America -> [/location/location/contains] -> Schenectady
+/m/07ssc	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency	/m/09nqf
+  United Kingdom -> [/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency] -> United States Dollar
+/m/03_3d	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	/m/09c7w0
+  Japan -> [/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to] -> United States of America
+/m/059g4	/location/location/contains	/m/0b90_r
+  North America-US -> [/location/location/contains] -> Mexico
+/m/0d060g	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/0345h
+  Canada -> [/military/military_combatant/military_conflicts./military/military_combatant_group/combatants] -> Germany
+/m/03s7h	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/contact_category	/m/03w5xm
+  Intel Corporation -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/contact_category] -> Customer service
+/m/0d060g	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	/m/09nqf
+  Canada -> [/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/03s7h	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	/m/0d05w3
+  Intel Corporation -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location] -> China
+/m/0345h	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	/m/09nqf
+  Germany -> [/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/09lq2c	/business/job_title/people_with_this_title./business/employment_tenure/company	/m/03s7h
+  Chief Administrative Officer -> [/business/job_title/people_with_this_title./business/employment_tenure/company] -> Intel Corporation
+/m/059g4	/location/location/partially_contains	/m/0f8l9c
+  North America-US -> [/location/location/partially_contains] -> France
+/m/07z1m	/base/aareas/schema/administrative_area/administrative_parent	/m/09c7w0
+  Virginia -> [/base/aareas/schema/administrative_area/administrative_parent] -> United States of America
+/m/01dfb6	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	/m/06mkj
+  Citigroup -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location] -> Spain
+/m/03s7h	/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/m/01ptsx
+  Intel Corporation -> [/award/ranked_item/appears_in_ranked_lists./award/ranking/list] -> Fortune 1000
+/m/0d05w3	/base/aareas/schema/administrative_area/administrative_parent	/m/02j71
+  China -> [/base/aareas/schema/administrative_area/administrative_parent] -> Earth
+/m/0f8l9c	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/0345h
+  France -> [/military/military_combatant/military_conflicts./military/military_combatant_group/combatants] -> Germany
+/m/060c4	/business/job_title/people_with_this_title./business/employment_tenure/company	/m/0f8l9c
+  President -> [/business/job_title/people_with_this_title./business/employment_tenure/company] -> France
+/m/0488g	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	/m/09nqf
+  Kansas -> [/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/09c7w0	/location/location/contains	/m/0488g
+  United States of America -> [/location/location/contains] -> Kansas
+/m/01dfb6	/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/m/04k4rt
+  Citigroup -> [/award/ranked_item/appears_in_ranked_lists./award/ranking/list] -> Fortune Global 500
+/m/0dq_5	/business/job_title/people_with_this_title./business/employment_tenure/company	/m/0py9b
+  Managing Director-GB -> [/business/job_title/people_with_this_title./business/employment_tenure/company] -> Dell
+/m/06f32	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/0f8l9c
+  Taiwan -> [/military/military_combatant/military_conflicts./military/military_combatant_group/combatants] -> France
+/m/060c4	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/m/03rjj
+  President -> [/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office] -> Italy
+/m/03_3d	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	/m/09nqf
+  Japan -> [/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/0k8z	/business/business_operation/assets./measurement_unit/dated_money_value/currency	/m/09nqf
+  Apple Inc. -> [/business/business_operation/assets./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/0b90_r	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	/m/09nqf
+  Mexico -> [/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/077w0b	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	/m/03rjj
+  Sprint Corporation -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location] -> Italy
+/m/01yc02	/business/job_title/people_with_this_title./business/employment_tenure/company	/m/03bnb
+  Chief Operating Officer -> [/business/job_title/people_with_this_title./business/employment_tenure/company] -> General Electric
+/m/04f_d	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Kansas City -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/07ssc	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/0d060g
+  United Kingdom -> [/military/military_combatant/military_conflicts./military/military_combatant_group/combatants] -> Canada
+/m/0dq_5	/business/job_title/people_with_this_title./business/employment_tenure/company	/m/03s7h
+  Managing Director-GB -> [/business/job_title/people_with_this_title./business/employment_tenure/company] -> Intel Corporation
+/m/06f32	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	/m/09c7w0
+  Taiwan -> [/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to] -> United States of America
+/m/0k8z	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/contact_category	/m/03w5xm
+  Apple Inc. -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/contact_category] -> Customer service
+/m/0dq_5	/organization/role/leaders./organization/leadership/organization	/m/03s7h
+  Managing Director-GB -> [/organization/role/leaders./organization/leadership/organization] -> Intel Corporation
+/m/06mkj	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	/m/09nqf
+  Spain -> [/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/04ych	/location/administrative_division/first_level_division_of	/m/09c7w0
+  Missouri -> [/location/administrative_division/first_level_division_of] -> United States of America
+/m/0d060g	/location/country/official_language	/m/02h40lc
+  Canada -> [/location/country/official_language] -> English Language
+/m/03bnb	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	/m/02j71
+  General Electric -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location] -> Earth
+/m/0b90_r	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	/m/09c7w0
+  Mexico -> [/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to] -> United States of America
+/m/01dfb6	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	/m/06nm1
+  Citigroup -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language] -> Spanish Language
+/m/04192r	/business/job_title/people_with_this_title./business/employment_tenure/company	/m/077w0b
+  Chief Marketing Officer -> [/business/job_title/people_with_this_title./business/employment_tenure/company] -> Sprint Corporation
+/m/059g4	/location/location/contains	/m/0d060g
+  North America-US -> [/location/location/contains] -> Canada
+/m/03s7h	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	/m/03_3d
+  Intel Corporation -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location] -> Japan
+/m/0k8z	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Apple Inc. -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/09c7w0	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	/m/09nqf
+  United States of America -> [/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/02_l39	/business/business_operation/revenue./measurement_unit/dated_money_value/currency	/m/09nqf
+  NBCUniversal -> [/business/business_operation/revenue./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/04ych	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/m/0488g
+  Missouri -> [/location/location/adjoin_s./location/adjoining_relationship/adjoins] -> Kansas
+/m/059g4	/base/locations/continents/countries_within	/m/0b90_r
+  North America-US -> [/base/locations/continents/countries_within] -> Mexico
+/m/03_3d	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	/m/09nqf
+  Japan -> [/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/0345h	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/0f8l9c
+  Germany -> [/military/military_combatant/military_conflicts./military/military_combatant_group/combatants] -> France
+/m/02h40lc	/language/human_language/countries_spoken_in	/m/03_3d
+  English Language -> [/language/human_language/countries_spoken_in] -> Japan
+/m/03_3d	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	/m/09nqf
+  Japan -> [/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/0d060g	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	/m/09c7w0
+  Canada -> [/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to] -> United States of America
+/m/09c7w0	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/0b90_r
+  United States of America -> [/military/military_combatant/military_conflicts./military/military_combatant_group/combatants] -> Mexico
+/m/04192r	/business/job_title/people_with_this_title./business/employment_tenure/company	/m/03s7h
+  Chief Marketing Officer -> [/business/job_title/people_with_this_title./business/employment_tenure/company] -> Intel Corporation
+/m/0b90_r	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/m/09c7w0
+  Mexico -> [/location/location/adjoin_s./location/adjoining_relationship/adjoins] -> United States of America
+/m/0k8z	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	/m/09nqf
+  Apple Inc. -> [/business/business_operation/operating_income./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/0d05w3	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	/m/09nqf
+  China -> [/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/0488g	/location/administrative_division/country	/m/09c7w0
+  Kansas -> [/location/administrative_division/country] -> United States of America
+/m/06mkj	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	/m/09nqf
+  Spain -> [/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/06mkj	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency	/m/09nqf
+  Spain -> [/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency] -> United States Dollar
+/m/06f32	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/m/0d05w3
+  Taiwan -> [/location/location/adjoin_s./location/adjoining_relationship/adjoins] -> China
+/m/04192r	/business/job_title/people_with_this_title./business/employment_tenure/company	/m/03bnb
+  Chief Marketing Officer -> [/business/job_title/people_with_this_title./business/employment_tenure/company] -> General Electric
+/m/09c7w0	/location/location/contains	/m/0r679
+  United States of America -> [/location/location/contains] -> Cupertino
+/m/07_dn	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/contact_category	/m/014dgf
+  Verizon Communications -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/contact_category] -> Sales
+/m/077w0b	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/contact_category	/m/014dgf
+  Sprint Corporation -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/contact_category] -> Sales
+/m/0f8l9c	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/03rjj
+  France -> [/military/military_combatant/military_conflicts./military/military_combatant_group/combatants] -> Italy
+/m/04192r	/business/job_title/people_with_this_title./business/employment_tenure/company	/m/0k8z
+  Chief Marketing Officer -> [/business/job_title/people_with_this_title./business/employment_tenure/company] -> Apple Inc.
+/m/03rjj	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/09c7w0
+  Italy -> [/military/military_combatant/military_conflicts./military/military_combatant_group/combatants] -> United States of America
+/m/0py9b	/business/business_operation/industry	/m/03ytc
+  Dell -> [/business/business_operation/industry] -> Information technology
+/m/03_3d	/base/aareas/schema/administrative_area/administrative_parent	/m/02j71
+  Japan -> [/base/aareas/schema/administrative_area/administrative_parent] -> Earth
+/m/0dq_5	/business/job_title/people_with_this_title./business/employment_tenure/company	/m/03bnb
+  Managing Director-GB -> [/business/job_title/people_with_this_title./business/employment_tenure/company] -> General Electric
+/m/03_3d	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	/m/0d060g
+  Japan -> [/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to] -> Canada
+/m/04ych	/location/administrative_division/country	/m/09c7w0
+  Missouri -> [/location/administrative_division/country] -> United States of America
+/m/02211by	/business/job_title/people_with_this_title./business/employment_tenure/company	/m/077w0b
+  Chief Technology Officer -> [/business/job_title/people_with_this_title./business/employment_tenure/company] -> Sprint Corporation
+/m/03s7h	/business/business_operation/industry	/m/08mh3kd
+  Intel Corporation -> [/business/business_operation/industry] -> Semiconductor Manufacture
+/m/0345h	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	/m/09nqf
+  Germany -> [/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/0r679	/location/hud_county_place/place	/m/0r679
+  Cupertino -> [/location/hud_county_place/place] -> Cupertino
+/m/03bnb	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	/m/02h40lc
+  General Electric -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language] -> English Language
+/m/02_286	/base/aareas/schema/administrative_area/administrative_parent	/m/059rby
+  New York City -> [/base/aareas/schema/administrative_area/administrative_parent] -> New York
+/m/0k8z	/business/business_operation/industry	/m/01mfj
+  Apple Inc. -> [/business/business_operation/industry] -> Computer hardware
+/m/02211by	/business/job_title/people_with_this_title./business/employment_tenure/company	/m/03s7h
+  Chief Technology Officer -> [/business/job_title/people_with_this_title./business/employment_tenure/company] -> Intel Corporation
+/m/060c4	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/m/09c7w0
+  President -> [/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office] -> United States of America
+/m/077w0b	/organization/organization/headquarters./location/mailing_address/state_province_region	/m/07z1m
+  Sprint Corporation -> [/organization/organization/headquarters./location/mailing_address/state_province_region] -> Virginia
+/m/07bty	/people/person/nationality	/m/09c7w0
+  Thomas Edison -> [/people/person/nationality] -> United States of America
+/m/011k1h	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	/m/02h40lc
+  EMI -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language] -> English Language
+/m/01dfb6	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	/m/02h40lc
+  Citigroup -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language] -> English Language
+/m/06f32	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/0b90_r
+  Taiwan -> [/military/military_combatant/military_conflicts./military/military_combatant_group/combatants] -> Mexico
+/m/0d060g	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/0b90_r
+  Canada -> [/military/military_combatant/military_conflicts./military/military_combatant_group/combatants] -> Mexico
+/m/059rby	/base/biblioness/bibs_location/country	/m/09c7w0
+  New York -> [/base/biblioness/bibs_location/country] -> United States of America
+/m/07ssc	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/03rjj
+  United Kingdom -> [/military/military_combatant/military_conflicts./military/military_combatant_group/combatants] -> Italy
+/m/0k8z	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/contact_category	/m/02zdwq
+  Apple Inc. -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/contact_category] -> Technical Support
+/m/02_l39	/organization/organization/child./organization/organization_relationship/child	/m/05gnf
+  NBCUniversal -> [/organization/organization/child./organization/organization_relationship/child] -> NBC
+/m/07z1m	/location/administrative_division/country	/m/09c7w0
+  Virginia -> [/location/administrative_division/country] -> United States of America
+/m/03bnb	/organization/organization/child./organization/organization_relationship/child	/m/02_l39
+  General Electric -> [/organization/organization/child./organization/organization_relationship/child] -> NBCUniversal
+/m/059rby	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  New York -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/0d060g	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	/m/09nqf
+  Canada -> [/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/0krdk	/business/job_title/people_with_this_title./business/employment_tenure/company	/m/05gnf
+  Chief Financial Officer-GB -> [/business/job_title/people_with_this_title./business/employment_tenure/company] -> NBC
+/m/02j71	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency	/m/09nqf
+  Earth -> [/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency] -> United States Dollar
+/m/07_dn	/organization/organization/headquarters./location/mailing_address/citytown	/m/02_286
+  Verizon Communications -> [/organization/organization/headquarters./location/mailing_address/citytown] -> New York City
+/m/01yc02	/business/job_title/people_with_this_title./business/employment_tenure/company	/m/01dfb6
+  Chief Operating Officer -> [/business/job_title/people_with_this_title./business/employment_tenure/company] -> Citigroup
+/m/03s7h	/business/business_operation/revenue./measurement_unit/dated_money_value/currency	/m/09nqf
+  Intel Corporation -> [/business/business_operation/revenue./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/0k8z	/business/business_operation/industry	/m/019z7b
+  Apple Inc. -> [/business/business_operation/industry] -> Consumer electronics
+/m/0py9b	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/contact_category	/m/014dgf
+  Dell -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/contact_category] -> Sales
+/m/0d060g	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	/m/07ssc
+  Canada -> [/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to] -> United Kingdom
+/m/060c4	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/m/0b90_r
+  President -> [/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office] -> Mexico
+/m/0345h	/base/aareas/schema/administrative_area/administrative_parent	/m/02j71
+  Germany -> [/base/aareas/schema/administrative_area/administrative_parent] -> Earth
+/m/07_dn	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/contact_category	/m/02zdwq
+  Verizon Communications -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/contact_category] -> Technical Support
+/m/04192r	/business/job_title/people_with_this_title./business/employment_tenure/company	/m/07_dn
+  Chief Marketing Officer -> [/business/job_title/people_with_this_title./business/employment_tenure/company] -> Verizon Communications
+/m/01dfb6	/organization/organization/headquarters./location/mailing_address/citytown	/m/02_286
+  Citigroup -> [/organization/organization/headquarters./location/mailing_address/citytown] -> New York City
+/m/0b90_r	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/0345h
+  Mexico -> [/military/military_combatant/military_conflicts./military/military_combatant_group/combatants] -> Germany
+/m/01n7q	/location/location/contains	/m/0r679
+  California -> [/location/location/contains] -> Cupertino
+/m/0py9b	/business/business_operation/industry	/m/07c1v
+  Dell -> [/business/business_operation/industry] -> Technology
+/m/011k1h	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  EMI -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/03rjj	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	/m/09c7w0
+  Italy -> [/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to] -> United States of America
+/m/09c7w0	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	/m/07ssc
+  United States of America -> [/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to] -> United Kingdom
+/m/01kr6k	/business/job_title/people_with_this_title./business/employment_tenure/company	/m/03s7h
+  Treasurer -> [/business/job_title/people_with_this_title./business/employment_tenure/company] -> Intel Corporation
+/m/0krdk	/dataworld/gardening_hint/split_to	/m/0krdk
+  Chief Financial Officer-GB -> [/dataworld/gardening_hint/split_to] -> Chief Financial Officer-GB
+/m/04ych	/base/aareas/schema/administrative_area/administrative_parent	/m/09c7w0
+  Missouri -> [/base/aareas/schema/administrative_area/administrative_parent] -> United States of America
+/m/02211by	/dataworld/gardening_hint/split_to	/m/02211by
+  Chief Technology Officer -> [/dataworld/gardening_hint/split_to] -> Chief Technology Officer
+/m/0krdk	/business/job_title/people_with_this_title./business/employment_tenure/company	/m/077w0b
+  Chief Financial Officer-GB -> [/business/job_title/people_with_this_title./business/employment_tenure/company] -> Sprint Corporation
+/m/0rd5k	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Fairfield -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/02_286	/base/biblioness/bibs_location/state	/m/059rby
+  New York City -> [/base/biblioness/bibs_location/state] -> New York
+/m/0dq_5	/organization/role/leaders./organization/leadership/organization	/m/05gnf
+  Managing Director-GB -> [/organization/role/leaders./organization/leadership/organization] -> NBC
+/m/0k8z	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	/m/09c7w0
+  Apple Inc. -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location] -> United States of America
+/m/09lq2c	/business/job_title/people_with_this_title./business/employment_tenure/company	/m/01dfb6
+  Chief Administrative Officer -> [/business/job_title/people_with_this_title./business/employment_tenure/company] -> Citigroup
+/m/01n7q	/base/aareas/schema/administrative_area/administrative_parent	/m/09c7w0
+  California -> [/base/aareas/schema/administrative_area/administrative_parent] -> United States of America
+/m/0fdpd	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Schenectady -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/0krdk	/business/job_title/people_with_this_title./business/employment_tenure/company	/m/07_dn
+  Chief Financial Officer-GB -> [/business/job_title/people_with_this_title./business/employment_tenure/company] -> Verizon Communications
+/m/0r679	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Cupertino -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/0r6cx	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Santa Clara -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/03rjj	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency	/m/09nqf
+  Italy -> [/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency] -> United States Dollar
+/m/0dq_5	/business/job_title/people_with_this_title./business/employment_tenure/company	/m/07_dn
+  Managing Director-GB -> [/business/job_title/people_with_this_title./business/employment_tenure/company] -> Verizon Communications
+/m/01rk91	/business/job_title/people_with_this_title./business/employment_tenure/company	/m/0k8z
+  Internship -> [/business/job_title/people_with_this_title./business/employment_tenure/company] -> Apple Inc.
+/m/0dq_5	/organization/role/leaders./organization/leadership/organization	/m/02_l39
+  Managing Director-GB -> [/organization/role/leaders./organization/leadership/organization] -> NBCUniversal
+/m/03s7h	/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/m/01pd60
+  Intel Corporation -> [/award/ranked_item/appears_in_ranked_lists./award/ranking/list] -> Fortune 500
+/m/07ssc	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	/m/09nqf
+  United Kingdom -> [/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/06f32	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/0d060g
+  Taiwan -> [/military/military_combatant/military_conflicts./military/military_combatant_group/combatants] -> Canada
+/m/0py9b	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	/m/0d060g
+  Dell -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location] -> Canada
+/m/0345h	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	/m/09nqf
+  Germany -> [/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/03rjj	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/m/0f8l9c
+  Italy -> [/location/location/adjoin_s./location/adjoining_relationship/adjoins] -> France
+/m/07b_l	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Texas -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/0f8l9c	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	/m/09nqf
+  France -> [/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/09c7w0	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	/m/0d060g
+  United States of America -> [/military/military_combatant/military_conflicts./military/military_combatant_group/combatants] -> Canada
+/m/077w0b	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	/m/09nqf
+  Sprint Corporation -> [/business/business_operation/operating_income./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/021q0l	/business/job_title/people_with_this_title./business/employment_tenure/company	/m/03s7h
+  Fellow -> [/business/job_title/people_with_this_title./business/employment_tenure/company] -> Intel Corporation
+/m/0py9b	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	/m/02h40lc
+  Dell -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language] -> English Language

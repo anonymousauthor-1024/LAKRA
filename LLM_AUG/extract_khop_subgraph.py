@@ -354,7 +354,7 @@ def batch_extract_subgraphs(graph, triples, low_freq_file, output_file):
 
 def main():
     # 解析命令行参数
-    parser = argparse.ArgumentParser(description='Extract 2-hop subgraph and store to Neo4j')
+    parser = argparse.ArgumentParser(description='Extract k-hop subgraph and store to Neo4j')
     parser.add_argument('--train_file', type=str, default='train.tsv', 
                         help='Path to training file')
     parser.add_argument('--entity_name_file', type=str, default='entity2text.txt',
@@ -365,7 +365,7 @@ def main():
                         help='Path to low frequency entities file (for batch mode)')
     parser.add_argument('--output_file', type=str, default='entity_2hop_subgraph_stats.txt',
                         help='Path to output statistics file (for stats mode)')
-    parser.add_argument('--output_dir', type=str, default='sparse_nodes',
+    parser.add_argument('--output_dir', type=str, default='sparse_nodes/FB15K-237',
                         help='Directory to save individual entity subgraph files')
     parser.add_argument('--k_hop', type=int, default=2,
                         help='Number of hops for subgraph extraction (default: 2)')
@@ -454,4 +454,5 @@ def main():
 if __name__ == "__main__":
     main()
 
-#python extract_khop_subgraph.py --train_file data/WN18RR/train.tsv --entity_name_file data/WN18RR/entity2text.txt --low_freq_file low_frequency_entities_wn18rr.txt --output_dir sparse_nodes --k_hop 3
+#expample usage:
+#python extract_khop_subgraph.py --train_file data/WN18RR/train.tsv --entity_name_file data/WN18RR/entity2text.txt --low_freq_file low_frequency_entities_wn18rr.txt --output_dir sparse_nodes/WN18RR --k_hop 2

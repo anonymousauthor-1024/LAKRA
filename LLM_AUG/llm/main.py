@@ -73,12 +73,6 @@ def get_possible_relations(entity_name, entity_desc, related_triplets, nl, candi
     # This is the default and can be omitted
     api_key="sk-3056ef7bf8864448b1694f76a52134c1",
     base_url="https://api.deepseek.com",
-    #api_key="sk-7BKjBWTe16dDJPMhWTRAKPfh1frydPcCAZyp3cIGcbxTNZdU",
-    #base_url="https://xiaoai.plus/v1",
-    #api_key="sk-ugsEZAMUBqRpKTDe9lNN9znaEVGl7KYZFlFeHS8I04HVhvBT",
-    #base_url="https://api.hunyuan.cloud.tencent.com/v1",
-    #api_key="62240b4c5fdadad03787e9dc5e7fd240.ZAkYTBf7UhunTFlj",
-    #base_url="https://open.bigmodel.cn/api/paas/v4/"
     )
 
     prompt = "The following is information related to a knowledge graph:\n"
@@ -110,9 +104,6 @@ def get_possible_relations(entity_name, entity_desc, related_triplets, nl, candi
             {"role": "user", "content": prompt}
         ],
         model="deepseek-chat",
-        #model="gpt-3.5-turbo",
-        #model="hunyuan-turbos-latest",
-        #model="glm-4-flash",
         response_format={"type": "json_object"},
         temperature=0.2,
         #extra_body={"enable_thinking": False}
@@ -125,8 +116,6 @@ def get_possible_relations(entity_name, entity_desc, related_triplets, nl, candi
 def get_possible_relations_tail(entity_name, entity_desc, related_triplets, nl, candidate_relations, example_triplets):
     client = OpenAI(
     # This is the default and can be omitted
-    #api_key="sk-7BKjBWTe16dDJPMhWTRAKPfh1frydPcCAZyp3cIGcbxTNZdU",
-    #base_url="https://xiaoai.plus/v1",
     api_key="sk-3056ef7bf8864448b1694f76a52134c1",
     base_url="https://api.deepseek.com",
     )
@@ -160,8 +149,7 @@ def get_possible_relations_tail(entity_name, entity_desc, related_triplets, nl, 
         messages=[
             {"role": "user", "content": prompt}
         ],
-        #model="deepseek-chat",
-        model="gpt-3.5-turbo",
+        model="deepseek-chat",
         response_format={"type": "json_object"},
         temperature=0.2,
     )
@@ -173,14 +161,8 @@ def get_possible_relations_tail(entity_name, entity_desc, related_triplets, nl, 
 def get_possible_tail_entity(entity_name, entity_desc, related_triplets, nl, possible_relation, example_triplets, name_list):
     client = OpenAI(
     # This is the default and can be omitted
-    #api_key="sk-7BKjBWTe16dDJPMhWTRAKPfh1frydPcCAZyp3cIGcbxTNZdU",
-    #base_url="https://xiaoai.plus/v1",
     api_key="sk-3056ef7bf8864448b1694f76a52134c1",
     base_url="https://api.deepseek.com",
-    #api_key="sk-ugsEZAMUBqRpKTDe9lNN9znaEVGl7KYZFlFeHS8I04HVhvBT",
-    #base_url="https://api.hunyuan.cloud.tencent.com/v1",
-    #api_key="62240b4c5fdadad03787e9dc5e7fd240.ZAkYTBf7UhunTFlj",
-    #base_url="https://open.bigmodel.cn/api/paas/v4/"
     )
 
     prompt = "The following is information related to knowledge graph:\n"
@@ -201,21 +183,6 @@ def get_possible_tail_entity(entity_name, entity_desc, related_triplets, nl, pos
         str5 += f"({h}, {r}, {t})\n"
 
     str6 = f"Now, consider the triplet ({entity_name}, {possible_relation}, ?). Based on the information provided for {entity_name}, infer the appropriate tail entity or entities from the candidate list above. Ensure that each inferred triple is well justified by the available evidence.  If they exist, return strictly: {{\"(head,relation,tail)\": value}} where the key is possible triplets and the value should be number 1. If none exist, strictly return an empty JSON format: {{}}. No extra information. Please ensure that the possible tail entity is selected only from the candidate entities. Please exclude given known triplets and only return new triplets. \n"
-    #str6 = f"""Now, consider the triplet ({entity_name}, {possible_relation}, ?). Your task is to find the correct tail entity from the candidate list below.
-
-#Follow these steps:
-#1.  **Analyze**: For each candidate, analyze if it can be a valid tail for the triplet ({entity_name}, {possible_relation}, candidate) based on all the information provided and your internal knowledge.
-#2.  **Filter**: Discard any candidates that would form triplets already listed in the "Known triplets" section. Only new, valid triplets are desired.
-#3.  **Format Output**: Return a JSON object. The keys should be the string representation of the new, valid triplets you found, in the format "(head, relation, tail)". The values should be a brief justification for why the triplet is plausible.
-
-#Example of a valid JSON output:
-#{{
-#  "({entity_name}, {possible_relation}, some_tail_entity)": "Justification for this triplet.",
-# "({entity_name}, {possible_relation}, another_tail_entity)": "Justification for this other triplet."
-#}}
-
-#If no new valid triplets can be formed from the candidates, return an empty JSON object: {{}}.
-#"""
 
     #print(str6, '\n')
     str7 = f"Candidate entities:\n"
@@ -229,9 +196,6 @@ def get_possible_tail_entity(entity_name, entity_desc, related_triplets, nl, pos
             {"role": "user", "content": prompt}
         ],
         model="deepseek-chat",
-        #model="gpt-3.5-turbo",
-        #model="hunyuan-turbos-latest",
-        #model="glm-4-flash",
         response_format={"type": "json_object"},
         temperature=0.2,
         #extra_body={"enable_thinking": False}
@@ -244,8 +208,6 @@ def get_possible_tail_entity(entity_name, entity_desc, related_triplets, nl, pos
 def get_possible_head_entity(entity_name, entity_desc, related_triplets, nl, possible_relation, example_triplets, name_list):
     client = OpenAI(
     # This is the default and can be omitted
-    #api_key="sk-7BKjBWTe16dDJPMhWTRAKPfh1frydPcCAZyp3cIGcbxTNZdU",
-    #base_url="https://xiaoai.plus/v1",
     api_key="sk-3056ef7bf8864448b1694f76a52134c1",
     base_url="https://api.deepseek.com",
     )
@@ -295,7 +257,7 @@ def get_possible_head_entity(entity_name, entity_desc, related_triplets, nl, pos
 
 # 定义文件路径
 file_path = 'LLM_AUG/fb15k-237/low_frequency_entities_fb15k237.txt'
-aug_triplet_file = "LLM_AUG/aug_triplets_tail_fb15k237.txt"
+aug_triplet_file = "LLM_AUG/generated_triplets/aug_triplets_tail_fb15k237.txt"
 # 打开文件并逐行读取
 with open(file_path, 'r', encoding='utf-8') as file:
     for line in file:

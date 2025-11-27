@@ -1,0 +1,810 @@
+Entity: /m/05hgj
+Entity Name: Novel
+K-hop: 2
+Subgraph Nodes: 79
+Subgraph Triples: 359
+
+==================================================
+Nodes in Subgraph:
+==================================================
+/m/013pp3	Philip Roth
+/m/014dfn	Speculative fiction
+/m/014ps4	Gene Wolfe
+/m/018fq	Bruce Sterling
+/m/01963w	C. J. Cherryh
+/m/01bb1c	John W. Campbell Memorial Award for Best Science Fiction Novel
+/m/01dhmw	Joe Haldeman
+/m/01dzz7	Michael Swanwick
+/m/01g6bk	Cory Doctorow
+/m/01hc9_	Haruki Murakami
+/m/01hmnh	Fantasy
+/m/01jfsb	Thriller
+/m/01k56k	Robert Silverberg
+/m/01yz0x	Hugo Award for Best Novel
+/m/01zkxv	Charles Stross
+/m/01zwy	Carl Sagan
+/m/0208wk	World Fantasy Award for Best Novel
+/m/0210f1	Connie Willis
+/m/02465	Clive Barker
+/m/0265vt	Nebula Award for Best Novel
+/m/0282x	Douglas Adams
+/m/02g75	Dan Simmons
+/m/02ndf1	Michael Connelly
+/m/02r6nbc	CWA Ian Fleming Steel Dagger
+/m/02xlf	Fiction
+/m/02xyl	Frank Herbert
+/m/02y49	Fritz Leiber
+/m/02yl42	Jonathan Lethem
+/m/033cw	Frederik Pohl
+/m/03772	George R. R. Martin
+/m/03rx9	Isaac Asimov
+/m/03v36	Iain Banks
+/m/03vrp	Italo Calvino
+/m/040_9s0	Locus Award for Best Fantasy Novel
+/m/040vk98	Locus Award for Best Science Fiction Novel
+/m/041h0	J. R. R. Tolkien
+/m/041xl	J. G. Ballard
+/m/042xh	J. K. Rowling
+/m/048_p	Kim Stanley Robinson
+/m/049gc	Kurt Vonnegut
+/m/04cbtrw	Salman Rushdie
+/m/04g51	Literature
+/m/04mhl	Larry Niven
+/m/04r68	Lois McMaster Bujold
+/m/04x56	Michael Moorcock
+/m/05cv8	Neal Stephenson
+/m/05hgj	Novel
+/m/05jm7	Neil Gaiman
+/m/05qzv	Philip K. Dick
+/m/05x8n	Poul Anderson
+/m/06bng	Robert A. Heinlein
+/m/06d6y	Richard Matheson
+/m/06jcc	Ray Bradbury
+/m/06n90	Science Fiction
+/m/07d3x	Terry Pratchett
+/m/07lp1	Thomas Pynchon
+/m/07w21	Ursula K. Le Guin
+/m/07zl1	Vernor Vinge
+/m/0821j	William Gibson
+/m/098sx	Philip Pullman
+/m/09dt7	Roger Zelazny
+/m/09jd9	Diana Wynne Jones
+/m/0b0pf	Harry Turtledove
+/m/0c3kw	Greg Bear
+/m/0fpzt5	Orson Scott Card
+/m/0fvt2	Stephen Baxter
+/m/0g5ff	Jack Vance
+/m/0gd5z	Margaret Atwood
+/m/0gd_s	Samuel R. Delany
+/m/0gppg	Anne McCaffrey
+/m/0gthm	Gore Vidal
+/m/0gwdy4	67th World Science Fiction Convention
+/m/0j0pf	Alastair Reynolds
+/m/0jt86	David Brin
+/m/0jt90f5	Stephen King
+/m/0klw	Arthur C. Clarke
+/m/0mb0	Anne Rice
+/m/0mfc0	John Varley
+/m/0p8jf	Michael Chabon
+
+==================================================
+Triples in Subgraph:
+==================================================
+/m/07w21	/influence/influence_node/influenced_by	/m/041h0
+  Ursula K. Le Guin -> [/influence/influence_node/influenced_by] -> J. R. R. Tolkien
+/m/040vk98	/award/award_category/winners./award/award_honor/award_winner	/m/01zkxv
+  Locus Award for Best Science Fiction Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Charles Stross
+/m/01dzz7	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040vk98
+  Michael Swanwick -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Science Fiction Novel
+/m/01yz0x	/award/award_category/winners./award/award_honor/award_winner	/m/01dhmw
+  Hugo Award for Best Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Joe Haldeman
+/m/0j0pf	/influence/influence_node/influenced_by	/m/018fq
+  Alastair Reynolds -> [/influence/influence_node/influenced_by] -> Bruce Sterling
+/m/0282x	/influence/influence_node/influenced_by	/m/049gc
+  Douglas Adams -> [/influence/influence_node/influenced_by] -> Kurt Vonnegut
+/m/01dzz7	/influence/influence_node/influenced_by	/m/0g5ff
+  Michael Swanwick -> [/influence/influence_node/influenced_by] -> Jack Vance
+/m/01yz0x	/award/award_category/disciplines_or_subjects	/m/05hgj
+  Hugo Award for Best Novel -> [/award/award_category/disciplines_or_subjects] -> Novel
+/m/02r6nbc	/award/award_category/disciplines_or_subjects	/m/02xlf
+  CWA Ian Fleming Steel Dagger -> [/award/award_category/disciplines_or_subjects] -> Fiction
+/m/0p8jf	/influence/influence_node/influenced_by	/m/041xl
+  Michael Chabon -> [/influence/influence_node/influenced_by] -> J. G. Ballard
+/m/01yz0x	/award/award_category/disciplines_or_subjects	/m/014dfn
+  Hugo Award for Best Novel -> [/award/award_category/disciplines_or_subjects] -> Speculative fiction
+/m/02y49	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040_9s0
+  Fritz Leiber -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Fantasy Novel
+/m/040vk98	/award/award_category/winners./award/award_honor/award_winner	/m/0fpzt5
+  Locus Award for Best Science Fiction Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Orson Scott Card
+/m/0gd_s	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0265vt
+  Samuel R. Delany -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Nebula Award for Best Novel
+/m/06bng	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0265vt
+  Robert A. Heinlein -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Nebula Award for Best Novel
+/m/0mfc0	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0265vt
+  John Varley -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Nebula Award for Best Novel
+/m/06d6y	/influence/influence_node/influenced_by	/m/0jt90f5
+  Richard Matheson -> [/influence/influence_node/influenced_by] -> Stephen King
+/m/040vk98	/award/award_category/winners./award/award_honor/award_winner	/m/048_p
+  Locus Award for Best Science Fiction Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Kim Stanley Robinson
+/m/03rx9	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0265vt
+  Isaac Asimov -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Nebula Award for Best Novel
+/m/07d3x	/influence/influence_node/influenced_by	/m/0g5ff
+  Terry Pratchett -> [/influence/influence_node/influenced_by] -> Jack Vance
+/m/0265vt	/award/award_category/winners./award/award_honor/award_winner	/m/01dzz7
+  Nebula Award for Best Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Michael Swanwick
+/m/09dt7	/influence/influence_node/influenced_by	/m/0g5ff
+  Roger Zelazny -> [/influence/influence_node/influenced_by] -> Jack Vance
+/m/05qzv	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01yz0x
+  Philip K. Dick -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Hugo Award for Best Novel
+/m/05jm7	/influence/influence_node/influenced_by	/m/014ps4
+  Neil Gaiman -> [/influence/influence_node/influenced_by] -> Gene Wolfe
+/m/05jm7	/influence/influence_node/influenced_by	/m/06bng
+  Neil Gaiman -> [/influence/influence_node/influenced_by] -> Robert A. Heinlein
+/m/0j0pf	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040vk98
+  Alastair Reynolds -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Science Fiction Novel
+/m/0p8jf	/influence/influence_node/influenced_by	/m/04x56
+  Michael Chabon -> [/influence/influence_node/influenced_by] -> Michael Moorcock
+/m/01963w	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040_9s0
+  C. J. Cherryh -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Fantasy Novel
+/m/0208wk	/award/award_category/winners./award/award_honor/award_winner	/m/01hc9_
+  World Fantasy Award for Best Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Haruki Murakami
+/m/03772	/influence/influence_node/influenced_by	/m/09dt7
+  George R. R. Martin -> [/influence/influence_node/influenced_by] -> Roger Zelazny
+/m/0mb0	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040_9s0
+  Anne Rice -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Fantasy Novel
+/m/07w21	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0265vt
+  Ursula K. Le Guin -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Nebula Award for Best Novel
+/m/049gc	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01yz0x
+  Kurt Vonnegut -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Hugo Award for Best Novel
+/m/0jt90f5	/influence/influence_node/influenced_by	/m/06d6y
+  Stephen King -> [/influence/influence_node/influenced_by] -> Richard Matheson
+/m/0b0pf	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0265vt
+  Harry Turtledove -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Nebula Award for Best Novel
+/m/0j0pf	/influence/influence_node/influenced_by	/m/0klw
+  Alastair Reynolds -> [/influence/influence_node/influenced_by] -> Arthur C. Clarke
+/m/05cv8	/influence/influence_node/influenced_by	/m/0821j
+  Neal Stephenson -> [/influence/influence_node/influenced_by] -> William Gibson
+/m/0c3kw	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040_9s0
+  Greg Bear -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Fantasy Novel
+/m/05jm7	/influence/influence_node/influenced_by	/m/07w21
+  Neil Gaiman -> [/influence/influence_node/influenced_by] -> Ursula K. Le Guin
+/m/07lp1	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0265vt
+  Thomas Pynchon -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Nebula Award for Best Novel
+/m/0265vt	/award/award_category/winners./award/award_honor/award_winner	/m/048_p
+  Nebula Award for Best Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Kim Stanley Robinson
+/m/02ndf1	/award/award_nominee/award_nominations./award/award_nomination/award	/m/02r6nbc
+  Michael Connelly -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> CWA Ian Fleming Steel Dagger
+/m/05jm7	/influence/influence_node/influenced_by	/m/0g5ff
+  Neil Gaiman -> [/influence/influence_node/influenced_by] -> Jack Vance
+/m/09dt7	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040vk98
+  Roger Zelazny -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Science Fiction Novel
+/m/04mhl	/influence/influence_node/influenced_by	/m/06bng
+  Larry Niven -> [/influence/influence_node/influenced_by] -> Robert A. Heinlein
+/m/03vrp	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0265vt
+  Italo Calvino -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Nebula Award for Best Novel
+/m/05jm7	/influence/influence_node/influenced_by	/m/09dt7
+  Neil Gaiman -> [/influence/influence_node/influenced_by] -> Roger Zelazny
+/m/03772	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01yz0x
+  George R. R. Martin -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Hugo Award for Best Novel
+/m/01g6bk	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01yz0x
+  Cory Doctorow -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Hugo Award for Best Novel
+/m/040vk98	/award/award_category/disciplines_or_subjects	/m/06n90
+  Locus Award for Best Science Fiction Novel -> [/award/award_category/disciplines_or_subjects] -> Science Fiction
+/m/06jcc	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040_9s0
+  Ray Bradbury -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Fantasy Novel
+/m/014ps4	/influence/influence_node/influenced_by	/m/041h0
+  Gene Wolfe -> [/influence/influence_node/influenced_by] -> J. R. R. Tolkien
+/m/03772	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040vk98
+  George R. R. Martin -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Science Fiction Novel
+/m/040_9s0	/award/award_category/winners./award/award_honor/award_winner	/m/0fpzt5
+  Locus Award for Best Fantasy Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Orson Scott Card
+/m/049gc	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0265vt
+  Kurt Vonnegut -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Nebula Award for Best Novel
+/m/0282x	/influence/influence_node/influenced_by	/m/05jm7
+  Douglas Adams -> [/influence/influence_node/influenced_by] -> Neil Gaiman
+/m/05cv8	/influence/influence_node/influenced_by	/m/018fq
+  Neal Stephenson -> [/influence/influence_node/influenced_by] -> Bruce Sterling
+/m/0gwdy4	/award/award_ceremony/awards_presented./award/award_honor/award_winner	/m/01g6bk
+  67th World Science Fiction Convention -> [/award/award_ceremony/awards_presented./award/award_honor/award_winner] -> Cory Doctorow
+/m/0jt90f5	/influence/influence_node/influenced_by	/m/041h0
+  Stephen King -> [/influence/influence_node/influenced_by] -> J. R. R. Tolkien
+/m/048_p	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0265vt
+  Kim Stanley Robinson -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Nebula Award for Best Novel
+/m/05jm7	/influence/influence_node/influenced_by	/m/07d3x
+  Neil Gaiman -> [/influence/influence_node/influenced_by] -> Terry Pratchett
+/m/05jm7	/influence/influence_node/influenced_by	/m/041h0
+  Neil Gaiman -> [/influence/influence_node/influenced_by] -> J. R. R. Tolkien
+/m/03v36	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040vk98
+  Iain Banks -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Science Fiction Novel
+/m/018fq	/influence/influence_node/influenced_by	/m/041xl
+  Bruce Sterling -> [/influence/influence_node/influenced_by] -> J. G. Ballard
+/m/01yz0x	/award/award_category/winners./award/award_honor/award_winner	/m/02y49
+  Hugo Award for Best Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Fritz Leiber
+/m/01k56k	/influence/influence_node/influenced_by	/m/0g5ff
+  Robert Silverberg -> [/influence/influence_node/influenced_by] -> Jack Vance
+/m/02465	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040_9s0
+  Clive Barker -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Fantasy Novel
+/m/0821j	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/m/018fq
+  William Gibson -> [/award/award_nominee/award_nominations./award/award_nomination/award_nominee] -> Bruce Sterling
+/m/02g75	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0265vt
+  Dan Simmons -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Nebula Award for Best Novel
+/m/040_9s0	/award/award_category/winners./award/award_honor/award_winner	/m/07w21
+  Locus Award for Best Fantasy Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Ursula K. Le Guin
+/m/01yz0x	/award/award_category/winners./award/award_honor/award_winner	/m/03rx9
+  Hugo Award for Best Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Isaac Asimov
+/m/0p8jf	/influence/influence_node/influenced_by	/m/0g5ff
+  Michael Chabon -> [/influence/influence_node/influenced_by] -> Jack Vance
+/m/014ps4	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0208wk
+  Gene Wolfe -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> World Fantasy Award for Best Novel
+/m/0j0pf	/influence/influence_node/peers./influence/peer_relationship/peers	/m/01zkxv
+  Alastair Reynolds -> [/influence/influence_node/peers./influence/peer_relationship/peers] -> Charles Stross
+/m/07d3x	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0208wk
+  Terry Pratchett -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> World Fantasy Award for Best Novel
+/m/07d3x	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040_9s0
+  Terry Pratchett -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Fantasy Novel
+/m/0208wk	/award/award_category/winners./award/award_honor/award_winner	/m/0g5ff
+  World Fantasy Award for Best Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Jack Vance
+/m/05jm7	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/m/07d3x
+  Neil Gaiman -> [/award/award_nominee/award_nominations./award/award_nomination/award_nominee] -> Terry Pratchett
+/m/09dt7	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0265vt
+  Roger Zelazny -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Nebula Award for Best Novel
+/m/040vk98	/award/award_category/winners./award/award_honor/award_winner	/m/03rx9
+  Locus Award for Best Science Fiction Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Isaac Asimov
+/m/04cbtrw	/influence/influence_node/influenced_by	/m/07w21
+  Salman Rushdie -> [/influence/influence_node/influenced_by] -> Ursula K. Le Guin
+/m/05jm7	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040_9s0
+  Neil Gaiman -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Fantasy Novel
+/m/04mhl	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040vk98
+  Larry Niven -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Science Fiction Novel
+/m/0208wk	/award/award_category/winners./award/award_honor/award_winner	/m/02y49
+  World Fantasy Award for Best Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Fritz Leiber
+/m/01yz0x	/award/award_category/winners./award/award_honor/award_winner	/m/05jm7
+  Hugo Award for Best Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Neil Gaiman
+/m/05cv8	/influence/influence_node/influenced_by	/m/05qzv
+  Neal Stephenson -> [/influence/influence_node/influenced_by] -> Philip K. Dick
+/m/02xyl	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01yz0x
+  Frank Herbert -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Hugo Award for Best Novel
+/m/07w21	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0208wk
+  Ursula K. Le Guin -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> World Fantasy Award for Best Novel
+/m/01dhmw	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0265vt
+  Joe Haldeman -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Nebula Award for Best Novel
+/m/0j0pf	/influence/influence_node/influenced_by	/m/01dzz7
+  Alastair Reynolds -> [/influence/influence_node/influenced_by] -> Michael Swanwick
+/m/01k56k	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040vk98
+  Robert Silverberg -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Science Fiction Novel
+/m/041h0	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040_9s0
+  J. R. R. Tolkien -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Fantasy Novel
+/m/01dzz7	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0265vt
+  Michael Swanwick -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Nebula Award for Best Novel
+/m/0265vt	/award/award_category/disciplines_or_subjects	/m/06n90
+  Nebula Award for Best Novel -> [/award/award_category/disciplines_or_subjects] -> Science Fiction
+/m/0208wk	/award/award_category/disciplines_or_subjects	/m/04g51
+  World Fantasy Award for Best Novel -> [/award/award_category/disciplines_or_subjects] -> Literature
+/m/09dt7	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040_9s0
+  Roger Zelazny -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Fantasy Novel
+/m/04r68	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0208wk
+  Lois McMaster Bujold -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> World Fantasy Award for Best Novel
+/m/01zkxv	/influence/influence_node/influenced_by	/m/06bng
+  Charles Stross -> [/influence/influence_node/influenced_by] -> Robert A. Heinlein
+/m/0gd_s	/influence/influence_node/influenced_by	/m/09dt7
+  Samuel R. Delany -> [/influence/influence_node/influenced_by] -> Roger Zelazny
+/m/0c3kw	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0265vt
+  Greg Bear -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Nebula Award for Best Novel
+/m/0265vt	/award/award_category/winners./award/award_honor/award_winner	/m/04r68
+  Nebula Award for Best Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Lois McMaster Bujold
+/m/0gd_s	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040vk98
+  Samuel R. Delany -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Science Fiction Novel
+/m/01zkxv	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01yz0x
+  Charles Stross -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Hugo Award for Best Novel
+/m/03rx9	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040vk98
+  Isaac Asimov -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Science Fiction Novel
+/m/0gd_s	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040_9s0
+  Samuel R. Delany -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Fantasy Novel
+/m/040vk98	/award/award_category/winners./award/award_honor/award_winner	/m/02g75
+  Locus Award for Best Science Fiction Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Dan Simmons
+/m/03rx9	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01yz0x
+  Isaac Asimov -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Hugo Award for Best Novel
+/m/01yz0x	/award/award_category/winners./award/award_honor/award_winner	/m/01963w
+  Hugo Award for Best Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> C. J. Cherryh
+/m/0klw	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040vk98
+  Arthur C. Clarke -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Science Fiction Novel
+/m/0821j	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/m/01dzz7
+  William Gibson -> [/award/award_nominee/award_nominations./award/award_nomination/award_nominee] -> Michael Swanwick
+/m/02g75	/influence/influence_node/influenced_by	/m/0g5ff
+  Dan Simmons -> [/influence/influence_node/influenced_by] -> Jack Vance
+/m/0fpzt5	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01yz0x
+  Orson Scott Card -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Hugo Award for Best Novel
+/m/04mhl	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0265vt
+  Larry Niven -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Nebula Award for Best Novel
+/m/07w21	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01yz0x
+  Ursula K. Le Guin -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Hugo Award for Best Novel
+/m/098sx	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040_9s0
+  Philip Pullman -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Fantasy Novel
+/m/05x8n	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040vk98
+  Poul Anderson -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Science Fiction Novel
+/m/040vk98	/award/award_category/winners./award/award_honor/award_winner	/m/04mhl
+  Locus Award for Best Science Fiction Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Larry Niven
+/m/0jt86	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0265vt
+  David Brin -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Nebula Award for Best Novel
+/m/040_9s0	/award/award_category/winners./award/award_honor/award_winner	/m/06bng
+  Locus Award for Best Fantasy Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Robert A. Heinlein
+/m/048_p	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01yz0x
+  Kim Stanley Robinson -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Hugo Award for Best Novel
+/m/01zkxv	/influence/influence_node/influenced_by	/m/03rx9
+  Charles Stross -> [/influence/influence_node/influenced_by] -> Isaac Asimov
+/m/0j0pf	/influence/influence_node/influenced_by	/m/05qzv
+  Alastair Reynolds -> [/influence/influence_node/influenced_by] -> Philip K. Dick
+/m/02y49	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01yz0x
+  Fritz Leiber -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Hugo Award for Best Novel
+/m/040_9s0	/award/award_category/disciplines_or_subjects	/m/05hgj
+  Locus Award for Best Fantasy Novel -> [/award/award_category/disciplines_or_subjects] -> Novel
+/m/01zkxv	/influence/influence_node/influenced_by	/m/09dt7
+  Charles Stross -> [/influence/influence_node/influenced_by] -> Roger Zelazny
+/m/040_9s0	/award/award_category/winners./award/award_honor/award_winner	/m/04r68
+  Locus Award for Best Fantasy Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Lois McMaster Bujold
+/m/06bng	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01yz0x
+  Robert A. Heinlein -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Hugo Award for Best Novel
+/m/0gd5z	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0265vt
+  Margaret Atwood -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Nebula Award for Best Novel
+/m/02yl42	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0265vt
+  Jonathan Lethem -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Nebula Award for Best Novel
+/m/01dzz7	/influence/influence_node/influenced_by	/m/09dt7
+  Michael Swanwick -> [/influence/influence_node/influenced_by] -> Roger Zelazny
+/m/01dzz7	/influence/influence_node/influenced_by	/m/05qzv
+  Michael Swanwick -> [/influence/influence_node/influenced_by] -> Philip K. Dick
+/m/018fq	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/m/0821j
+  Bruce Sterling -> [/award/award_nominee/award_nominations./award/award_nomination/award_nominee] -> William Gibson
+/m/07d3x	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0265vt
+  Terry Pratchett -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Nebula Award for Best Novel
+/m/040_9s0	/award/award_category/winners./award/award_honor/award_winner	/m/014ps4
+  Locus Award for Best Fantasy Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Gene Wolfe
+/m/040_9s0	/award/award_category/winners./award/award_honor/award_winner	/m/041h0
+  Locus Award for Best Fantasy Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> J. R. R. Tolkien
+/m/0g5ff	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040_9s0
+  Jack Vance -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Fantasy Novel
+/m/01bb1c	/award/award_category/winners./award/award_honor/award_winner	/m/05x8n
+  John W. Campbell Memorial Award for Best Science Fiction Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Poul Anderson
+/m/0jt86	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040vk98
+  David Brin -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Science Fiction Novel
+/m/01zkxv	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040_9s0
+  Charles Stross -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Fantasy Novel
+/m/0208wk	/award/award_category/winners./award/award_honor/award_winner	/m/04x56
+  World Fantasy Award for Best Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Michael Moorcock
+/m/01hc9_	/influence/influence_node/influenced_by	/m/07lp1
+  Haruki Murakami -> [/influence/influence_node/influenced_by] -> Thomas Pynchon
+/m/01bb1c	/award/award_category/winners./award/award_honor/award_winner	/m/0fvt2
+  John W. Campbell Memorial Award for Best Science Fiction Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Stephen Baxter
+/m/01bb1c	/award/award_category/winners./award/award_honor/award_winner	/m/04x56
+  John W. Campbell Memorial Award for Best Science Fiction Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Michael Moorcock
+/m/04cbtrw	/influence/influence_node/influenced_by	/m/03vrp
+  Salman Rushdie -> [/influence/influence_node/influenced_by] -> Italo Calvino
+/m/01g6bk	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0265vt
+  Cory Doctorow -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Nebula Award for Best Novel
+/m/0j0pf	/influence/influence_node/influenced_by	/m/014ps4
+  Alastair Reynolds -> [/influence/influence_node/influenced_by] -> Gene Wolfe
+/m/0jt90f5	/influence/influence_node/influenced_by	/m/06jcc
+  Stephen King -> [/influence/influence_node/influenced_by] -> Ray Bradbury
+/m/01dzz7	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040_9s0
+  Michael Swanwick -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Fantasy Novel
+/m/01yz0x	/award/award_category/winners./award/award_honor/award_winner	/m/07w21
+  Hugo Award for Best Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Ursula K. Le Guin
+/m/01k56k	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040_9s0
+  Robert Silverberg -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Fantasy Novel
+/m/07lp1	/influence/influence_node/influenced_by	/m/013pp3
+  Thomas Pynchon -> [/influence/influence_node/influenced_by] -> Philip Roth
+/m/02g75	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040vk98
+  Dan Simmons -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Science Fiction Novel
+/m/041xl	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040vk98
+  J. G. Ballard -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Science Fiction Novel
+/m/0265vt	/award/award_category/disciplines_or_subjects	/m/014dfn
+  Nebula Award for Best Novel -> [/award/award_category/disciplines_or_subjects] -> Speculative fiction
+/m/03772	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0208wk
+  George R. R. Martin -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> World Fantasy Award for Best Novel
+/m/04x56	/influence/influence_node/influenced_by	/m/041xl
+  Michael Moorcock -> [/influence/influence_node/influenced_by] -> J. G. Ballard
+/m/05jm7	/influence/influence_node/influenced_by	/m/02465
+  Neil Gaiman -> [/influence/influence_node/influenced_by] -> Clive Barker
+/m/01yz0x	/award/award_category/winners./award/award_honor/award_winner	/m/0210f1
+  Hugo Award for Best Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Connie Willis
+/m/040vk98	/award/award_category/disciplines_or_subjects	/m/05hgj
+  Locus Award for Best Science Fiction Novel -> [/award/award_category/disciplines_or_subjects] -> Novel
+/m/040vk98	/award/award_category/winners./award/award_honor/award_winner	/m/0jt86
+  Locus Award for Best Science Fiction Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> David Brin
+/m/01bb1c	/award/award_category/winners./award/award_honor/award_winner	/m/05qzv
+  John W. Campbell Memorial Award for Best Science Fiction Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Philip K. Dick
+/m/01bb1c	/award/award_category/winners./award/award_honor/award_winner	/m/01g6bk
+  John W. Campbell Memorial Award for Best Science Fiction Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Cory Doctorow
+/m/01bb1c	/award/award_category/winners./award/award_honor/award_winner	/m/033cw
+  John W. Campbell Memorial Award for Best Science Fiction Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Frederik Pohl
+/m/0fvt2	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040vk98
+  Stephen Baxter -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Science Fiction Novel
+/m/01yz0x	/award/award_category/winners./award/award_honor/award_winner	/m/02g75
+  Hugo Award for Best Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Dan Simmons
+/m/042xh	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01yz0x
+  J. K. Rowling -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Hugo Award for Best Novel
+/m/040vk98	/award/award_category/winners./award/award_honor/award_winner	/m/07zl1
+  Locus Award for Best Science Fiction Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Vernor Vinge
+/m/04mhl	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01yz0x
+  Larry Niven -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Hugo Award for Best Novel
+/m/040vk98	/award/award_category/winners./award/award_honor/award_winner	/m/0210f1
+  Locus Award for Best Science Fiction Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Connie Willis
+/m/0j0pf	/influence/influence_node/influenced_by	/m/0mfc0
+  Alastair Reynolds -> [/influence/influence_node/influenced_by] -> John Varley
+/m/040vk98	/award/award_category/winners./award/award_honor/award_winner	/m/0mfc0
+  Locus Award for Best Science Fiction Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> John Varley
+/m/0208wk	/award/award_category/winners./award/award_honor/award_winner	/m/014ps4
+  World Fantasy Award for Best Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Gene Wolfe
+/m/0265vt	/award/award_category/winners./award/award_honor/award_winner	/m/04mhl
+  Nebula Award for Best Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Larry Niven
+/m/0210f1	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040_9s0
+  Connie Willis -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Fantasy Novel
+/m/05jm7	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01yz0x
+  Neil Gaiman -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Hugo Award for Best Novel
+/m/01zkxv	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/m/01g6bk
+  Charles Stross -> [/award/award_nominee/award_nominations./award/award_nomination/award_nominee] -> Cory Doctorow
+/m/01bb1c	/award/award_category/disciplines_or_subjects	/m/01hmnh
+  John W. Campbell Memorial Award for Best Science Fiction Novel -> [/award/award_category/disciplines_or_subjects] -> Fantasy
+/m/040_9s0	/award/award_category/disciplines_or_subjects	/m/02xlf
+  Locus Award for Best Fantasy Novel -> [/award/award_category/disciplines_or_subjects] -> Fiction
+/m/01zkxv	/influence/influence_node/influenced_by	/m/05cv8
+  Charles Stross -> [/influence/influence_node/influenced_by] -> Neal Stephenson
+/m/01yz0x	/award/award_category/winners./award/award_honor/award_winner	/m/042xh
+  Hugo Award for Best Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> J. K. Rowling
+/m/02xyl	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040vk98
+  Frank Herbert -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Science Fiction Novel
+/m/0j0pf	/influence/influence_node/influenced_by	/m/03rx9
+  Alastair Reynolds -> [/influence/influence_node/influenced_by] -> Isaac Asimov
+/m/01hc9_	/influence/influence_node/influenced_by	/m/0jt90f5
+  Haruki Murakami -> [/influence/influence_node/influenced_by] -> Stephen King
+/m/0208wk	/award/award_category/disciplines_or_subjects	/m/01hmnh
+  World Fantasy Award for Best Novel -> [/award/award_category/disciplines_or_subjects] -> Fantasy
+/m/02yl42	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040vk98
+  Jonathan Lethem -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Science Fiction Novel
+/m/0gppg	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01yz0x
+  Anne McCaffrey -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Hugo Award for Best Novel
+/m/01yz0x	/award/award_category/winners./award/award_honor/award_winner	/m/0jt86
+  Hugo Award for Best Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> David Brin
+/m/01hc9_	/influence/influence_node/influenced_by	/m/049gc
+  Haruki Murakami -> [/influence/influence_node/influenced_by] -> Kurt Vonnegut
+/m/01yz0x	/award/award_category/winners./award/award_honor/award_winner	/m/0fpzt5
+  Hugo Award for Best Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Orson Scott Card
+/m/01bb1c	/award/award_category/winners./award/award_honor/award_winner	/m/014ps4
+  John W. Campbell Memorial Award for Best Science Fiction Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Gene Wolfe
+/m/05jm7	/influence/influence_node/influenced_by	/m/04x56
+  Neil Gaiman -> [/influence/influence_node/influenced_by] -> Michael Moorcock
+/m/0265vt	/award/award_category/winners./award/award_honor/award_winner	/m/03rx9
+  Nebula Award for Best Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Isaac Asimov
+/m/0p8jf	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040vk98
+  Michael Chabon -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Science Fiction Novel
+/m/0jt90f5	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0208wk
+  Stephen King -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> World Fantasy Award for Best Novel
+/m/040_9s0	/award/award_category/winners./award/award_honor/award_winner	/m/042xh
+  Locus Award for Best Fantasy Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> J. K. Rowling
+/m/02g75	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040_9s0
+  Dan Simmons -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Fantasy Novel
+/m/01963w	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01yz0x
+  C. J. Cherryh -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Hugo Award for Best Novel
+/m/02r6nbc	/award/award_category/disciplines_or_subjects	/m/05hgj
+  CWA Ian Fleming Steel Dagger -> [/award/award_category/disciplines_or_subjects] -> Novel
+/m/0fvt2	/influence/influence_node/influenced_by	/m/0klw
+  Stephen Baxter -> [/influence/influence_node/influenced_by] -> Arthur C. Clarke
+/m/0821j	/influence/influence_node/influenced_by	/m/07w21
+  William Gibson -> [/influence/influence_node/influenced_by] -> Ursula K. Le Guin
+/m/0gd5z	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040vk98
+  Margaret Atwood -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Science Fiction Novel
+/m/0gd_s	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01yz0x
+  Samuel R. Delany -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Hugo Award for Best Novel
+/m/05cv8	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01yz0x
+  Neal Stephenson -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Hugo Award for Best Novel
+/m/04x56	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040_9s0
+  Michael Moorcock -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Fantasy Novel
+/m/01yz0x	/award/award_category/winners./award/award_honor/award_winner	/m/0klw
+  Hugo Award for Best Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Arthur C. Clarke
+/m/05cv8	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01bb1c
+  Neal Stephenson -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> John W. Campbell Memorial Award for Best Science Fiction Novel
+/m/0b0pf	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040vk98
+  Harry Turtledove -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Science Fiction Novel
+/m/042xh	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040_9s0
+  J. K. Rowling -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Fantasy Novel
+/m/01yz0x	/award/award_category/winners./award/award_honor/award_winner	/m/0821j
+  Hugo Award for Best Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> William Gibson
+/m/01yz0x	/award/award_category/winners./award/award_honor/ceremony	/m/0gwdy4
+  Hugo Award for Best Novel -> [/award/award_category/winners./award/award_honor/ceremony] -> 67th World Science Fiction Convention
+/m/09jd9	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040_9s0
+  Diana Wynne Jones -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Fantasy Novel
+/m/01hc9_	/influence/influence_node/influenced_by	/m/05qzv
+  Haruki Murakami -> [/influence/influence_node/influenced_by] -> Philip K. Dick
+/m/0210f1	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040vk98
+  Connie Willis -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Science Fiction Novel
+/m/01k56k	/influence/influence_node/influenced_by	/m/09dt7
+  Robert Silverberg -> [/influence/influence_node/influenced_by] -> Roger Zelazny
+/m/0c3kw	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01yz0x
+  Greg Bear -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Hugo Award for Best Novel
+/m/07d3x	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/m/05jm7
+  Terry Pratchett -> [/award/award_nominee/award_nominations./award/award_nomination/award_nominee] -> Neil Gaiman
+/m/0j0pf	/influence/influence_node/influenced_by	/m/0821j
+  Alastair Reynolds -> [/influence/influence_node/influenced_by] -> William Gibson
+/m/02yl42	/influence/influence_node/influenced_by	/m/041xl
+  Jonathan Lethem -> [/influence/influence_node/influenced_by] -> J. G. Ballard
+/m/01bb1c	/award/award_category/winners./award/award_honor/award_winner	/m/0jt86
+  John W. Campbell Memorial Award for Best Science Fiction Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> David Brin
+/m/01zwy	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040vk98
+  Carl Sagan -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Science Fiction Novel
+/m/0fpzt5	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040vk98
+  Orson Scott Card -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Science Fiction Novel
+/m/040vk98	/award/award_category/winners./award/award_honor/award_winner	/m/07w21
+  Locus Award for Best Science Fiction Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Ursula K. Le Guin
+/m/0821j	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040vk98
+  William Gibson -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Science Fiction Novel
+/m/0265vt	/award/award_category/disciplines_or_subjects	/m/04g51
+  Nebula Award for Best Novel -> [/award/award_category/disciplines_or_subjects] -> Literature
+/m/01yz0x	/award/award_category/winners./award/award_honor/award_winner	/m/07zl1
+  Hugo Award for Best Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Vernor Vinge
+/m/01dzz7	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01yz0x
+  Michael Swanwick -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Hugo Award for Best Novel
+/m/04cbtrw	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040_9s0
+  Salman Rushdie -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Fantasy Novel
+/m/03v36	/influence/influence_node/influenced_by	/m/07w21
+  Iain Banks -> [/influence/influence_node/influenced_by] -> Ursula K. Le Guin
+/m/07zl1	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01yz0x
+  Vernor Vinge -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Hugo Award for Best Novel
+/m/01963w	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0265vt
+  C. J. Cherryh -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Nebula Award for Best Novel
+/m/048_p	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040vk98
+  Kim Stanley Robinson -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Science Fiction Novel
+/m/0265vt	/award/award_category/winners./award/award_honor/award_winner	/m/02xyl
+  Nebula Award for Best Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Frank Herbert
+/m/0265vt	/award/award_category/winners./award/award_honor/award_winner	/m/0210f1
+  Nebula Award for Best Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Connie Willis
+/m/02xyl	/influence/influence_node/influenced_by	/m/06bng
+  Frank Herbert -> [/influence/influence_node/influenced_by] -> Robert A. Heinlein
+/m/0208wk	/award/award_category/disciplines_or_subjects	/m/02xlf
+  World Fantasy Award for Best Novel -> [/award/award_category/disciplines_or_subjects] -> Fiction
+/m/04r68	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01yz0x
+  Lois McMaster Bujold -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Hugo Award for Best Novel
+/m/0jt90f5	/influence/influence_node/influenced_by	/m/02y49
+  Stephen King -> [/influence/influence_node/influenced_by] -> Fritz Leiber
+/m/01963w	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040vk98
+  C. J. Cherryh -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Science Fiction Novel
+/m/06bng	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040_9s0
+  Robert A. Heinlein -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Fantasy Novel
+/m/01yz0x	/award/award_category/winners./award/award_honor/award_winner	/m/02xyl
+  Hugo Award for Best Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Frank Herbert
+/m/05jm7	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0265vt
+  Neil Gaiman -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Nebula Award for Best Novel
+/m/0265vt	/award/award_category/winners./award/award_honor/award_winner	/m/01k56k
+  Nebula Award for Best Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Robert Silverberg
+/m/040vk98	/award/award_category/winners./award/award_honor/award_winner	/m/01963w
+  Locus Award for Best Science Fiction Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> C. J. Cherryh
+/m/040_9s0	/award/award_category/winners./award/award_honor/award_winner	/m/07d3x
+  Locus Award for Best Fantasy Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Terry Pratchett
+/m/018fq	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040vk98
+  Bruce Sterling -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Science Fiction Novel
+/m/042xh	/influence/influence_node/influenced_by	/m/0jt90f5
+  J. K. Rowling -> [/influence/influence_node/influenced_by] -> Stephen King
+/m/018fq	/influence/influence_node/influenced_by	/m/0gd_s
+  Bruce Sterling -> [/influence/influence_node/influenced_by] -> Samuel R. Delany
+/m/014ps4	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01yz0x
+  Gene Wolfe -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Hugo Award for Best Novel
+/m/0g5ff	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040vk98
+  Jack Vance -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Science Fiction Novel
+/m/01g6bk	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040_9s0
+  Cory Doctorow -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Fantasy Novel
+/m/0klw	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01yz0x
+  Arthur C. Clarke -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Hugo Award for Best Novel
+/m/0jt90f5	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040vk98
+  Stephen King -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Science Fiction Novel
+/m/01dhmw	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040vk98
+  Joe Haldeman -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Science Fiction Novel
+/m/0gwdy4	/award/award_ceremony/awards_presented./award/award_honor/award_winner	/m/041h0
+  67th World Science Fiction Convention -> [/award/award_ceremony/awards_presented./award/award_honor/award_winner] -> J. R. R. Tolkien
+/m/0c3kw	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040vk98
+  Greg Bear -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Science Fiction Novel
+/m/0p8jf	/influence/influence_node/influenced_by	/m/03772
+  Michael Chabon -> [/influence/influence_node/influenced_by] -> George R. R. Martin
+/m/0gwdy4	/award/award_ceremony/awards_presented./award/award_honor/award_winner	/m/05jm7
+  67th World Science Fiction Convention -> [/award/award_ceremony/awards_presented./award/award_honor/award_winner] -> Neil Gaiman
+/m/0g5ff	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0208wk
+  Jack Vance -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> World Fantasy Award for Best Novel
+/m/01zkxv	/influence/influence_node/influenced_by	/m/018fq
+  Charles Stross -> [/influence/influence_node/influenced_by] -> Bruce Sterling
+/m/01bb1c	/award/award_category/disciplines_or_subjects	/m/04g51
+  John W. Campbell Memorial Award for Best Science Fiction Novel -> [/award/award_category/disciplines_or_subjects] -> Literature
+/m/02yl42	/influence/influence_node/influenced_by	/m/03vrp
+  Jonathan Lethem -> [/influence/influence_node/influenced_by] -> Italo Calvino
+/m/0g5ff	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0265vt
+  Jack Vance -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Nebula Award for Best Novel
+/m/0208wk	/award/award_category/winners./award/award_honor/award_winner	/m/07w21
+  World Fantasy Award for Best Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Ursula K. Le Guin
+/m/01dhmw	/influence/influence_node/influenced_by	/m/09dt7
+  Joe Haldeman -> [/influence/influence_node/influenced_by] -> Roger Zelazny
+/m/0c3kw	/influence/influence_node/influenced_by	/m/06bng
+  Greg Bear -> [/influence/influence_node/influenced_by] -> Robert A. Heinlein
+/m/0jt90f5	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040_9s0
+  Stephen King -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Fantasy Novel
+/m/05jm7	/influence/influence_node/influenced_by	/m/06jcc
+  Neil Gaiman -> [/influence/influence_node/influenced_by] -> Ray Bradbury
+/m/01bb1c	/award/award_category/winners./award/award_honor/award_winner	/m/0210f1
+  John W. Campbell Memorial Award for Best Science Fiction Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Connie Willis
+/m/014ps4	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0265vt
+  Gene Wolfe -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Nebula Award for Best Novel
+/m/0c3kw	/influence/influence_node/influenced_by	/m/03rx9
+  Greg Bear -> [/influence/influence_node/influenced_by] -> Isaac Asimov
+/m/098sx	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0208wk
+  Philip Pullman -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> World Fantasy Award for Best Novel
+/m/0j0pf	/influence/influence_node/influenced_by	/m/041xl
+  Alastair Reynolds -> [/influence/influence_node/influenced_by] -> J. G. Ballard
+/m/05qzv	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040_9s0
+  Philip K. Dick -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Fantasy Novel
+/m/013pp3	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040vk98
+  Philip Roth -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Science Fiction Novel
+/m/0gppg	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040vk98
+  Anne McCaffrey -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Science Fiction Novel
+/m/01yz0x	/award/award_category/winners./award/award_honor/award_winner	/m/0p8jf
+  Hugo Award for Best Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Michael Chabon
+/m/0208wk	/award/award_category/winners./award/award_honor/award_winner	/m/06d6y
+  World Fantasy Award for Best Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Richard Matheson
+/m/04r68	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0265vt
+  Lois McMaster Bujold -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Nebula Award for Best Novel
+/m/018fq	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0265vt
+  Bruce Sterling -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Nebula Award for Best Novel
+/m/0265vt	/award/award_category/winners./award/award_honor/award_winner	/m/0821j
+  Nebula Award for Best Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> William Gibson
+/m/014ps4	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040vk98
+  Gene Wolfe -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Science Fiction Novel
+/m/0klw	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/m/0fvt2
+  Arthur C. Clarke -> [/award/award_nominee/award_nominations./award/award_nomination/award_nominee] -> Stephen Baxter
+/m/0jt86	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01yz0x
+  David Brin -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Hugo Award for Best Novel
+/m/01bb1c	/award/award_category/winners./award/award_honor/award_winner	/m/018fq
+  John W. Campbell Memorial Award for Best Science Fiction Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Bruce Sterling
+/m/040_9s0	/award/award_category/winners./award/award_honor/award_winner	/m/09dt7
+  Locus Award for Best Fantasy Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Roger Zelazny
+/m/0265vt	/award/award_category/disciplines_or_subjects	/m/05hgj
+  Nebula Award for Best Novel -> [/award/award_category/disciplines_or_subjects] -> Novel
+/m/01bb1c	/award/award_category/winners./award/award_honor/award_winner	/m/0klw
+  John W. Campbell Memorial Award for Best Science Fiction Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Arthur C. Clarke
+/m/05jm7	/influence/influence_node/influenced_by	/m/0282x
+  Neil Gaiman -> [/influence/influence_node/influenced_by] -> Douglas Adams
+/m/01bb1c	/award/award_category/disciplines_or_subjects	/m/06n90
+  John W. Campbell Memorial Award for Best Science Fiction Novel -> [/award/award_category/disciplines_or_subjects] -> Science Fiction
+/m/01zkxv	/influence/influence_node/influenced_by	/m/0821j
+  Charles Stross -> [/influence/influence_node/influenced_by] -> William Gibson
+/m/01zkxv	/influence/influence_node/peers./influence/peer_relationship/peers	/m/0j0pf
+  Charles Stross -> [/influence/influence_node/peers./influence/peer_relationship/peers] -> Alastair Reynolds
+/m/040_9s0	/award/award_category/disciplines_or_subjects	/m/01hmnh
+  Locus Award for Best Fantasy Novel -> [/award/award_category/disciplines_or_subjects] -> Fantasy
+/m/04r68	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040_9s0
+  Lois McMaster Bujold -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Fantasy Novel
+/m/0j0pf	/influence/influence_node/influenced_by	/m/01dhmw
+  Alastair Reynolds -> [/influence/influence_node/influenced_by] -> Joe Haldeman
+/m/02r6nbc	/award/award_category/disciplines_or_subjects	/m/01jfsb
+  CWA Ian Fleming Steel Dagger -> [/award/award_category/disciplines_or_subjects] -> Thriller
+/m/0p8jf	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0265vt
+  Michael Chabon -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Nebula Award for Best Novel
+/m/01yz0x	/award/award_category/winners./award/award_honor/award_winner	/m/05qzv
+  Hugo Award for Best Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Philip K. Dick
+/m/0j0pf	/influence/influence_node/influenced_by	/m/0gd_s
+  Alastair Reynolds -> [/influence/influence_node/influenced_by] -> Samuel R. Delany
+/m/0fvt2	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/m/0klw
+  Stephen Baxter -> [/award/award_nominee/award_nominations./award/award_nomination/award_nominee] -> Arthur C. Clarke
+/m/01g6bk	/influence/influence_node/influenced_by	/m/0821j
+  Cory Doctorow -> [/influence/influence_node/influenced_by] -> William Gibson
+/m/01yz0x	/award/award_category/disciplines_or_subjects	/m/02xlf
+  Hugo Award for Best Novel -> [/award/award_category/disciplines_or_subjects] -> Fiction
+/m/0mfc0	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040vk98
+  John Varley -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Science Fiction Novel
+/m/05x8n	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01yz0x
+  Poul Anderson -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Hugo Award for Best Novel
+/m/04r68	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040vk98
+  Lois McMaster Bujold -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Science Fiction Novel
+/m/03772	/influence/influence_node/influenced_by	/m/06bng
+  George R. R. Martin -> [/influence/influence_node/influenced_by] -> Robert A. Heinlein
+/m/01g6bk	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040vk98
+  Cory Doctorow -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Science Fiction Novel
+/m/07w21	/influence/influence_node/influenced_by	/m/0g5ff
+  Ursula K. Le Guin -> [/influence/influence_node/influenced_by] -> Jack Vance
+/m/0208wk	/award/award_category/disciplines_or_subjects	/m/05hgj
+  World Fantasy Award for Best Novel -> [/award/award_category/disciplines_or_subjects] -> Novel
+/m/02r6nbc	/award/award_category/disciplines_or_subjects	/m/04g51
+  CWA Ian Fleming Steel Dagger -> [/award/award_category/disciplines_or_subjects] -> Literature
+/m/014ps4	/influence/influence_node/influenced_by	/m/07zl1
+  Gene Wolfe -> [/influence/influence_node/influenced_by] -> Vernor Vinge
+/m/033cw	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0265vt
+  Frederik Pohl -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Nebula Award for Best Novel
+/m/0265vt	/award/award_category/winners./award/award_honor/award_winner	/m/014ps4
+  Nebula Award for Best Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Gene Wolfe
+/m/0gthm	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0265vt
+  Gore Vidal -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Nebula Award for Best Novel
+/m/040vk98	/award/award_category/winners./award/award_honor/award_winner	/m/0p8jf
+  Locus Award for Best Science Fiction Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Michael Chabon
+/m/01g6bk	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/m/01zkxv
+  Cory Doctorow -> [/award/award_nominee/award_nominations./award/award_nomination/award_nominee] -> Charles Stross
+/m/01yz0x	/award/award_category/winners./award/award_honor/award_winner	/m/04r68
+  Hugo Award for Best Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Lois McMaster Bujold
+/m/0265vt	/award/award_category/winners./award/award_honor/award_winner	/m/0c3kw
+  Nebula Award for Best Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Greg Bear
+/m/0fpzt5	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0265vt
+  Orson Scott Card -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Nebula Award for Best Novel
+/m/040_9s0	/award/award_category/disciplines_or_subjects	/m/04g51
+  Locus Award for Best Fantasy Novel -> [/award/award_category/disciplines_or_subjects] -> Literature
+/m/03v36	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01yz0x
+  Iain Banks -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Hugo Award for Best Novel
+/m/0mfc0	/influence/influence_node/influenced_by	/m/06bng
+  John Varley -> [/influence/influence_node/influenced_by] -> Robert A. Heinlein
+/m/0821j	/influence/influence_node/influenced_by	/m/07lp1
+  William Gibson -> [/influence/influence_node/influenced_by] -> Thomas Pynchon
+/m/05qzv	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040vk98
+  Philip K. Dick -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Science Fiction Novel
+/m/01dzz7	/influence/influence_node/influenced_by	/m/014ps4
+  Michael Swanwick -> [/influence/influence_node/influenced_by] -> Gene Wolfe
+/m/040_9s0	/award/award_category/winners./award/award_honor/award_winner	/m/01k56k
+  Locus Award for Best Fantasy Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Robert Silverberg
+/m/05x8n	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040_9s0
+  Poul Anderson -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Fantasy Novel
+/m/01k56k	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01yz0x
+  Robert Silverberg -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Hugo Award for Best Novel
+/m/0208wk	/award/award_category/winners./award/award_honor/award_winner	/m/02g75
+  World Fantasy Award for Best Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Dan Simmons
+/m/0c3kw	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01bb1c
+  Greg Bear -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> John W. Campbell Memorial Award for Best Science Fiction Novel
+/m/01hc9_	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0208wk
+  Haruki Murakami -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> World Fantasy Award for Best Novel
+/m/09dt7	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01yz0x
+  Roger Zelazny -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Hugo Award for Best Novel
+/m/014ps4	/influence/influence_node/influenced_by	/m/0g5ff
+  Gene Wolfe -> [/influence/influence_node/influenced_by] -> Jack Vance
+/m/0265vt	/award/award_category/winners./award/award_honor/award_winner	/m/07w21
+  Nebula Award for Best Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Ursula K. Le Guin
+/m/040vk98	/award/award_category/winners./award/award_honor/award_winner	/m/04r68
+  Locus Award for Best Science Fiction Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Lois McMaster Bujold
+/m/02yl42	/influence/influence_node/influenced_by	/m/07lp1
+  Jonathan Lethem -> [/influence/influence_node/influenced_by] -> Thomas Pynchon
+/m/040_9s0	/award/award_category/winners./award/award_honor/award_winner	/m/05jm7
+  Locus Award for Best Fantasy Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Neil Gaiman
+/m/01dzz7	/influence/influence_node/influenced_by	/m/0gd_s
+  Michael Swanwick -> [/influence/influence_node/influenced_by] -> Samuel R. Delany
+/m/01yz0x	/award/award_category/winners./award/award_honor/award_winner	/m/04mhl
+  Hugo Award for Best Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Larry Niven
+/m/02yl42	/influence/influence_node/influenced_by	/m/013pp3
+  Jonathan Lethem -> [/influence/influence_node/influenced_by] -> Philip Roth
+/m/0265vt	/award/award_category/winners./award/award_honor/award_winner	/m/0jt86
+  Nebula Award for Best Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> David Brin
+/m/01bb1c	/award/award_category/winners./award/award_honor/award_winner	/m/048_p
+  John W. Campbell Memorial Award for Best Science Fiction Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Kim Stanley Robinson
+/m/07w21	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040vk98
+  Ursula K. Le Guin -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Science Fiction Novel
+/m/05x8n	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0265vt
+  Poul Anderson -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Nebula Award for Best Novel
+/m/01dzz7	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0208wk
+  Michael Swanwick -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> World Fantasy Award for Best Novel
+/m/07zl1	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0265vt
+  Vernor Vinge -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Nebula Award for Best Novel
+/m/0265vt	/award/award_category/winners./award/award_honor/award_winner	/m/0fpzt5
+  Nebula Award for Best Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Orson Scott Card
+/m/05jm7	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0208wk
+  Neil Gaiman -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> World Fantasy Award for Best Novel
+/m/040_9s0	/award/award_category/winners./award/award_honor/award_winner	/m/03772
+  Locus Award for Best Fantasy Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> George R. R. Martin
+/m/0265vt	/award/award_category/winners./award/award_honor/award_winner	/m/0klw
+  Nebula Award for Best Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Arthur C. Clarke
+/m/01bb1c	/award/award_category/disciplines_or_subjects	/m/05hgj
+  John W. Campbell Memorial Award for Best Science Fiction Novel -> [/award/award_category/disciplines_or_subjects] -> Novel
+/m/0282x	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040vk98
+  Douglas Adams -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Science Fiction Novel
+/m/03772	/influence/influence_node/influenced_by	/m/041h0
+  George R. R. Martin -> [/influence/influence_node/influenced_by] -> J. R. R. Tolkien
+/m/01g6bk	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01bb1c
+  Cory Doctorow -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> John W. Campbell Memorial Award for Best Science Fiction Novel
+/m/01k56k	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0265vt
+  Robert Silverberg -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Nebula Award for Best Novel
+/m/02xyl	/influence/influence_node/influenced_by	/m/0g5ff
+  Frank Herbert -> [/influence/influence_node/influenced_by] -> Jack Vance
+/m/0265vt	/award/award_category/disciplines_or_subjects	/m/01hmnh
+  Nebula Award for Best Novel -> [/award/award_category/disciplines_or_subjects] -> Fantasy
+/m/05cv8	/award/award_nominee/award_nominations./award/award_nomination/award	/m/040vk98
+  Neal Stephenson -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Locus Award for Best Science Fiction Novel
+/m/01yz0x	/award/award_category/winners./award/award_honor/award_winner	/m/033cw
+  Hugo Award for Best Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Frederik Pohl
+/m/0265vt	/award/award_category/winners./award/award_honor/award_winner	/m/01dhmw
+  Nebula Award for Best Novel -> [/award/award_category/winners./award/award_honor/award_winner] -> Joe Haldeman

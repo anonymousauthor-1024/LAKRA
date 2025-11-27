@@ -1,0 +1,1652 @@
+Entity: /m/056252
+Entity Name: Giant Records
+K-hop: 2
+Subgraph Nodes: 131
+Subgraph Triples: 754
+
+==================================================
+Nodes in Subgraph:
+==================================================
+/m/011k1h	EMI
+/m/013y1f	Organ
+/m/014kyy	Steely Dan
+/m/016622	Tubular bell
+/m/016cjb	Gospel music
+/m/016clz	Alternative rock
+/m/016jny	Folk rock
+/m/016z4k	Singer-songwriter-GB
+/m/01756d	Surf music
+/m/017l96	Capitol Records
+/m/018gqj	Burt Bacharach
+/m/018vs	Bass guitar
+/m/01_d4	Chicago
+/m/01b30l	Organist
+/m/01bgqh	Grammy Award for Record of the Year
+/m/01bx35	43rd Annual Grammy Awards
+/m/01by1l	Grammy Award for Album of the Year
+/m/01c72t	Composer
+/m/01c92g	Grammy Award for Best Male Pop Vocal Performance
+/m/01c9jp	Grammy Award for Best Pop Performance by a Duo or Group with Vocal
+/m/01ckcd	Grammy Award for Best Rock Performance by a Duo or Group with Vocal
+/m/01ckrr	Grammy Award for Best Rock Instrumental Performance
+/m/01cky2	Grammy Award for Best R&B Song
+/m/01cl2y	Reprise Records
+/m/01dpdh	Grammy Award for Best Male Country Vocal Performance
+/m/01fh36	Jazz fusion
+/m/01fl3	The Beach Boys
+/m/01kph_c	Warren Zevon
+/m/01lyv	Country
+/m/01mvjl0	Walter Becker
+/m/01n2m6	Death Row Records
+/m/01n8gr	Kenny Rogers
+/m/01pcj4	Bard College
+/m/01v0sx2	U.S.A. for Africa
+/m/01vdm0	Electronic keyboard
+/m/01vj9c	Bass
+/m/01wgfp6	MC Hammer
+/m/01x7jb	Imperial Records
+/m/024qwq	Rick James
+/m/026036	Stuyvesant High School
+/m/026mfs	Grammy Award for Best Country Collaboration with Vocals
+/m/02_286	New York City
+/m/02bh8z	Warner Music Group
+/m/02ddq4	Grammy Award for Best Contemporary Folk Album
+/m/02f6xy	MTV Video Music Award for Best Male Video
+/m/02f71y	MTV Video Music Award for Best Choreography
+/m/02f72n	MTV Video Music Award for Best Visual Effects
+/m/02f73b	MTV Video Music Award for Best Editing
+/m/02f75t	MTV Video Music Award for Best Rap Video
+/m/02f777	MTV Video Music Award for Best Electronic Dance Music Video
+/m/02f79n	MTV Video Music Award for Best Video from a Film
+/m/02fsn	Double bass
+/m/02fv3t	Grammy Award for Best Historical Album
+/m/02h40lc	English Language
+/m/02hrh1q	Actor-GB
+/m/02p11jq	MCA Records
+/m/02p2zq	Donald Fagen
+/m/02sp_v	Grammy Award for Best Music Film
+/m/02v3yy	Carole Bayer Sager
+/m/02vcp0	Kim Carnes
+/m/02wh75	Grammy Award for Best Rock Song
+/m/02y21l	Sire Records
+/m/02yv6b	Blues-rock
+/m/02zn1b	ABC Records
+/m/030jj7	Curb Records
+/m/030qb3t	Los Angeles
+/m/0342h	Guitar
+/m/0395lw	Bell
+/m/039v1	Guitarist-GB
+/m/03_d0	Jazz
+/m/03bww6	The Surreal Life
+/m/03bx0bm	Lead vocalist-GB
+/m/03l2n	Houston
+/m/03m6t5	Rich Little
+/m/03mb9	House music
+/m/03qbnj	Grammy Award for Best Pop Vocal Album
+/m/03qjg	Harmonica
+/m/03qx_f	Asylum Records
+/m/03rhqg	Warner Bros. Records
+/m/03t5b6	Grammy Award for Best Rap Solo Performance
+/m/041bnw	Nonesuch Records
+/m/041p3y	United Artists Records
+/m/041rx	Jewish people
+/m/043g7l	Sony Music Entertainment
+/m/04ztj	Marriage
+/m/05148p4	Keyboard
+/m/054ks3	Golden Globe Award for Best Original Song
+/m/056252	Giant Records
+/m/056878	47th Annual Grammy Awards
+/m/058kh7	She's Having a Baby
+/m/059rby	New York
+/m/05bt6j	Pop rock
+/m/05cl8y	Koch Entertainment
+/m/05q8pss	Razzie Award for Worst Original Song
+/m/05r5c	Piano
+/m/05zppz	Male
+/m/064t9	Pop music
+/m/065b6q	Swedish American
+/m/067nv	Preacher
+/m/06924p	Country pop
+/m/06by7	Rock music
+/m/06kcjr	Hyphy
+/m/07v64s	Baroque pop
+/m/08jyyk	Experimental rock
+/m/08mbj5d	Official Website
+/m/09c7w0	United States of America
+/m/09jwl	Musician-GB
+/m/09n5t_	Americana
+/m/09nqf	United States Dollar
+/m/0c4z8	Grammy Award for Song of the Year
+/m/0ccvx	Queens
+/m/0cx7f	Art rock
+/m/0dc95	Oakland
+/m/0dz3r	Record producer-GB
+/m/0fnpj	Keyboard player-GB
+/m/0g768	Atlantic Records
+/m/0gbbt	Bassist
+/m/0gcs9	Bruce Springsteen
+/m/0ggx5q	Dance music
+/m/0glt670	Hip hop music
+/m/0grjmv	Psychedelic pop
+/m/0gt_k	Phil Spector
+/m/0kzy0	Brian Wilson
+/m/0l14qv	Synthesizer
+/m/0mhfr	Country rock
+/m/0mzy7	Fresno
+/m/0n1h	Artist-GB
+/m/0n85g	Virgin Records
+/m/0nbcg	Songwriter-GB
+/m/0x67	African American
+/m/0xhtw	Hard rock
+
+==================================================
+Triples in Subgraph:
+==================================================
+/m/0342h	/music/performance_role/regular_performances./music/group_membership/role	/m/0l14qv
+  Guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Synthesizer
+/m/0kzy0	/people/person/profession	/m/0gbbt
+  Brian Wilson -> [/people/person/profession] -> Bassist
+/m/01bgqh	/award/award_category/winners./award/award_honor/ceremony	/m/01bx35
+  Grammy Award for Record of the Year -> [/award/award_category/winners./award/award_honor/ceremony] -> 43rd Annual Grammy Awards
+/m/013y1f	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/0395lw
+  Organ -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Bell
+/m/03bx0bm	/music/performance_role/regular_performances./music/group_membership/role	/m/018vs
+  Lead vocalist-GB -> [/music/performance_role/regular_performances./music/group_membership/role] -> Bass guitar
+/m/01756d	/music/genre/artists	/m/01fl3
+  Surf music -> [/music/genre/artists] -> The Beach Boys
+/m/0gt_k	/people/person/profession	/m/0dz3r
+  Phil Spector -> [/people/person/profession] -> Record producer-GB
+/m/01vj9c	/music/performance_role/regular_performances./music/group_membership/role	/m/02fsn
+  Bass -> [/music/performance_role/regular_performances./music/group_membership/role] -> Double bass
+/m/01dpdh	/award/award_category/winners./award/award_honor/award_winner	/m/01n8gr
+  Grammy Award for Best Male Country Vocal Performance -> [/award/award_category/winners./award/award_honor/award_winner] -> Kenny Rogers
+/m/013y1f	/music/performance_role/track_performances./music/track_contribution/role	/m/05r5c
+  Organ -> [/music/performance_role/track_performances./music/track_contribution/role] -> Piano
+/m/03rhqg	/music/record_label/artist	/m/0kzy0
+  Warner Bros. Records -> [/music/record_label/artist] -> Brian Wilson
+/m/03l2n	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Houston -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/01kph_c	/people/person/places_lived./people/place_lived/location	/m/059rby
+  Warren Zevon -> [/people/person/places_lived./people/place_lived/location] -> New York
+/m/03m6t5	/people/person/profession	/m/02hrh1q
+  Rich Little -> [/people/person/profession] -> Actor-GB
+/m/01vj9c	/music/performance_role/regular_performances./music/group_membership/role	/m/0342h
+  Bass -> [/music/performance_role/regular_performances./music/group_membership/role] -> Guitar
+/m/02bh8z	/business/business_operation/revenue./measurement_unit/dated_money_value/currency	/m/09nqf
+  Warner Music Group -> [/business/business_operation/revenue./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/01wgfp6	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  MC Hammer -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/01n8gr	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/m/018gqj
+  Kenny Rogers -> [/award/award_nominee/award_nominations./award/award_nomination/award_nominee] -> Burt Bacharach
+/m/01mvjl0	/people/person/profession	/m/039v1
+  Walter Becker -> [/people/person/profession] -> Guitarist-GB
+/m/01cl2y	/music/record_label/artist	/m/01kph_c
+  Reprise Records -> [/music/record_label/artist] -> Warren Zevon
+/m/01fh36	/music/genre/artists	/m/01mvjl0
+  Jazz fusion -> [/music/genre/artists] -> Walter Becker
+/m/01n8gr	/music/artist/origin	/m/03l2n
+  Kenny Rogers -> [/music/artist/origin] -> Houston
+/m/01n8gr	/people/person/profession	/m/0dz3r
+  Kenny Rogers -> [/people/person/profession] -> Record producer-GB
+/m/05r5c	/music/performance_role/track_performances./music/track_contribution/role	/m/01vdm0
+  Piano -> [/music/performance_role/track_performances./music/track_contribution/role] -> Electronic keyboard
+/m/0l14qv	/music/performance_role/regular_performances./music/group_membership/role	/m/01vj9c
+  Synthesizer -> [/music/performance_role/regular_performances./music/group_membership/role] -> Bass
+/m/03bww6	/tv/tv_program/languages	/m/02h40lc
+  The Surreal Life -> [/tv/tv_program/languages] -> English Language
+/m/03qjg	/music/performance_role/regular_performances./music/group_membership/role	/m/018vs
+  Harmonica -> [/music/performance_role/regular_performances./music/group_membership/role] -> Bass guitar
+/m/02p2zq	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01by1l
+  Donald Fagen -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Album of the Year
+/m/056252	/music/record_label/artist	/m/01n8gr
+  Giant Records -> [/music/record_label/artist] -> Kenny Rogers
+/m/06by7	/music/genre/artists	/m/01mvjl0
+  Rock music -> [/music/genre/artists] -> Walter Becker
+/m/05r5c	/music/performance_role/regular_performances./music/group_membership/role	/m/0342h
+  Piano -> [/music/performance_role/regular_performances./music/group_membership/role] -> Guitar
+/m/059rby	/location/location/contains	/m/0ccvx
+  New York -> [/location/location/contains] -> Queens
+/m/02fv3t	/award/award_category/winners./award/award_honor/ceremony	/m/01bx35
+  Grammy Award for Best Historical Album -> [/award/award_category/winners./award/award_honor/ceremony] -> 43rd Annual Grammy Awards
+/m/0c4z8	/award/award_category/winners./award/award_honor/award_winner	/m/02v3yy
+  Grammy Award for Song of the Year -> [/award/award_category/winners./award/award_honor/award_winner] -> Carole Bayer Sager
+/m/07v64s	/music/genre/artists	/m/0kzy0
+  Baroque pop -> [/music/genre/artists] -> Brian Wilson
+/m/05148p4	/music/performance_role/regular_performances./music/group_membership/role	/m/01vj9c
+  Keyboard -> [/music/performance_role/regular_performances./music/group_membership/role] -> Bass
+/m/01vj9c	/music/performance_role/regular_performances./music/group_membership/group	/m/01fl3
+  Bass -> [/music/performance_role/regular_performances./music/group_membership/group] -> The Beach Boys
+/m/02p2zq	/music/group_member/membership./music/group_membership/role	/m/03bx0bm
+  Donald Fagen -> [/music/group_member/membership./music/group_membership/role] -> Lead vocalist-GB
+/m/01mvjl0	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01by1l
+  Walter Becker -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Album of the Year
+/m/0g768	/organization/organization/place_founded	/m/030qb3t
+  Atlantic Records -> [/organization/organization/place_founded] -> Los Angeles
+/m/018vs	/music/performance_role/track_performances./music/track_contribution/role	/m/0395lw
+  Bass guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bell
+/m/03qbnj	/award/award_category/winners./award/award_honor/ceremony	/m/056878
+  Grammy Award for Best Pop Vocal Album -> [/award/award_category/winners./award/award_honor/ceremony] -> 47th Annual Grammy Awards
+/m/058kh7	/film/film/featured_film_locations	/m/01_d4
+  She's Having a Baby -> [/film/film/featured_film_locations] -> Chicago
+/m/0gcs9	/music/group_member/membership./music/group_membership/role	/m/03bx0bm
+  Bruce Springsteen -> [/music/group_member/membership./music/group_membership/role] -> Lead vocalist-GB
+/m/041bnw	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Nonesuch Records -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/0gt_k	/people/person/gender	/m/05zppz
+  Phil Spector -> [/people/person/gender] -> Male
+/m/05148p4	/music/performance_role/regular_performances./music/group_membership/role	/m/05r5c
+  Keyboard -> [/music/performance_role/regular_performances./music/group_membership/role] -> Piano
+/m/013y1f	/music/performance_role/track_performances./music/track_contribution/role	/m/01vdm0
+  Organ -> [/music/performance_role/track_performances./music/track_contribution/role] -> Electronic keyboard
+/m/01pcj4	/education/university/local_tuition./measurement_unit/dated_money_value/currency	/m/09nqf
+  Bard College -> [/education/university/local_tuition./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/0xhtw	/music/genre/artists	/m/0gcs9
+  Hard rock -> [/music/genre/artists] -> Bruce Springsteen
+/m/05148p4	/music/performance_role/track_performances./music/track_contribution/role	/m/0395lw
+  Keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bell
+/m/02ddq4	/award/award_category/winners./award/award_honor/award_winner	/m/01kph_c
+  Grammy Award for Best Contemporary Folk Album -> [/award/award_category/winners./award/award_honor/award_winner] -> Warren Zevon
+/m/01kph_c	/people/person/profession	/m/0fnpj
+  Warren Zevon -> [/people/person/profession] -> Keyboard player-GB
+/m/01mvjl0	/award/award_winner/awards_won./award/award_honor/award_winner	/m/02p2zq
+  Walter Becker -> [/award/award_winner/awards_won./award/award_honor/award_winner] -> Donald Fagen
+/m/02bh8z	/organization/organization/headquarters./location/mailing_address/state_province_region	/m/059rby
+  Warner Music Group -> [/organization/organization/headquarters./location/mailing_address/state_province_region] -> New York
+/m/018vs	/music/instrument/instrumentalists	/m/0kzy0
+  Bass guitar -> [/music/instrument/instrumentalists] -> Brian Wilson
+/m/02fsn	/music/performance_role/regular_performances./music/group_membership/role	/m/0l14qv
+  Double bass -> [/music/performance_role/regular_performances./music/group_membership/role] -> Synthesizer
+/m/02_286	/location/administrative_division/country	/m/09c7w0
+  New York City -> [/location/administrative_division/country] -> United States of America
+/m/01bx35	/award/award_ceremony/awards_presented./award/award_honor/award_winner	/m/02p2zq
+  43rd Annual Grammy Awards -> [/award/award_ceremony/awards_presented./award/award_honor/award_winner] -> Donald Fagen
+/m/024qwq	/award/award_winner/awards_won./award/award_honor/award_winner	/m/01wgfp6
+  Rick James -> [/award/award_winner/awards_won./award/award_honor/award_winner] -> MC Hammer
+/m/09c7w0	/location/location/contains	/m/03l2n
+  United States of America -> [/location/location/contains] -> Houston
+/m/06by7	/music/genre/artists	/m/01kph_c
+  Rock music -> [/music/genre/artists] -> Warren Zevon
+/m/03bww6	/tv/tv_program/country_of_origin	/m/09c7w0
+  The Surreal Life -> [/tv/tv_program/country_of_origin] -> United States of America
+/m/018vs	/music/performance_role/track_performances./music/track_contribution/role	/m/0342h
+  Bass guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Guitar
+/m/01fl3	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  The Beach Boys -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/0395lw	/music/performance_role/track_performances./music/track_contribution/role	/m/0l14qv
+  Bell -> [/music/performance_role/track_performances./music/track_contribution/role] -> Synthesizer
+/m/059rby	/location/location/contains	/m/02_286
+  New York -> [/location/location/contains] -> New York City
+/m/02fsn	/music/performance_role/track_performances./music/track_contribution/role	/m/013y1f
+  Double bass -> [/music/performance_role/track_performances./music/track_contribution/role] -> Organ
+/m/09c7w0	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency	/m/09nqf
+  United States of America -> [/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency] -> United States Dollar
+/m/01kph_c	/music/artist/track_contributions./music/track_contribution/role	/m/0l14qv
+  Warren Zevon -> [/music/artist/track_contributions./music/track_contribution/role] -> Synthesizer
+/m/0342h	/music/performance_role/regular_performances./music/group_membership/role	/m/013y1f
+  Guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Organ
+/m/0l14qv	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/03bx0bm
+  Synthesizer -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Lead vocalist-GB
+/m/05r5c	/music/performance_role/track_performances./music/track_contribution/role	/m/01vj9c
+  Piano -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bass
+/m/02p2zq	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/m/01mvjl0
+  Donald Fagen -> [/award/award_nominee/award_nominations./award/award_nomination/award_nominee] -> Walter Becker
+/m/02fsn	/music/performance_role/regular_performances./music/group_membership/role	/m/03qjg
+  Double bass -> [/music/performance_role/regular_performances./music/group_membership/role] -> Harmonica
+/m/05148p4	/music/instrument/instrumentalists	/m/01kph_c
+  Keyboard -> [/music/instrument/instrumentalists] -> Warren Zevon
+/m/05r5c	/music/performance_role/track_performances./music/track_contribution/role	/m/016622
+  Piano -> [/music/performance_role/track_performances./music/track_contribution/role] -> Tubular bell
+/m/0342h	/music/instrument/instrumentalists	/m/01n8gr
+  Guitar -> [/music/instrument/instrumentalists] -> Kenny Rogers
+/m/03bx0bm	/music/performance_role/regular_performances./music/group_membership/role	/m/013y1f
+  Lead vocalist-GB -> [/music/performance_role/regular_performances./music/group_membership/role] -> Organ
+/m/02bh8z	/organization/organization/child./organization/organization_relationship/child	/m/03qx_f
+  Warner Music Group -> [/organization/organization/child./organization/organization_relationship/child] -> Asylum Records
+/m/0gcs9	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/m/01kph_c
+  Bruce Springsteen -> [/award/award_nominee/award_nominations./award/award_nomination/award_nominee] -> Warren Zevon
+/m/09c7w0	/location/location/contains	/m/02_286
+  United States of America -> [/location/location/contains] -> New York City
+/m/0ccvx	/location/us_county/county_seat	/m/0ccvx
+  Queens -> [/location/us_county/county_seat] -> Queens
+/m/05q8pss	/award/award_category/winners./award/award_honor/award_winner	/m/01wgfp6
+  Razzie Award for Worst Original Song -> [/award/award_category/winners./award/award_honor/award_winner] -> MC Hammer
+/m/02_286	/location/location/contains	/m/0ccvx
+  New York City -> [/location/location/contains] -> Queens
+/m/043g7l	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Sony Music Entertainment -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/01vdm0	/music/performance_role/regular_performances./music/group_membership/role	/m/0342h
+  Electronic keyboard -> [/music/performance_role/regular_performances./music/group_membership/role] -> Guitar
+/m/02p11jq	/music/record_label/artist	/m/01mvjl0
+  MCA Records -> [/music/record_label/artist] -> Walter Becker
+/m/02v3yy	/people/person/spouse_s./people/marriage/spouse	/m/018gqj
+  Carole Bayer Sager -> [/people/person/spouse_s./people/marriage/spouse] -> Burt Bacharach
+/m/056252	/music/record_label/artist	/m/01wgfp6
+  Giant Records -> [/music/record_label/artist] -> MC Hammer
+/m/01x7jb	/music/record_label/artist	/m/01kph_c
+  Imperial Records -> [/music/record_label/artist] -> Warren Zevon
+/m/0342h	/music/performance_role/track_performances./music/track_contribution/role	/m/0l14qv
+  Guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Synthesizer
+/m/0fnpj	/dataworld/gardening_hint/split_to	/m/05148p4
+  Keyboard player-GB -> [/dataworld/gardening_hint/split_to] -> Keyboard
+/m/01kph_c	/people/person/places_lived./people/place_lived/location	/m/01_d4
+  Warren Zevon -> [/people/person/places_lived./people/place_lived/location] -> Chicago
+/m/07v64s	/music/genre/artists	/m/01fl3
+  Baroque pop -> [/music/genre/artists] -> The Beach Boys
+/m/01n8gr	/people/person/profession	/m/09jwl
+  Kenny Rogers -> [/people/person/profession] -> Musician-GB
+/m/01pcj4	/business/business_operation/assets./measurement_unit/dated_money_value/currency	/m/09nqf
+  Bard College -> [/business/business_operation/assets./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/01wgfp6	/people/person/nationality	/m/09c7w0
+  MC Hammer -> [/people/person/nationality] -> United States of America
+/m/018vs	/music/performance_role/regular_performances./music/group_membership/role	/m/03qjg
+  Bass guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Harmonica
+/m/02sp_v	/award/award_category/winners./award/award_honor/award_winner	/m/0gcs9
+  Grammy Award for Best Music Film -> [/award/award_category/winners./award/award_honor/award_winner] -> Bruce Springsteen
+/m/01c9jp	/award/award_category/winners./award/award_honor/award_winner	/m/014kyy
+  Grammy Award for Best Pop Performance by a Duo or Group with Vocal -> [/award/award_category/winners./award/award_honor/award_winner] -> Steely Dan
+/m/01n8gr	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01c92g
+  Kenny Rogers -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Best Male Pop Vocal Performance
+/m/018gqj	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/m/02v3yy
+  Burt Bacharach -> [/award/award_nominee/award_nominations./award/award_nomination/award_nominee] -> Carole Bayer Sager
+/m/0342h	/music/performance_role/regular_performances./music/group_membership/role	/m/03qjg
+  Guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Harmonica
+/m/03bx0bm	/dataworld/gardening_hint/split_to	/m/03bx0bm
+  Lead vocalist-GB -> [/dataworld/gardening_hint/split_to] -> Lead vocalist-GB
+/m/05r5c	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/03bx0bm
+  Piano -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Lead vocalist-GB
+/m/02v3yy	/award/award_nominee/award_nominations./award/award_nomination/award	/m/054ks3
+  Carole Bayer Sager -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Golden Globe Award for Best Original Song
+/m/01kph_c	/award/award_nominee/award_nominations./award/award_nomination/award	/m/02ddq4
+  Warren Zevon -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Best Contemporary Folk Album
+/m/0gt_k	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Phil Spector -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/05r5c	/music/performance_role/track_performances./music/track_contribution/role	/m/02fsn
+  Piano -> [/music/performance_role/track_performances./music/track_contribution/role] -> Double bass
+/m/026mfs	/award/award_category/winners./award/award_honor/ceremony	/m/056878
+  Grammy Award for Best Country Collaboration with Vocals -> [/award/award_category/winners./award/award_honor/ceremony] -> 47th Annual Grammy Awards
+/m/056878	/award/award_ceremony/awards_presented./award/award_honor/award_winner	/m/0gcs9
+  47th Annual Grammy Awards -> [/award/award_ceremony/awards_presented./award/award_honor/award_winner] -> Bruce Springsteen
+/m/02fsn	/music/performance_role/track_performances./music/track_contribution/role	/m/0395lw
+  Double bass -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bell
+/m/016clz	/music/genre/parent_genre	/m/06by7
+  Alternative rock -> [/music/genre/parent_genre] -> Rock music
+/m/03bx0bm	/music/performance_role/regular_performances./music/group_membership/role	/m/01vj9c
+  Lead vocalist-GB -> [/music/performance_role/regular_performances./music/group_membership/role] -> Bass
+/m/03rhqg	/music/record_label/artist	/m/01mvjl0
+  Warner Bros. Records -> [/music/record_label/artist] -> Walter Becker
+/m/01vdm0	/music/performance_role/track_performances./music/track_contribution/role	/m/018vs
+  Electronic keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bass guitar
+/m/0cx7f	/music/genre/artists	/m/0kzy0
+  Art rock -> [/music/genre/artists] -> Brian Wilson
+/m/02ddq4	/award/award_category/winners./award/award_honor/ceremony	/m/01bx35
+  Grammy Award for Best Contemporary Folk Album -> [/award/award_category/winners./award/award_honor/ceremony] -> 43rd Annual Grammy Awards
+/m/0ccvx	/location/statistical_region/rent50_2./measurement_unit/dated_money_value/currency	/m/09nqf
+  Queens -> [/location/statistical_region/rent50_2./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/02vcp0	/music/group_member/membership./music/group_membership/group	/m/01v0sx2
+  Kim Carnes -> [/music/group_member/membership./music/group_membership/group] -> U.S.A. for Africa
+/m/09c7w0	/location/location/contains	/m/0ccvx
+  United States of America -> [/location/location/contains] -> Queens
+/m/0342h	/music/performance_role/track_performances./music/track_contribution/role	/m/0395lw
+  Guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bell
+/m/054ks3	/award/award_category/winners./award/award_honor/award_winner	/m/02v3yy
+  Golden Globe Award for Best Original Song -> [/award/award_category/winners./award/award_honor/award_winner] -> Carole Bayer Sager
+/m/01756d	/music/genre/parent_genre	/m/06by7
+  Surf music -> [/music/genre/parent_genre] -> Rock music
+/m/0c4z8	/award/award_category/winners./award/award_honor/award_winner	/m/0gcs9
+  Grammy Award for Song of the Year -> [/award/award_category/winners./award/award_honor/award_winner] -> Bruce Springsteen
+/m/0gcs9	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01by1l
+  Bruce Springsteen -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Album of the Year
+/m/018gqj	/people/person/profession	/m/0nbcg
+  Burt Bacharach -> [/people/person/profession] -> Songwriter-GB
+/m/0kzy0	/people/person/profession	/m/0dz3r
+  Brian Wilson -> [/people/person/profession] -> Record producer-GB
+/m/01b30l	/people/profession/specialization_of	/m/09jwl
+  Organist -> [/people/profession/specialization_of] -> Musician-GB
+/m/01kph_c	/music/artist/track_contributions./music/track_contribution/role	/m/0342h
+  Warren Zevon -> [/music/artist/track_contributions./music/track_contribution/role] -> Guitar
+/m/0c4z8	/award/award_category/winners./award/award_honor/ceremony	/m/01bx35
+  Grammy Award for Song of the Year -> [/award/award_category/winners./award/award_honor/ceremony] -> 43rd Annual Grammy Awards
+/m/018vs	/music/instrument/family	/m/0342h
+  Bass guitar -> [/music/instrument/family] -> Guitar
+/m/059rby	/location/administrative_division/country	/m/09c7w0
+  New York -> [/location/administrative_division/country] -> United States of America
+/m/059rby	/location/location/contains	/m/01pcj4
+  New York -> [/location/location/contains] -> Bard College
+/m/03bx0bm	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/0342h
+  Lead vocalist-GB -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Guitar
+/m/03qx_f	/music/record_label/artist	/m/01kph_c
+  Asylum Records -> [/music/record_label/artist] -> Warren Zevon
+/m/03bx0bm	/music/performance_role/regular_performances./music/group_membership/role	/m/05r5c
+  Lead vocalist-GB -> [/music/performance_role/regular_performances./music/group_membership/role] -> Piano
+/m/018gqj	/award/award_nominee/award_nominations./award/award_nomination/award	/m/054ks3
+  Burt Bacharach -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Golden Globe Award for Best Original Song
+/m/0gcs9	/music/group_member/membership./music/group_membership/role	/m/0342h
+  Bruce Springsteen -> [/music/group_member/membership./music/group_membership/role] -> Guitar
+/m/03m6t5	/people/person/spouse_s./people/marriage/type_of_union	/m/04ztj
+  Rich Little -> [/people/person/spouse_s./people/marriage/type_of_union] -> Marriage
+/m/0l14qv	/music/performance_role/track_performances./music/track_contribution/role	/m/02fsn
+  Synthesizer -> [/music/performance_role/track_performances./music/track_contribution/role] -> Double bass
+/m/0gbbt	/dataworld/gardening_hint/split_to	/m/018vs
+  Bassist -> [/dataworld/gardening_hint/split_to] -> Bass guitar
+/m/024qwq	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Rick James -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/09c7w0	/dataworld/gardening_hint/split_to	/m/09c7w0
+  United States of America -> [/dataworld/gardening_hint/split_to] -> United States of America
+/m/05148p4	/music/performance_role/regular_performances./music/group_membership/role	/m/03bx0bm
+  Keyboard -> [/music/performance_role/regular_performances./music/group_membership/role] -> Lead vocalist-GB
+/m/09n5t_	/music/genre/artists	/m/0gcs9
+  Americana -> [/music/genre/artists] -> Bruce Springsteen
+/m/02fsn	/music/performance_role/regular_performances./music/group_membership/role	/m/01vj9c
+  Double bass -> [/music/performance_role/regular_performances./music/group_membership/role] -> Bass
+/m/03qbnj	/award/award_category/winners./award/award_honor/award_winner	/m/014kyy
+  Grammy Award for Best Pop Vocal Album -> [/award/award_category/winners./award/award_honor/award_winner] -> Steely Dan
+/m/064t9	/music/genre/artists	/m/024qwq
+  Pop music -> [/music/genre/artists] -> Rick James
+/m/01wgfp6	/award/award_nominee/award_nominations./award/award_nomination/award	/m/02sp_v
+  MC Hammer -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Best Music Film
+/m/05r5c	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/0342h
+  Piano -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Guitar
+/m/01fh36	/music/genre/artists	/m/02p2zq
+  Jazz fusion -> [/music/genre/artists] -> Donald Fagen
+/m/04ztj	/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	/m/0dc95
+  Marriage -> [/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony] -> Oakland
+/m/0kzy0	/influence/influence_node/influenced_by	/m/0gt_k
+  Brian Wilson -> [/influence/influence_node/influenced_by] -> Phil Spector
+/m/0l14qv	/music/performance_role/track_performances./music/track_contribution/role	/m/03qjg
+  Synthesizer -> [/music/performance_role/track_performances./music/track_contribution/role] -> Harmonica
+/m/05r5c	/music/instrument/instrumentalists	/m/0gcs9
+  Piano -> [/music/instrument/instrumentalists] -> Bruce Springsteen
+/m/05r5c	/music/performance_role/track_performances./music/track_contribution/role	/m/0342h
+  Piano -> [/music/performance_role/track_performances./music/track_contribution/role] -> Guitar
+/m/018vs	/music/performance_role/track_performances./music/track_contribution/role	/m/016622
+  Bass guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Tubular bell
+/m/013y1f	/music/performance_role/regular_performances./music/group_membership/role	/m/03bx0bm
+  Organ -> [/music/performance_role/regular_performances./music/group_membership/role] -> Lead vocalist-GB
+/m/018vs	/music/performance_role/track_performances./music/track_contribution/role	/m/02fsn
+  Bass guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Double bass
+/m/0l14qv	/music/performance_role/track_performances./music/track_contribution/role	/m/01vdm0
+  Synthesizer -> [/music/performance_role/track_performances./music/track_contribution/role] -> Electronic keyboard
+/m/018gqj	/people/person/spouse_s./people/marriage/type_of_union	/m/04ztj
+  Burt Bacharach -> [/people/person/spouse_s./people/marriage/type_of_union] -> Marriage
+/m/01fl3	/award/award_nominee/award_nominations./award/award_nomination/award	/m/02sp_v
+  The Beach Boys -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Best Music Film
+/m/01pcj4	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency	/m/09nqf
+  Bard College -> [/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/01vj9c	/music/performance_role/track_performances./music/track_contribution/role	/m/02fsn
+  Bass -> [/music/performance_role/track_performances./music/track_contribution/role] -> Double bass
+/m/01kph_c	/people/person/nationality	/m/09c7w0
+  Warren Zevon -> [/people/person/nationality] -> United States of America
+/m/01n8gr	/people/person/profession	/m/02hrh1q
+  Kenny Rogers -> [/people/person/profession] -> Actor-GB
+/m/0mhfr	/music/genre/artists	/m/01fl3
+  Country rock -> [/music/genre/artists] -> The Beach Boys
+/m/016622	/music/performance_role/track_performances./music/track_contribution/role	/m/0395lw
+  Tubular bell -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bell
+/m/02fv3t	/award/award_category/winners./award/award_honor/award_winner	/m/0kzy0
+  Grammy Award for Best Historical Album -> [/award/award_category/winners./award/award_honor/award_winner] -> Brian Wilson
+/m/01mvjl0	/people/person/nationality	/m/09c7w0
+  Walter Becker -> [/people/person/nationality] -> United States of America
+/m/02zn1b	/music/record_label/artist	/m/014kyy
+  ABC Records -> [/music/record_label/artist] -> Steely Dan
+/m/0342h	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/018vs
+  Guitar -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Bass guitar
+/m/02f6xy	/award/award_category/winners./award/award_honor/award_winner	/m/0gcs9
+  MTV Video Music Award for Best Male Video -> [/award/award_category/winners./award/award_honor/award_winner] -> Bruce Springsteen
+/m/0342h	/music/performance_role/track_performances./music/track_contribution/role	/m/016622
+  Guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Tubular bell
+/m/02p11jq	/music/record_label/artist	/m/02p2zq
+  MCA Records -> [/music/record_label/artist] -> Donald Fagen
+/m/05r5c	/music/instrument/instrumentalists	/m/0gt_k
+  Piano -> [/music/instrument/instrumentalists] -> Phil Spector
+/m/0x67	/people/ethnicity/people	/m/024qwq
+  African American -> [/people/ethnicity/people] -> Rick James
+/m/064t9	/music/genre/artists	/m/02vcp0
+  Pop music -> [/music/genre/artists] -> Kim Carnes
+/m/02p2zq	/people/person/nationality	/m/09c7w0
+  Donald Fagen -> [/people/person/nationality] -> United States of America
+/m/01vj9c	/music/performance_role/track_performances./music/track_contribution/role	/m/05r5c
+  Bass -> [/music/performance_role/track_performances./music/track_contribution/role] -> Piano
+/m/013y1f	/music/performance_role/regular_performances./music/group_membership/role	/m/03qjg
+  Organ -> [/music/performance_role/regular_performances./music/group_membership/role] -> Harmonica
+/m/01n8gr	/people/person/profession	/m/01c72t
+  Kenny Rogers -> [/people/person/profession] -> Composer
+/m/03qjg	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/0342h
+  Harmonica -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Guitar
+/m/026036	/education/educational_institution/campuses	/m/026036
+  Stuyvesant High School -> [/education/educational_institution/campuses] -> Stuyvesant High School
+/m/05148p4	/music/performance_role/track_performances./music/track_contribution/role	/m/018vs
+  Keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bass guitar
+/m/01vdm0	/music/performance_role/track_performances./music/track_contribution/role	/m/02fsn
+  Electronic keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Double bass
+/m/01cl2y	/music/record_label/artist	/m/02p2zq
+  Reprise Records -> [/music/record_label/artist] -> Donald Fagen
+/m/01ckcd	/award/award_category/winners./award/award_honor/award_winner	/m/0gcs9
+  Grammy Award for Best Rock Performance by a Duo or Group with Vocal -> [/award/award_category/winners./award/award_honor/award_winner] -> Bruce Springsteen
+/m/01c92g	/award/award_category/winners./award/award_honor/ceremony	/m/01bx35
+  Grammy Award for Best Male Pop Vocal Performance -> [/award/award_category/winners./award/award_honor/ceremony] -> 43rd Annual Grammy Awards
+/m/05cl8y	/music/record_label/artist	/m/01kph_c
+  Koch Entertainment -> [/music/record_label/artist] -> Warren Zevon
+/m/0342h	/music/performance_role/regular_performances./music/group_membership/role	/m/05r5c
+  Guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Piano
+/m/0kzy0	/music/artist/track_contributions./music/track_contribution/role	/m/0395lw
+  Brian Wilson -> [/music/artist/track_contributions./music/track_contribution/role] -> Bell
+/m/064t9	/music/genre/artists	/m/018gqj
+  Pop music -> [/music/genre/artists] -> Burt Bacharach
+/m/01kph_c	/music/artist/track_contributions./music/track_contribution/role	/m/05r5c
+  Warren Zevon -> [/music/artist/track_contributions./music/track_contribution/role] -> Piano
+/m/02p2zq	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0c4z8
+  Donald Fagen -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Song of the Year
+/m/03qjg	/music/performance_role/regular_performances./music/group_membership/role	/m/02fsn
+  Harmonica -> [/music/performance_role/regular_performances./music/group_membership/role] -> Double bass
+/m/0395lw	/music/performance_role/regular_performances./music/group_membership/role	/m/016622
+  Bell -> [/music/performance_role/regular_performances./music/group_membership/role] -> Tubular bell
+/m/018gqj	/people/person/profession	/m/01c72t
+  Burt Bacharach -> [/people/person/profession] -> Composer
+/m/0gcs9	/music/group_member/membership./music/group_membership/group	/m/01v0sx2
+  Bruce Springsteen -> [/music/group_member/membership./music/group_membership/group] -> U.S.A. for Africa
+/m/0342h	/music/performance_role/regular_performances./music/group_membership/role	/m/01vj9c
+  Guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Bass
+/m/0n85g	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Virgin Records -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/01vj9c	/music/performance_role/regular_performances./music/group_membership/group	/m/014kyy
+  Bass -> [/music/performance_role/regular_performances./music/group_membership/group] -> Steely Dan
+/m/014kyy	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01c9jp
+  Steely Dan -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Best Pop Performance by a Duo or Group with Vocal
+/m/018vs	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/03bx0bm
+  Bass guitar -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Lead vocalist-GB
+/m/03_d0	/music/genre/artists	/m/014kyy
+  Jazz -> [/music/genre/artists] -> Steely Dan
+/m/01kph_c	/people/person/profession	/m/09jwl
+  Warren Zevon -> [/people/person/profession] -> Musician-GB
+/m/0grjmv	/music/genre/artists	/m/01fl3
+  Psychedelic pop -> [/music/genre/artists] -> The Beach Boys
+/m/0gcs9	/music/group_member/membership./music/group_membership/role	/m/03qjg
+  Bruce Springsteen -> [/music/group_member/membership./music/group_membership/role] -> Harmonica
+/m/0kzy0	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01ckrr
+  Brian Wilson -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Best Rock Instrumental Performance
+/m/011k1h	/music/record_label/artist	/m/0kzy0
+  EMI -> [/music/record_label/artist] -> Brian Wilson
+/m/0l14qv	/music/performance_role/regular_performances./music/group_membership/role	/m/013y1f
+  Synthesizer -> [/music/performance_role/regular_performances./music/group_membership/role] -> Organ
+/m/0kzy0	/music/artist/track_contributions./music/track_contribution/role	/m/01vj9c
+  Brian Wilson -> [/music/artist/track_contributions./music/track_contribution/role] -> Bass
+/m/041bnw	/music/record_label/artist	/m/0kzy0
+  Nonesuch Records -> [/music/record_label/artist] -> Brian Wilson
+/m/01wgfp6	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/m/024qwq
+  MC Hammer -> [/award/award_nominee/award_nominations./award/award_nomination/award_nominee] -> Rick James
+/m/01n8gr	/music/group_member/membership./music/group_membership/role	/m/02fsn
+  Kenny Rogers -> [/music/group_member/membership./music/group_membership/role] -> Double bass
+/m/09c7w0	/location/country/second_level_divisions	/m/0ccvx
+  United States of America -> [/location/country/second_level_divisions] -> Queens
+/m/05r5c	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/05148p4
+  Piano -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Keyboard
+/m/08jyyk	/music/genre/artists	/m/0kzy0
+  Experimental rock -> [/music/genre/artists] -> Brian Wilson
+/m/024qwq	/people/person/gender	/m/05zppz
+  Rick James -> [/people/person/gender] -> Male
+/m/05148p4	/music/performance_role/track_performances./music/track_contribution/role	/m/01vj9c
+  Keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bass
+/m/02zn1b	/music/record_label/artist	/m/02p2zq
+  ABC Records -> [/music/record_label/artist] -> Donald Fagen
+/m/016622	/music/performance_role/track_performances./music/track_contribution/role	/m/0l14qv
+  Tubular bell -> [/music/performance_role/track_performances./music/track_contribution/role] -> Synthesizer
+/m/0395lw	/music/performance_role/regular_performances./music/group_membership/role	/m/0l14qv
+  Bell -> [/music/performance_role/regular_performances./music/group_membership/role] -> Synthesizer
+/m/018gqj	/base/popstra/celebrity/breakup./base/popstra/breakup/participant	/m/02v3yy
+  Burt Bacharach -> [/base/popstra/celebrity/breakup./base/popstra/breakup/participant] -> Carole Bayer Sager
+/m/0gcs9	/music/artist/track_contributions./music/track_contribution/role	/m/0342h
+  Bruce Springsteen -> [/music/artist/track_contributions./music/track_contribution/role] -> Guitar
+/m/02bh8z	/organization/organization/child./organization/organization_relationship/child	/m/0g768
+  Warner Music Group -> [/organization/organization/child./organization/organization_relationship/child] -> Atlantic Records
+/m/056252	/music/record_label/artist	/m/01mvjl0
+  Giant Records -> [/music/record_label/artist] -> Walter Becker
+/m/0342h	/music/performance_role/track_performances./music/track_contribution/role	/m/018vs
+  Guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bass guitar
+/m/0342h	/music/performance_role/track_performances./music/track_contribution/role	/m/05148p4
+  Guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Keyboard
+/m/01vj9c	/music/performance_role/track_performances./music/track_contribution/role	/m/013y1f
+  Bass -> [/music/performance_role/track_performances./music/track_contribution/role] -> Organ
+/m/01vj9c	/music/performance_role/regular_performances./music/group_membership/role	/m/05148p4
+  Bass -> [/music/performance_role/regular_performances./music/group_membership/role] -> Keyboard
+/m/0342h	/music/performance_role/track_performances./music/track_contribution/role	/m/02fsn
+  Guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Double bass
+/m/02p2zq	/people/person/profession	/m/0fnpj
+  Donald Fagen -> [/people/person/profession] -> Keyboard player-GB
+/m/01n8gr	/award/award_nominee/award_nominations./award/award_nomination/award	/m/054ks3
+  Kenny Rogers -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Golden Globe Award for Best Original Song
+/m/01cl2y	/music/record_label/artist	/m/014kyy
+  Reprise Records -> [/music/record_label/artist] -> Steely Dan
+/m/01bgqh	/award/award_category/winners./award/award_honor/award_winner	/m/02vcp0
+  Grammy Award for Record of the Year -> [/award/award_category/winners./award/award_honor/award_winner] -> Kim Carnes
+/m/01wgfp6	/award/award_nominee/award_nominations./award/award_nomination/award	/m/02f75t
+  MC Hammer -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> MTV Video Music Award for Best Rap Video
+/m/03bx0bm	/music/performance_role/regular_performances./music/group_membership/role	/m/0l14qv
+  Lead vocalist-GB -> [/music/performance_role/regular_performances./music/group_membership/role] -> Synthesizer
+/m/05r5c	/music/performance_role/track_performances./music/track_contribution/role	/m/0395lw
+  Piano -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bell
+/m/0l14qv	/music/instrument/family	/m/05148p4
+  Synthesizer -> [/music/instrument/family] -> Keyboard
+/m/01vdm0	/music/performance_role/regular_performances./music/group_membership/role	/m/018vs
+  Electronic keyboard -> [/music/performance_role/regular_performances./music/group_membership/role] -> Bass guitar
+/m/013y1f	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/0l14qv
+  Organ -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Synthesizer
+/m/03qjg	/music/performance_role/track_performances./music/track_contribution/role	/m/018vs
+  Harmonica -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bass guitar
+/m/054ks3	/award/award_category/winners./award/award_honor/award_winner	/m/0gcs9
+  Golden Globe Award for Best Original Song -> [/award/award_category/winners./award/award_honor/award_winner] -> Bruce Springsteen
+/m/065b6q	/people/ethnicity/people	/m/0kzy0
+  Swedish American -> [/people/ethnicity/people] -> Brian Wilson
+/m/04ztj	/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	/m/030qb3t
+  Marriage -> [/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony] -> Los Angeles
+/m/0342h	/music/instrument/instrumentalists	/m/0gcs9
+  Guitar -> [/music/instrument/instrumentalists] -> Bruce Springsteen
+/m/01ckrr	/award/award_category/winners./award/award_honor/award_winner	/m/0gcs9
+  Grammy Award for Best Rock Instrumental Performance -> [/award/award_category/winners./award/award_honor/award_winner] -> Bruce Springsteen
+/m/05r5c	/music/performance_role/regular_performances./music/group_membership/role	/m/016622
+  Piano -> [/music/performance_role/regular_performances./music/group_membership/role] -> Tubular bell
+/m/030qb3t	/location/hud_county_place/place	/m/030qb3t
+  Los Angeles -> [/location/hud_county_place/place] -> Los Angeles
+/m/013y1f	/music/instrument/family	/m/05148p4
+  Organ -> [/music/instrument/family] -> Keyboard
+/m/016jny	/music/genre/artists	/m/01kph_c
+  Folk rock -> [/music/genre/artists] -> Warren Zevon
+/m/0dc95	/location/hud_county_place/place	/m/0dc95
+  Oakland -> [/location/hud_county_place/place] -> Oakland
+/m/02vcp0	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01c9jp
+  Kim Carnes -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Best Pop Performance by a Duo or Group with Vocal
+/m/0342h	/music/performance_role/track_performances./music/track_contribution/role	/m/05r5c
+  Guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Piano
+/m/0l14qv	/music/performance_role/track_performances./music/track_contribution/role	/m/016622
+  Synthesizer -> [/music/performance_role/track_performances./music/track_contribution/role] -> Tubular bell
+/m/0gcs9	/music/artist/track_contributions./music/track_contribution/role	/m/05r5c
+  Bruce Springsteen -> [/music/artist/track_contributions./music/track_contribution/role] -> Piano
+/m/056252	/music/record_label/artist	/m/0kzy0
+  Giant Records -> [/music/record_label/artist] -> Brian Wilson
+/m/02p2zq	/award/award_winner/awards_won./award/award_honor/award_winner	/m/01mvjl0
+  Donald Fagen -> [/award/award_winner/awards_won./award/award_honor/award_winner] -> Walter Becker
+/m/024qwq	/people/person/nationality	/m/09c7w0
+  Rick James -> [/people/person/nationality] -> United States of America
+/m/0395lw	/music/performance_role/track_performances./music/track_contribution/role	/m/013y1f
+  Bell -> [/music/performance_role/track_performances./music/track_contribution/role] -> Organ
+/m/041rx	/people/ethnicity/people	/m/0gt_k
+  Jewish people -> [/people/ethnicity/people] -> Phil Spector
+/m/014kyy	/award/award_winner/awards_won./award/award_honor/award_winner	/m/01mvjl0
+  Steely Dan -> [/award/award_winner/awards_won./award/award_honor/award_winner] -> Walter Becker
+/m/05r5c	/music/instrument/instrumentalists	/m/018gqj
+  Piano -> [/music/instrument/instrumentalists] -> Burt Bacharach
+/m/0l14qv	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/0395lw
+  Synthesizer -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Bell
+/m/01vdm0	/music/performance_role/track_performances./music/track_contribution/role	/m/0l14qv
+  Electronic keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Synthesizer
+/m/0342h	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/05r5c
+  Guitar -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Piano
+/m/0l14qv	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/05r5c
+  Synthesizer -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Piano
+/m/04ztj	/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	/m/03l2n
+  Marriage -> [/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony] -> Houston
+/m/01n8gr	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/m/02vcp0
+  Kenny Rogers -> [/award/award_nominee/award_nominations./award/award_nomination/award_nominee] -> Kim Carnes
+/m/0x67	/people/ethnicity/people	/m/01wgfp6
+  African American -> [/people/ethnicity/people] -> MC Hammer
+/m/01n8gr	/people/person/place_of_birth	/m/03l2n
+  Kenny Rogers -> [/people/person/place_of_birth] -> Houston
+/m/05r5c	/music/performance_role/regular_performances./music/group_membership/role	/m/03qjg
+  Piano -> [/music/performance_role/regular_performances./music/group_membership/role] -> Harmonica
+/m/03l2n	/base/biblioness/bibs_location/country	/m/09c7w0
+  Houston -> [/base/biblioness/bibs_location/country] -> United States of America
+/m/05148p4	/music/performance_role/regular_performances./music/group_membership/group	/m/01fl3
+  Keyboard -> [/music/performance_role/regular_performances./music/group_membership/group] -> The Beach Boys
+/m/01vdm0	/music/performance_role/regular_performances./music/group_membership/role	/m/05r5c
+  Electronic keyboard -> [/music/performance_role/regular_performances./music/group_membership/role] -> Piano
+/m/03qjg	/music/performance_role/track_performances./music/track_contribution/role	/m/013y1f
+  Harmonica -> [/music/performance_role/track_performances./music/track_contribution/role] -> Organ
+/m/013y1f	/music/performance_role/regular_performances./music/group_membership/role	/m/05148p4
+  Organ -> [/music/performance_role/regular_performances./music/group_membership/role] -> Keyboard
+/m/02p11jq	/music/record_label/artist	/m/014kyy
+  MCA Records -> [/music/record_label/artist] -> Steely Dan
+/m/013y1f	/music/performance_role/regular_performances./music/group_membership/role	/m/01vj9c
+  Organ -> [/music/performance_role/regular_performances./music/group_membership/role] -> Bass
+/m/02yv6b	/music/genre/artists	/m/01kph_c
+  Blues-rock -> [/music/genre/artists] -> Warren Zevon
+/m/0l14qv	/music/instrument/instrumentalists	/m/0kzy0
+  Synthesizer -> [/music/instrument/instrumentalists] -> Brian Wilson
+/m/018vs	/music/performance_role/regular_performances./music/group_membership/role	/m/01vj9c
+  Bass guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Bass
+/m/06kcjr	/music/genre/artists	/m/01wgfp6
+  Hyphy -> [/music/genre/artists] -> MC Hammer
+/m/05148p4	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/03bx0bm
+  Keyboard -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Lead vocalist-GB
+/m/05r5c	/music/performance_role/regular_performances./music/group_membership/role	/m/03bx0bm
+  Piano -> [/music/performance_role/regular_performances./music/group_membership/role] -> Lead vocalist-GB
+/m/018vs	/music/performance_role/track_performances./music/track_contribution/role	/m/05148p4
+  Bass guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Keyboard
+/m/02fsn	/music/performance_role/track_performances./music/track_contribution/role	/m/0342h
+  Double bass -> [/music/performance_role/track_performances./music/track_contribution/role] -> Guitar
+/m/01mvjl0	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/m/02p2zq
+  Walter Becker -> [/award/award_nominee/award_nominations./award/award_nomination/award_nominee] -> Donald Fagen
+/m/05148p4	/dataworld/gardening_hint/split_to	/m/05148p4
+  Keyboard -> [/dataworld/gardening_hint/split_to] -> Keyboard
+/m/03qbnj	/award/award_category/winners./award/award_honor/ceremony	/m/01bx35
+  Grammy Award for Best Pop Vocal Album -> [/award/award_category/winners./award/award_honor/ceremony] -> 43rd Annual Grammy Awards
+/m/016622	/music/performance_role/track_performances./music/track_contribution/role	/m/0342h
+  Tubular bell -> [/music/performance_role/track_performances./music/track_contribution/role] -> Guitar
+/m/01n8gr	/award/award_nominee/award_nominations./award/award_nomination/award	/m/026mfs
+  Kenny Rogers -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Best Country Collaboration with Vocals
+/m/0342h	/music/performance_role/track_performances./music/track_contribution/role	/m/03bx0bm
+  Guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Lead vocalist-GB
+/m/05r5c	/music/instrument/instrumentalists	/m/0kzy0
+  Piano -> [/music/instrument/instrumentalists] -> Brian Wilson
+/m/0gcs9	/people/person/gender	/m/05zppz
+  Bruce Springsteen -> [/people/person/gender] -> Male
+/m/09c7w0	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	/m/09nqf
+  United States of America -> [/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/01vdm0	/music/instrument/family	/m/05148p4
+  Electronic keyboard -> [/music/instrument/family] -> Keyboard
+/m/03qjg	/music/performance_role/regular_performances./music/group_membership/role	/m/03bx0bm
+  Harmonica -> [/music/performance_role/regular_performances./music/group_membership/role] -> Lead vocalist-GB
+/m/01wgfp6	/music/artist/origin	/m/0dc95
+  MC Hammer -> [/music/artist/origin] -> Oakland
+/m/01cky2	/award/award_category/winners./award/award_honor/award_winner	/m/024qwq
+  Grammy Award for Best R&B Song -> [/award/award_category/winners./award/award_honor/award_winner] -> Rick James
+/m/0l14qv	/music/performance_role/regular_performances./music/group_membership/role	/m/05148p4
+  Synthesizer -> [/music/performance_role/regular_performances./music/group_membership/role] -> Keyboard
+/m/01by1l	/award/award_category/winners./award/award_honor/ceremony	/m/01bx35
+  Grammy Award for Album of the Year -> [/award/award_category/winners./award/award_honor/ceremony] -> 43rd Annual Grammy Awards
+/m/01kph_c	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0c4z8
+  Warren Zevon -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Song of the Year
+/m/02fsn	/music/performance_role/track_performances./music/track_contribution/role	/m/01vdm0
+  Double bass -> [/music/performance_role/track_performances./music/track_contribution/role] -> Electronic keyboard
+/m/02bh8z	/organization/organization/child./organization/organization_relationship/child	/m/03rhqg
+  Warner Music Group -> [/organization/organization/child./organization/organization_relationship/child] -> Warner Bros. Records
+/m/01wgfp6	/award/award_nominee/award_nominations./award/award_nomination/award	/m/02f73b
+  MC Hammer -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> MTV Video Music Award for Best Editing
+/m/02bh8z	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	/m/09nqf
+  Warner Music Group -> [/business/business_operation/operating_income./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/0342h	/music/instrument/instrumentalists	/m/01kph_c
+  Guitar -> [/music/instrument/instrumentalists] -> Warren Zevon
+/m/03qjg	/music/instrument/instrumentalists	/m/02vcp0
+  Harmonica -> [/music/instrument/instrumentalists] -> Kim Carnes
+/m/0395lw	/music/performance_role/track_performances./music/track_contribution/role	/m/01vj9c
+  Bell -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bass
+/m/016cjb	/music/genre/artists	/m/01wgfp6
+  Gospel music -> [/music/genre/artists] -> MC Hammer
+/m/01vj9c	/music/performance_role/regular_performances./music/group_membership/role	/m/013y1f
+  Bass -> [/music/performance_role/regular_performances./music/group_membership/role] -> Organ
+/m/01n8gr	/people/person/nationality	/m/09c7w0
+  Kenny Rogers -> [/people/person/nationality] -> United States of America
+/m/02sp_v	/award/award_category/winners./award/award_honor/award_winner	/m/01wgfp6
+  Grammy Award for Best Music Film -> [/award/award_category/winners./award/award_honor/award_winner] -> MC Hammer
+/m/0kzy0	/people/person/gender	/m/05zppz
+  Brian Wilson -> [/people/person/gender] -> Male
+/m/01cl2y	/music/record_label/artist	/m/024qwq
+  Reprise Records -> [/music/record_label/artist] -> Rick James
+/m/01bx35	/award/award_ceremony/awards_presented./award/award_honor/award_winner	/m/014kyy
+  43rd Annual Grammy Awards -> [/award/award_ceremony/awards_presented./award/award_honor/award_winner] -> Steely Dan
+/m/01fh36	/music/genre/parent_genre	/m/03_d0
+  Jazz fusion -> [/music/genre/parent_genre] -> Jazz
+/m/0g768	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Atlantic Records -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/059rby	/base/aareas/schema/administrative_area/administrative_parent	/m/09c7w0
+  New York -> [/base/aareas/schema/administrative_area/administrative_parent] -> United States of America
+/m/01ckrr	/award/award_category/winners./award/award_honor/award_winner	/m/0kzy0
+  Grammy Award for Best Rock Instrumental Performance -> [/award/award_category/winners./award/award_honor/award_winner] -> Brian Wilson
+/m/01vj9c	/music/performance_role/regular_performances./music/group_membership/role	/m/0l14qv
+  Bass -> [/music/performance_role/regular_performances./music/group_membership/role] -> Synthesizer
+/m/01kph_c	/people/person/gender	/m/05zppz
+  Warren Zevon -> [/people/person/gender] -> Male
+/m/02p2zq	/people/person/profession	/m/09jwl
+  Donald Fagen -> [/people/person/profession] -> Musician-GB
+/m/06by7	/music/genre/artists	/m/014kyy
+  Rock music -> [/music/genre/artists] -> Steely Dan
+/m/05148p4	/music/performance_role/track_performances./music/track_contribution/role	/m/013y1f
+  Keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Organ
+/m/01vj9c	/music/performance_role/track_performances./music/track_contribution/role	/m/018vs
+  Bass -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bass guitar
+/m/03m6t5	/base/americancomedy/celebrity_impressionist/celebrities_impersonated	/m/01n8gr
+  Rich Little -> [/base/americancomedy/celebrity_impressionist/celebrities_impersonated] -> Kenny Rogers
+/m/016622	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/0395lw
+  Tubular bell -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Bell
+/m/02p2zq	/music/group_member/membership./music/group_membership/group	/m/014kyy
+  Donald Fagen -> [/music/group_member/membership./music/group_membership/group] -> Steely Dan
+/m/01wgfp6	/award/award_nominee/award_nominations./award/award_nomination/award	/m/05q8pss
+  MC Hammer -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Razzie Award for Worst Original Song
+/m/016clz	/music/genre/artists	/m/01kph_c
+  Alternative rock -> [/music/genre/artists] -> Warren Zevon
+/m/0c4z8	/award/award_category/winners./award/award_honor/ceremony	/m/056878
+  Grammy Award for Song of the Year -> [/award/award_category/winners./award/award_honor/ceremony] -> 47th Annual Grammy Awards
+/m/01vdm0	/music/performance_role/track_performances./music/track_contribution/role	/m/01vj9c
+  Electronic keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bass
+/m/016jny	/music/genre/parent_genre	/m/06by7
+  Folk rock -> [/music/genre/parent_genre] -> Rock music
+/m/0cx7f	/music/genre/artists	/m/01fl3
+  Art rock -> [/music/genre/artists] -> The Beach Boys
+/m/06by7	/music/genre/artists	/m/0gcs9
+  Rock music -> [/music/genre/artists] -> Bruce Springsteen
+/m/017l96	/music/record_label/artist	/m/02vcp0
+  Capitol Records -> [/music/record_label/artist] -> Kim Carnes
+/m/0mzy7	/location/hud_county_place/place	/m/0mzy7
+  Fresno -> [/location/hud_county_place/place] -> Fresno
+/m/0gt_k	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01by1l
+  Phil Spector -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Album of the Year
+/m/01vj9c	/music/performance_role/track_performances./music/track_contribution/role	/m/0l14qv
+  Bass -> [/music/performance_role/track_performances./music/track_contribution/role] -> Synthesizer
+/m/03rhqg	/music/record_label/artist	/m/01kph_c
+  Warner Bros. Records -> [/music/record_label/artist] -> Warren Zevon
+/m/013y1f	/music/performance_role/track_performances./music/track_contribution/role	/m/01vj9c
+  Organ -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bass
+/m/03qjg	/music/performance_role/regular_performances./music/group_membership/role	/m/05148p4
+  Harmonica -> [/music/performance_role/regular_performances./music/group_membership/role] -> Keyboard
+/m/09c7w0	/location/location/contains	/m/0mzy7
+  United States of America -> [/location/location/contains] -> Fresno
+/m/058kh7	/film/film/country	/m/09c7w0
+  She's Having a Baby -> [/film/film/country] -> United States of America
+/m/0gt_k	/people/person/profession	/m/0nbcg
+  Phil Spector -> [/people/person/profession] -> Songwriter-GB
+/m/0gcs9	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01bgqh
+  Bruce Springsteen -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Record of the Year
+/m/0kzy0	/people/person/profession	/m/016z4k
+  Brian Wilson -> [/people/person/profession] -> Singer-songwriter-GB
+/m/0gt_k	/music/artist/track_contributions./music/track_contribution/role	/m/01vj9c
+  Phil Spector -> [/music/artist/track_contributions./music/track_contribution/role] -> Bass
+/m/02fsn	/music/performance_role/regular_performances./music/group_membership/role	/m/05r5c
+  Double bass -> [/music/performance_role/regular_performances./music/group_membership/role] -> Piano
+/m/0342h	/music/instrument/instrumentalists	/m/01mvjl0
+  Guitar -> [/music/instrument/instrumentalists] -> Walter Becker
+/m/02p2zq	/award/award_winner/awards_won./award/award_honor/award_winner	/m/014kyy
+  Donald Fagen -> [/award/award_winner/awards_won./award/award_honor/award_winner] -> Steely Dan
+/m/0gcs9	/influence/influence_node/influenced_by	/m/0gt_k
+  Bruce Springsteen -> [/influence/influence_node/influenced_by] -> Phil Spector
+/m/01ckcd	/award/award_category/winners./award/award_honor/award_winner	/m/01kph_c
+  Grammy Award for Best Rock Performance by a Duo or Group with Vocal -> [/award/award_category/winners./award/award_honor/award_winner] -> Warren Zevon
+/m/08jyyk	/music/genre/parent_genre	/m/06by7
+  Experimental rock -> [/music/genre/parent_genre] -> Rock music
+/m/06924p	/music/genre/artists	/m/01n8gr
+  Country pop -> [/music/genre/artists] -> Kenny Rogers
+/m/041p3y	/music/record_label/artist	/m/01n8gr
+  United Artists Records -> [/music/record_label/artist] -> Kenny Rogers
+/m/0kzy0	/music/artist/track_contributions./music/track_contribution/role	/m/016622
+  Brian Wilson -> [/music/artist/track_contributions./music/track_contribution/role] -> Tubular bell
+/m/0395lw	/music/performance_role/track_performances./music/track_contribution/role	/m/05148p4
+  Bell -> [/music/performance_role/track_performances./music/track_contribution/role] -> Keyboard
+/m/0gcs9	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Bruce Springsteen -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/02p2zq	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/m/014kyy
+  Donald Fagen -> [/award/award_nominee/award_nominations./award/award_nomination/award_nominee] -> Steely Dan
+/m/01pcj4	/education/educational_institution_campus/educational_institution	/m/01pcj4
+  Bard College -> [/education/educational_institution_campus/educational_institution] -> Bard College
+/m/017l96	/music/record_label/artist	/m/01wgfp6
+  Capitol Records -> [/music/record_label/artist] -> MC Hammer
+/m/016622	/music/performance_role/track_performances./music/track_contribution/role	/m/05r5c
+  Tubular bell -> [/music/performance_role/track_performances./music/track_contribution/role] -> Piano
+/m/01wgfp6	/award/award_nominee/award_nominations./award/award_nomination/award	/m/02f72n
+  MC Hammer -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> MTV Video Music Award for Best Visual Effects
+/m/03qjg	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/03bx0bm
+  Harmonica -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Lead vocalist-GB
+/m/01wgfp6	/award/award_nominee/award_nominations./award/award_nomination/award	/m/03t5b6
+  MC Hammer -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Best Rap Solo Performance
+/m/01vj9c	/music/performance_role/track_performances./music/track_contribution/role	/m/03qjg
+  Bass -> [/music/performance_role/track_performances./music/track_contribution/role] -> Harmonica
+/m/056878	/award/award_ceremony/awards_presented./award/award_honor/award_winner	/m/0kzy0
+  47th Annual Grammy Awards -> [/award/award_ceremony/awards_presented./award/award_honor/award_winner] -> Brian Wilson
+/m/0n85g	/music/record_label/artist	/m/01kph_c
+  Virgin Records -> [/music/record_label/artist] -> Warren Zevon
+/m/02fsn	/music/performance_role/track_performances./music/track_contribution/role	/m/018vs
+  Double bass -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bass guitar
+/m/016622	/music/performance_role/track_performances./music/track_contribution/role	/m/018vs
+  Tubular bell -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bass guitar
+/m/02wh75	/award/award_category/winners./award/award_honor/award_winner	/m/0gcs9
+  Grammy Award for Best Rock Song -> [/award/award_category/winners./award/award_honor/award_winner] -> Bruce Springsteen
+/m/014kyy	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01by1l
+  Steely Dan -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Album of the Year
+/m/0342h	/music/performance_role/regular_performances./music/group_membership/role	/m/02fsn
+  Guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Double bass
+/m/05r5c	/music/performance_role/regular_performances./music/group_membership/role	/m/013y1f
+  Piano -> [/music/performance_role/regular_performances./music/group_membership/role] -> Organ
+/m/09c7w0	/location/location/contains	/m/01pcj4
+  United States of America -> [/location/location/contains] -> Bard College
+/m/05148p4	/music/performance_role/regular_performances./music/group_membership/role	/m/03qjg
+  Keyboard -> [/music/performance_role/regular_performances./music/group_membership/role] -> Harmonica
+/m/02fv3t	/award/award_category/winners./award/award_honor/ceremony	/m/056878
+  Grammy Award for Best Historical Album -> [/award/award_category/winners./award/award_honor/ceremony] -> 47th Annual Grammy Awards
+/m/0kzy0	/people/person/nationality	/m/09c7w0
+  Brian Wilson -> [/people/person/nationality] -> United States of America
+/m/05bt6j	/music/genre/artists	/m/014kyy
+  Pop rock -> [/music/genre/artists] -> Steely Dan
+/m/043g7l	/organization/organization/headquarters./location/mailing_address/state_province_region	/m/059rby
+  Sony Music Entertainment -> [/organization/organization/headquarters./location/mailing_address/state_province_region] -> New York
+/m/01v0sx2	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  U.S.A. for Africa -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/0gcs9	/music/group_member/membership./music/group_membership/role	/m/0l14qv
+  Bruce Springsteen -> [/music/group_member/membership./music/group_membership/role] -> Synthesizer
+/m/0342h	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/0l14qv
+  Guitar -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Synthesizer
+/m/0342h	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/01vj9c
+  Guitar -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Bass
+/m/016622	/music/performance_role/regular_performances./music/group_membership/role	/m/05148p4
+  Tubular bell -> [/music/performance_role/regular_performances./music/group_membership/role] -> Keyboard
+/m/07v64s	/music/genre/parent_genre	/m/06by7
+  Baroque pop -> [/music/genre/parent_genre] -> Rock music
+/m/05r5c	/music/performance_role/track_performances./music/track_contribution/role	/m/013y1f
+  Piano -> [/music/performance_role/track_performances./music/track_contribution/role] -> Organ
+/m/06by7	/music/genre/artists	/m/02vcp0
+  Rock music -> [/music/genre/artists] -> Kim Carnes
+/m/018vs	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/03qjg
+  Bass guitar -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Harmonica
+/m/041rx	/people/ethnicity/people	/m/02p2zq
+  Jewish people -> [/people/ethnicity/people] -> Donald Fagen
+/m/02ddq4	/award/award_category/winners./award/award_honor/ceremony	/m/056878
+  Grammy Award for Best Contemporary Folk Album -> [/award/award_category/winners./award/award_honor/ceremony] -> 47th Annual Grammy Awards
+/m/0gcs9	/award/award_nominee/award_nominations./award/award_nomination/award	/m/02f79n
+  Bruce Springsteen -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> MTV Video Music Award for Best Video from a Film
+/m/02f75t	/award/award_category/winners./award/award_honor/award_winner	/m/01wgfp6
+  MTV Video Music Award for Best Rap Video -> [/award/award_category/winners./award/award_honor/award_winner] -> MC Hammer
+/m/01ckrr	/award/award_category/winners./award/award_honor/ceremony	/m/01bx35
+  Grammy Award for Best Rock Instrumental Performance -> [/award/award_category/winners./award/award_honor/ceremony] -> 43rd Annual Grammy Awards
+/m/01wgfp6	/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency	/m/09nqf
+  MC Hammer -> [/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/09c7w0	/location/location/contains	/m/059rby
+  United States of America -> [/location/location/contains] -> New York
+/m/01_d4	/base/biblioness/bibs_location/country	/m/09c7w0
+  Chicago -> [/base/biblioness/bibs_location/country] -> United States of America
+/m/05148p4	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/018vs
+  Keyboard -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Bass guitar
+/m/030jj7	/music/record_label/artist	/m/01n8gr
+  Curb Records -> [/music/record_label/artist] -> Kenny Rogers
+/m/026036	/organization/organization/headquarters./location/mailing_address/state_province_region	/m/059rby
+  Stuyvesant High School -> [/organization/organization/headquarters./location/mailing_address/state_province_region] -> New York
+/m/0l14qv	/music/performance_role/track_performances./music/track_contribution/role	/m/0342h
+  Synthesizer -> [/music/performance_role/track_performances./music/track_contribution/role] -> Guitar
+/m/05148p4	/music/performance_role/regular_performances./music/group_membership/role	/m/018vs
+  Keyboard -> [/music/performance_role/regular_performances./music/group_membership/role] -> Bass guitar
+/m/0395lw	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/016622
+  Bell -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Tubular bell
+/m/01vdm0	/music/performance_role/track_performances./music/track_contribution/role	/m/0342h
+  Electronic keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Guitar
+/m/01vj9c	/music/performance_role/track_performances./music/track_contribution/role	/m/0395lw
+  Bass -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bell
+/m/064t9	/music/genre/artists	/m/01wgfp6
+  Pop music -> [/music/genre/artists] -> MC Hammer
+/m/01n2m6	/music/record_label/artist	/m/01wgfp6
+  Death Row Records -> [/music/record_label/artist] -> MC Hammer
+/m/03bx0bm	/music/performance_role/regular_performances./music/group_membership/role	/m/02fsn
+  Lead vocalist-GB -> [/music/performance_role/regular_performances./music/group_membership/role] -> Double bass
+/m/011k1h	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	/m/09c7w0
+  EMI -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location] -> United States of America
+/m/01ckrr	/award/award_category/winners./award/award_honor/ceremony	/m/056878
+  Grammy Award for Best Rock Instrumental Performance -> [/award/award_category/winners./award/award_honor/ceremony] -> 47th Annual Grammy Awards
+/m/02v3yy	/people/person/places_lived./people/place_lived/location	/m/02_286
+  Carole Bayer Sager -> [/people/person/places_lived./people/place_lived/location] -> New York City
+/m/0gcs9	/music/artist/track_contributions./music/track_contribution/role	/m/01vj9c
+  Bruce Springsteen -> [/music/artist/track_contributions./music/track_contribution/role] -> Bass
+/m/03bww6	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/m/01wgfp6
+  The Surreal Life -> [/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor] -> MC Hammer
+/m/01pcj4	/education/educational_institution/students_graduates./education/education/student	/m/01mvjl0
+  Bard College -> [/education/educational_institution/students_graduates./education/education/student] -> Walter Becker
+/m/01cl2y	/music/record_label/artist	/m/0kzy0
+  Reprise Records -> [/music/record_label/artist] -> Brian Wilson
+/m/0gcs9	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0c4z8
+  Bruce Springsteen -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Song of the Year
+/m/01mvjl0	/award/award_winner/awards_won./award/award_honor/award_winner	/m/014kyy
+  Walter Becker -> [/award/award_winner/awards_won./award/award_honor/award_winner] -> Steely Dan
+/m/06by7	/music/genre/artists	/m/024qwq
+  Rock music -> [/music/genre/artists] -> Rick James
+/m/0fnpj	/people/profession/specialization_of	/m/09jwl
+  Keyboard player-GB -> [/people/profession/specialization_of] -> Musician-GB
+/m/01by1l	/award/award_category/winners./award/award_honor/award_winner	/m/014kyy
+  Grammy Award for Album of the Year -> [/award/award_category/winners./award/award_honor/award_winner] -> Steely Dan
+/m/02sp_v	/award/award_category/winners./award/award_honor/ceremony	/m/01bx35
+  Grammy Award for Best Music Film -> [/award/award_category/winners./award/award_honor/ceremony] -> 43rd Annual Grammy Awards
+/m/018gqj	/award/award_winner/awards_won./award/award_honor/award_winner	/m/02v3yy
+  Burt Bacharach -> [/award/award_winner/awards_won./award/award_honor/award_winner] -> Carole Bayer Sager
+/m/0gcs9	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01c92g
+  Bruce Springsteen -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Best Male Pop Vocal Performance
+/m/013y1f	/music/performance_role/regular_performances./music/group_membership/role	/m/0342h
+  Organ -> [/music/performance_role/regular_performances./music/group_membership/role] -> Guitar
+/m/01wgfp6	/people/person/spouse_s./people/marriage/type_of_union	/m/04ztj
+  MC Hammer -> [/people/person/spouse_s./people/marriage/type_of_union] -> Marriage
+/m/05148p4	/music/performance_role/regular_performances./music/group_membership/role	/m/02fsn
+  Keyboard -> [/music/performance_role/regular_performances./music/group_membership/role] -> Double bass
+/m/05cl8y	/organization/organization/headquarters./location/mailing_address/citytown	/m/02_286
+  Koch Entertainment -> [/organization/organization/headquarters./location/mailing_address/citytown] -> New York City
+/m/02fsn	/music/performance_role/track_performances./music/track_contribution/role	/m/05r5c
+  Double bass -> [/music/performance_role/track_performances./music/track_contribution/role] -> Piano
+/m/01pcj4	/education/educational_institution/students_graduates./education/education/student	/m/02p2zq
+  Bard College -> [/education/educational_institution/students_graduates./education/education/student] -> Donald Fagen
+/m/0l14qv	/music/performance_role/regular_performances./music/group_membership/role	/m/03qjg
+  Synthesizer -> [/music/performance_role/regular_performances./music/group_membership/role] -> Harmonica
+/m/02fsn	/music/instrument/family	/m/01vj9c
+  Double bass -> [/music/instrument/family] -> Bass
+/m/0342h	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/03qjg
+  Guitar -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Harmonica
+/m/05r5c	/music/performance_role/track_performances./music/track_contribution/role	/m/05148p4
+  Piano -> [/music/performance_role/track_performances./music/track_contribution/role] -> Keyboard
+/m/01by1l	/award/award_category/winners./award/award_honor/award_winner	/m/02p2zq
+  Grammy Award for Album of the Year -> [/award/award_category/winners./award/award_honor/award_winner] -> Donald Fagen
+/m/0395lw	/music/performance_role/track_performances./music/track_contribution/role	/m/018vs
+  Bell -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bass guitar
+/m/0mhfr	/music/genre/parent_genre	/m/01lyv
+  Country rock -> [/music/genre/parent_genre] -> Country
+/m/0gcs9	/award/award_nominee/award_nominations./award/award_nomination/award	/m/054ks3
+  Bruce Springsteen -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Golden Globe Award for Best Original Song
+/m/03qjg	/music/performance_role/regular_performances./music/group_membership/role	/m/0342h
+  Harmonica -> [/music/performance_role/regular_performances./music/group_membership/role] -> Guitar
+/m/0342h	/music/instrument/instrumentalists	/m/0gt_k
+  Guitar -> [/music/instrument/instrumentalists] -> Phil Spector
+/m/02fsn	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/05r5c
+  Double bass -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Piano
+/m/0ggx5q	/music/genre/artists	/m/01wgfp6
+  Dance music -> [/music/genre/artists] -> MC Hammer
+/m/02wh75	/award/award_category/winners./award/award_honor/ceremony	/m/056878
+  Grammy Award for Best Rock Song -> [/award/award_category/winners./award/award_honor/ceremony] -> 47th Annual Grammy Awards
+/m/01mvjl0	/music/group_member/membership./music/group_membership/role	/m/01vj9c
+  Walter Becker -> [/music/group_member/membership./music/group_membership/role] -> Bass
+/m/0gcs9	/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency	/m/09nqf
+  Bruce Springsteen -> [/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/013y1f	/music/performance_role/track_performances./music/track_contribution/role	/m/03qjg
+  Organ -> [/music/performance_role/track_performances./music/track_contribution/role] -> Harmonica
+/m/01v0sx2	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01by1l
+  U.S.A. for Africa -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Album of the Year
+/m/05bt6j	/music/genre/artists	/m/02p2zq
+  Pop rock -> [/music/genre/artists] -> Donald Fagen
+/m/01by1l	/award/award_category/winners./award/award_honor/award_winner	/m/0gt_k
+  Grammy Award for Album of the Year -> [/award/award_category/winners./award/award_honor/award_winner] -> Phil Spector
+/m/05148p4	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/05r5c
+  Keyboard -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Piano
+/m/0grjmv	/music/genre/artists	/m/0kzy0
+  Psychedelic pop -> [/music/genre/artists] -> Brian Wilson
+/m/016jny	/music/genre/artists	/m/0gcs9
+  Folk rock -> [/music/genre/artists] -> Bruce Springsteen
+/m/01wgfp6	/people/person/profession	/m/067nv
+  MC Hammer -> [/people/person/profession] -> Preacher
+/m/059rby	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	/m/09nqf
+  New York -> [/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/02p2zq	/music/artist/track_contributions./music/track_contribution/role	/m/05r5c
+  Donald Fagen -> [/music/artist/track_contributions./music/track_contribution/role] -> Piano
+/m/05r5c	/music/instrument/family	/m/05148p4
+  Piano -> [/music/instrument/family] -> Keyboard
+/m/02v3yy	/people/person/place_of_birth	/m/02_286
+  Carole Bayer Sager -> [/people/person/place_of_birth] -> New York City
+/m/054ks3	/award/award_category/winners./award/award_honor/award_winner	/m/018gqj
+  Golden Globe Award for Best Original Song -> [/award/award_category/winners./award/award_honor/award_winner] -> Burt Bacharach
+/m/03bx0bm	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/018vs
+  Lead vocalist-GB -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Bass guitar
+/m/02vcp0	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Kim Carnes -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/0gbbt	/people/profession/specialization_of	/m/09jwl
+  Bassist -> [/people/profession/specialization_of] -> Musician-GB
+/m/02v3yy	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/m/01n8gr
+  Carole Bayer Sager -> [/award/award_nominee/award_nominations./award/award_nomination/award_nominee] -> Kenny Rogers
+/m/0gt_k	/music/artist/track_contributions./music/track_contribution/role	/m/05r5c
+  Phil Spector -> [/music/artist/track_contributions./music/track_contribution/role] -> Piano
+/m/01bgqh	/award/award_category/winners./award/award_honor/ceremony	/m/056878
+  Grammy Award for Record of the Year -> [/award/award_category/winners./award/award_honor/ceremony] -> 47th Annual Grammy Awards
+/m/01kph_c	/people/person/profession	/m/016z4k
+  Warren Zevon -> [/people/person/profession] -> Singer-songwriter-GB
+/m/05cl8y	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Koch Entertainment -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/03qjg	/music/performance_role/track_performances./music/track_contribution/role	/m/01vdm0
+  Harmonica -> [/music/performance_role/track_performances./music/track_contribution/role] -> Electronic keyboard
+/m/0gcs9	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01ckcd
+  Bruce Springsteen -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Best Rock Performance by a Duo or Group with Vocal
+/m/0kzy0	/music/artist/track_contributions./music/track_contribution/role	/m/013y1f
+  Brian Wilson -> [/music/artist/track_contributions./music/track_contribution/role] -> Organ
+/m/039v1	/dataworld/gardening_hint/split_to	/m/0342h
+  Guitarist-GB -> [/dataworld/gardening_hint/split_to] -> Guitar
+/m/0gcs9	/award/award_nominee/award_nominations./award/award_nomination/award	/m/02ddq4
+  Bruce Springsteen -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Best Contemporary Folk Album
+/m/09nqf	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  United States Dollar -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/03qjg	/music/performance_role/regular_performances./music/group_membership/role	/m/0l14qv
+  Harmonica -> [/music/performance_role/regular_performances./music/group_membership/role] -> Synthesizer
+/m/01pcj4	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Bard College -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/01wgfp6	/people/person/profession	/m/02hrh1q
+  MC Hammer -> [/people/person/profession] -> Actor-GB
+/m/018gqj	/people/person/gender	/m/05zppz
+  Burt Bacharach -> [/people/person/gender] -> Male
+/m/013y1f	/music/performance_role/track_performances./music/track_contribution/role	/m/0395lw
+  Organ -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bell
+/m/01vj9c	/music/performance_role/regular_performances./music/group_membership/role	/m/01vdm0
+  Bass -> [/music/performance_role/regular_performances./music/group_membership/role] -> Electronic keyboard
+/m/05r5c	/music/performance_role/regular_performances./music/group_membership/role	/m/01vj9c
+  Piano -> [/music/performance_role/regular_performances./music/group_membership/role] -> Bass
+/m/018vs	/music/performance_role/track_performances./music/track_contribution/role	/m/05r5c
+  Bass guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Piano
+/m/0kzy0	/people/person/profession	/m/01b30l
+  Brian Wilson -> [/people/person/profession] -> Organist
+/m/0grjmv	/music/genre/parent_genre	/m/064t9
+  Psychedelic pop -> [/music/genre/parent_genre] -> Pop music
+/m/058kh7	/film/film/personal_appearances./film/personal_film_appearance/person	/m/01kph_c
+  She's Having a Baby -> [/film/film/personal_appearances./film/personal_film_appearance/person] -> Warren Zevon
+/m/03l2n	/location/hud_county_place/place	/m/03l2n
+  Houston -> [/location/hud_county_place/place] -> Houston
+/m/0gcs9	/people/person/spouse_s./people/marriage/type_of_union	/m/04ztj
+  Bruce Springsteen -> [/people/person/spouse_s./people/marriage/type_of_union] -> Marriage
+/m/0395lw	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/0l14qv
+  Bell -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Synthesizer
+/m/018gqj	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/m/01n8gr
+  Burt Bacharach -> [/award/award_nominee/award_nominations./award/award_nomination/award_nominee] -> Kenny Rogers
+/m/03bx0bm	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/05148p4
+  Lead vocalist-GB -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Keyboard
+/m/02fsn	/music/performance_role/regular_performances./music/group_membership/role	/m/0342h
+  Double bass -> [/music/performance_role/regular_performances./music/group_membership/role] -> Guitar
+/m/06by7	/music/genre/artists	/m/0gt_k
+  Rock music -> [/music/genre/artists] -> Phil Spector
+/m/064t9	/music/genre/artists	/m/0gt_k
+  Pop music -> [/music/genre/artists] -> Phil Spector
+/m/0395lw	/music/performance_role/track_performances./music/track_contribution/role	/m/0342h
+  Bell -> [/music/performance_role/track_performances./music/track_contribution/role] -> Guitar
+/m/01n8gr	/music/group_member/membership./music/group_membership/role	/m/03bx0bm
+  Kenny Rogers -> [/music/group_member/membership./music/group_membership/role] -> Lead vocalist-GB
+/m/01vj9c	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/0342h
+  Bass -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Guitar
+/m/05r5c	/music/performance_role/regular_performances./music/group_membership/role	/m/018vs
+  Piano -> [/music/performance_role/regular_performances./music/group_membership/role] -> Bass guitar
+/m/01mvjl0	/people/person/place_of_birth	/m/02_286
+  Walter Becker -> [/people/person/place_of_birth] -> New York City
+/m/02v3yy	/award/award_nominee/award_nominations./award/award_nomination/award	/m/0c4z8
+  Carole Bayer Sager -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Song of the Year
+/m/09c7w0	/location/location/contains	/m/030qb3t
+  United States of America -> [/location/location/contains] -> Los Angeles
+/m/05148p4	/music/performance_role/track_performances./music/track_contribution/role	/m/05r5c
+  Keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Piano
+/m/0xhtw	/music/genre/artists	/m/01kph_c
+  Hard rock -> [/music/genre/artists] -> Warren Zevon
+/m/0grjmv	/music/genre/parent_genre	/m/06by7
+  Psychedelic pop -> [/music/genre/parent_genre] -> Rock music
+/m/013y1f	/music/performance_role/track_performances./music/track_contribution/role	/m/018vs
+  Organ -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bass guitar
+/m/01lyv	/music/genre/artists	/m/01kph_c
+  Country -> [/music/genre/artists] -> Warren Zevon
+/m/0kzy0	/award/award_nominee/award_nominations./award/award_nomination/award	/m/03qbnj
+  Brian Wilson -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Best Pop Vocal Album
+/m/01mvjl0	/people/person/gender	/m/05zppz
+  Walter Becker -> [/people/person/gender] -> Male
+/m/01n8gr	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/m/02v3yy
+  Kenny Rogers -> [/award/award_nominee/award_nominations./award/award_nomination/award_nominee] -> Carole Bayer Sager
+/m/0l14qv	/music/performance_role/track_performances./music/track_contribution/role	/m/03bx0bm
+  Synthesizer -> [/music/performance_role/track_performances./music/track_contribution/role] -> Lead vocalist-GB
+/m/02v3yy	/people/person/spouse_s./people/marriage/type_of_union	/m/04ztj
+  Carole Bayer Sager -> [/people/person/spouse_s./people/marriage/type_of_union] -> Marriage
+/m/018vs	/music/instrument/family	/m/01vj9c
+  Bass guitar -> [/music/instrument/family] -> Bass
+/m/018vs	/music/performance_role/regular_performances./music/group_membership/role	/m/05148p4
+  Bass guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Keyboard
+/m/01n8gr	/music/group_member/membership./music/group_membership/group	/m/01v0sx2
+  Kenny Rogers -> [/music/group_member/membership./music/group_membership/group] -> U.S.A. for Africa
+/m/0gcs9	/award/award_nominee/award_nominations./award/award_nomination/award	/m/02f73b
+  Bruce Springsteen -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> MTV Video Music Award for Best Editing
+/m/02v3yy	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/m/018gqj
+  Carole Bayer Sager -> [/award/award_nominee/award_nominations./award/award_nomination/award_nominee] -> Burt Bacharach
+/m/0395lw	/music/performance_role/track_performances./music/track_contribution/role	/m/01vdm0
+  Bell -> [/music/performance_role/track_performances./music/track_contribution/role] -> Electronic keyboard
+/m/01mvjl0	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/m/014kyy
+  Walter Becker -> [/award/award_nominee/award_nominations./award/award_nomination/award_nominee] -> Steely Dan
+/m/01wgfp6	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01bgqh
+  MC Hammer -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Record of the Year
+/m/03bx0bm	/music/performance_role/regular_performances./music/group_membership/role	/m/05148p4
+  Lead vocalist-GB -> [/music/performance_role/regular_performances./music/group_membership/role] -> Keyboard
+/m/0gcs9	/music/artist/track_contributions./music/track_contribution/role	/m/03qjg
+  Bruce Springsteen -> [/music/artist/track_contributions./music/track_contribution/role] -> Harmonica
+/m/064t9	/music/genre/artists	/m/01fl3
+  Pop music -> [/music/genre/artists] -> The Beach Boys
+/m/03bx0bm	/music/performance_role/track_performances./music/track_contribution/role	/m/0342h
+  Lead vocalist-GB -> [/music/performance_role/track_performances./music/track_contribution/role] -> Guitar
+/m/02p2zq	/music/artist/track_contributions./music/track_contribution/role	/m/0l14qv
+  Donald Fagen -> [/music/artist/track_contributions./music/track_contribution/role] -> Synthesizer
+/m/018vs	/music/performance_role/track_performances./music/track_contribution/role	/m/01vj9c
+  Bass guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bass
+/m/01n8gr	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01c9jp
+  Kenny Rogers -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Best Pop Performance by a Duo or Group with Vocal
+/m/01pcj4	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	/m/09nqf
+  Bard College -> [/education/university/domestic_tuition./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/017l96	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Capitol Records -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/02yv6b	/music/genre/artists	/m/0gcs9
+  Blues-rock -> [/music/genre/artists] -> Bruce Springsteen
+/m/01pcj4	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	/m/09nqf
+  Bard College -> [/business/business_operation/operating_income./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/064t9	/music/genre/artists	/m/0kzy0
+  Pop music -> [/music/genre/artists] -> Brian Wilson
+/m/0342h	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/05148p4
+  Guitar -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Keyboard
+/m/01vj9c	/music/performance_role/track_performances./music/track_contribution/role	/m/016622
+  Bass -> [/music/performance_role/track_performances./music/track_contribution/role] -> Tubular bell
+/m/0dc95	/base/biblioness/bibs_location/country	/m/09c7w0
+  Oakland -> [/base/biblioness/bibs_location/country] -> United States of America
+/m/0x67	/people/ethnicity/geographic_distribution	/m/09c7w0
+  African American -> [/people/ethnicity/geographic_distribution] -> United States of America
+/m/018vs	/music/performance_role/regular_performances./music/group_membership/role	/m/013y1f
+  Bass guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Organ
+/m/03bx0bm	/music/performance_role/track_performances./music/track_contribution/role	/m/018vs
+  Lead vocalist-GB -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bass guitar
+/m/0kzy0	/music/artist/track_contributions./music/track_contribution/role	/m/01vdm0
+  Brian Wilson -> [/music/artist/track_contributions./music/track_contribution/role] -> Electronic keyboard
+/m/02y21l	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Sire Records -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/01mvjl0	/music/artist/origin	/m/0ccvx
+  Walter Becker -> [/music/artist/origin] -> Queens
+/m/0xhtw	/music/genre/parent_genre	/m/06by7
+  Hard rock -> [/music/genre/parent_genre] -> Rock music
+/m/0l14qv	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/013y1f
+  Synthesizer -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Organ
+/m/0glt670	/music/genre/artists	/m/01wgfp6
+  Hip hop music -> [/music/genre/artists] -> MC Hammer
+/m/01ckcd	/award/award_category/winners./award/award_honor/ceremony	/m/01bx35
+  Grammy Award for Best Rock Performance by a Duo or Group with Vocal -> [/award/award_category/winners./award/award_honor/ceremony] -> 43rd Annual Grammy Awards
+/m/0342h	/music/performance_role/track_performances./music/track_contribution/role	/m/03qjg
+  Guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Harmonica
+/m/09c7w0	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	/m/09nqf
+  United States of America -> [/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/01wgfp6	/people/person/profession	/m/09jwl
+  MC Hammer -> [/people/person/profession] -> Musician-GB
+/m/03bx0bm	/music/performance_role/track_performances./music/track_contribution/role	/m/05r5c
+  Lead vocalist-GB -> [/music/performance_role/track_performances./music/track_contribution/role] -> Piano
+/m/0mhfr	/music/genre/artists	/m/01kph_c
+  Country rock -> [/music/genre/artists] -> Warren Zevon
+/m/05r5c	/music/performance_role/regular_performances./music/group_membership/role	/m/05148p4
+  Piano -> [/music/performance_role/regular_performances./music/group_membership/role] -> Keyboard
+/m/0395lw	/music/performance_role/track_performances./music/track_contribution/role	/m/02fsn
+  Bell -> [/music/performance_role/track_performances./music/track_contribution/role] -> Double bass
+/m/0l14qv	/music/performance_role/regular_performances./music/group_membership/role	/m/05r5c
+  Synthesizer -> [/music/performance_role/regular_performances./music/group_membership/role] -> Piano
+/m/01kph_c	/people/person/places_lived./people/place_lived/location	/m/0mzy7
+  Warren Zevon -> [/people/person/places_lived./people/place_lived/location] -> Fresno
+/m/013y1f	/music/performance_role/track_performances./music/track_contribution/role	/m/05148p4
+  Organ -> [/music/performance_role/track_performances./music/track_contribution/role] -> Keyboard
+/m/013y1f	/music/performance_role/regular_performances./music/group_membership/role	/m/018vs
+  Organ -> [/music/performance_role/regular_performances./music/group_membership/role] -> Bass guitar
+/m/0342h	/music/performance_role/track_performances./music/track_contribution/role	/m/01vj9c
+  Guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bass
+/m/043g7l	/organization/organization/place_founded	/m/02_286
+  Sony Music Entertainment -> [/organization/organization/place_founded] -> New York City
+/m/01n8gr	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Kenny Rogers -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/05r5c	/music/performance_role/track_performances./music/track_contribution/role	/m/0l14qv
+  Piano -> [/music/performance_role/track_performances./music/track_contribution/role] -> Synthesizer
+/m/03t5b6	/award/award_category/winners./award/award_honor/ceremony	/m/056878
+  Grammy Award for Best Rap Solo Performance -> [/award/award_category/winners./award/award_honor/ceremony] -> 47th Annual Grammy Awards
+/m/0l14qv	/music/performance_role/regular_performances./music/group_membership/role	/m/03bx0bm
+  Synthesizer -> [/music/performance_role/regular_performances./music/group_membership/role] -> Lead vocalist-GB
+/m/01cky2	/award/award_category/winners./award/award_honor/ceremony	/m/01bx35
+  Grammy Award for Best R&B Song -> [/award/award_category/winners./award/award_honor/ceremony] -> 43rd Annual Grammy Awards
+/m/03bx0bm	/music/performance_role/regular_performances./music/group_membership/role	/m/0342h
+  Lead vocalist-GB -> [/music/performance_role/regular_performances./music/group_membership/role] -> Guitar
+/m/02vcp0	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01bgqh
+  Kim Carnes -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Record of the Year
+/m/01cky2	/award/award_category/winners./award/award_honor/ceremony	/m/056878
+  Grammy Award for Best R&B Song -> [/award/award_category/winners./award/award_honor/ceremony] -> 47th Annual Grammy Awards
+/m/02p2zq	/people/person/profession	/m/0nbcg
+  Donald Fagen -> [/people/person/profession] -> Songwriter-GB
+/m/01wgfp6	/award/award_nominee/award_nominations./award/award_nomination/award	/m/02f71y
+  MC Hammer -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> MTV Video Music Award for Best Choreography
+/m/0gcs9	/music/group_member/membership./music/group_membership/role	/m/05r5c
+  Bruce Springsteen -> [/music/group_member/membership./music/group_membership/role] -> Piano
+/m/01n8gr	/people/person/profession	/m/0n1h
+  Kenny Rogers -> [/people/person/profession] -> Artist-GB
+/m/01n8gr	/people/person/gender	/m/05zppz
+  Kenny Rogers -> [/people/person/gender] -> Male
+/m/02f777	/award/award_category/winners./award/award_honor/award_winner	/m/01wgfp6
+  MTV Video Music Award for Best Electronic Dance Music Video -> [/award/award_category/winners./award/award_honor/award_winner] -> MC Hammer
+/m/018vs	/music/performance_role/regular_performances./music/group_membership/role	/m/0l14qv
+  Bass guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Synthesizer
+/m/01vj9c	/music/performance_role/track_performances./music/track_contribution/role	/m/0342h
+  Bass -> [/music/performance_role/track_performances./music/track_contribution/role] -> Guitar
+/m/018vs	/music/instrument/instrumentalists	/m/024qwq
+  Bass guitar -> [/music/instrument/instrumentalists] -> Rick James
+/m/01mvjl0	/people/person/profession	/m/0dz3r
+  Walter Becker -> [/people/person/profession] -> Record producer-GB
+/m/01vj9c	/music/performance_role/regular_performances./music/group_membership/role	/m/018vs
+  Bass -> [/music/performance_role/regular_performances./music/group_membership/role] -> Bass guitar
+/m/02vcp0	/people/person/nationality	/m/09c7w0
+  Kim Carnes -> [/people/person/nationality] -> United States of America
+/m/026mfs	/award/award_category/winners./award/award_honor/award_winner	/m/01n8gr
+  Grammy Award for Best Country Collaboration with Vocals -> [/award/award_category/winners./award/award_honor/award_winner] -> Kenny Rogers
+/m/018vs	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/0l14qv
+  Bass guitar -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Synthesizer
+/m/0342h	/music/performance_role/track_performances./music/track_contribution/role	/m/01vdm0
+  Guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Electronic keyboard
+/m/02ddq4	/award/award_category/winners./award/award_honor/award_winner	/m/0gcs9
+  Grammy Award for Best Contemporary Folk Album -> [/award/award_category/winners./award/award_honor/award_winner] -> Bruce Springsteen
+/m/0kzy0	/people/person/profession	/m/01c72t
+  Brian Wilson -> [/people/person/profession] -> Composer
+/m/05148p4	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/013y1f
+  Keyboard -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Organ
+/m/04ztj	/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	/m/09c7w0
+  Marriage -> [/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony] -> United States of America
+/m/01kph_c	/people/person/places_lived./people/place_lived/location	/m/030qb3t
+  Warren Zevon -> [/people/person/places_lived./people/place_lived/location] -> Los Angeles
+/m/01vdm0	/music/performance_role/regular_performances./music/group_membership/role	/m/03bx0bm
+  Electronic keyboard -> [/music/performance_role/regular_performances./music/group_membership/role] -> Lead vocalist-GB
+/m/01cl2y	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Reprise Records -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/018vs	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/0342h
+  Bass guitar -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Guitar
+/m/01kph_c	/people/person/place_of_birth	/m/01_d4
+  Warren Zevon -> [/people/person/place_of_birth] -> Chicago
+/m/039v1	/people/profession/specialization_of	/m/09jwl
+  Guitarist-GB -> [/people/profession/specialization_of] -> Musician-GB
+/m/03qjg	/music/instrument/instrumentalists	/m/01n8gr
+  Harmonica -> [/music/instrument/instrumentalists] -> Kenny Rogers
+/m/05148p4	/music/performance_role/regular_performances./music/group_membership/role	/m/0l14qv
+  Keyboard -> [/music/performance_role/regular_performances./music/group_membership/role] -> Synthesizer
+/m/05bt6j	/music/genre/parent_genre	/m/06by7
+  Pop rock -> [/music/genre/parent_genre] -> Rock music
+/m/016622	/music/performance_role/track_performances./music/track_contribution/role	/m/01vj9c
+  Tubular bell -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bass
+/m/01mvjl0	/music/group_member/membership./music/group_membership/role	/m/0342h
+  Walter Becker -> [/music/group_member/membership./music/group_membership/role] -> Guitar
+/m/03m6t5	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Rich Little -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/026036	/education/educational_institution/students_graduates./education/education/student	/m/01mvjl0
+  Stuyvesant High School -> [/education/educational_institution/students_graduates./education/education/student] -> Walter Becker
+/m/01kph_c	/music/artist/track_contributions./music/track_contribution/role	/m/013y1f
+  Warren Zevon -> [/music/artist/track_contributions./music/track_contribution/role] -> Organ
+/m/013y1f	/music/performance_role/regular_performances./music/group_membership/role	/m/0l14qv
+  Organ -> [/music/performance_role/regular_performances./music/group_membership/role] -> Synthesizer
+/m/01wgfp6	/people/person/place_of_birth	/m/0dc95
+  MC Hammer -> [/people/person/place_of_birth] -> Oakland
+/m/01n8gr	/people/person/spouse_s./people/marriage/type_of_union	/m/04ztj
+  Kenny Rogers -> [/people/person/spouse_s./people/marriage/type_of_union] -> Marriage
+/m/01wgfp6	/award/award_nominee/award_nominations./award/award_nomination/award	/m/02f6xy
+  MC Hammer -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> MTV Video Music Award for Best Male Video
+/m/02p2zq	/music/artist/track_contributions./music/track_contribution/role	/m/013y1f
+  Donald Fagen -> [/music/artist/track_contributions./music/track_contribution/role] -> Organ
+/m/02p11jq	/music/record_label/artist	/m/02vcp0
+  MCA Records -> [/music/record_label/artist] -> Kim Carnes
+/m/02hrh1q	/dataworld/gardening_hint/split_to	/m/02hrh1q
+  Actor-GB -> [/dataworld/gardening_hint/split_to] -> Actor-GB
+/m/05r5c	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/0l14qv
+  Piano -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Synthesizer
+/m/014kyy	/award/award_nominee/award_nominations./award/award_nomination/award	/m/03qbnj
+  Steely Dan -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Best Pop Vocal Album
+/m/0gcs9	/award/award_winner/awards_won./award/award_honor/award_winner	/m/01kph_c
+  Bruce Springsteen -> [/award/award_winner/awards_won./award/award_honor/award_winner] -> Warren Zevon
+/m/0kzy0	/people/person/languages	/m/02h40lc
+  Brian Wilson -> [/people/person/languages] -> English Language
+/m/03qjg	/music/performance_role/track_performances./music/track_contribution/role	/m/05148p4
+  Harmonica -> [/music/performance_role/track_performances./music/track_contribution/role] -> Keyboard
+/m/0kzy0	/music/group_member/membership./music/group_membership/group	/m/01fl3
+  Brian Wilson -> [/music/group_member/membership./music/group_membership/group] -> The Beach Boys
+/m/01pcj4	/organization/organization/headquarters./location/mailing_address/country	/m/09c7w0
+  Bard College -> [/organization/organization/headquarters./location/mailing_address/country] -> United States of America
+/m/05148p4	/music/performance_role/track_performances./music/track_contribution/role	/m/03qjg
+  Keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Harmonica
+/m/03bx0bm	/music/performance_role/regular_performances./music/group_membership/group	/m/014kyy
+  Lead vocalist-GB -> [/music/performance_role/regular_performances./music/group_membership/group] -> Steely Dan
+/m/02_286	/base/aareas/schema/administrative_area/administrative_parent	/m/059rby
+  New York City -> [/base/aareas/schema/administrative_area/administrative_parent] -> New York
+/m/030qb3t	/base/biblioness/bibs_location/country	/m/09c7w0
+  Los Angeles -> [/base/biblioness/bibs_location/country] -> United States of America
+/m/014kyy	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/m/01mvjl0
+  Steely Dan -> [/award/award_nominee/award_nominations./award/award_nomination/award_nominee] -> Walter Becker
+/m/01dpdh	/award/award_category/winners./award/award_honor/ceremony	/m/056878
+  Grammy Award for Best Male Country Vocal Performance -> [/award/award_category/winners./award/award_honor/ceremony] -> 47th Annual Grammy Awards
+/m/03rhqg	/music/record_label/artist	/m/02p2zq
+  Warner Bros. Records -> [/music/record_label/artist] -> Donald Fagen
+/m/043g7l	/organization/organization/headquarters./location/mailing_address/citytown	/m/02_286
+  Sony Music Entertainment -> [/organization/organization/headquarters./location/mailing_address/citytown] -> New York City
+/m/0gt_k	/people/person/places_lived./people/place_lived/location	/m/02_286
+  Phil Spector -> [/people/person/places_lived./people/place_lived/location] -> New York City
+/m/018gqj	/music/artist/track_contributions./music/track_contribution/role	/m/05r5c
+  Burt Bacharach -> [/music/artist/track_contributions./music/track_contribution/role] -> Piano
+/m/01kph_c	/award/award_nominee/award_nominations./award/award_nomination/award	/m/02wh75
+  Warren Zevon -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Best Rock Song
+/m/05bt6j	/music/genre/artists	/m/01fl3
+  Pop rock -> [/music/genre/artists] -> The Beach Boys
+/m/018vs	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/05r5c
+  Bass guitar -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Piano
+/m/011k1h	/music/record_label/artist	/m/01wgfp6
+  EMI -> [/music/record_label/artist] -> MC Hammer
+/m/01n8gr	/people/person/profession	/m/016z4k
+  Kenny Rogers -> [/people/person/profession] -> Singer-songwriter-GB
+/m/01vdm0	/music/performance_role/track_performances./music/track_contribution/role	/m/03qjg
+  Electronic keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Harmonica
+/m/011k1h	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	/m/02h40lc
+  EMI -> [/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language] -> English Language
+/m/0kzy0	/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency	/m/09nqf
+  Brian Wilson -> [/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency] -> United States Dollar
+/m/018vs	/music/performance_role/regular_performances./music/group_membership/role	/m/05r5c
+  Bass guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Piano
+/m/05148p4	/music/performance_role/regular_performances./music/group_membership/group	/m/014kyy
+  Keyboard -> [/music/performance_role/regular_performances./music/group_membership/group] -> Steely Dan
+/m/01wgfp6	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01cky2
+  MC Hammer -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Best R&B Song
+/m/02sp_v	/award/award_category/winners./award/award_honor/ceremony	/m/056878
+  Grammy Award for Best Music Film -> [/award/award_category/winners./award/award_honor/ceremony] -> 47th Annual Grammy Awards
+/m/059rby	/base/biblioness/bibs_location/country	/m/09c7w0
+  New York -> [/base/biblioness/bibs_location/country] -> United States of America
+/m/02vcp0	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01by1l
+  Kim Carnes -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Album of the Year
+/m/01vdm0	/music/performance_role/track_performances./music/track_contribution/role	/m/016622
+  Electronic keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Tubular bell
+/m/013y1f	/music/performance_role/track_performances./music/track_contribution/role	/m/0342h
+  Organ -> [/music/performance_role/track_performances./music/track_contribution/role] -> Guitar
+/m/018vs	/music/performance_role/regular_performances./music/group_membership/role	/m/01vdm0
+  Bass guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Electronic keyboard
+/m/01wgfp6	/award/award_nominee/award_nominations./award/award_nomination/award	/m/02f79n
+  MC Hammer -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> MTV Video Music Award for Best Video from a Film
+/m/02wh75	/award/award_category/winners./award/award_honor/ceremony	/m/01bx35
+  Grammy Award for Best Rock Song -> [/award/award_category/winners./award/award_honor/ceremony] -> 43rd Annual Grammy Awards
+/m/014kyy	/award/award_winner/awards_won./award/award_honor/award_winner	/m/02p2zq
+  Steely Dan -> [/award/award_winner/awards_won./award/award_honor/award_winner] -> Donald Fagen
+/m/02zn1b	/music/record_label/artist	/m/01mvjl0
+  ABC Records -> [/music/record_label/artist] -> Walter Becker
+/m/018vs	/music/performance_role/track_performances./music/track_contribution/role	/m/0l14qv
+  Bass guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Synthesizer
+/m/05r5c	/music/performance_role/track_performances./music/track_contribution/role	/m/03bx0bm
+  Piano -> [/music/performance_role/track_performances./music/track_contribution/role] -> Lead vocalist-GB
+/m/03qjg	/music/performance_role/track_performances./music/track_contribution/role	/m/0395lw
+  Harmonica -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bell
+/m/059rby	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  New York -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/056252	/music/record_label/artist	/m/01kph_c
+  Giant Records -> [/music/record_label/artist] -> Warren Zevon
+/m/0gt_k	/people/person/nationality	/m/09c7w0
+  Phil Spector -> [/people/person/nationality] -> United States of America
+/m/01fh36	/music/genre/artists	/m/014kyy
+  Jazz fusion -> [/music/genre/artists] -> Steely Dan
+/m/016z4k	/people/profession/specialization_of	/m/09jwl
+  Singer-songwriter-GB -> [/people/profession/specialization_of] -> Musician-GB
+/m/064t9	/music/genre/artists	/m/01v0sx2
+  Pop music -> [/music/genre/artists] -> U.S.A. for Africa
+/m/0395lw	/music/performance_role/regular_performances./music/group_membership/role	/m/018vs
+  Bell -> [/music/performance_role/regular_performances./music/group_membership/role] -> Bass guitar
+/m/0l14qv	/music/performance_role/track_performances./music/track_contribution/role	/m/01vj9c
+  Synthesizer -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bass
+/m/02v3yy	/award/award_winner/awards_won./award/award_honor/award_winner	/m/018gqj
+  Carole Bayer Sager -> [/award/award_winner/awards_won./award/award_honor/award_winner] -> Burt Bacharach
+/m/04ztj	/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	/m/01_d4
+  Marriage -> [/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony] -> Chicago
+/m/05bt6j	/music/genre/artists	/m/01kph_c
+  Pop rock -> [/music/genre/artists] -> Warren Zevon
+/m/064t9	/music/genre/parent_genre	/m/06by7
+  Pop music -> [/music/genre/parent_genre] -> Rock music
+/m/05148p4	/music/performance_role/regular_performances./music/group_membership/role	/m/013y1f
+  Keyboard -> [/music/performance_role/regular_performances./music/group_membership/role] -> Organ
+/m/0dc95	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Oakland -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/0kzy0	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  Brian Wilson -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/06by7	/music/genre/artists	/m/0kzy0
+  Rock music -> [/music/genre/artists] -> Brian Wilson
+/m/03bx0bm	/music/performance_role/regular_performances./music/group_membership/group	/m/01fl3
+  Lead vocalist-GB -> [/music/performance_role/regular_performances./music/group_membership/group] -> The Beach Boys
+/m/0x67	/people/ethnicity/languages_spoken	/m/02h40lc
+  African American -> [/people/ethnicity/languages_spoken] -> English Language
+/m/01lyv	/music/genre/artists	/m/0gcs9
+  Country -> [/music/genre/artists] -> Bruce Springsteen
+/m/05148p4	/music/instrument/instrumentalists	/m/02vcp0
+  Keyboard -> [/music/instrument/instrumentalists] -> Kim Carnes
+/m/0342h	/music/performance_role/track_performances./music/track_contribution/role	/m/013y1f
+  Guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Organ
+/m/02vcp0	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/m/01n8gr
+  Kim Carnes -> [/award/award_nominee/award_nominations./award/award_nomination/award_nominee] -> Kenny Rogers
+/m/0kzy0	/music/group_member/membership./music/group_membership/role	/m/01vj9c
+  Brian Wilson -> [/music/group_member/membership./music/group_membership/role] -> Bass
+/m/024qwq	/people/person/profession	/m/0nbcg
+  Rick James -> [/people/person/profession] -> Songwriter-GB
+/m/0395lw	/music/performance_role/track_performances./music/track_contribution/role	/m/05r5c
+  Bell -> [/music/performance_role/track_performances./music/track_contribution/role] -> Piano
+/m/01lyv	/music/genre/artists	/m/02vcp0
+  Country -> [/music/genre/artists] -> Kim Carnes
+/m/0l14qv	/music/performance_role/track_performances./music/track_contribution/role	/m/013y1f
+  Synthesizer -> [/music/performance_role/track_performances./music/track_contribution/role] -> Organ
+/m/02bh8z	/music/record_label/artist	/m/01n8gr
+  Warner Music Group -> [/music/record_label/artist] -> Kenny Rogers
+/m/0kzy0	/music/artist/track_contributions./music/track_contribution/role	/m/05r5c
+  Brian Wilson -> [/music/artist/track_contributions./music/track_contribution/role] -> Piano
+/m/01vdm0	/music/performance_role/track_performances./music/track_contribution/role	/m/05148p4
+  Electronic keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Keyboard
+/m/05r5c	/music/instrument/instrumentalists	/m/01kph_c
+  Piano -> [/music/instrument/instrumentalists] -> Warren Zevon
+/m/011k1h	/common/topic/webpage./common/webpage/category	/m/08mbj5d
+  EMI -> [/common/topic/webpage./common/webpage/category] -> Official Website
+/m/0342h	/music/performance_role/regular_performances./music/group_membership/role	/m/018vs
+  Guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Bass guitar
+/m/01vj9c	/music/performance_role/regular_performances./music/group_membership/role	/m/03qjg
+  Bass -> [/music/performance_role/regular_performances./music/group_membership/role] -> Harmonica
+/m/064t9	/music/genre/artists	/m/01n8gr
+  Pop music -> [/music/genre/artists] -> Kenny Rogers
+/m/0nbcg	/people/profession/specialization_of	/m/09jwl
+  Songwriter-GB -> [/people/profession/specialization_of] -> Musician-GB
+/m/01fh36	/music/genre/parent_genre	/m/06by7
+  Jazz fusion -> [/music/genre/parent_genre] -> Rock music
+/m/018gqj	/people/person/spouse_s./people/marriage/spouse	/m/02v3yy
+  Burt Bacharach -> [/people/person/spouse_s./people/marriage/spouse] -> Carole Bayer Sager
+/m/016622	/music/performance_role/track_performances./music/track_contribution/role	/m/01vdm0
+  Tubular bell -> [/music/performance_role/track_performances./music/track_contribution/role] -> Electronic keyboard
+/m/0gcs9	/people/person/nationality	/m/09c7w0
+  Bruce Springsteen -> [/people/person/nationality] -> United States of America
+/m/01756d	/music/genre/artists	/m/0kzy0
+  Surf music -> [/music/genre/artists] -> Brian Wilson
+/m/02y21l	/music/record_label/artist	/m/0kzy0
+  Sire Records -> [/music/record_label/artist] -> Brian Wilson
+/m/05148p4	/music/performance_role/track_performances./music/track_contribution/role	/m/0l14qv
+  Keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Synthesizer
+/m/01kph_c	/people/person/spouse_s./people/marriage/type_of_union	/m/04ztj
+  Warren Zevon -> [/people/person/spouse_s./people/marriage/type_of_union] -> Marriage
+/m/01n8gr	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01dpdh
+  Kenny Rogers -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Best Male Country Vocal Performance
+/m/01vj9c	/music/performance_role/regular_performances./music/group_membership/role	/m/05r5c
+  Bass -> [/music/performance_role/regular_performances./music/group_membership/role] -> Piano
+/m/016622	/music/performance_role/regular_performances./music/group_membership/role	/m/05r5c
+  Tubular bell -> [/music/performance_role/regular_performances./music/group_membership/role] -> Piano
+/m/02fsn	/music/performance_role/regular_performances./music/group_membership/role	/m/018vs
+  Double bass -> [/music/performance_role/regular_performances./music/group_membership/role] -> Bass guitar
+/m/03_d0	/music/genre/artists	/m/01n8gr
+  Jazz -> [/music/genre/artists] -> Kenny Rogers
+/m/0342h	/music/performance_role/regular_performances./music/group_membership/group	/m/01fl3
+  Guitar -> [/music/performance_role/regular_performances./music/group_membership/group] -> The Beach Boys
+/m/02_286	/base/biblioness/bibs_location/state	/m/059rby
+  New York City -> [/base/biblioness/bibs_location/state] -> New York
+/m/01vj9c	/music/performance_role/track_performances./music/track_contribution/role	/m/05148p4
+  Bass -> [/music/performance_role/track_performances./music/track_contribution/role] -> Keyboard
+/m/026036	/education/educational_institution_campus/educational_institution	/m/026036
+  Stuyvesant High School -> [/education/educational_institution_campus/educational_institution] -> Stuyvesant High School
+/m/02vcp0	/people/person/profession	/m/09jwl
+  Kim Carnes -> [/people/person/profession] -> Musician-GB
+/m/0l14qv	/music/performance_role/regular_performances./music/group_membership/role	/m/02fsn
+  Synthesizer -> [/music/performance_role/regular_performances./music/group_membership/role] -> Double bass
+/m/0342h	/music/performance_role/regular_performances./music/group_membership/role	/m/03bx0bm
+  Guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Lead vocalist-GB
+/m/01wgfp6	/people/person/places_lived./people/place_lived/location	/m/0dc95
+  MC Hammer -> [/people/person/places_lived./people/place_lived/location] -> Oakland
+/m/018vs	/music/instrument/instrumentalists	/m/01mvjl0
+  Bass guitar -> [/music/instrument/instrumentalists] -> Walter Becker
+/m/05r5c	/music/performance_role/regular_performances./music/group_membership/role	/m/0l14qv
+  Piano -> [/music/performance_role/regular_performances./music/group_membership/role] -> Synthesizer
+/m/02bh8z	/organization/organization/headquarters./location/mailing_address/citytown	/m/02_286
+  Warner Music Group -> [/organization/organization/headquarters./location/mailing_address/citytown] -> New York City
+/m/01kph_c	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01ckcd
+  Warren Zevon -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Best Rock Performance by a Duo or Group with Vocal
+/m/013y1f	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/05148p4
+  Organ -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Keyboard
+/m/043g7l	/music/record_label/artist	/m/0kzy0
+  Sony Music Entertainment -> [/music/record_label/artist] -> Brian Wilson
+/m/09n5t_	/music/genre/artists	/m/01kph_c
+  Americana -> [/music/genre/artists] -> Warren Zevon
+/m/01cl2y	/music/record_label/artist	/m/01mvjl0
+  Reprise Records -> [/music/record_label/artist] -> Walter Becker
+/m/014kyy	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/m/02p2zq
+  Steely Dan -> [/award/award_nominee/award_nominations./award/award_nomination/award_nominee] -> Donald Fagen
+/m/01wgfp6	/award/award_winner/awards_won./award/award_honor/award_winner	/m/024qwq
+  MC Hammer -> [/award/award_winner/awards_won./award/award_honor/award_winner] -> Rick James
+/m/01bx35	/award/award_ceremony/awards_presented./award/award_honor/award_winner	/m/01mvjl0
+  43rd Annual Grammy Awards -> [/award/award_ceremony/awards_presented./award/award_honor/award_winner] -> Walter Becker
+/m/01vdm0	/music/performance_role/track_performances./music/track_contribution/role	/m/013y1f
+  Electronic keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Organ
+/m/0mzy7	/base/biblioness/bibs_location/country	/m/09c7w0
+  Fresno -> [/base/biblioness/bibs_location/country] -> United States of America
+/m/02fsn	/music/performance_role/regular_performances./music/group_membership/role	/m/05148p4
+  Double bass -> [/music/performance_role/regular_performances./music/group_membership/role] -> Keyboard
+/m/01ckcd	/award/award_category/winners./award/award_honor/ceremony	/m/056878
+  Grammy Award for Best Rock Performance by a Duo or Group with Vocal -> [/award/award_category/winners./award/award_honor/ceremony] -> 47th Annual Grammy Awards
+/m/0grjmv	/music/genre/parent_genre	/m/07v64s
+  Psychedelic pop -> [/music/genre/parent_genre] -> Baroque pop
+/m/03qjg	/music/performance_role/track_performances./music/track_contribution/role	/m/0l14qv
+  Harmonica -> [/music/performance_role/track_performances./music/track_contribution/role] -> Synthesizer
+/m/01wgfp6	/award/award_nominee/award_nominations./award/award_nomination/award	/m/02f777
+  MC Hammer -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> MTV Video Music Award for Best Electronic Dance Music Video
+/m/02vcp0	/people/person/profession	/m/016z4k
+  Kim Carnes -> [/people/person/profession] -> Singer-songwriter-GB
+/m/0gcs9	/people/person/profession	/m/016z4k
+  Bruce Springsteen -> [/people/person/profession] -> Singer-songwriter-GB
+/m/03qjg	/music/performance_role/track_performances./music/track_contribution/role	/m/01vj9c
+  Harmonica -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bass
+/m/017l96	/music/record_label/artist	/m/01n8gr
+  Capitol Records -> [/music/record_label/artist] -> Kenny Rogers
+/m/0l14qv	/music/performance_role/track_performances./music/track_contribution/role	/m/05148p4
+  Synthesizer -> [/music/performance_role/track_performances./music/track_contribution/role] -> Keyboard
+/m/03_d0	/music/genre/artists	/m/01mvjl0
+  Jazz -> [/music/genre/artists] -> Walter Becker
+/m/0gcs9	/people/person/profession	/m/09jwl
+  Bruce Springsteen -> [/people/person/profession] -> Musician-GB
+/m/011k1h	/music/record_label/artist	/m/02vcp0
+  EMI -> [/music/record_label/artist] -> Kim Carnes
+/m/02fsn	/music/performance_role/track_performances./music/track_contribution/role	/m/01vj9c
+  Double bass -> [/music/performance_role/track_performances./music/track_contribution/role] -> Bass
+/m/018vs	/music/performance_role/track_performances./music/track_contribution/role	/m/01vdm0
+  Bass guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Electronic keyboard
+/m/018vs	/music/performance_role/regular_performances./music/group_membership/role	/m/02fsn
+  Bass guitar -> [/music/performance_role/regular_performances./music/group_membership/role] -> Double bass
+/m/018gqj	/people/person/nationality	/m/09c7w0
+  Burt Bacharach -> [/people/person/nationality] -> United States of America
+/m/05148p4	/music/performance_role/track_performances./music/track_contribution/role	/m/01vdm0
+  Keyboard -> [/music/performance_role/track_performances./music/track_contribution/role] -> Electronic keyboard
+/m/03mb9	/music/genre/artists	/m/01wgfp6
+  House music -> [/music/genre/artists] -> MC Hammer
+/m/09jwl	/people/profession/specialization_of	/m/0n1h
+  Musician-GB -> [/people/profession/specialization_of] -> Artist-GB
+/m/02p2zq	/award/award_nominee/award_nominations./award/award_nomination/award	/m/01c92g
+  Donald Fagen -> [/award/award_nominee/award_nominations./award/award_nomination/award] -> Grammy Award for Best Male Pop Vocal Performance
+/m/03m6t5	/people/person/nationality	/m/09c7w0
+  Rich Little -> [/people/person/nationality] -> United States of America
+/m/01pcj4	/organization/organization/headquarters./location/mailing_address/state_province_region	/m/059rby
+  Bard College -> [/organization/organization/headquarters./location/mailing_address/state_province_region] -> New York
+/m/03qjg	/music/performance_role/track_performances./music/track_contribution/role	/m/0342h
+  Harmonica -> [/music/performance_role/track_performances./music/track_contribution/role] -> Guitar
+/m/03bx0bm	/music/performance_role/track_performances./music/track_contribution/role	/m/0l14qv
+  Lead vocalist-GB -> [/music/performance_role/track_performances./music/track_contribution/role] -> Synthesizer
+/m/05148p4	/music/performance_role/regular_performances./music/group_membership/role	/m/0342h
+  Keyboard -> [/music/performance_role/regular_performances./music/group_membership/role] -> Guitar
+/m/01by1l	/award/award_category/winners./award/award_honor/award_winner	/m/01mvjl0
+  Grammy Award for Album of the Year -> [/award/award_category/winners./award/award_honor/award_winner] -> Walter Becker
+/m/0g768	/music/record_label/artist	/m/01n8gr
+  Atlantic Records -> [/music/record_label/artist] -> Kenny Rogers
+/m/0mhfr	/music/genre/parent_genre	/m/06by7
+  Country rock -> [/music/genre/parent_genre] -> Rock music
+/m/041rx	/people/ethnicity/people	/m/01kph_c
+  Jewish people -> [/people/ethnicity/people] -> Warren Zevon
+/m/01kph_c	/people/person/profession	/m/0nbcg
+  Warren Zevon -> [/people/person/profession] -> Songwriter-GB
+/m/03bx0bm	/music/performance_role/regular_performances./music/group_membership/role	/m/03qjg
+  Lead vocalist-GB -> [/music/performance_role/regular_performances./music/group_membership/role] -> Harmonica
+/m/01756d	/music/genre/parent_genre	/m/05bt6j
+  Surf music -> [/music/genre/parent_genre] -> Pop rock
+/m/02v3yy	/people/person/nationality	/m/09c7w0
+  Carole Bayer Sager -> [/people/person/nationality] -> United States of America
+/m/0395lw	/music/performance_role/guest_performances./music/recording_contribution/performance_role	/m/013y1f
+  Bell -> [/music/performance_role/guest_performances./music/recording_contribution/performance_role] -> Organ
+/m/018vs	/music/performance_role/track_performances./music/track_contribution/role	/m/013y1f
+  Bass guitar -> [/music/performance_role/track_performances./music/track_contribution/role] -> Organ

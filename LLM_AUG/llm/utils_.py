@@ -5,7 +5,7 @@ def load_relation_entity_types(file_path):
     with open(file_path, 'r', encoding='utf-8') as f:
         return json.load(f)
 
-def get_subgraph_nodes_from_file(entity, sparse_nodes_dir='../sparse_nodes'):
+def get_subgraph_nodes_from_file(entity, sparse_nodes_dir='../sparse_nodes/FB15K-237'):
     """
     从sparse_nodes文件夹中读取指定实体的子图节点
     
@@ -64,7 +64,7 @@ def get_tail_entitys_by_relation(data, relation, entity_id):
         return entity_dict
     
     # 获取entity_id的子图节点
-    subgraph_nodes = get_subgraph_nodes_from_file(entity_id)
+    subgraph_nodes = get_subgraph_nodes_from_file(entity_id, '../sparse_nodes/FB15K-237')
     if not subgraph_nodes:
         print(f"Warning: No subgraph nodes found for entity {entity_id}")
         return entity_dict
@@ -100,7 +100,7 @@ def get_head_entitys_by_relation(data, relation, entity_id):
          relation = '/' + relation  # 在 relation 字符串前加上 / 字符
     
     # 获取entity_id的子图节点
-    subgraph_nodes = get_subgraph_nodes_from_file(entity_id)
+    subgraph_nodes = get_subgraph_nodes_from_file(entity_id, '../sparse_nodes/FB15K-237')
     if not subgraph_nodes:
         print(f"Warning: No subgraph nodes found for entity {entity_id}")
         return entity_dict
@@ -202,7 +202,7 @@ def get_triplets_by_entity(triplets, entity):
     Returns:
         related_triplets: 相关的三元组列表
     """
-    sparse_nodes_dir='../sparse_nodes'
+    sparse_nodes_dir='../sparse_nodes/FB15K-237'
         # 从sparse_nodes文件夹读取对应实体的k跳子图
     import os
     
@@ -288,12 +288,8 @@ print(f"与实体 '{entity}' 相关的三元组（映射到名称）: {mapped_tr
 def convert_triplets_to_natural_language(triplets):
     client = OpenAI(
     # This is the default and can be omitted
-    #api_key="sk-7BKjBWTe16dDJPMhWTRAKPfh1frydPcCAZyp3cIGcbxTNZdU",
-    #base_url="https://xiaoai.plus/v1",
     api_key="sk-3056ef7bf8864448b1694f76a52134c1",
     base_url="https://api.deepseek.com",
-    #base_url="https://open.bigmodel.cn/api/paas/v4/",
-    #api_key="62240b4c5fdadad03787e9dc5e7fd240.ZAkYTBf7UhunTFlj",
     )
     # 构建输入提示
     prompt = "The following are some triplets in a knowledge graph, please convert them into natural language sentences and only return the sentences without any additional information:\n"
@@ -305,8 +301,6 @@ def convert_triplets_to_natural_language(triplets):
             {"role": "user", "content": prompt}
         ],
         model="deepseek-chat",
-        #model="gpt-3.5-turbo",
-        #model="glm-4-flash",
         temperature=0.1
     )
     
