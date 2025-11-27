@@ -1,7 +1,7 @@
 """
-提取2跳子图并统计节点个数
-从train.tsv中提取指定实体为起点的2跳子图
-支持将子图存储到Neo4j数据库
+Extract 2-hop subgraph and count nodes
+Extract 2-hop subgraph starting from specified entity in train.tsv
+Supports storing subgraph to Neo4j database
 """
 
 from collections import defaultdict, deque
@@ -13,7 +13,7 @@ import os
 
 def load_entity_names(entity_file):
     """
-    加载实体ID到名称的映射
+    Load entity ID to name mapping
     """
     entity2name = {}
     print(f"Loading entity names from {entity_file}...")
@@ -22,7 +22,7 @@ def load_entity_names(entity_file):
         for line in f:
             line = line.strip()
             if line:
-                # 使用split分割，限制最多分割1次（处理名称中可能包含空格的情况）
+                # Use split with max split of 1 (handles cases where names may contain spaces)
                 parts = line.split(None, 1)
                 if len(parts) == 2:
                     entity_id, entity_name = parts
@@ -34,11 +34,11 @@ def load_entity_names(entity_file):
 
 def load_train_graph(train_file):
     """
-    加载训练集知识图谱，构建图结构
-    返回邻接表结构和三元组列表
+    Load training knowledge graph and build graph structure
+    Returns adjacency list structure and triplet list
     """
-    graph = defaultdict(set)  # 使用set避免重复边
-    triples = []  # 存储原始三元组
+    graph = defaultdict(set)  # Use set to avoid duplicate edges
+    triples = []  # Store original triplets
     
     print("Loading train graph...")
     with open(train_file, 'r', encoding='utf-8') as f:
@@ -51,10 +51,10 @@ def load_train_graph(train_file):
                 continue
             
             head, relation, tail = parts
-            # 无向图：添加双向边
+            # Undirected graph: add bidirectional edges
             graph[head].add(tail)
             graph[tail].add(head)
-            # 保存原始三元组
+            # Save original triplet
             triples.append((head, relation, tail))
     
     print(f"Graph loaded. Total entities: {len(graph)}, Total triples: {len(triples)}")
@@ -63,10 +63,10 @@ def load_train_graph(train_file):
 
 def load_low_freq_entities(low_freq_file):
     """
-    从低频实体文件中读取实体列表
-    支持两种格式：
-    1. entity\tcount 格式（如 low_frequency_entities_wn18rr.txt）
-    2. 三元组格式（如 low_freq_triplets_in_test.txt）
+    Read entity list from low frequency entity file
+    Supports two formats:
+    1. entity\tcount format (e.g., low_frequency_entities_wn18rr.txt)
+    2. Triplet format (e.g., low_freq_triplets_in_test.txt)
     """
     entities = []
     
@@ -79,11 +79,11 @@ def load_low_freq_entities(low_freq_file):
             parts = line.split('\t')
             
             if len(parts) == 2:
-                # entity\tcount 格式
+                # entity\tcount format
                 entity, count = parts
                 entities.append(entity)
             elif len(parts) == 3:
-                # 三元组格式
+                # Triplet format
                 head, relation, tail = parts
                 if head not in entities:
                     entities.append(head)
@@ -96,13 +96,13 @@ def load_low_freq_entities(low_freq_file):
 
 def extract_2hop_subgraph(graph, triples, start_entity):
     """
-    使用BFS提取从start_entity出发的2跳子图
-    返回子图中所有节点的集合和相关的三元组
+    Extract 2-hop subgraph starting from start_entity using BFS
+    Returns set of all nodes in subgraph and related triplets
     """
     if start_entity not in graph:
         return set(), []
     
-    # BFS遍历
+    # BFS traversal
     visited = set()
     queue = deque([(start_entity, 0)])  # (entity, hop_distance)
     visited.add(start_entity)
@@ -113,19 +113,19 @@ def extract_2hop_subgraph(graph, triples, start_entity):
     while queue:
         current_entity, hop_distance = queue.popleft()
         
-        # 只扩展到2跳
+        # Only expand to 2 hops
         if hop_distance < 2:
-            # 遍历所有邻居
+            # Traverse all neighbors
             for neighbor in graph[current_entity]:
                 if neighbor not in visited:
                     visited.add(neighbor)
                     subgraph_nodes.add(neighbor)
                     queue.append((neighbor, hop_distance + 1))
                 else:
-                    # 即使访问过，只要在2跳内，也要加入子图
+                    # Even if visited, add to subgraph if within 2 hops
                     subgraph_nodes.add(neighbor)
     
-    # 提取子图中的所有三元组
+    # Extract all triplets in subgraph
     subgraph_triples = []
     for head, relation, tail in triples:
         if head in subgraph_nodes and tail in subgraph_nodes:
@@ -136,11 +136,11 @@ def extract_2hop_subgraph(graph, triples, start_entity):
 
 class Neo4jConnector:
     """
-    Neo4j数据库连接器
+    Neo4j database connector
     """
     def __init__(self, uri, user, password, database=None, entity2name=None):
         self.driver = GraphDatabase.driver(uri, auth=(user, password))
-        self.database = database  # 指定数据库名称，None表示使用默认数据库
+        self.database = database  # Specify database name, None means use default database
         self.entity2name = entity2name if entity2name else {}
         if database:
             print(f"Using database: {database}")
@@ -149,34 +149,34 @@ class Neo4jConnector:
         self.driver.close()
     
     def clear_database(self):
-        """清空数据库"""
+        """Clear database"""
         with self.driver.session(database=self.database) as session:
             session.run("MATCH (n) DETACH DELETE n")
             print("Database cleared.")
     
     def create_subgraph(self, nodes, triples):
         """
-        将子图存储到Neo4j
-        nodes: 节点集合
-        triples: 三元组列表 [(head, relation, tail), ...]
+        Store subgraph to Neo4j
+        nodes: Set of nodes
+        triples: List of triplets [(head, relation, tail), ...]
         """
         with self.driver.session(database=self.database) as session:
-            # 创建节点（包含实体ID和实体名称）
+            # Create nodes (including entity ID and entity name)
             print(f"Creating {len(nodes)} nodes...")
             for node in nodes:
-                entity_name = self.entity2name.get(node, node)  # 如果找不到名称，使用ID
+                entity_name = self.entity2name.get(node, node)  # Use ID if name not found
                 session.run(
                     "MERGE (e:Entity {id: $id, name: $name})",
                     id=node, name=entity_name
                 )
             
-            # 创建关系
+            # Create relationships
             print(f"Creating {len(triples)} relationships...")
             batch_size = 1000
             for i in range(0, len(triples), batch_size):
                 batch = triples[i:i + batch_size]
                 for head, relation, tail in batch:
-                    # 使用MERGE确保关系不重复
+                    # Use MERGE to ensure relationships are not duplicated
                     session.run(
                         """
                         MATCH (h:Entity {id: $head})
@@ -193,20 +193,20 @@ class Neo4jConnector:
 
 def extract_and_save_individual_subgraphs(graph, triples, low_freq_file, output_dir, entity2name, k_hop=2):
     """
-    为每个低频实体提取k-hop子图，并保存到单独的文件中
+    Extract k-hop subgraph for each low-frequency entity and save to separate files
     
     Args:
-        graph: 图的邻接表表示
-        triples: 所有三元组列表
-        low_freq_file: 低频实体文件路径
-        output_dir: 输出文件夹路径
-        entity2name: 实体ID到名称的映射
-        k_hop: 子图的跳数（默认2跳）
+        graph: Adjacency list representation of graph
+        triples: List of all triplets
+        low_freq_file: Low frequency entity file path
+        output_dir: Output directory path
+        entity2name: Entity ID to name mapping
+        k_hop: Number of hops for subgraph (default 2 hops)
     """
-    # 加载低频实体
+    # Load low frequency entities
     low_freq_entities = load_low_freq_entities(low_freq_file)
     
-    # 创建输出文件夹
+    # Create output directory
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
         print(f"Created output directory: {output_dir}")
@@ -217,16 +217,16 @@ def extract_and_save_individual_subgraphs(graph, triples, low_freq_file, output_
     processed = 0
     
     for entity in low_freq_entities:
-        # 提取子图
+        # Extract subgraph
         subgraph_nodes, subgraph_triples = extract_khop_subgraph_general(graph, triples, entity, k_hop)
         
-        # 构建输出文件名（使用实体ID）
+        # Build output filename (using entity ID)
         entity_name = entity2name.get(entity, entity)
-        # 清理文件名中的特殊字符
+        # Clean special characters in filename
         safe_entity_id = entity.replace('/', '_').replace('\\', '_')
         output_file = os.path.join(output_dir, f"{safe_entity_id}.txt")
         
-        # 保存子图信息到文件
+        # Save subgraph information to file
         with open(output_file, 'w', encoding='utf-8') as f:
             f.write(f"Entity: {entity}\n")
             f.write(f"Entity Name: {entity_name}\n")
@@ -261,13 +261,13 @@ def extract_and_save_individual_subgraphs(graph, triples, low_freq_file, output_
 
 def extract_khop_subgraph_general(graph, triples, start_entity, k_hop):
     """
-    使用BFS提取从start_entity出发的k-hop子图
-    返回子图中所有节点的集合和相关的三元组
+    Extract k-hop subgraph starting from start_entity using BFS
+    Returns set of all nodes in subgraph and related triplets
     """
     if start_entity not in graph:
         return set(), []
     
-    # BFS遍历
+    # BFS traversal
     visited = set()
     queue = deque([(start_entity, 0)])  # (entity, hop_distance)
     visited.add(start_entity)
@@ -278,19 +278,19 @@ def extract_khop_subgraph_general(graph, triples, start_entity, k_hop):
     while queue:
         current_entity, hop_distance = queue.popleft()
         
-        # 只扩展到k跳
+        # Only expand to k hops
         if hop_distance < k_hop:
-            # 遍历所有邻居
+            # Traverse all neighbors
             for neighbor in graph[current_entity]:
                 if neighbor not in visited:
                     visited.add(neighbor)
                     subgraph_nodes.add(neighbor)
                     queue.append((neighbor, hop_distance + 1))
                 else:
-                    # 即使访问过，只要在k跳内，也要加入子图
+                    # Even if visited, add to subgraph if within k hops
                     subgraph_nodes.add(neighbor)
     
-    # 提取子图中的所有三元组
+    # Extract all triplets in subgraph
     subgraph_triples = []
     for head, relation, tail in triples:
         if head in subgraph_nodes and tail in subgraph_nodes:
@@ -301,12 +301,12 @@ def extract_khop_subgraph_general(graph, triples, start_entity, k_hop):
 
 def batch_extract_subgraphs(graph, triples, low_freq_file, output_file):
     """
-    批量提取低频实体的子图并统计
+    Batch extract subgraphs for low frequency entities and generate statistics
     """
-    # 加载低频实体
+    # Load low frequency entities
     low_freq_entities = load_low_freq_entities(low_freq_file)
     
-    # 对每个实体提取2跳子图并统计
+    # Extract 2-hop subgraph for each entity and generate statistics
     print("\nExtracting 2-hop subgraphs...")
     entity_subgraph_stats = {}
     
@@ -321,7 +321,7 @@ def batch_extract_subgraphs(graph, triples, low_freq_file, output_file):
         if processed % 100 == 0:
             print(f"Processed {processed}/{total_entities} entities...")
     
-    # 保存统计结果
+    # Save statistics results
     print(f"\nSaving results to {output_file}...")
     with open(output_file, 'w', encoding='utf-8') as f:
         f.write("Entity\tSubgraph_Node_Count\n")
@@ -353,7 +353,7 @@ def batch_extract_subgraphs(graph, triples, low_freq_file, output_file):
 
 
 def main():
-    # 解析命令行参数
+    # Parse command line arguments
     parser = argparse.ArgumentParser(description='Extract k-hop subgraph and store to Neo4j')
     parser.add_argument('--train_file', type=str, default='train.tsv', 
                         help='Path to training file')
@@ -388,15 +388,15 @@ def main():
     
     start_time = time.time()
     
-    # 1. 加载知识图谱
+    # 1. Load knowledge graph
     graph, triples = load_train_graph(args.train_file)
     
-    # 2. 加载实体名称映射
+    # 2. Load entity name mapping
     entity2name = load_entity_names(args.entity_name_file)
     
-    # 3. 根据模式选择操作
+    # 3. Select operation based on mode
     if args.entity:
-        # 单实体模式：提取指定实体的子图
+        # Single entity mode: extract subgraph for specified entity
         entity_name = entity2name.get(args.entity, args.entity)
         print(f"\n=== Extracting 2-hop subgraph for entity: {args.entity} ({entity_name}) ===")
         subgraph_nodes, subgraph_triples = extract_2hop_subgraph(graph, triples, args.entity)
@@ -405,13 +405,13 @@ def main():
         print(f"  Nodes: {len(subgraph_nodes)}")
         print(f"  Triples: {len(subgraph_triples)}")
         
-        # 显示前10个节点（带名称）
+        # Display first 10 nodes (with names)
         print(f"\nSample nodes (first 10):")
         for i, node in enumerate(list(subgraph_nodes)[:10]):
             node_name = entity2name.get(node, node)
             print(f"  {i+1}. {node} ({node_name})")
         
-        # 显示前10个三元组（带名称）
+        # Display first 10 triplets (with names)
         print(f"\nSample triples (first 10):")
         for i, (h, r, t) in enumerate(subgraph_triples[:10]):
             h_name = entity2name.get(h, h)
@@ -419,7 +419,7 @@ def main():
             print(f"  {i+1}. ({h}, {r}, {t})")
             print(f"       {h_name} -> [{r}] -> {t_name}")
         
-        # 存储到Neo4j
+        # Store to Neo4j
         if args.store_neo4j:
             print(f"\n=== Storing subgraph to Neo4j ===")
             neo4j_conn = Neo4jConnector(
@@ -436,7 +436,7 @@ def main():
             neo4j_conn.create_subgraph(subgraph_nodes, subgraph_triples)
             neo4j_conn.close()
     else:
-        # 批量模式：根据mode参数选择处理方式
+        # Batch mode: select processing method based on mode parameter
         if args.mode == 'individual':
             print(f"\n=== Individual mode: Extracting {args.k_hop}-hop subgraphs for each entity ===")
             extract_and_save_individual_subgraphs(

@@ -1,9 +1,9 @@
 from collections import defaultdict
 
-# 初始化实体计数器
+# Initialize entity counter
 entity_counter = defaultdict(int)
 
-# 读取所有三元组文件（train/valid/test）
+# Read all triplet files (train/valid/test)
 for file_path in ["./wn18rr/WN18RR/train.tsv"]:
     with open(file_path, 'r') as f:
         for line in f:
@@ -11,23 +11,23 @@ for file_path in ["./wn18rr/WN18RR/train.tsv"]:
             entity_counter[head] += 1
             entity_counter[tail] += 1
 
-# 将实体按出现次数升序排序（低频在前）
+# Sort entities by occurrence count in ascending order (low frequency first)
 sorted_entities = sorted(entity_counter.items(), key=lambda x: x[1])
 
-# 用户输入：需要提取后百分之多少的实体（例如后20%）
-target_percent = 0.001  # 修改此处调整百分比
+# User input: percentage of entities to extract from the tail (e.g., last 20%)
+target_percent = 0.001  # Modify this to adjust percentage
 n_total = len(sorted_entities)
-n_low_freq = int(n_total * target_percent)  # 向下取整
+n_low_freq = int(n_total * target_percent)  # Round down
 
-# 提取后N%的低频实体k
-low_freq_entities = sorted_entities[:n_low_freq]  # 已按升序排列，直接取前n_low_freq个
+# Extract last N% low frequency entities
+low_freq_entities = sorted_entities[:n_low_freq]  # Already sorted in ascending order, take first n_low_freq
 
-# 输出统计信息
-print(f"实体总数: {n_total}")
-print(f"后{target_percent*100:.0f}%实体数量: {n_low_freq}")
-print(f"最低频实体示例: {low_freq_entities[0][0]} (出现次数={low_freq_entities[0][1]})")
+# Output statistics
+print(f"Total entities: {n_total}")
+print(f"Last {target_percent*100:.0f}% entity count: {n_low_freq}")
+print(f"Lowest frequency entity example: {low_freq_entities[0][0]} (occurrence count={low_freq_entities[0][1]})")
 
-# 将结果保存到文件
+# Save results to file
 with open("low_frequency_entities_wn18rr.txt", 'w') as f:
     for entity, count in low_freq_entities:
         f.write(f"{entity}\t{count}\n")

@@ -30,26 +30,26 @@ class CompGATv3(MessagePassing):
         self.w_rel = torch.nn.Linear(in_channels, out_channels).cuda()
         self.w_rel_update = torch.nn.Linear(in_channels, out_channels).cuda()
         
-        # SOTA改进：多头注意力机制
-        self.w_query = torch.nn.Linear(in_channels, out_channels, bias=False).cuda()  # 只用实体嵌入
-        self.w_query_concat = torch.nn.Linear(2*in_channels, out_channels, bias=False).cuda()  # 用于concat版本
+        # Multi-head attention mechanism
+        self.w_query = torch.nn.Linear(in_channels, out_channels, bias=False).cuda()  # Use only entity embedding
+        self.w_query_concat = torch.nn.Linear(2*in_channels, out_channels, bias=False).cuda()  # For concat version
         self.w_key = torch.nn.Linear(in_channels, out_channels, bias=False).cuda()
         #self.w_value = torch.nn.Linear(in_channels, out_channels, bias=False).cuda()
         
-        # 改进的注意力网络
+        # Improved attention network
         self.w_att = torch.nn.Linear(3*in_channels, out_channels).cuda()
         self.a = torch.nn.Linear(out_channels, 1, bias=False).cuda()
         
-        # 关系偏置和门控机制
+        # Relation bias and gating mechanism
         self.rel_bias = torch.nn.Linear(in_channels, 1, bias=False).cuda()
         self.gate = torch.nn.Linear(2*in_channels, 1, bias=False).cuda()
         
-        # Transformer风格的Layer Normalization
+        # Transformer-style Layer Normalization
         #self.layer_norm1 = torch.nn.LayerNorm(out_channels).cuda()
         #self.layer_norm2 = torch.nn.LayerNorm(out_channels).cuda()
         
         # Position-aware attention (for graph structure)
-        #self.pos_enc = torch.nn.Embedding(1000, in_channels).cuda()  # 可调整大小
+        #self.pos_enc = torch.nn.Embedding(1000, in_channels).cuda()  # Adjustable size
         
         # Type Information Propagation components
         self.w_t = torch.nn.Linear(in_channels, out_channels, bias=False).cuda()
@@ -130,7 +130,7 @@ class CompGATv3(MessagePassing):
 
         # Original neighbor aggregation
         in_res = self.propagate(edge_index=edge_index, x=x, edge_type=edge_type, rel_emb=rel_emb, pre_alpha=pre_alpha, r_emb_triple=r_emb_triple)
-        loop_res = self.res_w(x)        # 对应公式 （1）
+        loop_res = self.res_w(x)        
         out = self.drop(in_res) + self.drop(loop_res)
 
         # Type Information Propagation (Optimized version)
@@ -164,13 +164,13 @@ class CompGATv3(MessagePassing):
         out = torch.cat((trans_in, trans_out), dim=0)
         
 
-        # 多头注意力、关系感知、门控机制、层归一化
+        # Multi-head attention, relation-aware, gating mechanism, layer normalization
         
-        # 1. 多头注意力机制 (Multi-Head Attention)
+        # 1. Multi-Head Attention mechanism
         batch_size = x_i.size(0)
         '''
         if r_emb_triple is not None:
-            # 使用concat方法而不是相加
+            # Use concat method instead of addition
             query_input = torch.cat([x_i, r_emb_triple], dim=-1)
             query = self.w_query_concat(query_input).view(batch_size, self.num_heads, self.head_dim)
         else:
@@ -180,35 +180,35 @@ class CompGATv3(MessagePassing):
         #key = self.w_key(x_j).view(batch_size, self.num_heads, self.head_dim)
         #value = self.w_value(x_j).view(batch_size, self.num_heads, self.head_dim)
         
-        # 2. 关系感知的Query-Key调整
+        # 2. Relation-aware Query-Key adjustment
         #rel_emb_projected = self.w_rel(rel_emb).view(batch_size, self.num_heads, self.head_dim)
         
-        # 将关系信息融入key
+        # Integrate relation information into key
         #key_rel = key + rel_emb_projected
         
-        # 3. 缩放点积注意力 (Scaled Dot-Product Attention)
+        # 3. Scaled Dot-Product Attention
         #attention_scores = torch.sum(query * key_rel, dim=-1) / math.sqrt(self.head_dim)  # [batch_size, num_heads]
         
-        # 4. 关系特定偏置
+        # 4. Relation-specific bias
         #rel_bias = self.rel_bias(rel_emb).squeeze(-1)  # [batch_size]
         #attention_scores = attention_scores + rel_bias.unsqueeze(1)  # Broadcasting
         
-        # 5. 传统MLP注意力作为补充
+        # 5. Traditional MLP attention as supplement
         mlp_attention = self.leaky_relu(
             self.w_att(torch.cat((x_i, rel_emb, x_j), dim=1))
         ).cuda()
         mlp_attention = self.a(mlp_attention).squeeze(-1)  # [batch_size]
         #mlp_attention = self.a(mlp_attention).float()
         
-        # 6. 门控机制融合多种注意力
+        # 6. Gating mechanism to fuse multiple attention types
         #gate_input = torch.cat((x_i, x_j), dim=1)
         #gate_weight = torch.sigmoid(self.gate(gate_input)).squeeze(-1)  # [batch_size]
         
-        # 多头注意力平均后与MLP注意力融合
+        # Fuse averaged multi-head attention with MLP attention
         #multi_head_avg = attention_scores.mean(dim=1)  # [batch_size]
         #final_attention = gate_weight * multi_head_avg + (1 - gate_weight) * mlp_attention
         
-        # 7. Softmax归一化
+        # 7. Softmax normalization
         #alpha = softmax(final_attention.unsqueeze(-1), index, ptr, size_i)
         alpha = softmax(mlp_attention, index, ptr, size_i)
         #alpha = softmax(multi_head_avg.unsqueeze(-1), index, ptr, size_i)

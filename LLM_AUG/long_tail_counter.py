@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 def load_dataset_stats(file_path):
-    """加载数据集统计信息"""
+    """Load dataset statistics"""
     entity_counter = defaultdict(int)
     relation_counter = defaultdict(int)
     
@@ -19,19 +19,19 @@ def load_dataset_stats(file_path):
     
     return entity_counts, relation_counts
 
-# 加载两个数据集
+# Load two datasets
 fb15k_entity_counts, fb15k_relation_counts = load_dataset_stats("./fb15k-237/FB15k-237/train.tsv")
 wn18rr_entity_counts, wn18rr_relation_counts = load_dataset_stats("./wn18rr/WN18RR/train.tsv")
 
 
-# 为了兼容后面的代码，保持原有变量名
+# Keep original variable names for backward compatibility
 entity_counts = wn18rr_entity_counts
 relation_counts = wn18rr_relation_counts
 
-# 创建左右两个子图显示长尾分布对比
+# Create two subplots to compare long-tail distribution
 plt.figure(figsize=(15, 6))
 
-# 左图：FB15K-237长尾分布
+# Left plot: FB15K-237 long-tail distribution
 plt.subplot(1, 2, 1)
 sorted_fb15k_entity = sorted(fb15k_entity_counts, reverse=True)
 plt.plot(sorted_fb15k_entity, color='blue', linewidth=2)
@@ -41,7 +41,7 @@ plt.ylabel("Degree (log scale)")
 plt.title("FB15K-237 Entity Degree (Long-Tail Distribution)")
 plt.grid(True, alpha=0.3)
 
-# 右图：WN18RR长尾分布
+# Right plot: WN18RR long-tail distribution
 plt.subplot(1, 2, 2)
 sorted_wn18rr_entity = sorted(wn18rr_entity_counts, reverse=True)
 plt.plot(sorted_wn18rr_entity, color='red', linewidth=2)
@@ -60,7 +60,7 @@ def min_max_normalize(data):
     return (data - min_val) / (max_val - min_val)
 
 def gini_coefficient(counts):
-    # 对数据进行归一化
+    # Normalize data
     normalized_counts = min_max_normalize(counts)
     sorted_counts = np.sort(normalized_counts)
     n = len(sorted_counts)
@@ -74,8 +74,8 @@ def top_n_percentage(counts, n_percent=0.2):
     top_sum = sum(counts_sorted[:n])
     return top_sum / total
 
-# 计算两个数据集的统计指标并显示对比
-print("=== 数据集对比统计 ===")
+# Calculate statistical indicators for both datasets and display comparison
+print("=== Dataset Comparison Statistics ===")
 print("\n--- FB15K-237 ---")
 gini_entity_fb15k = gini_coefficient(fb15k_entity_counts)
 gini_relation_fb15k = gini_coefficient(fb15k_relation_counts)
@@ -87,6 +87,6 @@ print("\n--- WN18RR ---")
 gini_entity = gini_coefficient(entity_counts)
 gini_relation = gini_coefficient(relation_counts)
 print(f"Entity Gini: {gini_entity:.3f}, Relation Gini: {gini_relation:.3f}")
-#指度数占比
+# Degree count percentage
 print(f"Top 80% Entities: {top_n_percentage(entity_counts, 0.8)*100:.1f}%")
 print(f"Top 80% Relations: {top_n_percentage(relation_counts, 0.2)*100:.1f}%")

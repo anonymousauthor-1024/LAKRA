@@ -5,16 +5,16 @@ import requests
 
 def fix_json_format(json_str):
     """
-    尝试修复常见的JSON格式问题
+    Attempt to fix common JSON format issues
     """
     if not json_str:
         return None
     
-    # 移除可能的多余字符
+    # Remove possible extra characters
     json_str = json_str.strip()
     
-    # 处理格式: {"{\"key1\",\"key2\",\"key3\":value}
-    # 这种格式需要转换为: {"(key1,key2,key3)": value}
+    # Handle format: {"{\"key1\",\"key2\",\"key3\":value}
+    # This format needs to be converted to: {"(key1,key2,key3)": value}
     pattern = r'\{\"([^\"]+)\",\"([^\"]+)\",\"([^\"]+)\":(\d+)\}'
     match = re.search(pattern, json_str)
     if match:
@@ -22,7 +22,7 @@ def fix_json_format(json_str):
         fixed_json = f'{{"({key1}, {key2}, {key3})": {value}}}'
         return fixed_json
     
-    # 处理格式: {"key1","key2","key3":value} (缺少外层引号)
+    # Handle format: {"key1","key2","key3":value} (missing outer quotes)
     pattern2 = r'\{\"([^\"]+)\",\"([^\"]+)\",\"([^\"]+)\":(\d+)\}'
     match2 = re.search(pattern2, json_str)
     if match2:
@@ -30,48 +30,48 @@ def fix_json_format(json_str):
         fixed_json = f'{{"({key1}, {key2}, {key3})": {value}}}'
         return fixed_json
     
-    # 处理您提到的具体格式: {"{\"Kandy\",\"/location/administrative_division/first_level_division_of\",\"Sri Lanka\":1}
-    # 这种格式的问题是缺少了外层的引号和右括号
+    # Handle specific format mentioned: {"{\"Kandy\",\"/location/administrative_division/first_level_division_of\",\"Sri Lanka\":1}
+    # The problem with this format is missing outer quotes and right bracket
     pattern3 = r'\{\"([^\"]+)\",\"([^\"]+)\",\"([^\"]+)\":(\d+)\}'
     if re.search(pattern3, json_str):
-        # 尝试找到三个部分：实体1, 关系, 实体2
+        # Try to find three parts: entity1, relation, entity2
         parts = re.findall(r'\"([^\"]+)\"', json_str)
         if len(parts) >= 3:
-            # 找到数字值
+            # Find numeric value
             value_match = re.search(r':(\d+)', json_str)
             if value_match:
                 value = value_match.group(1)
                 fixed_json = f'{{"({parts[0]}, {parts[1]}, {parts[2]})": {value}}}'
                 return fixed_json
     
-    # 处理其他可能的格式问题
+    # Handle other possible format issues
     try:
-        # 尝试替换常见的格式问题
+        # Try to replace common format issues
         fixed = json_str
         
-        # 如果字符串以 { 开始但没有正确结束，尝试添加 }
+        # If string starts with { but doesn't end properly, try adding }
         if fixed.startswith('{') and not fixed.endswith('}'):
             fixed += '}'
         
-        # 修复键名缺少引号的情况
+        # Fix missing quotes for key names
         fixed = re.sub(r'(\w+):', r'"\1":', fixed)
         
-        # 修复值缺少引号的情况（如果值不是数字）
+        # Fix missing quotes for values (if value is not a number)
         fixed = re.sub(r':\s*([^"\d\{\}\[\],\s][^,\}\]]*)', r': "\1"', fixed)
         
-        # 验证修复后的JSON是否有效
+        # Verify if fixed JSON is valid
         json.loads(fixed)
         return fixed
     except:
         pass
     
-    # 如果都无法修复，返回None
+    # If unable to fix, return None
     return None
 
 def get_possible_relations(entity_name, entity_desc, related_triplets, nl, candidate_relations, example_triplets):
     client = OpenAI(
     # This is the default and can be omitted
-    api_key="sk-3056ef7bf8864448b1694f76a52134c1",
+    api_key="sk-3056ef7bf8864448b1694f76a521mask",
     base_url="https://api.deepseek.com",
     )
 
@@ -116,7 +116,7 @@ def get_possible_relations(entity_name, entity_desc, related_triplets, nl, candi
 def get_possible_relations_tail(entity_name, entity_desc, related_triplets, nl, candidate_relations, example_triplets):
     client = OpenAI(
     # This is the default and can be omitted
-    api_key="sk-3056ef7bf8864448b1694f76a52134c1",
+    api_key="sk-3056ef7bf8864448b1694f76a521mask",
     base_url="https://api.deepseek.com",
     )
 
@@ -161,7 +161,7 @@ def get_possible_relations_tail(entity_name, entity_desc, related_triplets, nl, 
 def get_possible_tail_entity(entity_name, entity_desc, related_triplets, nl, possible_relation, example_triplets, name_list):
     client = OpenAI(
     # This is the default and can be omitted
-    api_key="sk-3056ef7bf8864448b1694f76a52134c1",
+    api_key="sk-3056ef7bf8864448b1694f76a521mask",
     base_url="https://api.deepseek.com",
     )
 
@@ -208,7 +208,7 @@ def get_possible_tail_entity(entity_name, entity_desc, related_triplets, nl, pos
 def get_possible_head_entity(entity_name, entity_desc, related_triplets, nl, possible_relation, example_triplets, name_list):
     client = OpenAI(
     # This is the default and can be omitted
-    api_key="sk-3056ef7bf8864448b1694f76a52134c1",
+    api_key="sk-3056ef7bf8864448b1694f76a521mask",
     base_url="https://api.deepseek.com",
     )
 
@@ -255,13 +255,13 @@ def get_possible_head_entity(entity_name, entity_desc, related_triplets, nl, pos
     return output
 
 
-# 定义文件路径
+# Define file paths
 file_path = 'LLM_AUG/fb15k-237/low_frequency_entities_fb15k237.txt'
 aug_triplet_file = "LLM_AUG/generated_triplets/aug_triplets_tail_fb15k237.txt"
-# 打开文件并逐行读取
+# Open file and read line by line
 with open(file_path, 'r', encoding='utf-8') as file:
     for line in file:
-        parts = line.strip().split('\t')  # 假设文件是以制表符分隔的
+        parts = line.strip().split('\t')  # Assume file is tab-separated
 
         if len(parts) != 5:
             continue
@@ -271,53 +271,53 @@ with open(file_path, 'r', encoding='utf-8') as file:
         entity_name = parts[3]
         entity_desc = parts[4]
 
-        tsv_file_path = 'fb15k-237/FB15k-237/train.tsv'  # 替换为您的文件路径
-        entity_mapping_file_path = 'fb15k-237/FB15k-237/entity2text.txt'  # 替换为您的文件路径
+        tsv_file_path = 'fb15k-237/FB15k-237/train.tsv'  # Replace with your file path
+        entity_mapping_file_path = 'fb15k-237/FB15k-237/entity2text.txt'  # Replace with your file path
 
-        #找到和该稀疏实体相关的三元组
+        # Find triplets related to this sparse entity
         triplets = load_tsv(tsv_file_path)
         entity_mapping = load_entity_mapping(entity_mapping_file_path)
         related_triplets = get_triplets_by_entity(triplets, entity_id)
         mapped_triplets = map_triplets_to_names(related_triplets, entity_mapping)
-        print(f"与实体 '{entity_name}' 相关的三元组（映射到名称）: {mapped_triplets}")
+        print(f"Triplets related to entity '{entity_name}' (mapped to names): {mapped_triplets}")
 
-        #将相关三元组转化为自然语言
+        # Convert related triplets to natural language
         natural_language_output = convert_triplets_to_natural_language(mapped_triplets)
         #print(natural_language_output)
 
-        #找出该实体作为头实体和尾实体可能拥有的关系
-        file_path = 'LLM_AUG/fb15k-237/relation_entity_types.json'  # 替换为您的文件路径
+        # Find possible relations when entity acts as head or tail entity
+        file_path = 'LLM_AUG/fb15k-237/relation_entity_types.json'  # Replace with your file path
         data = load_relation_entity_types(file_path)
         head_relations, tail_relations = get_relations_by_entity_type(data, entity_type)
 
-        print(f"作为头实体 '{entity_type}' 的关系: {head_relations}")
-        print(f"作为尾实体 '{entity_type}' 的关系: {tail_relations}")
+        print(f"Relations for '{entity_type}' as head entity: {head_relations}")
+        print(f"Relations for '{entity_type}' as tail entity: {tail_relations}")
 
-        #给LLM的关系示例，让LLM了解关系
+        # Provide relation examples for LLM to understand relations
         example_triplets = get_triplets_by_relations(triplets, head_relations)
         #example_triplets = get_triplets_by_relations(triplets, tail_relations)
         example_mapped_triplets = map_triplets_to_names(example_triplets, entity_mapping)
-        #当实体作为头实体时的获得到的可能的候选关系
-        #当实体作为尾实体时的获得到的可能的候选关系
+        # Get possible candidate relations when entity acts as head entity
+        # Get possible candidate relations when entity acts as tail entity
         possible_relations = get_possible_relations(entity_name, entity_desc, mapped_triplets, natural_language_output, head_relations, example_mapped_triplets)
-        # 解析 JSON 字符串
+        # Parse JSON string
         try:
             parsed_json = json.loads(possible_relations)
         except json.JSONDecodeError as e:
-            print(f"关系解析JSON错误: {e}")
-            print(f"原始输出: {possible_relations}")
+            print(f"Relation JSON parsing error: {e}")
+            print(f"Original output: {possible_relations}")
             
-            # 尝试修复JSON格式
+            # Try to fix JSON format
             fixed_json = fix_json_format(possible_relations)
             if fixed_json:
                 try:
                     parsed_json = json.loads(fixed_json)
-                    print(f"修复后的JSON: {fixed_json}")
+                    print(f"Fixed JSON: {fixed_json}")
                 except json.JSONDecodeError:
-                    print("关系JSON修复失败，跳过此实体")
+                    print("Failed to fix relation JSON, skipping this entity")
                     continue
             else:
-                print("无法修复关系JSON格式，跳过此实体")
+                print("Unable to fix relation JSON format, skipping this entity")
                 continue
         
         possible_relations_list = list(set(parsed_json.keys()))
@@ -325,17 +325,17 @@ with open(file_path, 'r', encoding='utf-8') as file:
         #possible_relations_list = ["/people/ethnicity/languages_spoken"]
 
         
-        #接下来根据头实体和可能的关系，获取候选尾实体
-        #局限在k跳上下问
-        #首先得到各个关系的候选实体有哪些再让大模型选择合理的
+        # Next, get candidate tail entities based on head entity and possible relations
+        # Constrained within k-hop neighborhood
+        # First get candidate entities for each relation, then let LLM choose reasonable ones
         for possible_relation in possible_relations_list:
-            #可能的尾实体，这里需要做个处理
+            # Possible tail entities, need to process this
             possible_entity_dict = get_tail_entitys_by_relation(data, possible_relation, entity_id)
             #possible_entity_dict = get_head_entitys_by_relation(data, possible_relation)
-            #如果尾实体过多，将尾实体划分，每一份最多500个实体大概5000个tokens
+            # If too many tail entities, divide them, max 500 entities per batch (approximately 5000 tokens)
             count = 0
-            current_names = []  # 用于存储当前的 name 列表
-            sub_lists = []  # 用于存储划分后的子列表
+            current_names = []  # Store current name list
+            sub_lists = []  # Store divided sublists
             for k, v in possible_entity_dict.items():
                 for name, desc in v.items():
                     #if k == "Country" or k == "State":
@@ -346,12 +346,12 @@ with open(file_path, 'r', encoding='utf-8') as file:
                     count += 1
 
                     if count >= 500:
-                        # 将当前的 names 列表添加到子列表中
+                        # Add current names list to sublists
                         sub_lists.append(current_names)
-                        # 重置计数器和当前名称列表
+                        # Reset counter and current name list
                         count = 0
                         current_names = []
-            # 处理剩余的 names
+            # Handle remaining names
             if current_names:
                 sub_lists.append(current_names)
                 
@@ -363,30 +363,30 @@ with open(file_path, 'r', encoding='utf-8') as file:
                 possible_head_entity = get_possible_head_entity(entity_name, entity_desc, mapped_triplets, natural_language_output, possible_relation, mapped_example_possible_triplets, name_list)
                 print(possible_head_entity)
                 
-                # 尝试解析JSON，如果失败则尝试修复格式
+                # Try to parse JSON, if failed then try to fix format
                 try:
                     #complete_triplet = json.loads(possible_tail_entity)
                     complete_triplet = json.loads(possible_head_entity)
                 except json.JSONDecodeError as e:
-                    print(f"JSON解析错误: {e}")
-                    #print(f"原始输出: {possible_tail_entity}")
-                    print(f"原始输出: {possible_head_entity}")
+                    print(f"JSON parsing error: {e}")
+                    #print(f"Original output: {possible_tail_entity}")
+                    print(f"Original output: {possible_head_entity}")
                     
-                    # 尝试修复常见的JSON格式问题
+                    # Try to fix common JSON format issues
                     #fixed_json = fix_json_format(possible_tail_entity)
                     fixed_json = fix_json_format(possible_head_entity)
                     if fixed_json:
                         try:
                             complete_triplet = json.loads(fixed_json)
-                            print(f"修复后的JSON: {fixed_json}")
+                            print(f"Fixed JSON: {fixed_json}")
                         except json.JSONDecodeError:
-                            print("JSON修复失败，跳过此次结果")
+                            print("Failed to fix JSON, skipping this result")
                             continue
                     else:
-                        print("无法修复JSON格式，跳过此次结果")
+                        print("Unable to fix JSON format, skipping this result")
                         continue
                 
-                # 记录complete_triplet到log文件
+                # Log complete_triplet to log file
                 log_file = "LLM_AUG/fb15k-237/complete_triplet_log.txt"
                 with open(log_file, 'a', encoding='utf-8') as log:
                     log.write(f"Entity: {entity_name} ({entity_id})\n")
@@ -405,14 +405,14 @@ with open(file_path, 'r', encoding='utf-8') as file:
         '''
         example_triplets_tail = get_triplets_by_relations(triplets, tail_relations)
         example_mapped_triplets_tail = map_triplets_to_names(example_triplets_tail, entity_mapping)
-        #获取当实体作为尾实体时可能的关系
+        # Get possible relations when entity acts as tail entity
         possible_relations_tail = get_possible_relations_tail(entity_name, entity_desc, mapped_triplets, natural_language_output, tail_relations, example_mapped_triplets_tail)
 
         parsed_json_tail = json.loads(possible_relations_tail)
         possible_relations_list_tail = list(set(parsed_json.keys()))
 
-        #接下来根据尾实体和可能的关系，获取候选头实体
-        #首先得到各个关系的候选实体有哪些再让大模型选择合理的
+        # Next, get candidate head entities based on tail entity and possible relations
+        # First get candidate entities for each relation, then let LLM choose reasonable ones
         for possible_relation in possible_relations_list_tail:
             possible_entity_dict = get_head_entitys_by_relation(data, possible_relation)
             example_possible_triplets = get_some_triplets_by_relation(triplets, possible_relation)

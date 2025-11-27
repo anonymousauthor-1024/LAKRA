@@ -199,7 +199,7 @@ parser.add_argument("--neg_sample", type=int, default=2, help="description for e
 parser.add_argument("--p", type=float, default=1.0, help="training data percentage")
 parser.add_argument("--num_worker", type=int, default=0, help="num workers")
 parser.add_argument("--weight_decay", type=float, default=0, help="num workers")
-parser.add_argument("--checkpoint_path", type=str, default=None, help="测试模式")
+parser.add_argument("--checkpoint_path", type=str, default=None, help="Test mode")
 
 # PRETRAIN_PATH = "/new_temp/fsb/TZX/CLKG/pretrained_emb/WN18RR/"
 # PRETRAIN_PATH = "/data2/whr/tzx/pretrained_emb/
@@ -248,14 +248,14 @@ def main():
             print(f"Error loading model: {e}")
             return
     else:
-        # 执行原有的训练和加载流程
+        # Execute original training and loading process
         print("Model Training begin!")
         cl_trainer.tune(cl_model)
 
         # cl_trainer.fit(cl_model, cl_train_dataloader, valid_dataloader)
         cl_trainer.fit(cl_model, cl_train_dataloader, test_dataloader)
 
-        # 加载训练好的模型
+        # Load trained model
         #dir = './lightning_logs/version_{}/checkpoints'.format(3)
         best_path = './lightning_logs/version_{}/checkpoints/{}'.format(cl_trainer.logger.version, listdir(dir)[0])
         print(f"Loading trained model from: {best_path}")
@@ -268,7 +268,7 @@ def main():
     best_path = './lightning_logs/version_{}/checkpoints/{}'.format(6, listdir(dir)[0])
     best_model = cl_model.load_from_checkpoint(checkpoint_path=best_path, args=args, model=model)
     '''
-    #对这个测试时间进行计时
+    # Time the test duration
     start_time = time()
     cl_trainer.test(best_model, test_dataloader, verbose=True)
     end_time = time()

@@ -7,18 +7,18 @@ def load_relation_entity_types(file_path):
 
 def get_subgraph_nodes_from_file(entity, sparse_nodes_dir='../sparse_nodes/FB15K-237'):
     """
-    从sparse_nodes文件夹中读取指定实体的子图节点
+    Read subgraph nodes for specified entity from sparse_nodes folder
     
     Args:
-        entity: 目标实体ID
-        sparse_nodes_dir: sparse_nodes文件夹路径
+        entity: Target entity ID
+        sparse_nodes_dir: sparse_nodes folder path
     
     Returns:
-        subgraph_nodes: 子图节点ID的集合
+        subgraph_nodes: Set of subgraph node IDs
     """
     import os
     
-    # 构建文件路径（处理实体ID中的特殊字符）
+    # Build file path (handle special characters in entity ID)
     safe_entity_id = entity.replace('/', '_').replace('\\', '_')
     entity_file = os.path.join(os.path.dirname(__file__), sparse_nodes_dir, f"{safe_entity_id}.txt")
     
@@ -26,7 +26,7 @@ def get_subgraph_nodes_from_file(entity, sparse_nodes_dir='../sparse_nodes/FB15K
         print(f"Warning: Entity file not found: {entity_file}")
         return set()
     
-    # 读取文件中的节点
+    # Read nodes from file
     subgraph_nodes = set()
     in_nodes_section = False
     
@@ -34,20 +34,20 @@ def get_subgraph_nodes_from_file(entity, sparse_nodes_dir='../sparse_nodes/FB15K
         for line in f:
             line = line.strip()
             
-            # 检测节点部分的开始
+            # Detect start of nodes section
             if 'Nodes in Subgraph:' in line:
                 in_nodes_section = True
                 continue
             
-            # 检测三元组部分的开始（节点部分结束）
+            # Detect start of triplets section (end of nodes section)
             if 'Triples in Subgraph:' in line:
                 break
             
-            # 跳过分隔线
+            # Skip separator lines
             if line.startswith('='):
                 continue
             
-            # 在节点部分，解析节点
+            # In nodes section, parse nodes
             if in_nodes_section and line:
                 parts = line.split('\t')
                 if len(parts) >= 1:
@@ -60,16 +60,16 @@ def get_tail_entitys_by_relation(data, relation, entity_id):
     candidate_entities_types = []
     entity_dict = {}
     if relation not in data:
-        #relation = '/' + relation  # 在 relation 字符串前加上 / 字符
+        #relation = '/' + relation  # Add / character before relation string
         return entity_dict
     
-    # 获取entity_id的子图节点
+    # Get subgraph nodes for entity_id
     subgraph_nodes = get_subgraph_nodes_from_file(entity_id, '../sparse_nodes/FB15K-237')
     if not subgraph_nodes:
         print(f"Warning: No subgraph nodes found for entity {entity_id}")
         return entity_dict
         
-    #加个10以上的限制
+    # Add constraint of 10 or more
     for type in data[relation]['tail_entity_types']:
         if data[relation]["tail_entity_type_counts"][type] >= 10:
             candidate_entities_types.append(type)
@@ -81,13 +81,13 @@ def get_tail_entitys_by_relation(data, relation, entity_id):
         with open(file_path, 'r', encoding='utf-8') as f:
             for line in f:
                 parts = line.strip().split('\t')
-                if len(parts) >= 4:  # 确保行中有足够的部分
+                if len(parts) >= 4:  # Ensure enough parts in line
                     candidate_entity_id = parts[0]
                     entity_type = parts[1]
                     entity_name = parts[2]
                     entity_desc = parts[3]
                     
-                    # 检查实体类型是否匹配 AND 实体是否在子图节点中
+                    # Check if entity type matches AND entity is in subgraph nodes
                     if entity_type == type and candidate_entity_id in subgraph_nodes:
                         entity_dict[type][entity_name] = entity_desc
     
@@ -97,15 +97,15 @@ def get_head_entitys_by_relation(data, relation, entity_id):
     candidate_entities_types = []
     entity_dict = {}
     if relation not in data:
-         relation = '/' + relation  # 在 relation 字符串前加上 / 字符
+         relation = '/' + relation  # Add / character before relation string
     
-    # 获取entity_id的子图节点
+    # Get subgraph nodes for entity_id
     subgraph_nodes = get_subgraph_nodes_from_file(entity_id, '../sparse_nodes/FB15K-237')
     if not subgraph_nodes:
         print(f"Warning: No subgraph nodes found for entity {entity_id}")
         return entity_dict
     
-    #加个10以上的限制
+    # Add constraint of 10 or more
     for type in data[relation]['head_entity_types']:
         if data[relation]["head_entity_type_counts"][type] >= 10:
             candidate_entities_types.append(type)
@@ -117,13 +117,13 @@ def get_head_entitys_by_relation(data, relation, entity_id):
         with open(file_path, 'r', encoding='utf-8') as f:
             for line in f:
                 parts = line.strip().split('\t')
-                if len(parts) >= 4:  # 确保行中有足够的部分
+                if len(parts) >= 4:  # Ensure enough parts in line
                     candidate_entity_id = parts[0]
                     entity_type = parts[1]
                     entity_name = parts[2]
                     entity_desc = parts[3]
                     
-                    # 检查实体类型是否匹配 AND 实体是否在子图节点中
+                    # Check if entity type matches AND entity is in subgraph nodes
                     if entity_type == type and candidate_entity_id in subgraph_nodes:
                         entity_dict[type][entity_name] = entity_desc
     
@@ -135,18 +135,18 @@ def get_relations_by_entity_type(data, entity_type):
     tail_relations = []
 
     for relation, details in data.items():
-        # 检查头实体类型
-        #防止关系过多，这里增加了一个约束大于10的才加入候选关系
+        # Check head entity type
+        # Prevent too many relations, add constraint to only include candidates greater than 10
         if entity_type in details['head_entity_types'] and details['head_entity_type_counts'][entity_type] > 5:
             head_relations.append(relation)
-        # 检查尾实体类型
+        # Check tail entity type
         if entity_type in details['tail_entity_types'] and details['tail_entity_type_counts'][entity_type] > 5:
             tail_relations.append(relation)
         
     if len(head_relations) < 1:
          for relation, details in data.items():
-            # 检查头实体类型
-            #防止关系过多，这里增加了一个约束大于10的才加入候选关系
+            # Check head entity type
+            # Prevent too many relations, add constraint to only include candidates greater than 10
             if entity_type in details['head_entity_types']:
                 head_relations.append(relation)
 
@@ -158,23 +158,23 @@ def get_relations_by_entity_type(data, entity_type):
     return head_relations, tail_relations
 
 '''
-# 示例调用
-file_path = 'relation_entity_types.json'  # 替换为您的文件路径
+# Example usage
+file_path = 'relation_entity_types.json'  # Replace with your file path
 data = load_relation_entity_types(file_path)
 
-entity_type = 'Concept'  # 替换为您要查询的实体类型
+entity_type = 'Concept'  # Replace with your entity type to query
 head_relations, tail_relations = get_relations_by_entity_type(data, entity_type)
 
-print(f"作为头实体 '{entity_type}' 的关系: {head_relations}")
-print(f"作为尾实体 '{entity_type}' 的关系: {tail_relations}")
+print(f"Relations for '{entity_type}' as head entity: {head_relations}")
+print(f"Relations for '{entity_type}' as tail entity: {tail_relations}")
 '''
 
 def load_tsv(file_path):
     triplets = []
     with open(file_path, 'r', encoding='utf-8') as f:
         for line in f:
-            parts = line.strip().split('\t')  # 假设文件是以制表符分隔的
-            if len(parts) == 3:  # 确保有头实体、关系和尾实体
+            parts = line.strip().split('\t')  # Assume file is tab-separated
+            if len(parts) == 3:  # Ensure head entity, relation and tail entity exist
                 head_entity, relation, tail_entity = parts
                 triplets.append((head_entity, relation, tail_entity))
     return triplets
@@ -183,34 +183,34 @@ def load_entity_mapping(file_path):
     entity_mapping = {}
     with open(file_path, 'r', encoding='utf-8') as f:
         for line in f:
-            parts = line.strip().split('\t')  # 假设文件是以制表符分隔的
-            if len(parts) == 2:  # 确保有编号和名称
+            parts = line.strip().split('\t')  # Assume file is tab-separated
+            if len(parts) == 2:  # Ensure ID and name exist
                 entity_id, entity_name = parts
                 entity_mapping[entity_id] = entity_name
     return entity_mapping
 
 def get_triplets_by_entity(triplets, entity):
     """
-    获取与指定实体相关的三元组
+    Get triplets related to specified entity
     
     Args:
-        triplets: 原始三元组列表（当use_sparse_nodes=False时使用）
-        entity: 目标实体ID
-        use_sparse_nodes: 是否从sparse_nodes文件夹读取k跳子图（默认True）
-        sparse_nodes_dir: sparse_nodes文件夹路径（相对于当前文件的路径）
+        triplets: Original triplet list (used when use_sparse_nodes=False)
+        entity: Target entity ID
+        use_sparse_nodes: Whether to read k-hop subgraph from sparse_nodes folder (default True)
+        sparse_nodes_dir: sparse_nodes folder path (relative to current file)
     
     Returns:
-        related_triplets: 相关的三元组列表
+        related_triplets: List of related triplets
     """
     sparse_nodes_dir='../sparse_nodes/FB15K-237'
-        # 从sparse_nodes文件夹读取对应实体的k跳子图
+        # Read k-hop subgraph for corresponding entity from sparse_nodes folder
     import os
     
-    # 构建文件路径（处理实体ID中的特殊字符）
+    # Build file path (handle special characters in entity ID)
     safe_entity_id = entity.replace('/', '_').replace('\\', '_')
     entity_file = os.path.join(os.path.dirname(__file__), sparse_nodes_dir, f"{safe_entity_id}.txt")
     
-    # 读取文件中的三元组
+    # Read triplets from file
     related_triplets = []
     in_triples_section = False
     
@@ -218,16 +218,16 @@ def get_triplets_by_entity(triplets, entity):
         for line in f:
             line = line.strip()
             
-            # 检测三元组部分的开始
+            # Detect start of triplets section
             if 'Triples in Subgraph:' in line:
                 in_triples_section = True
                 continue
             
-            # 跳过分隔线
+            # Skip separator lines
             if line.startswith('='):
                 continue
             
-            # 在三元组部分，解析三元组
+            # In triplets section, parse triplets
             if in_triples_section and line:
                 parts = line.split('\t')
                 if len(parts) == 3:
@@ -245,7 +245,7 @@ def get_triplets_by_relations(triplets, relations):
         for head_entity, rel, tail_entity in triplets:
             if rel == relation:
                 related_triplets.append((head_entity, rel, tail_entity))
-                break  # 找到一个匹配的三元组后，跳出内层循环
+                break  # After finding one matching triplet, break out of inner loop
 
     return related_triplets
 
@@ -255,7 +255,7 @@ def get_some_triplets_by_relation(triplets, possible_relation):
     related_triplets = []
     count = 0
     for head_entity, relation, tail_entity in triplets:
-        #暂定选5个可能关系的示例三元组
+        # Tentatively select 5 example triplets for possible relations
         if relation == possible_relation and count < 6:
             related_triplets.append((head_entity, relation, tail_entity))
             count = count + 1
@@ -264,25 +264,25 @@ def get_some_triplets_by_relation(triplets, possible_relation):
 def map_triplets_to_names(triplets, entity_mapping):
     mapped_triplets = []
     for head_entity, relation, tail_entity in triplets:
-        head_name = entity_mapping.get(head_entity, head_entity)  # 如果没有找到名称，保留编号
-        tail_name = entity_mapping.get(tail_entity, tail_entity)  # 如果没有找到名称，保留编号
+        head_name = entity_mapping.get(head_entity, head_entity)  # Keep ID if name not found
+        tail_name = entity_mapping.get(tail_entity, tail_entity)  # Keep ID if name not found
         mapped_triplets.append((head_name, relation, tail_name))
     return mapped_triplets
 
 '''
-# 示例调用
-tsv_file_path = 'fb15k-237/FB15k-237/train.tsv'  # 替换为您的文件路径
-entity_mapping_file_path = 'entity2text.txt'  # 替换为您的文件路径
+# Example usage
+tsv_file_path = 'fb15k-237/FB15k-237/train.tsv'  # Replace with your file path
+entity_mapping_file_path = 'entity2text.txt'  # Replace with your file path
 
 triplets = load_tsv(tsv_file_path)
 entity_mapping = load_entity_mapping(entity_mapping_file_path)
 
-entity = '/m/0fbvqf'  # 替换为您要查询的实体
+entity = '/m/0fbvqf'  # Replace with your entity to query
 related_triplets = get_triplets_by_entity(triplets, entity)
 
 mapped_triplets = map_triplets_to_names(related_triplets, entity_mapping)
 
-print(f"与实体 '{entity}' 相关的三元组（映射到名称）: {mapped_triplets}")
+print(f"Triplets related to entity '{entity}' (mapped to names): {mapped_triplets}")
 '''
 
 def convert_triplets_to_natural_language(triplets):
@@ -291,7 +291,7 @@ def convert_triplets_to_natural_language(triplets):
     api_key="sk-3056ef7bf8864448b1694f76a52134c1",
     base_url="https://api.deepseek.com",
     )
-    # 构建输入提示
+    # Build input prompt
     prompt = "The following are some triplets in a knowledge graph, please convert them into natural language sentences and only return the sentences without any additional information:\n"
     for head, relation, tail in triplets:
         prompt += f"({head}, {relation}, {tail})\n"
@@ -304,17 +304,17 @@ def convert_triplets_to_natural_language(triplets):
         temperature=0.1
     )
     
-    # 获取自然语言描述
+    # Get natural language description
     natural_language_output = chat_completion.choices[0].message.content
     return natural_language_output
 
 '''
-# 示例调用
+# Example usage
 triplets = [
     ('/m/0fbvqf', '/award/award_category/winners', '/m/04bd8y'),
     ('/m/017s11', '/award/award_nominee/award_nominations', '/m/02hxhz'),
     ('/m/05b__vr', '/award/award_winner/awards_won', '/m/064nh4k'),
-    # 添加更多三元组...
+    # Add more triplets...
 ]
 
 natural_language_output = convert_triplets_to_natural_language(triplets)

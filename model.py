@@ -186,25 +186,25 @@ class CLKG_compgatv3_convE(nn.Module):
         
         # Add dimension validation and adjustment like in DFconv3D
         if self.ent_h * self.ent_w != self.ent_dim:
-            print(f"警告: ent_h ({self.ent_h}) * ent_w ({self.ent_w}) = {self.ent_h * self.ent_w} 不等于 ent_dim ({self.ent_dim})")
-            print(f"建议的 ent_height 值:")
+            print(f"Warning: ent_h ({self.ent_h}) * ent_w ({self.ent_w}) = {self.ent_h * self.ent_w} does not equal ent_dim ({self.ent_dim})")
+            print(f"Suggested ent_height values:")
         
-            # 找到所有可能的因子分解
+            # Find all possible factorizations
             factors = []
             for h in range(1, int(self.ent_dim**0.5) + 1):
                 if self.ent_dim % h == 0:
                     w = self.ent_dim // h
                     factors.append((h, w))
             
-            print("可选的 (height, width) 组合:")
-            for h, w in factors[-5:]:  # 显示最后5个较大的组合
+            print("Available (height, width) combinations:")
+            for h, w in factors[-5:]:  # Display last 5 larger combinations
                 print(f"  ent_height={h}, ent_width={w}")
             
-            # 使用最接近正方形的分解
+            # Use factorization closest to square
             best_h = factors[-1][0] if factors else args.ent_height
             self.ent_h = best_h
             self.ent_w = self.ent_dim // self.ent_h
-            print(f"自动选择: ent_h={self.ent_h}, ent_w={self.ent_w}")
+            print(f"Auto-selected: ent_h={self.ent_h}, ent_w={self.ent_w}")
         
         # Gaussian mapping parameters - set to ent_dim to avoid dimension mismatch
         #self.num_gaussian_kernels = self.ent_dim
@@ -318,7 +318,7 @@ class CLKG_compgatv3_convE(nn.Module):
             ent_dim_fused = head_fused.shape[1]
             ent_h_fused = ent_dim_fused // self.ent_w
             if ent_h_fused * self.ent_w != ent_dim_fused:
-                print(f"Warning: ent_h_fused ({ent_h_fused}) * ent_w ({self.ent_w}) = {ent_h_fused * self.ent_w} 不等于 ent_dim_fused ({ent_dim_fused})")
+                print(f"Warning: ent_h_fused ({ent_h_fused}) * ent_w ({self.ent_w}) = {ent_h_fused * self.ent_w} does not equal ent_dim_fused ({ent_dim_fused})")
                 # Pad to make it divisible
                 padding = (ent_h_fused + 1) * self.ent_w - ent_dim_fused
                 head_fused = F.pad(head_fused, (0, padding))
@@ -690,25 +690,25 @@ class CLKG_compgatv3_DFconv3D(nn.Module):
 
         
         if self.ent_h * self.ent_w != self.ent_dim:
-            print(f"警告: ent_h ({self.ent_h}) * ent_w ({self.ent_w}) = {self.ent_h * self.ent_w} 不等于 ent_dim ({self.ent_dim})")
-            print(f"建议的 ent_height 值:")
+            print(f"Warning: ent_h ({self.ent_h}) * ent_w ({self.ent_w}) = {self.ent_h * self.ent_w} does not equal ent_dim ({self.ent_dim})")
+            print(f"Suggested ent_height values:")
         
-            # 找到所有可能的因子分解
+            # Find all possible factorizations
             factors = []
             for h in range(1, int(self.ent_dim**0.5) + 1):
                 if self.ent_dim % h == 0:
                     w = self.ent_dim // h
                     factors.append((h, w))
             
-            print("可选的 (height, width) 组合:")
-            for h, w in factors[-5:]:  # 显示最后5个较大的组合
+            print("Available (height, width) combinations:")
+            for h, w in factors[-5:]:  # Display last 5 larger combinations
                 print(f"  ent_height={h}, ent_width={w}")
             
-            # 使用最接近正方形的分解
+            # Use factorization closest to square
             best_h = factors[-1][0] if factors else args.ent_height
             self.ent_h = best_h
             self.ent_w = self.ent_dim // self.ent_h
-            print(f"自动选择: ent_h={self.ent_h}, ent_w={self.ent_w}")
+            print(f"Auto-selected: ent_h={self.ent_h}, ent_w={self.ent_w}")
         
         
         # Gaussian mapping parameters - set to ent_dim to avoid dimension mismatch
@@ -871,7 +871,7 @@ class CLKG_compgatv3_DFconv3D(nn.Module):
         head_gauss_reshaped = self.reshape_for_conv3d(head_emb_gaussian)
         r_orig_reshaped2 = self.reshape_for_conv3d(r_emb)  # Repeat relation for 5-layer structure
           # Stack features along depth dimension: F = stack([ρ(r), ρ(e_s), ρ(r^Φ), ρ(e_s^Φ), ρ(r)], axis=2)
-        # 正确的特征堆叠应该在深度维度进行
+        # Feature stacking should be done along depth dimension
         feature_stack = torch.stack([
             r_orig_reshaped,      # ρ(r)
             head_orig_reshaped,   # ρ(e_s) 

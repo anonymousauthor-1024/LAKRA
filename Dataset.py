@@ -189,18 +189,18 @@ from utils import add_inverse_triples, add_noise
 
 def txt2triples(path, low_freq_threshold=None, low_freq_file_path=None):
     """
-    读取三元组文件，可选择性地过滤低频实体
+    Read triples file, optionally filtering low-frequency entities
     
     Args:
-        path: 三元组文件路径
-        low_freq_threshold: 低频阈值（如传入1，则只选择头或尾实体度数为1的三元组），默认None表示全读
-        low_freq_file_path: 低频实体文件路径（格式：实体id 度数），默认None
+        path: Path to triples file
+        low_freq_threshold: Low-frequency threshold (e.g., if 1 is passed, only select triples where head or tail entity degree is 1), None means read all
+        low_freq_file_path: Path to low-frequency entities file (format: entity_id degree), default None
     
     Returns:
-        data: 完整三元组数据（包含逆关系）
-        src: 头实体
-        rel: 关系
-        dst: 尾实体
+        data: Complete triples data (including inverse relations)
+        src: Head entities
+        rel: Relations
+        dst: Tail entities
     """
     with open(path, 'r') as f:
         data = f.read().split()
@@ -213,36 +213,36 @@ def txt2triples(path, low_freq_threshold=None, low_freq_file_path=None):
         dst = torch.tensor([int(i) for i in dst])
         rel = torch.tensor([int(i) for i in edge_type])
         
-        # 如果指定了低频阈值，进行选择性读取
+        # If low-frequency threshold is specified, perform selective reading
         if low_freq_threshold is not None and low_freq_file_path is not None:
             print(f"Applying low-frequency entity filtering with threshold {low_freq_threshold} using file {low_freq_file_path}")
-            # 加载低频实体文件，构建实体id到度数的映射
+            # Load low-frequency entities file, build entity id to degree mapping
             entity_degree = {}
             with open(low_freq_file_path, 'r') as lf:
                 for line in lf:
-                    parts = line.strip().split('\t')  # 使用制表符分隔
+                    parts = line.strip().split('\t')  # Use tab separator
                     if len(parts) >= 2:
                         entity_id = int(parts[0])
                         degree = int(parts[1])
                         entity_degree[entity_id] = degree
             
-            # 选择性过滤：只保留头实体或尾实体度数等于阈值的三元组
+            # Selective filtering: only keep triples where head or tail entity degree equals threshold
             mask = []
             for i in range(len(src)):
                 head_id = src[i].item()
                 tail_id = dst[i].item()
                 
-                # 检查头实体或尾实体的度数是否等于阈值
+                # Check if head or tail entity degree equals threshold
                 head_degree = entity_degree.get(head_id, 0)
                 tail_degree = entity_degree.get(tail_id, 0)
                 
-                # 如果头或尾实体度数等于阈值，则选中此行（mask=True）
+                # If head or tail entity degree equals threshold, select this row (mask=True)
                 if head_degree == low_freq_threshold or tail_degree == low_freq_threshold:
                     mask.append(True)
                 else:
                     mask.append(False)
             
-            # 应用mask
+            # Apply mask
             mask = torch.tensor(mask, dtype=torch.bool)
             src = src[mask]
             dst = dst[mask]
